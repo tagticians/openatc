@@ -1,6 +1,6 @@
 // World simulation: the clock, weather and runway configuration, and the step loop that ties
 // the systems together. Each system lives in its own module:
-//   spawner.ts    traffic generation (synthetic, scheduled, live adoption)
+//   spawner.ts    traffic generation (synthetic, live adoption)
 //   safety.ts     separation, wake, low altitude, prohibited areas, airprox
 //   ai.ts         AI controllers on the other positions
 //   radioCalls.ts unprompted pilot calls
@@ -13,7 +13,6 @@ import { EventDirector, emergencyBonus } from './events';
 import { GaDirector, isVfr } from './ga';
 import { HemsMissions } from './hems';
 import type { SimPlugin } from './plugin';
-import type { ScheduledFlight } from '../live/schedule';
 import { angDiff, bearing, dist, fixPos, fromBearing, trueToMag, type Vec } from './geo';
 import { runwayGeom, startGoAround, stepAircraft, locGeometry } from './flight';
 import { onGround, type Aircraft, type RadioMsg, type Wind } from './types';
@@ -245,15 +244,6 @@ export class Sim {
   adoptLive(t: LiveTarget, route: LiveRoute) {
     return this.spawner.adoptLive(t, route);
   }
-  loadSchedule(flights: ScheduledFlight[], source: string) {
-    this.spawner.loadSchedule(flights, source);
-  }
-  get schedule() {
-    return this.spawner.schedule;
-  }
-  get scheduleSource() {
-    return this.spawner.scheduleSource;
-  }
 
   // ------------------------------------------------------------ main loop
   start() {
@@ -320,7 +310,7 @@ export class Sim {
     for (const p of this.plugins) p.step?.();
     this.leaveSector();
 
-    // Spawning: the real schedule first, synthetic traffic on top. When the inbound stack is
+    // Spawning synthetic traffic (live ADS-B flights are adopted separately). When the inbound stack is
     // full, the area controller holds traffic upstream (flow control).
     const inbound = this.aircraft.filter((a) => a.kind === 'arr' && a.phase === 'airborne' && !a.approachCleared).length;
     const flowControl = inbound >= APT.stack.maxInbound;
@@ -328,7 +318,6 @@ export class Sim {
     const cap = (perHour: number) => this.time + (perHour > 0 ? 3600 / perHour : 1e9);
     this.nextArr = Math.min(this.nextArr, cap(this.settings.arrivalsPerHour));
     this.nextDep = Math.min(this.nextDep, cap(this.settings.departuresPerHour));
-    if (!flowControl) this.spawner.runSchedule();
     if (this.time >= this.nextArr) {
       if (!flowControl) this.spawnArrival();
       this.nextArr = this.time + (flowControl ? 120 : this.interval(this.settings.arrivalsPerHour));

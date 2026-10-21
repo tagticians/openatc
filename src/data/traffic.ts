@@ -50,7 +50,7 @@ export interface Operator {
   name: string;
   telephony: string;
   types: string[];
-  /** Destinations (ICAO) this operator flies in the synthetic schedule. */
+  /** Destinations (ICAO) this operator flies in synthetic traffic. */
   routes: string[];
   weight: number; // relative share of movements
   numbering: [number, number];

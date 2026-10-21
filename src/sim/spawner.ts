@@ -1,8 +1,7 @@
 // Traffic generation: synthetic arrivals and departures from the airport's traffic mix, the
-// real schedule (AeroDataBox) and live ADS-B flights adopted as controllable traffic.
+// live ADS-B flights adopted as controllable traffic.
 import { APT, ROLE, type Procedure } from '../data/airport';
 import { AIRCRAFT, DESTINATIONS, TELEPHONY, type AircraftType, type Operator } from '../data/traffic';
-import type { ScheduledFlight } from '../live/schedule';
 import type { LiveRoute, LiveTarget } from '../live/adsb';
 import { angDiff, bearing, dist, fixPos, fromBearing, gcBearing, norm360, trueToMag, type Vec } from './geo';
 import { runwayGeom } from './flight';
@@ -11,9 +10,6 @@ import type { Aircraft } from './types';
 
 export class Spawner {
   usedCallsigns = new Set<string>();
-  /** Real schedule not yet spawned, and the source label for the UI. */
-  schedule: ScheduledFlight[] = [];
-  scheduleSource = 'synthetic';
 
   constructor(private sim: Sim) {}
 
@@ -308,40 +304,4 @@ export class Spawner {
     return true;
   }
 
-  loadSchedule(flights: ScheduledFlight[], source: string) {
-    const now = this.sim.time;
-    this.scheduleSource = flights.length ? source : 'synthetic';
-    // Keep flights that are still to come (arrivals up to 10 min late, departures up to 20).
-    this.schedule = flights.filter((f) => f.scheduled > now - (f.kind === 'arr' ? 600 : 1200)).sort((a, b) => a.scheduled - b.scheduled);
-  }
-
-  /** Spawn scheduled flights as their time approaches. */
-  runSchedule() {
-    const sim = this.sim;
-    while (this.schedule.length) {
-      const f = this.schedule[0];
-      const lead = f.kind === 'arr' ? 14 * 60 : 15 * 60;
-      if (sim.time < f.scheduled - lead) break;
-      this.schedule.shift();
-      if (sim.aircraft.some((a) => a.callsign === f.callsign)) continue;
-      const other = { icao: f.other.icao, name: f.other.name, city: f.other.city, lat: f.other.lat ?? 48, lon: f.other.lon ?? 2 };
-      if (!DESTINATIONS[other.icao]) DESTINATIONS[other.icao] = other;
-      const op = this.operatorFor(f.callsign, f.airline);
-      const ac = f.kind === 'arr' ? this.spawnArrival(undefined, f.other.icao) : this.spawnDeparture('stand', f.other.icao);
-      this.usedCallsigns.add(f.callsign);
-      Object.assign(ac, {
-        id: f.callsign,
-        callsign: f.callsign,
-        spoken: `${op.telephony} ${f.callsign.slice(3)}`,
-        operator: op,
-      });
-      ac.flags.scheduled = f.number;
-      if (f.aircraft) {
-        ac.flags.model = f.aircraft;
-        const m = f.aircraft;
-        const t = /737.?800|737 MAX 8/.test(m) ? 'B738' : /737.?700/.test(m) ? 'B737' : /A321/.test(m) ? 'A21N' : /A3[12]0|A319/.test(m) ? 'A20N' : /195/.test(m) ? 'E295' : /E?190|Embraer 1/.test(m) ? 'E190' : /Dash 8|DHC-8|ATR/.test(m) ? 'DH8D' : null;
-        if (t) ac.type = AIRCRAFT[t];
-      }
-    }
-  }
 }

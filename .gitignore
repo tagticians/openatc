@@ -6,6 +6,7 @@ LVNL/
 .tts-cache
 .tts-usage.json
 .schedule-cache
+tsconfig.tsbuildinfo
 video/node_modules
 video/frames
 video/out
@@ -25,3 +26,6 @@ video/*.log
 __pycache__/
 # AI-generated reference clips for local voice testing only (see dev/voice-refs/README.md)
 dev/voice-refs/*.mp3
+# not needed to build or run the game: demo-video tooling and local voice tests
+video/
+dev/

@@ -1,4 +1,4 @@
-// The demo video's takes, one per scene (see video/README.md). Each sets up its own traffic on a
+// The demo video's takes, one per scene (the capture and edit tooling lives in a local video/ folder, not in the repository). Each sets up its own traffic on a
 // fixed seed and weather, then a timeline of cues drives the cursor and the controller's
 // actions through the real UI.
 import { APT } from '../data/airport';

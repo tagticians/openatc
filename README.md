@@ -13,6 +13,20 @@ Six airports with real procedures, live weather, live traffic, and pilots who re
 
 Not for real-world navigation. All data is used for a game.
 
+## Screenshots
+
+![The shift briefing at Rotterdam: runway in use, live weather, difficulty and events](docs/screenshots/briefing.jpg)
+*The briefing: runway in use, live METAR, difficulty, traffic and events.*
+
+| | |
+|---|---|
+| ![Dragging a vector that snaps to the waypoint HELHO](docs/screenshots/vectoring.jpg) | ![The command card with three instructions staged for one transmission](docs/screenshots/command-card.jpg) |
+| *Drag to vector; near a waypoint it snaps to a direct.* | *Stack instructions on the command card and send them in one call.* |
+| ![A departure taxiing along the real taxiways to the holding point](docs/screenshots/taxi.jpg) | ![Lifeliner 2 flying direct to an incident near Schiedam](docs/screenshots/lifeliner.jpg) |
+| *Departures taxi the OpenStreetMap taxiways from real stands.* | *Lifeliner 2 on a scene mission near Schiedam.* |
+
+Screenshots come from the game's demo mode (`?demo=<scene>`), with OpenStreetMap data © OpenStreetMap contributors and map tiles © Mapbox.
+
 ## Run it
 
 ```bash
@@ -26,9 +40,8 @@ Keys go in `.env.local` (never committed; see `.env.example`):
 | Variable | Needed for | Notes |
 |---|---|---|
 | `MAPBOX_API_KEY` | base map + load-screen flyover | public `pk.` token, under the Mapbox terms |
-| `AERODATABOX_API_KEY` | real airport schedule (RapidAPI) | optional; at most 2 cached calls per airport per day |
 
-Without keys the game still runs: a plain scope, browser speech, and a synthetic schedule.
+Without keys the game still runs: a plain scope, browser speech, and synthetic traffic.
 
 **Pilot voices.** The shipped game offers the browser's system voice and **Kokoro** (free, runs in the browser, ~90 MB downloaded once). The dev server additionally offers cloud engines (ElevenLabs, OpenAI, Gemini, Google, Mistral) for local testing with your own keys; they are hidden in production builds.
 
@@ -82,9 +95,9 @@ src/sim/      simulation: flight model (flight.ts), world, traffic and separatio
               phraseology, pilot speech (pilotTalk.ts), wake turbulence (wake.ts), events (events.ts)
 src/scope/    PixiJS radar renderer over Mapbox GL with a matching Web-Mercator projection
 src/ui/       React panels: briefing, strips, radio log, command bar, palette, shift summary
-src/live/     adsb.lol live traffic, routes, schedule client
+src/live/     adsb.lol live traffic and routes
 src/audio/    VHF radio chain, synthesised cockpit sound, Kokoro worker, pilot personas
-server/       dev-server middleware: schedule cache; cloud TTS proxy (local testing only)
+server/       dev-server middleware: cloud TTS proxy (local testing only)
 scripts/      airport builders (eaip/, cifp/), headless simulation tests, logo fetcher
 ```
 

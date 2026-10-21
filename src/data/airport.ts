@@ -75,7 +75,7 @@ export interface AirportData {
   icao: string;
   /** Radio conventions: ICAO (Europe: QNH hPa, TA 3000-ish) or FAA (altimeter inHg, FL180). */
   phraseology?: 'icao' | 'faa' | 'uk';
-  /** IANA time zone, for greetings and schedule windows. */
+  /** IANA time zone, for greetings. */
   timeZone?: string;
   iata: string;
   name: string;

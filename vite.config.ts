@@ -1,7 +1,6 @@
 import { defineConfig, loadEnv } from 'vite';
 import react from '@vitejs/plugin-react';
 import { ttsPlugin } from './server/ttsPlugin';
-import { schedulePlugin } from './server/schedulePlugin';
 
 export default defineConfig(({ mode }) => {
   // Secrets (ElevenLabs) are read here, in Node, and only used by server middleware.
@@ -24,7 +23,6 @@ export default defineConfig(({ mode }) => {
           mistral: Number(env.TTS_BUDGET_MISTRAL ?? 100000),
         },
       }),
-      schedulePlugin(env.AERODATABOX_API_KEY),
     ],
     envPrefix: ['VITE_', 'MAPBOX_'],
     server: {

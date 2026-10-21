@@ -43,7 +43,6 @@ Build tools (not shipped): Vite (MIT), TypeScript (Apache-2.0), @vitejs/plugin-r
 | Live aircraft positions | [adsb.lol](https://adsb.lol) | Open Database License (ODbL) 1.0 | Fetched at runtime. Attribution: "Live traffic © adsb.lol contributors, ODbL". |
 | Flight routes | [VRS standing data](https://github.com/vradarserver/standing-data) (via adsb.lol) | CC0 1.0 | Fetched at runtime. |
 | Flight routes (fallback) | [adsbdb](https://www.adsbdb.com) | Free public API | Fetched at runtime, credited. |
-| Airport schedules (optional) | [AeroDataBox](https://aerodatabox.com) (RapidAPI) | Commercial API terms | Only with the deployer's own key; responses cached locally (`.schedule-cache/`, never committed). |
 | Base map tiles | Mapbox, © OpenStreetMap contributors | Mapbox Terms of Service; OpenStreetMap data ODbL | Attribution shown on the map. |
 
 ## Artwork and trademarks
@@ -57,10 +56,10 @@ Build tools (not shipped): Vite (MIT), TypeScript (Apache-2.0), @vitejs/plugin-r
 
 The cloud voice engines (ElevenLabs, OpenAI, Gemini, Mistral) are available only on the
 dev server, with the tester's own API keys, and are hidden in production builds. Their reference
-clips (`dev/voice-refs/`) are AI-generated with Gemini and are not shipped. Voice IDs in
+clips (`dev/voice-refs/`, kept locally, not in this repository) are AI-generated with Gemini and are not shipped. Voice IDs in
 `src/audio/personas.ts` refer to the providers' own voices and include no audio.
 
-## Demo video tooling (`video/`, not part of the game build)
+## Demo video tooling (`video/`, kept locally: not in this repository or the game build)
 
 | Component | License | Notes |
 |---|---|---|

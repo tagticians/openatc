@@ -2,7 +2,6 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Sim } from './sim/sim';
 import { fetchMetar } from './weather/metar';
 import { cachedRoute, fetchLive, lookupRoute } from './live/adsb';
-import { fetchSchedule } from './live/schedule';
 import { RadioAudio, VOICE_MODES, type VoiceMode } from './audio/radio';
 import { ScopeRenderer, type ScopeOptions } from './scope/ScopeRenderer';
 import { Scope } from './scope/Scope';
@@ -331,8 +330,6 @@ export default function App() {
 
   const start = async () => {
     await radio.unlock().catch(() => undefined);
-    const sched = await fetchSchedule(APT.icao);
-    sim.loadSchedule(sched.flights, sched.source);
     sim.start();
     setScreen('scope');
     savePref('mapOpacity', mapOpacity);

@@ -120,9 +120,8 @@ export interface Flags {
   untilEst?: number;
   prevCross?: number;
   unstable?: boolean;
-  // ---- live and scheduled traffic
+  // ---- live traffic
   real?: boolean;
-  scheduled?: string;
   model?: string;
   // ---- events
   emergency?: string;
