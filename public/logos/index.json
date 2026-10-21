@@ -1,0 +1,170 @@
+{
+  "CFE": {
+    "color": null
+  },
+  "KLC": {
+    "color": null
+  },
+  "SWR": {
+    "color": "#cf0a2c",
+    "icon": "/logos/SWR-icon.svg",
+    "logo": "/logos/SWR-logo.svg"
+  },
+  "EIN": {
+    "color": "#006472",
+    "icon": "/logos/EIN-icon.svg",
+    "logo": "/logos/EIN-logo.svg"
+  },
+  "LGL": {
+    "color": null
+  },
+  "BTI": {
+    "color": "#152649",
+    "logo": "/logos/BTI-logo.svg"
+  },
+  "LOG": {
+    "color": null
+  },
+  "NJE": {
+    "color": null
+  },
+  "VJT": {
+    "color": null
+  },
+  "KLM": {
+    "color": "#009fd9",
+    "icon": "/logos/KLM-icon.svg",
+    "logo": "/logos/KLM-logo.svg"
+  },
+  "TRA": {
+    "color": "#00d66c",
+    "icon": "/logos/TRA-icon.svg",
+    "logo": "/logos/TRA-logo.svg"
+  },
+  "EZY": {
+    "color": null
+  },
+  "BAW": {
+    "color": "#2e5c99",
+    "icon": "/logos/BAW-icon.svg",
+    "logo": "/logos/BAW-logo.svg"
+  },
+  "DLH": {
+    "color": "#05164d",
+    "icon": "/logos/DLH-icon.svg",
+    "logo": "/logos/DLH-logo.svg"
+  },
+  "AFR": {
+    "color": "#051039",
+    "icon": "/logos/AFR-icon.svg",
+    "logo": "/logos/AFR-logo.svg"
+  },
+  "SAS": {
+    "color": "#000099",
+    "logo": "/logos/SAS-logo.svg"
+  },
+  "DAL": {
+    "color": "#E31837",
+    "icon": "/logos/DAL-icon.svg"
+  },
+  "UAE": {
+    "color": "#d71921",
+    "icon": "/logos/UAE-icon.svg",
+    "logo": "/logos/UAE-logo.svg"
+  },
+  "THY": {
+    "color": "#c90019",
+    "icon": "/logos/THY-icon.svg",
+    "logo": "/logos/THY-logo.svg"
+  },
+  "CND": {
+    "color": null
+  },
+  "AAL": {
+    "color": null
+  },
+  "JIA": {
+    "color": null
+  },
+  "RPA": {
+    "color": null
+  },
+  "ENY": {
+    "color": null
+  },
+  "EDV": {
+    "color": null
+  },
+  "SWA": {
+    "color": "#304cb2",
+    "icon": "/logos/SWA-icon.svg",
+    "logo": "/logos/SWA-logo.svg"
+  },
+  "UAL": {
+    "color": "#1414d2",
+    "icon": "/logos/UAL-icon.svg",
+    "logo": "/logos/UAL-logo.svg"
+  },
+  "JBU": {
+    "color": "#003876",
+    "logo": "/logos/JBU-logo.svg"
+  },
+  "ASA": {
+    "color": "#01426a",
+    "logo": "/logos/ASA-logo.svg"
+  },
+  "JZA": {
+    "color": null
+  },
+  "FFT": {
+    "color": null
+  },
+  "EJA": {
+    "color": null
+  },
+  "PDT": {
+    "color": null
+  },
+  "MXY": {
+    "color": null
+  },
+  "AAY": {
+    "color": null
+  },
+  "FDX": {
+    "color": null
+  },
+  "UPS": {
+    "color": null
+  },
+  "QXE": {
+    "color": null
+  },
+  "SKW": {
+    "color": null
+  },
+  "NKS": {
+    "color": null
+  },
+  "HAL": {
+    "color": null
+  },
+  "SCX": {
+    "color": null
+  },
+  "ACA": {
+    "color": "#f01428",
+    "icon": "/logos/ACA-icon.svg",
+    "logo": "/logos/ACA-logo.svg"
+  },
+  "WJA": {
+    "color": "#00aaa6",
+    "icon": "/logos/WJA-icon.svg",
+    "logo": "/logos/WJA-logo.svg"
+  },
+  "JAL": {
+    "color": "#e50012",
+    "icon": "/logos/JAL-icon.svg",
+    "logo": "/logos/JAL-logo.svg"
+  }
+}

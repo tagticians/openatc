@@ -1,0 +1,905 @@
+{
+ "EGLL": {
+  "icao": "EGLL",
+  "name": "London Heathrow",
+  "city": "London",
+  "lat": 51.47,
+  "lon": -0.454
+ },
+ "EGKK": {
+  "icao": "EGKK",
+  "name": "London Gatwick",
+  "city": "London",
+  "lat": 51.148,
+  "lon": -0.19
+ },
+ "EGCC": {
+  "icao": "EGCC",
+  "name": "Manchester",
+  "city": "Manchester",
+  "lat": 53.354,
+  "lon": -2.275
+ },
+ "EGPH": {
+  "icao": "EGPH",
+  "name": "Edinburgh",
+  "city": "Edinburgh",
+  "lat": 55.95,
+  "lon": -3.372
+ },
+ "EIDW": {
+  "icao": "EIDW",
+  "name": "Dublin",
+  "city": "Dublin",
+  "lat": 53.421,
+  "lon": -6.27
+ },
+ "LFPG": {
+  "icao": "LFPG",
+  "name": "Paris Charles de Gaulle",
+  "city": "Paris",
+  "lat": 49.01,
+  "lon": 2.548
+ },
+ "EDDF": {
+  "icao": "EDDF",
+  "name": "Frankfurt",
+  "city": "Frankfurt",
+  "lat": 50.033,
+  "lon": 8.57
+ },
+ "EDDB": {
+  "icao": "EDDB",
+  "name": "Berlin Brandenburg",
+  "city": "Berlin",
+  "lat": 52.362,
+  "lon": 13.501
+ },
+ "EDDH": {
+  "icao": "EDDH",
+  "name": "Hamburg",
+  "city": "Hamburg",
+  "lat": 53.63,
+  "lon": 9.988
+ },
+ "LSZH": {
+  "icao": "LSZH",
+  "name": "Zurich",
+  "city": "Zurich",
+  "lat": 47.458,
+  "lon": 8.548
+ },
+ "LOWW": {
+  "icao": "LOWW",
+  "name": "Vienna",
+  "city": "Vienna",
+  "lat": 48.11,
+  "lon": 16.57
+ },
+ "EKCH": {
+  "icao": "EKCH",
+  "name": "Copenhagen",
+  "city": "Copenhagen",
+  "lat": 55.618,
+  "lon": 12.656
+ },
+ "ENGM": {
+  "icao": "ENGM",
+  "name": "Oslo Gardermoen",
+  "city": "Oslo",
+  "lat": 60.194,
+  "lon": 11.1
+ },
+ "ESSA": {
+  "icao": "ESSA",
+  "name": "Stockholm Arlanda",
+  "city": "Stockholm",
+  "lat": 59.652,
+  "lon": 17.919
+ },
+ "EFHK": {
+  "icao": "EFHK",
+  "name": "Helsinki",
+  "city": "Helsinki",
+  "lat": 60.317,
+  "lon": 24.963
+ },
+ "LEMD": {
+  "icao": "LEMD",
+  "name": "Madrid Barajas",
+  "city": "Madrid",
+  "lat": 40.472,
+  "lon": -3.561
+ },
+ "LIMC": {
+  "icao": "LIMC",
+  "name": "Milan Malpensa",
+  "city": "Milan",
+  "lat": 45.63,
+  "lon": 8.723
+ },
+ "LPPR": {
+  "icao": "LPPR",
+  "name": "Porto",
+  "city": "Porto",
+  "lat": 41.248,
+  "lon": -8.681
+ },
+ "LGAV": {
+  "icao": "LGAV",
+  "name": "Athens",
+  "city": "Athens",
+  "lat": 37.936,
+  "lon": 23.947
+ },
+ "LTFM": {
+  "icao": "LTFM",
+  "name": "Istanbul",
+  "city": "Istanbul",
+  "lat": 41.275,
+  "lon": 28.752
+ },
+ "EPWA": {
+  "icao": "EPWA",
+  "name": "Warsaw Chopin",
+  "city": "Warsaw",
+  "lat": 52.166,
+  "lon": 20.967
+ },
+ "LKPR": {
+  "icao": "LKPR",
+  "name": "Prague",
+  "city": "Prague",
+  "lat": 50.101,
+  "lon": 14.26
+ },
+ "OMDB": {
+  "icao": "OMDB",
+  "name": "Dubai",
+  "city": "Dubai",
+  "lat": 25.253,
+  "lon": 55.365
+ },
+ "OTHH": {
+  "icao": "OTHH",
+  "name": "Doha Hamad",
+  "city": "Doha",
+  "lat": 25.273,
+  "lon": 51.608
+ },
+ "KSFO": {
+  "icao": "KSFO",
+  "name": "San Francisco",
+  "city": "San Francisco",
+  "lat": 37.619,
+  "lon": -122.375
+ },
+ "KOAK": {
+  "icao": "KOAK",
+  "name": "Oakland",
+  "city": "Oakland",
+  "lat": 37.721,
+  "lon": -122.221
+ },
+ "KSJC": {
+  "icao": "KSJC",
+  "name": "San Jose",
+  "city": "San Jose",
+  "lat": 37.363,
+  "lon": -121.929
+ },
+ "KSMF": {
+  "icao": "KSMF",
+  "name": "Sacramento",
+  "city": "Sacramento",
+  "lat": 38.695,
+  "lon": -121.591
+ },
+ "KSEA": {
+  "icao": "KSEA",
+  "name": "Seattle–Tacoma",
+  "city": "Seattle",
+  "lat": 47.45,
+  "lon": -122.309
+ },
+ "KPDX": {
+  "icao": "KPDX",
+  "name": "Portland",
+  "city": "Portland",
+  "lat": 45.589,
+  "lon": -122.597
+ },
+ "KLAS": {
+  "icao": "KLAS",
+  "name": "Las Vegas Harry Reid",
+  "city": "Las Vegas",
+  "lat": 36.08,
+  "lon": -115.152
+ },
+ "KPHX": {
+  "icao": "KPHX",
+  "name": "Phoenix Sky Harbor",
+  "city": "Phoenix",
+  "lat": 33.434,
+  "lon": -112.012
+ },
+ "KDEN": {
+  "icao": "KDEN",
+  "name": "Denver",
+  "city": "Denver",
+  "lat": 39.862,
+  "lon": -104.673
+ },
+ "KDFW": {
+  "icao": "KDFW",
+  "name": "Dallas/Fort Worth",
+  "city": "Dallas",
+  "lat": 32.897,
+  "lon": -97.038
+ },
+ "KDAL": {
+  "icao": "KDAL",
+  "name": "Dallas Love Field",
+  "city": "Dallas",
+  "lat": 32.847,
+  "lon": -96.852
+ },
+ "KIAH": {
+  "icao": "KIAH",
+  "name": "Houston Intercontinental",
+  "city": "Houston",
+  "lat": 29.984,
+  "lon": -95.341
+ },
+ "KHOU": {
+  "icao": "KHOU",
+  "name": "Houston Hobby",
+  "city": "Houston",
+  "lat": 29.645,
+  "lon": -95.279
+ },
+ "KAUS": {
+  "icao": "KAUS",
+  "name": "Austin",
+  "city": "Austin",
+  "lat": 30.195,
+  "lon": -97.67
+ },
+ "KORD": {
+  "icao": "KORD",
+  "name": "Chicago O'Hare",
+  "city": "Chicago",
+  "lat": 41.978,
+  "lon": -87.905
+ },
+ "KMDW": {
+  "icao": "KMDW",
+  "name": "Chicago Midway",
+  "city": "Chicago",
+  "lat": 41.786,
+  "lon": -87.752
+ },
+ "KMSP": {
+  "icao": "KMSP",
+  "name": "Minneapolis–St Paul",
+  "city": "Minneapolis",
+  "lat": 44.882,
+  "lon": -93.222
+ },
+ "KSLC": {
+  "icao": "KSLC",
+  "name": "Salt Lake City",
+  "city": "Salt Lake City",
+  "lat": 40.788,
+  "lon": -111.978
+ },
+ "KBOS": {
+  "icao": "KBOS",
+  "name": "Boston Logan",
+  "city": "Boston",
+  "lat": 42.364,
+  "lon": -71.005
+ },
+ "KEWR": {
+  "icao": "KEWR",
+  "name": "Newark",
+  "city": "Newark",
+  "lat": 40.692,
+  "lon": -74.169
+ },
+ "KIAD": {
+  "icao": "KIAD",
+  "name": "Washington Dulles",
+  "city": "Washington",
+  "lat": 38.944,
+  "lon": -77.456
+ },
+ "KBWI": {
+  "icao": "KBWI",
+  "name": "Baltimore",
+  "city": "Baltimore",
+  "lat": 39.175,
+  "lon": -76.668
+ },
+ "KCLT": {
+  "icao": "KCLT",
+  "name": "Charlotte",
+  "city": "Charlotte",
+  "lat": 35.214,
+  "lon": -80.943
+ },
+ "KBNA": {
+  "icao": "KBNA",
+  "name": "Nashville",
+  "city": "Nashville",
+  "lat": 36.124,
+  "lon": -86.678
+ },
+ "KMCI": {
+  "icao": "KMCI",
+  "name": "Kansas City",
+  "city": "Kansas City",
+  "lat": 39.298,
+  "lon": -94.714
+ },
+ "KSTL": {
+  "icao": "KSTL",
+  "name": "St. Louis",
+  "city": "St. Louis",
+  "lat": 38.749,
+  "lon": -90.37
+ },
+ "KMCO": {
+  "icao": "KMCO",
+  "name": "Orlando",
+  "city": "Orlando",
+  "lat": 28.429,
+  "lon": -81.309
+ },
+ "KFLL": {
+  "icao": "KFLL",
+  "name": "Fort Lauderdale",
+  "city": "Fort Lauderdale",
+  "lat": 26.072,
+  "lon": -80.153
+ },
+ "KABQ": {
+  "icao": "KABQ",
+  "name": "Albuquerque",
+  "city": "Albuquerque",
+  "lat": 35.04,
+  "lon": -106.609
+ },
+ "KBOI": {
+  "icao": "KBOI",
+  "name": "Boise",
+  "city": "Boise",
+  "lat": 43.564,
+  "lon": -116.223
+ },
+ "KRNO": {
+  "icao": "KRNO",
+  "name": "Reno",
+  "city": "Reno",
+  "lat": 39.499,
+  "lon": -119.768
+ },
+ "KSNA": {
+  "icao": "KSNA",
+  "name": "Orange County",
+  "city": "Santa Ana",
+  "lat": 33.676,
+  "lon": -117.868
+ },
+ "KLAX": {
+  "icao": "KLAX",
+  "name": "Los Angeles",
+  "city": "Los Angeles",
+  "lat": 33.943,
+  "lon": -118.408
+ },
+ "KONT": {
+  "icao": "KONT",
+  "name": "Ontario",
+  "city": "Ontario",
+  "lat": 34.056,
+  "lon": -117.601
+ },
+ "KMEM": {
+  "icao": "KMEM",
+  "name": "Memphis",
+  "city": "Memphis",
+  "lat": 35.042,
+  "lon": -89.977
+ },
+ "KSDF": {
+  "icao": "KSDF",
+  "name": "Louisville",
+  "city": "Louisville",
+  "lat": 38.174,
+  "lon": -85.736
+ },
+ "KPSP": {
+  "icao": "KPSP",
+  "name": "Palm Springs",
+  "city": "Palm Springs",
+  "lat": 33.83,
+  "lon": -116.507
+ },
+ "PHNL": {
+  "icao": "PHNL",
+  "name": "Honolulu",
+  "city": "Honolulu",
+  "lat": 21.318,
+  "lon": -157.922
+ },
+ "PHOG": {
+  "icao": "PHOG",
+  "name": "Kahului",
+  "city": "Maui",
+  "lat": 20.899,
+  "lon": -156.43
+ },
+ "PHKO": {
+  "icao": "PHKO",
+  "name": "Kona",
+  "city": "Kona",
+  "lat": 19.739,
+  "lon": -156.046
+ },
+ "PANC": {
+  "icao": "PANC",
+  "name": "Anchorage",
+  "city": "Anchorage",
+  "lat": 61.174,
+  "lon": -149.996
+ },
+ "CYVR": {
+  "icao": "CYVR",
+  "name": "Vancouver",
+  "city": "Vancouver",
+  "lat": 49.195,
+  "lon": -123.184
+ },
+ "CYYC": {
+  "icao": "CYYC",
+  "name": "Calgary",
+  "city": "Calgary",
+  "lat": 51.131,
+  "lon": -114.01
+ },
+ "RJAA": {
+  "icao": "RJAA",
+  "name": "Tokyo Narita",
+  "city": "Tokyo",
+  "lat": 35.765,
+  "lon": 140.386
+ },
+ "MMMX": {
+  "icao": "MMMX",
+  "name": "Mexico City",
+  "city": "Mexico City",
+  "lat": 19.436,
+  "lon": -99.072
+ },
+ "KDCA": {
+  "icao": "KDCA",
+  "name": "Washington National",
+  "city": "Washington",
+  "lat": 38.852,
+  "lon": -77.038
+ },
+ "KLGA": {
+  "icao": "KLGA",
+  "name": "New York LaGuardia",
+  "city": "New York",
+  "lat": 40.777,
+  "lon": -73.873
+ },
+ "KPHL": {
+  "icao": "KPHL",
+  "name": "Philadelphia",
+  "city": "Philadelphia",
+  "lat": 39.872,
+  "lon": -75.241
+ },
+ "KTPA": {
+  "icao": "KTPA",
+  "name": "Tampa",
+  "city": "Tampa",
+  "lat": 27.976,
+  "lon": -82.533
+ },
+ "KJAX": {
+  "icao": "KJAX",
+  "name": "Jacksonville",
+  "city": "Jacksonville",
+  "lat": 30.494,
+  "lon": -81.688
+ },
+ "EHAM": {
+  "icao": "EHAM",
+  "name": "Amsterdam Schiphol",
+  "city": "Amsterdam",
+  "lat": 52.308,
+  "lon": 4.764
+ },
+ "EGPF": {
+  "icao": "EGPF",
+  "name": "Glasgow",
+  "city": "Glasgow",
+  "lat": 55.872,
+  "lon": -4.433
+ },
+ "EGAC": {
+  "icao": "EGAC",
+  "name": "Belfast City",
+  "city": "Belfast",
+  "lat": 54.618,
+  "lon": -5.873
+ },
+ "EGNS": {
+  "icao": "EGNS",
+  "name": "Isle of Man",
+  "city": "Isle of Man",
+  "lat": 54.083,
+  "lon": -4.624
+ },
+ "EVRA": {
+  "icao": "EVRA",
+  "name": "Riga",
+  "city": "Riga",
+  "lat": 56.924,
+  "lon": 23.971
+ },
+ "ELLX": {
+  "icao": "ELLX",
+  "name": "Luxembourg",
+  "city": "Luxembourg",
+  "lat": 49.627,
+  "lon": 6.211
+ },
+ "LIRQ": {
+  "icao": "LIRQ",
+  "name": "Florence",
+  "city": "Florence",
+  "lat": 43.81,
+  "lon": 11.205
+ },
+ "KSAN": {
+  "icao": "KSAN",
+  "name": "San Diego",
+  "city": "San Diego",
+  "lat": 32.734,
+  "lon": -117.19
+ },
+ "KORF": {
+  "icao": "KORF",
+  "name": "Norfolk",
+  "city": "Norfolk",
+  "lat": 36.895,
+  "lon": -76.201
+ },
+ "CYUL": {
+  "icao": "CYUL",
+  "name": "Montréal Trudeau",
+  "city": "Montréal",
+  "lat": 45.47,
+  "lon": -73.741
+ },
+ "EHMZ": {
+  "icao": "EHMZ",
+  "name": "Midden-Zeeland",
+  "city": "Middelburg",
+  "lat": 51.512,
+  "lon": 3.731
+ },
+ "EHLE": {
+  "icao": "EHLE",
+  "name": "Lelystad",
+  "city": "Lelystad",
+  "lat": 52.46,
+  "lon": 5.527
+ },
+ "EHTE": {
+  "icao": "EHTE",
+  "name": "Teuge",
+  "city": "Teuge",
+  "lat": 52.245,
+  "lon": 6.046
+ },
+ "EHSE": {
+  "icao": "EHSE",
+  "name": "Breda International (Seppe)",
+  "city": "Breda",
+  "lat": 51.555,
+  "lon": 4.553
+ },
+ "EBAW": {
+  "icao": "EBAW",
+  "name": "Antwerp",
+  "city": "Antwerp",
+  "lat": 51.189,
+  "lon": 4.46
+ },
+ "EHTX": {
+  "icao": "EHTX",
+  "name": "Texel",
+  "city": "Texel",
+  "lat": 53.115,
+  "lon": 4.834
+ },
+ "EHHV": {
+  "icao": "EHHV",
+  "name": "Hilversum",
+  "city": "Hilversum",
+  "lat": 52.192,
+  "lon": 5.147
+ },
+ "EMC": {
+  "icao": "EMC",
+  "name": "Erasmus MC heliport",
+  "city": "Erasmus MC",
+  "lat": 51.91,
+  "lon": 4.471
+ },
+ "HMC": {
+  "icao": "HMC",
+  "name": "HMC Westeinde heliport",
+  "city": "HMC Westeinde",
+  "lat": 52.074,
+  "lon": 4.3
+ },
+ "LL2": {
+  "icao": "LL2",
+  "name": "Lifeliner 2 base",
+  "city": "Lifeliner base",
+  "lat": 51.951,
+  "lon": 4.442
+ },
+ "KJFK": {
+  "icao": "KJFK",
+  "name": "New York JFK",
+  "city": "New York",
+  "lat": 40.64,
+  "lon": -73.779
+ },
+ "KATL": {
+  "icao": "KATL",
+  "name": "Atlanta",
+  "city": "Atlanta",
+  "lat": 33.637,
+  "lon": -84.428
+ },
+ "KDTW": {
+  "icao": "KDTW",
+  "name": "Detroit",
+  "city": "Detroit",
+  "lat": 42.212,
+  "lon": -83.353
+ },
+ "CYYZ": {
+  "icao": "CYYZ",
+  "name": "Toronto Pearson",
+  "city": "Toronto",
+  "lat": 43.677,
+  "lon": -79.631
+ },
+ "SBGR": {
+  "icao": "SBGR",
+  "name": "São Paulo Guarulhos",
+  "city": "São Paulo",
+  "lat": -23.432,
+  "lon": -46.469
+ },
+ "FAOR": {
+  "icao": "FAOR",
+  "name": "Johannesburg",
+  "city": "Johannesburg",
+  "lat": -26.139,
+  "lon": 28.246
+ },
+ "WSSS": {
+  "icao": "WSSS",
+  "name": "Singapore Changi",
+  "city": "Singapore",
+  "lat": 1.364,
+  "lon": 103.991
+ },
+ "VHHH": {
+  "icao": "VHHH",
+  "name": "Hong Kong",
+  "city": "Hong Kong",
+  "lat": 22.309,
+  "lon": 113.915
+ },
+ "TNCC": {
+  "icao": "TNCC",
+  "name": "Curaçao",
+  "city": "Willemstad",
+  "lat": 12.189,
+  "lon": -68.96
+ },
+ "LEMG": {
+  "icao": "LEMG",
+  "name": "Málaga",
+  "city": "Málaga",
+  "lat": 36.675,
+  "lon": -4.499
+ },
+ "LEAL": {
+  "icao": "LEAL",
+  "name": "Alicante",
+  "city": "Alicante",
+  "lat": 38.282,
+  "lon": -0.558
+ },
+ "LEPA": {
+  "icao": "LEPA",
+  "name": "Palma de Mallorca",
+  "city": "Palma",
+  "lat": 39.552,
+  "lon": 2.739
+ },
+ "LPFR": {
+  "icao": "LPFR",
+  "name": "Faro",
+  "city": "Faro",
+  "lat": 37.014,
+  "lon": -7.966
+ },
+ "LTAI": {
+  "icao": "LTAI",
+  "name": "Antalya",
+  "city": "Antalya",
+  "lat": 36.899,
+  "lon": 30.8
+ },
+ "GCLP": {
+  "icao": "GCLP",
+  "name": "Gran Canaria",
+  "city": "Las Palmas",
+  "lat": 27.932,
+  "lon": -15.387
+ },
+ "GCTS": {
+  "icao": "GCTS",
+  "name": "Tenerife South",
+  "city": "Tenerife",
+  "lat": 28.044,
+  "lon": -16.573
+ },
+ "GCRR": {
+  "icao": "GCRR",
+  "name": "Lanzarote",
+  "city": "Arrecife",
+  "lat": 28.946,
+  "lon": -13.605
+ },
+ "LEBL": {
+  "icao": "LEBL",
+  "name": "Barcelona",
+  "city": "Barcelona",
+  "lat": 41.297,
+  "lon": 2.078
+ },
+ "LIRF": {
+  "icao": "LIRF",
+  "name": "Rome Fiumicino",
+  "city": "Rome",
+  "lat": 41.8,
+  "lon": 12.239
+ },
+ "LGIR": {
+  "icao": "LGIR",
+  "name": "Heraklion",
+  "city": "Heraklion",
+  "lat": 35.34,
+  "lon": 25.18
+ },
+ "LGRP": {
+  "icao": "LGRP",
+  "name": "Rhodes",
+  "city": "Rhodes",
+  "lat": 36.405,
+  "lon": 28.086
+ },
+ "LGKO": {
+  "icao": "LGKO",
+  "name": "Kos",
+  "city": "Kos",
+  "lat": 36.793,
+  "lon": 27.092
+ },
+ "GMMX": {
+  "icao": "GMMX",
+  "name": "Marrakesh",
+  "city": "Marrakesh",
+  "lat": 31.607,
+  "lon": -8.036
+ },
+ "LFMN": {
+  "icao": "LFMN",
+  "name": "Nice",
+  "city": "Nice",
+  "lat": 43.658,
+  "lon": 7.216
+ },
+ "LPPT": {
+  "icao": "LPPT",
+  "name": "Lisbon",
+  "city": "Lisbon",
+  "lat": 38.781,
+  "lon": -9.136
+ },
+ "LEIB": {
+  "icao": "LEIB",
+  "name": "Ibiza",
+  "city": "Ibiza",
+  "lat": 38.873,
+  "lon": 1.373
+ },
+ "LTFE": {
+  "icao": "LTFE",
+  "name": "Bodrum",
+  "city": "Bodrum",
+  "lat": 37.251,
+  "lon": 27.664
+ },
+ "LTBS": {
+  "icao": "LTBS",
+  "name": "Dalaman",
+  "city": "Dalaman",
+  "lat": 36.713,
+  "lon": 28.793
+ },
+ "LEVC": {
+  "icao": "LEVC",
+  "name": "Valencia",
+  "city": "Valencia",
+  "lat": 39.489,
+  "lon": -0.482
+ },
+ "LIPE": {
+  "icao": "LIPE",
+  "name": "Bologna",
+  "city": "Bologna",
+  "lat": 44.535,
+  "lon": 11.289
+ },
+ "EGLC": {
+  "icao": "EGLC",
+  "name": "London City",
+  "city": "London",
+  "lat": 51.505,
+  "lon": 0.055
+ },
+ "EGGW": {
+  "icao": "EGGW",
+  "name": "London Luton",
+  "city": "London",
+  "lat": 51.875,
+  "lon": -0.368
+ },
+ "LFPB": {
+  "icao": "LFPB",
+  "name": "Paris Le Bourget",
+  "city": "Paris",
+  "lat": 48.969,
+  "lon": 2.441
+ },
+ "LSGG": {
+  "icao": "LSGG",
+  "name": "Geneva",
+  "city": "Geneva",
+  "lat": 46.238,
+  "lon": 6.109
+ },
+ "EDDM": {
+  "icao": "EDDM",
+  "name": "Munich",
+  "city": "Munich",
+  "lat": 48.354,
+  "lon": 11.786
+ }
+}

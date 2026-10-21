@@ -1,0 +1,149 @@
+[
+ {
+  "airline": "CFE",
+  "types": [
+   "E190",
+   "E190",
+   "E195"
+  ],
+  "routes": [
+   "EGPH",
+   "EGPF",
+   "EGAC",
+   "EIDW",
+   "EHAM",
+   "LSZH",
+   "LFMN",
+   "LIRQ"
+  ],
+  "weight": 8,
+  "numbering": [
+   8400,
+   8799
+  ]
+ },
+ {
+  "airline": "KLC",
+  "types": [
+   "E190",
+   "E295"
+  ],
+  "routes": [
+   "EHAM"
+  ],
+  "weight": 2.5,
+  "numbering": [
+   1000,
+   1999
+  ]
+ },
+ {
+  "airline": "SWR",
+  "types": [
+   "BCS1"
+  ],
+  "routes": [
+   "LSZH",
+   "LSGG"
+  ],
+  "weight": 1.8,
+  "numbering": [
+   450,
+   469
+  ]
+ },
+ {
+  "airline": "EIN",
+  "types": [
+   "AT76"
+  ],
+  "routes": [
+   "EIDW"
+  ],
+  "weight": 1.5,
+  "numbering": [
+   3900,
+   3999
+  ]
+ },
+ {
+  "airline": "LGL",
+  "types": [
+   "DH8D",
+   "E295"
+  ],
+  "routes": [
+   "ELLX"
+  ],
+  "weight": 1,
+  "numbering": [
+   4590,
+   4599
+  ]
+ },
+ {
+  "airline": "BTI",
+  "types": [
+   "BCS1"
+  ],
+  "routes": [
+   "EVRA"
+  ],
+  "weight": 0.6,
+  "numbering": [
+   651,
+   655
+  ]
+ },
+ {
+  "airline": "LOG",
+  "types": [
+   "AT76",
+   "E145"
+  ],
+  "routes": [
+   "EGNS",
+   "EGPH"
+  ],
+  "weight": 0.6,
+  "numbering": [
+   700,
+   799
+  ]
+ },
+ {
+  "airline": "NJE",
+  "types": [
+   "C56X",
+   "E55P"
+  ],
+  "routes": [
+   "LFPB",
+   "LSGG",
+   "LFMN",
+   "EDDM",
+   "EHAM"
+  ],
+  "weight": 1,
+  "numbering": [
+   100,
+   999
+  ]
+ },
+ {
+  "airline": "VJT",
+  "types": [
+   "CL35"
+  ],
+  "routes": [
+   "LSGG",
+   "LFMN",
+   "LFPB"
+  ],
+  "weight": 0.4,
+  "numbering": [
+   100,
+   999
+  ]
+ }
+]

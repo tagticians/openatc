@@ -1,0 +1,397 @@
+SCORE {"landed":13,"departed":16,"goArounds":1,"separationLosses":19,"stcaSeconds":612,"runwayIncursions":1,"points":-160}
+REMAINING KLC1280 arr airborne hold alt1995 d2.2 hdg252 appfalse locfalse leg4/4
+CFE8610 arr airborne loc alt975 d1.9 hdg272 apptrue loctrue leg7/12
+CFE8513 arr airborne loc alt5076 d13.6 hdg272 apptrue loctrue leg7/12
+CFE8669 arr airborne route alt13352 d37.7 hdg300 apptrue locfalse leg6/12
+BTI653 arr airborne loc alt1136 d2.2 hdg272 apptrue loctrue leg7/12
+SWR458 arr airborne loc alt7923 d21.9 hdg272 apptrue loctrue leg6/11
+KLC1629 arr airborne route alt11038 d30.9 hdg274 apptrue locfalse leg7/12
+CFE8471 dep airborne route alt3095 d2.9 hdg1 appfalse locfalse leg1/4
+SWR466 arr airborne route alt15889 d46.4 hdg19 apptrue locfalse leg2/11
+CFE8553 dep taxi route alt20 d0.4 hdg2 appfalse locfalse leg0/4
+---FULL
+1792411202 pilot CFE8718: Flyer 8718, holding point runway 27, ready for departure | Flyer eighty-seven eighteen, holding point runway two seven, ready for departure
+1792411202 atc CFE8718: CFE8718 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792411202 pilot CFE8718: Cleared to go 27, Flyer 8718. | Cleared to go two seven, Flyer eighty-seven eighteen.
+1792411203 pilot KLC1280: Thames Director, City 1280, FL080, R. | Thames Director, City twelve eighty, flight level eight zero, Romeo.
+1792411203 pilot VJT224: Thames Director, good afternoon, Vista Malta 224, passing FL149, descending FL080, SOVAT 1C arrival, information R. | Thames Director, good afternoon, Vista Malta two twenty-four, passing flight level one four niner, descending flight level eight zero, SOVAT one Charlie arrival, information Romeo.
+1792411203 pilot KLC1766: Thames Director, good afternoon, City 1766, with you descending FL090, on the XAMAN 1C, and we have information R. | Thames Director, good afternoon, City one seven six six, with you uh, descending flight level niner zero, on the XAMAN one Charlie, and we have information Romeo.
+1792411204 atc KLC1280: KLC1280 descend altitude 3000 ft, QNH 1015 | 
+1792411204 pilot KLC1280: Down to 3000 ft, 1015, City 1280. | Down to three thousand, one zero one five, City twelve eighty.
+1792411204 atc KLC1280: KLC1280 cleared ILS approach runway 27 | 
+1792411204 pilot KLC1280: Cleared ILS 27, City 1280. | Cleared I L S two seven, City twelve eighty.
+1792411204 atc VJT224: VJT224 descend altitude 3000 ft, QNH 1015 | 
+1792411204 pilot VJT224: Down to 3000 ft, 1015, Vista Malta 224. | Down to three thousand, one zero one five, Vista Malta two twenty-four.
+1792411204 atc VJT224: VJT224 cleared ILS approach runway 27 | 
+1792411204 pilot VJT224: Cleared the ILS, Vista Malta 224. | Uh, cleared the I L S, Vista Malta two twenty-four.
+1792411204 atc KLC1766: KLC1766 descend altitude 3000 ft, QNH 1015 | 
+1792411204 pilot KLC1766: City 1766, down to 3000 ft, 1015. | City one seven six six, uh, down to three thousand, one zero one five.
+1792411204 atc KLC1766: KLC1766 cleared ILS approach runway 27 | 
+1792411204 pilot KLC1766: Cleared the ILS, City 1766. | Cleared the I L S, City one seven six six.
+1792411234 pilot CFE8702: City Ground, good morning, Flyer 8702, stand 3, information R, IFR to Amsterdam, request start-up | City Ground, good afternoon, Flyer eight seven zero two, stand three, information Romeo, IFR to Amsterdam, request start-up
+1792411234 atc CFE8702: CFE8702 cleared to Amsterdam, SOQQA 1A departure, squawk 2512, start-up approved | 
+1792411234 pilot CFE8702: Flyer 8702, cleared to Amsterdam, SOQQA 1A departure, squawk 2512. | Flyer eight seven zero two, cleared to Amsterdam, SOQQA one Alpha departure, squawk two five one two.
+1792411244 pilot CFE8718: London, Flyer 8718, airborne, climbing 3000 ft, SOQQA 1A | London, Flyer eighty-seven eighteen, airborne, climbing three thousand, SOQQA 1 Alpha
+1792411300 atc CFE8718: CFE8718 climb FL070 | 
+1792411300 pilot CFE8718: Climbing FL070, Flyer 8718. | Uh, climbing flight level seven zero, Flyer eighty-seven eighteen.
+1792411475 pilot CFE8702: Flyer 8702, holding point runway 27, ready for departure | Flyer eight seven zero two, holding point runway two seven, ready for departure
+1792411476 atc CFE8702: CFE8702 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792411476 pilot CFE8702: Cleared to go 27, Flyer 8702. | Cleared to go two seven, Flyer eight seven zero two.
+1792411492 pilot EIN3940: Thames Director, good afternoon, Shamrock 3940, with you descending FL080, on the SILVA 1C, and we have information R. | Thames Director, good afternoon, Shamrock thirty-nine forty, with you descending flight level eight zero, on the SILVA one Charlie, and we have information Romeo.
+1792411492 atc EIN3940: EIN3940 descend altitude 3000 ft, QNH 1015 | 
+1792411492 pilot EIN3940: Down to 3000 ft, 1015, Shamrock 3940. | Down to three thousand, one zero one five, Shamrock thirty-nine forty.
+1792411492 atc EIN3940: EIN3940 cleared ILS approach runway 27 | 
+1792411492 pilot EIN3940: Cleared ILS 27, we'll call you established, Shamrock 3940. | Uh, cleared I L S two seven, we'll call you established, Shamrock thirty-nine forty.
+1792411518 pilot CFE8702: London, Flyer 8702, airborne, climbing 3000 ft, SOQQA 1A | London, Flyer eight seven zero two, airborne, climbing three thousand, SOQQA 1 Alpha
+1792411544 system : SEPARATION LOST VJT224 / KLC1766 — 2.8 NM, 11 ft (−50) | 
+1792411574 atc CFE8702: CFE8702 climb FL070 | 
+1792411574 pilot CFE8702: Flyer 8702, climb FL070. | Flyer eight seven zero two, climb flight level seven zero.
+1792411600 pilot KLC1048: City Ground, City 1048, stand 12, information R, IFR to Amsterdam, request start-up | City Ground, City ten forty-eight, stand one two, information Romeo, IFR to Amsterdam, request start-up
+1792411600 atc KLC1048: KLC1048 cleared to Amsterdam, SOQQA 1A departure, squawk 2537, start-up approved | 
+1792411600 pilot KLC1048: SOQQA 1A, squawk 2537, City 1048. | SOQQA one Alpha, squawk two five three seven, City ten forty-eight.
+1792411612 atc CFE8718: CFE8718 contact London Control 133.175, good day | 
+1792411612 pilot CFE8718: Okay, London Control 133.175, Flyer 8718. | Okay, London Control one three three decimal one seven five, Flyer eighty-seven eighteen.
+1792411634 system : SEPARATION LOST KLC1280 / KLC1766 — 1.8 NM, 915 ft (−50) | 
+1792411792 pilot CFE8780: Thames Director, good afternoon, Flyer 8780, with you descending FL080, on the SOVAT 1C, and we have information R. | Thames Director, good afternoon, Flyer eighty-seven eighty, with you descending flight level eight zero, on the SOVAT one Charlie, and we have information Romeo.
+1792411792 atc CFE8780: CFE8780 descend altitude 3000 ft, QNH 1015 | 
+1792411792 pilot CFE8780: Down to 3000 ft, 1015, Flyer 8780. | Uh, down to three thousand, one zero one five, Flyer eighty-seven eighty.
+1792411792 atc CFE8780: CFE8780 cleared ILS approach runway 27 | 
+1792411792 pilot CFE8780: ILS 27, cleared, Flyer 8780. | I L S two seven, cleared, Flyer eighty-seven eighty.
+1792411832 pilot KLC1766: City 1766, established on the localizer 27. | City one seven six six, established on the localizer two seven.
+1792411857 pilot KLC1280: City 1280, established 27. | City twelve eighty, established two seven.
+1792411862 pilot LGL4590: City Ground, Luxair 4590, stand 27, information R, IFR to Luxembourg, request start-up | City Ground, Luxair forty-five ninety, stand two seven, information Romeo, IFR to Luxembourg, request start-up
+1792411862 atc LGL4590: LGL4590 cleared to Luxembourg, SOQQA 1A departure, squawk 2555, start-up approved | 
+1792411862 pilot LGL4590: Okay, cleared Luxembourg, SOQQA 1A departure, squawk 2555, Luxair 4590. | Okay, cleared Luxembourg, SOQQA one Alpha departure, squawk two five five five, Luxair forty-five ninety.
+1792411886 atc CFE8702: CFE8702 contact London Control 133.175, good day | 
+1792411886 pilot CFE8702: Flyer 8702, London Control 133.175, cheers. | Flyer eight seven zero two, London Control one three three decimal one seven five, cheers.
+1792411894 pilot KLC1048: City 1048, holding point runway 27, ready for departure | City ten forty-eight, holding point runway two seven, ready for departure
+1792411894 atc KLC1048: KLC1048 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792411894 pilot KLC1048: Cleared to go 27, City 1048. | Cleared to go two seven, City ten forty-eight.
+1792411936 pilot KLC1048: London, City 1048, airborne, climbing 3000 ft, SOQQA 1A | London, City ten forty-eight, airborne, climbing three thousand, SOQQA 1 Alpha
+1792411942 pilot VJT224: Vista Malta 224, established localizer 27. | Vista Malta two twenty-four, established localizer two seven.
+1792411992 atc KLC1048: KLC1048 climb FL070 | 
+1792411992 pilot KLC1048: Up to FL070, City 1048. | Up to level seven zero, City ten forty-eight.
+1792412027 pilot LGL4590: Luxair 4590, holding point runway 27, ready for departure | Luxair forty-five ninety, holding point runway two seven, ready for departure
+1792412028 atc LGL4590: LGL4590 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792412028 pilot LGL4590: Cleared take-off 27, Luxair 4590. | Cleared take-off two seven, Luxair forty-five ninety.
+1792412071 pilot LGL4590: London, Luxair 4590, airborne, climbing 3000 ft, SOQQA 1A | London, Luxair forty-five ninety, airborne, climbing three thousand, SOQQA 1 Alpha
+1792412093 pilot SWR468: Thames Director, good afternoon, Swiss 468, with you descending FL080, on the SOVAT 1C, and we have information R. | Thames Director, good afternoon, Swiss four sixty-eight, with you descending flight level eight zero, on the SOVAT one Charlie, and we have information Romeo.
+1792412094 atc SWR468: SWR468 descend altitude 3000 ft, QNH 1015 | 
+1792412094 pilot SWR468: Copy, descending 3000 ft, 1015, Swiss 468. | Copy, descending three thousand, one zero one five, Swiss four sixty-eight.
+1792412094 atc SWR468: SWR468 cleared ILS approach runway 27 | 
+1792412094 pilot SWR468: Cleared ILS 27, we'll call you established, Swiss 468. | Cleared I L S two seven, we'll call you established, Swiss four sixty-eight.
+1792412128 atc LGL4590: LGL4590 climb FL070 | 
+1792412128 pilot LGL4590: Up to FL070, Luxair 4590. | Up to level seven zero, Luxair forty-five ninety.
+1792412231 pilot CFE8529: City Ground, Flyer 8529, stand 24, information R, IFR to Dublin, request start-up | City Ground, Flyer eight five two niner, stand two four, information Romeo, IFR to Dublin, request start-up
+1792412232 atc CFE8529: CFE8529 cleared to Dublin, SAXBI 1A departure, squawk 2542, start-up approved | 
+1792412232 pilot CFE8529: SAXBI 1A, squawk 2542, Flyer 8529. | SAXBI one Alpha, squawk two five four two, Flyer eight five two niner.
+1792412278 atc KLC1766: KLC1766 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792412278 pilot KLC1766: Cleared to land, City 1766. | Cleared to land, City one seven six six.
+1792412302 atc KLC1280: KLC1280 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792412302 pilot KLC1280: Cleared to land 27, City 1280. | Cleared to land two seven, City twelve eighty.
+1792412304 atc KLC1048: KLC1048 contact London Control 133.175, good day | 
+1792412304 pilot KLC1048: 33.175, City 1048. | Three three one seven five, City ten forty-eight.
+1792412312 pilot BTI652: Thames Director, Airbaltic 652, passing FL149, descending FL080, XAMAN 1C arrival, information R. | Thames Director, Airbaltic six five two, passing flight level one four niner, descending flight level eight zero, XAMAN one Charlie arrival, information Romeo.
+1792412312 atc BTI652: BTI652 descend altitude 3000 ft, QNH 1015 | 
+1792412312 pilot BTI652: Descend 3000 ft, QNH 1015, Airbaltic 652. | Descend three thousand, Q N H one zero one five, Airbaltic six five two.
+1792412312 atc BTI652: BTI652 cleared ILS approach runway 27 | 
+1792412312 pilot BTI652: Okay, cleared ILS approach runway 27, Airbaltic 652. | Okay, cleared I L S approach runway two seven, Airbaltic six five two.
+1792412390 atc VJT224: VJT224 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792412390 pilot VJT224: Cleared to land, Vista Malta 224, thank you. | Cleared to land, Vista Malta two twenty-four, thank you.
+1792412398 pilot CFE8529: Flyer 8529, holding point runway 27, ready for departure | Flyer eight five two niner, holding point runway two seven, ready for departure
+1792412440 atc LGL4590: LGL4590 contact London Control 133.175, good day | 
+1792412440 pilot LGL4590: Over to Control, 33.175, Luxair 4590. | Uh, over to Control, three three one seven five, Luxair forty-five ninety.
+1792412461 pilot KLC1280: City 1280, going around. | City twelve eighty, going around.
+1792412461 system KLC1280: KLC1280 go-around: runway occupied: KLC1766 still rolling out (−15) | 
+1792412463 pilot KLC1766: City 1766, runway vacated, have a nice day. | City one seven six six, runway vacated, have a nice day.
+1792412506 pilot CFE8780: Flyer 8780, established on the localizer 27. | Flyer eighty-seven eighty, established on the localizer two seven.
+1792412526 pilot KLC1141: Thames Director, good afternoon, City 1141, with you descending FL080, on the XAMAN 1C, and we have information R. | Thames Director, good afternoon, City eleven forty-one, with you descending flight level eight zero, on the XAMAN one Charlie, and we have information Romeo.
+1792412526 atc KLC1141: KLC1141 descend altitude 3000 ft, QNH 1015 | 
+1792412526 pilot KLC1141: Roger, descend 3000 ft, QNH 1015, City 1141. | Roger, descend three thousand, Q N H one zero one five, City eleven forty-one.
+1792412526 atc KLC1141: KLC1141 cleared ILS approach runway 27 | 
+1792412526 pilot KLC1141: ILS 27, cleared, City 1141. | I L S two seven, cleared, City eleven forty-one.
+1792412585 pilot VJT224: Vista Malta 224, runway vacated, appreciate it. | Vista Malta two twenty-four, runway vacated, appreciate it.
+1792412586 atc CFE8529: CFE8529 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792412586 pilot CFE8529: Runway 27, cleared for take-off, Flyer 8529. | Runway two seven, cleared for take-off, Flyer eight five two niner.
+1792412602 pilot SWR459: City Ground, good morning, Swiss 459, stand 4, information R, IFR to Geneva, request start-up | City Ground, good afternoon, Swiss four five niner, stand four, information Romeo, IFR to Geneva, request start-up
+1792412602 atc SWR459: SWR459 cleared to Geneva, SOQQA 1A departure, squawk 2513, start-up approved | 
+1792412602 pilot SWR459: SOQQA 1A, squawk 2513, Swiss 459, thank you. | SOQQA one Alpha, squawk two five one three, Swiss four five niner, thank you.
+1792412628 pilot CFE8529: London, Flyer 8529, airborne, climbing 3000 ft, SAXBI 1A | London, Flyer eight five two niner, airborne, climbing three thousand, SAXBI 1 Alpha
+1792412684 atc CFE8529: CFE8529 climb FL070 | 
+1792412684 pilot CFE8529: Climb FL070, Flyer 8529. | Uh, climb flight level seven zero, Flyer eight five two niner.
+1792412738 pilot KLC1280: City 1280, entering the hold at LCY, 2000 ft. | City twelve eighty, entering the hold at LCY, two thousand.
+1792412827 pilot BTI651: Thames Director, good afternoon, Airbaltic 651, with you descending FL080, on the XAMAN 1C, and we have information R. | Thames Director, good afternoon, Airbaltic six fifty-one, with you uh, descending flight level eight zero, on the XAMAN one Charlie, and we have information Romeo.
+1792412828 atc BTI651: BTI651 descend altitude 3000 ft, QNH 1015 | 
+1792412828 pilot BTI651: Descend 3000 ft, QNH 1015, Airbaltic 651. | Descend three thousand, Q N H one zero one five, Airbaltic six fifty-one.
+1792412828 atc BTI651: BTI651 cleared ILS approach runway 27 | 
+1792412828 pilot BTI651: ILS 27, cleared, Airbaltic 651. | I L S two seven, cleared, Airbaltic six fifty-one.
+1792412837 pilot SWR468: Swiss 468, established on the localizer 27. | Swiss four sixty-eight, established on the localizer two seven.
+1792412846 pilot SWR459: Swiss 459, holding point runway 27, ready for departure | Swiss four five niner, holding point runway two seven, ready for departure
+1792412846 atc SWR459: SWR459 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792412846 pilot SWR459: Cleared for take-off 27, Swiss 459. | Cleared for take-off two seven, Swiss four five niner.
+1792412885 pilot SWR459: London, Swiss 459, airborne, climbing 3000 ft, SOQQA 1A | London, Swiss four five niner, airborne, climbing three thousand, SOQQA 1 Alpha
+1792412891 pilot BTI654: City Ground, Airbaltic 654, stand 28, information R, IFR to Riga, request start-up | City Ground, Airbaltic six fifty-four, stand two eight, information Romeo, IFR to Riga, request start-up
+1792412892 atc BTI654: BTI654 cleared to Riga, ODUKU 1A departure, squawk 2550, start-up approved | 
+1792412892 pilot BTI654: Cleared to Riga, ODUKU 1A departure, squawk 2550, Airbaltic 654. | Cleared to Riga, ODUKU one Alpha departure, squawk two five five zero, Airbaltic six fifty-four.
+1792412934 atc SWR459: SWR459 climb FL070 | 
+1792412934 pilot SWR459: Up to FL070, Swiss 459. | Up to level seven zero, Swiss four five niner.
+1792412954 atc CFE8780: CFE8780 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792412954 pilot CFE8780: 27, cleared to land, Flyer 8780, thank you. | Two seven, cleared to land, Flyer eighty-seven eighty, thank you.
+1792412963 pilot BTI652: Airbaltic 652, established localizer 27. | Airbaltic six five two, established localizer two seven.
+1792413035 pilot BTI654: Airbaltic 654, holding point runway 27, ready for departure | Airbaltic six fifty-four, holding point runway two seven, ready for departure
+1792413046 atc CFE8529: CFE8529 contact London Control 133.175, good day | 
+1792413046 pilot CFE8529: Over to Control, 33.175, Flyer 8529. | Over to Control, three three one seven five, Flyer eight five two niner.
+1792413127 pilot CFE8752: Thames Director, Flyer 8752, passing FL149, descending FL080, HON 1C arrival, information R. | Thames Director, Flyer eighty-seven fifty-two, passing flight level one four niner, descending flight level eight zero, H O N one Charlie arrival, information Romeo.
+1792413128 atc CFE8752: CFE8752 descend altitude 3000 ft, QNH 1015 | 
+1792413128 pilot CFE8752: Descending 3000 ft, 1015, Flyer 8752. | Descending three thousand, one zero one five, Flyer eighty-seven fifty-two.
+1792413128 atc CFE8752: CFE8752 cleared ILS approach runway 27 | 
+1792413128 pilot CFE8752: Cleared ILS 27, Flyer 8752. | Uh, cleared I L S two seven, Flyer eighty-seven fifty-two.
+1792413140 pilot CFE8780: Flyer 8780, runway vacated. | Flyer eighty-seven eighty, runway vacated.
+1792413140 atc BTI654: BTI654 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792413140 pilot BTI654: Runway 27, cleared for take-off, Airbaltic 654. | Runway two seven, cleared for take-off, Airbaltic six fifty-four.
+1792413147 pilot SWR457: City Ground, good morning, Swiss 457, stand 6, information R, IFR to Zurich, request start-up | City Ground, good afternoon, Swiss four five seven, stand six, information Romeo, IFR to Zurich, request start-up
+1792413148 atc SWR457: SWR457 cleared to Zurich, SOQQA 1A departure, squawk 2517, start-up approved | 
+1792413148 pilot SWR457: Cleared to Zurich, SOQQA 1A departure, squawk 2517, Swiss 457. | Cleared to Zurich, SOQQA one Alpha departure, squawk two five one seven, Swiss four five seven.
+1792413165 pilot KLC1141: City 1141, established on the localizer 27. | City eleven forty-one, established on the localizer two seven.
+1792413179 pilot BTI654: London, Airbaltic 654, airborne, climbing 3000 ft, ODUKU 1A | London, Airbaltic six fifty-four, airborne, climbing three thousand, ODUKU 1 Alpha
+1792413228 atc BTI654: BTI654 climb FL070 | 
+1792413228 pilot BTI654: Climbing FL070, Airbaltic 654. | Uh, climbing flight level seven zero, Airbaltic six fifty-four.
+1792413256 atc SWR459: SWR459 contact London Control 133.175, good day | 
+1792413256 pilot SWR459: 33.175, Swiss 459. | Three three one seven five, Swiss four five niner.
+1792413280 system : SEPARATION LOST KLC1280 / SWR468 — 2.9 NM, 700 ft (−50) | 
+1792413286 atc SWR468: SWR468 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792413286 pilot SWR468: Runway 27, cleared to land, Swiss 468, thank you. | Runway two seven, cleared to land, Swiss four sixty-eight, thank you.
+1792413400 pilot SWR457: Swiss 457, holding point runway 27, ready for departure | Swiss four five seven, holding point runway two seven, ready for departure
+1792413410 atc BTI652: BTI652 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792413410 pilot BTI652: Cleared to land 27, Airbaltic 652. | Uh, cleared to land two seven, Airbaltic six five two.
+1792413427 pilot CFE8414: Thames Director, good afternoon, Flyer 8414, with you descending FL080, on the LISTO 1C, and we have information R. | Thames Director, good afternoon, Flyer eight four one four, with you descending flight level eight zero, on the LISTO one Charlie, and we have information Romeo.
+1792413428 atc CFE8414: CFE8414 descend altitude 3000 ft, QNH 1015 | 
+1792413428 pilot CFE8414: Down to 3000 ft, 1015, Flyer 8414. | Down to three thousand, one zero one five, Flyer eight four one four.
+1792413428 atc CFE8414: CFE8414 cleared ILS approach runway 27 | 
+1792413428 pilot CFE8414: Cleared the ILS, Flyer 8414. | Cleared the I L S, Flyer eight four one four.
+1792413435 pilot EIN3940: Shamrock 3940, established on the localizer 27. | Shamrock thirty-nine forty, established on the localizer two seven.
+1792413449 pilot CFE8756: City Ground, good morning, Flyer 8756, stand 8, information R, IFR to Belfast, request start-up | City Ground, good afternoon, Flyer eighty-seven fifty-six, stand eight, information Romeo, IFR to Belfast, request start-up
+1792413450 atc CFE8756: CFE8756 cleared to Belfast, SAXBI 1A departure, squawk 2533, start-up approved | 
+1792413450 pilot CFE8756: SAXBI 1A, squawk 2533, Flyer 8756. | SAXBI one Alpha, squawk two five three three, Flyer eighty-seven fifty-six.
+1792413460 system : SEPARATION LOST KLC1280 / BTI652 — 3.0 NM, 36 ft (−50) | 
+1792413475 pilot SWR468: Swiss 468, runway vacated, have a nice day. | Swiss four sixty-eight, runway vacated, have a nice day.
+1792413484 pilot BTI651: Airbaltic 651, established on the localizer 27. | Airbaltic six fifty-one, established on the localizer two seven.
+1792413566 atc BTI654: BTI654 contact London Control 133.175, good day | 
+1792413566 pilot BTI654: 133.175, Airbaltic 654, see you next time. | One three three decimal one seven five, Airbaltic six fifty-four, see you next time.
+1792413599 pilot BTI652: Airbaltic 652, runway vacated, have a nice day. | Airbaltic six five two, runway vacated, have a nice day.
+1792413600 atc SWR457: SWR457 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792413600 pilot SWR457: Roger, cleared to go 27, Swiss 457, off we go. | Uh, cleared to go two seven, Swiss four five seven, off we go.
+1792413610 atc KLC1141: KLC1141 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792413610 pilot KLC1141: Roger, 27, cleared to land, City 1141. | Roger, two seven, cleared to land, City eleven forty-one.
+1792413639 pilot SWR457: London, Swiss 457, airborne, climbing 3000 ft, SOQQA 1A | London, Swiss four five seven, airborne, climbing three thousand, SOQQA 1 Alpha
+1792413658 system : SEPARATION LOST KLC1280 / KLC1141 — 3.0 NM, 45 ft (−50) | 
+1792413666 pilot KLC1050: Thames Director, good afternoon, City 1050, with you descending FL080, on the XAMAN 1C, and we have information R. | Thames Director, good afternoon, City ten fifty, with you descending flight level eight zero, on the XAMAN one Charlie, and we have information Romeo.
+1792413666 atc KLC1050: KLC1050 descend altitude 3000 ft, QNH 1015 | 
+1792413666 pilot KLC1050: Okay, descending 3000 ft, 1015, City 1050. | Okay, descending three thousand, one zero one five, City ten fifty.
+1792413666 atc KLC1050: KLC1050 cleared ILS approach runway 27 | 
+1792413666 pilot KLC1050: Copy, cleared the ILS, City 1050. | Copy, cleared the I L S, City ten fifty.
+1792413688 atc SWR457: SWR457 climb FL070 | 
+1792413688 pilot SWR457: Up to FL070, Swiss 457. | Uh, up to level seven zero, Swiss four five seven.
+1792413692 pilot CFE8756: Flyer 8756, holding point runway 27, ready for departure | Flyer eighty-seven fifty-six, holding point runway two seven, ready for departure
+1792413738 system : SEPARATION LOST EIN3940 / BTI651 — 2.5 NM, 853 ft (−50) | 
+1792413796 pilot KLC1141: City 1141, runway vacated, cheers. | City eleven forty-one, runway vacated, cheers.
+1792413796 atc CFE8756: CFE8756 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792413796 pilot CFE8756: Cleared for take-off 27, Flyer 8756, we're rolling. | Uh, cleared for take-off two seven, Flyer eighty-seven fifty-six, we're rolling.
+1792413806 pilot CFE8747: City Ground, Flyer 8747, stand 24, information R, IFR to Dublin, request start-up | City Ground, Flyer eight seven four seven, stand two four, information Romeo, IFR to Dublin, request start-up
+1792413806 atc CFE8747: CFE8747 cleared to Dublin, SAXBI 1A departure, squawk 2541, start-up approved | 
+1792413806 pilot CFE8747: SAXBI 1A, squawk 2541, Flyer 8747. | SAXBI one Alpha, squawk two five four one, Flyer eight seven four seven.
+1792413839 pilot CFE8756: London, Flyer 8756, airborne, climbing 3000 ft, SAXBI 1A | London, Flyer eighty-seven fifty-six, airborne, climbing three thousand, SAXBI 1 Alpha
+1792413880 atc EIN3940: EIN3940 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792413880 pilot EIN3940: Shamrock 3940, 27, cleared to land. | Shamrock thirty-nine forty, two seven, cleared to land.
+1792413896 atc CFE8756: CFE8756 climb FL070 | 
+1792413896 pilot CFE8756: Up to FL070, Flyer 8756. | Up to level seven zero, Flyer eighty-seven fifty-six.
+1792413928 atc BTI651: BTI651 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792413928 pilot BTI651: Cleared to land, Airbaltic 651. | Cleared to land, Airbaltic six fifty-one.
+1792413966 pilot NJE677: Thames Director, Fraction 677, FL080, R. | Thames Director, Fraction six seventy-seven, flight level eight zero, Romeo.
+1792413966 atc NJE677: NJE677 descend altitude 3000 ft, QNH 1015 | 
+1792413966 pilot NJE677: Down to 3000 ft, 1015, Fraction 677. | Down to three thousand, one zero one five, Fraction six seventy-seven.
+1792413966 atc NJE677: NJE677 cleared ILS approach runway 27 | 
+1792413966 pilot NJE677: Cleared the ILS, Fraction 677. | Cleared the I L S, Fraction six seventy-seven.
+1792413993 pilot CFE8747: Flyer 8747, holding point runway 27, ready for departure | Flyer eight seven four seven, holding point runway two seven, ready for departure
+1792414010 atc SWR457: SWR457 contact London Control 133.175, good day | 
+1792414010 pilot SWR457: London Control 133.175, Swiss 457, thanks, bye. | Uh, London Control one three three decimal one seven five, Swiss four five seven, thanks, bye.
+1792414081 pilot EIN3940: Shamrock 3940, runway vacated. | Shamrock thirty-nine forty, runway vacated.
+1792414118 pilot BTI651: Airbaltic 651, runway vacated, thanks, see you next time. | Airbaltic six fifty-one, runway vacated, thanks, see you next time.
+1792414118 atc CFE8747: CFE8747 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792414118 pilot CFE8747: Cleared take-off 27, Flyer 8747. | Cleared take-off two seven, Flyer eight seven four seven.
+1792414132 pilot CFE8655: City Ground, Flyer 8655, stand 28, information R, IFR to Belfast, request start-up | City Ground, Flyer eighty-six fifty-five, stand two eight, information Romeo, IFR to Belfast, request start-up
+1792414132 atc CFE8655: CFE8655 cleared to Belfast, SAXBI 1A departure, squawk 2517, start-up approved | 
+1792414132 pilot CFE8655: Cleared to Belfast, SAXBI 1A departure, squawk 2517, Flyer 8655. | Uh, cleared to Belfast, SAXBI one Alpha departure, squawk two five one seven, Flyer eighty-six fifty-five.
+1792414160 pilot CFE8747: London, Flyer 8747, airborne, climbing 3000 ft, SAXBI 1A | London, Flyer eight seven four seven, airborne, climbing three thousand, SAXBI 1 Alpha
+1792414216 atc CFE8747: CFE8747 climb FL070 | 
+1792414216 pilot CFE8747: Up to FL070, Flyer 8747. | Up to level seven zero, Flyer eight seven four seven.
+1792414256 atc CFE8756: CFE8756 contact London Control 133.175, good day | 
+1792414256 pilot CFE8756: Over to Control, 33.175, Flyer 8756, thanks for the help. | Over to Control, three three one seven five, Flyer eighty-seven fifty-six, thanks for the help.
+1792414266 pilot CFE8610: Thames Director, good afternoon, Flyer 8610, passing FL149, descending FL080, LISTO 1C arrival, information R. | Thames Director, good afternoon, Flyer eighty-six ten, passing flight level one four niner, descending flight level eight zero, LISTO one Charlie arrival, information Romeo.
+1792414266 atc CFE8610: CFE8610 descend altitude 3000 ft, QNH 1015 | 
+1792414266 pilot CFE8610: Down to 3000 ft, 1015, Flyer 8610. | Down to three thousand, one zero one five, Flyer eighty-six ten.
+1792414266 atc CFE8610: CFE8610 cleared ILS approach runway 27 | 
+1792414266 pilot CFE8610: Cleared ILS approach runway 27, Flyer 8610. | Cleared I L S approach runway two seven, Flyer eighty-six ten.
+1792414268 pilot KLC1050: City 1050, established on the localizer 27. | City ten fifty, established on the localizer two seven.
+1792414274 pilot CFE8655: Flyer 8655, holding point runway 27, ready for departure | Flyer eighty-six fifty-five, holding point runway two seven, ready for departure
+1792414274 atc CFE8655: CFE8655 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792414274 pilot CFE8655: Cleared for take-off 27, Flyer 8655, we're rolling. | Cleared for take-off two seven, Flyer eighty-six fifty-five, we're rolling.
+1792414317 pilot CFE8655: London, Flyer 8655, airborne, climbing 3000 ft, SAXBI 1A | London, Flyer eighty-six fifty-five, airborne, climbing three thousand, SAXBI 1 Alpha
+1792414340 system : SEPARATION LOST KLC1280 / CFE8655 — 1.3 NM, 928 ft (−50) | 
+1792414374 atc CFE8655: CFE8655 climb FL070 | 
+1792414374 pilot CFE8655: Climbing FL070, Flyer 8655. | Climbing flight level seven zero, Flyer eighty-six fifty-five.
+1792414475 pilot CFE8405: City Ground, Flyer 8405, stand 10, information R, IFR to Florence, request start-up | City Ground, Flyer eight four zero five, stand one zero, information Romeo, IFR to Florence, request start-up
+1792414476 atc CFE8405: CFE8405 cleared to Florence, SOQQA 1A departure, squawk 2555, start-up approved | 
+1792414476 pilot CFE8405: SOQQA 1A, squawk 2555, Flyer 8405. | SOQQA one Alpha, squawk two five five five, Flyer eight four zero five.
+1792414509 pilot CFE8513: Thames Director, Flyer 8513, FL080, R. | Thames Director, Flyer eight five one three, flight level eight zero, Romeo.
+1792414510 atc CFE8513: CFE8513 descend altitude 3000 ft, QNH 1015 | 
+1792414510 pilot CFE8513: Down to 3000 ft, 1015, Flyer 8513. | Down to three thousand, one zero one five, Flyer eight five one three.
+1792414510 atc CFE8513: CFE8513 cleared ILS approach runway 27 | 
+1792414510 pilot CFE8513: Cleared ILS 27, Flyer 8513. | Cleared I L S two seven, Flyer eight five one three.
+1792414578 atc CFE8747: CFE8747 contact London Control 133.175, good day | 
+1792414578 pilot CFE8747: 133.175, Flyer 8747. | One three three decimal one seven five, Flyer eight seven four seven.
+1792414608 pilot NJE677: Fraction 677, established 27. | Fraction six seventy-seven, established two seven.
+1792414714 atc KLC1050: KLC1050 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792414714 pilot KLC1050: Cleared to land 27, City 1050, thank you. | Cleared to land two seven, City ten fifty, thank you.
+1792414734 atc CFE8655: CFE8655 contact London Control 133.175, good day | 
+1792414734 pilot CFE8655: London Control 133.175, Flyer 8655. | London Control one three three decimal one seven five, Flyer eighty-six fifty-five.
+1792414740 pilot CFE8405: Flyer 8405, holding point runway 27, ready for departure | Flyer eight four zero five, holding point runway two seven, ready for departure
+1792414740 atc CFE8405: CFE8405 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792414740 pilot CFE8405: Cleared to go 27, Flyer 8405. | Cleared to go two seven, Flyer eight four zero five.
+1792414783 pilot CFE8405: London, Flyer 8405, airborne, climbing 3000 ft, SOQQA 1A | London, Flyer eight four zero five, airborne, climbing three thousand, SOQQA 1 Alpha
+1792414810 pilot CFE8669: Thames Director, good afternoon, Flyer 8669, passing FL149, descending FL080, SILVA 1C arrival, information R. | Thames Director, good afternoon, Flyer eight six six niner, passing flight level one four niner, descending flight level eight zero, SILVA one Charlie arrival, information Romeo.
+1792414810 atc CFE8669: CFE8669 descend altitude 3000 ft, QNH 1015 | 
+1792414810 pilot CFE8669: Down to 3000 ft, 1015, Flyer 8669. | Down to three thousand, one zero one five, Flyer eight six six niner.
+1792414810 atc CFE8669: CFE8669 cleared ILS approach runway 27 | 
+1792414810 pilot CFE8669: Cleared ILS 27, Flyer 8669. | Cleared I L S two seven, Flyer eight six six niner.
+1792414818 system : SEPARATION LOST KLC1280 / KLC1050 — 3.0 NM, 822 ft (−50) | 
+1792414825 pilot CFE8494: City Ground, Flyer 8494, stand 4, information R, IFR to Amsterdam, request start-up | City Ground, Flyer eighty-four ninety-four, stand four, information Romeo, IFR to Amsterdam, request start-up
+1792414826 atc CFE8494: CFE8494 cleared to Amsterdam, SOQQA 1A departure, squawk 2507, start-up approved | 
+1792414826 pilot CFE8494: Cleared Amsterdam, SOQQA 1A departure, squawk 2507, Flyer 8494. | Cleared Amsterdam, SOQQA one Alpha departure, squawk two five zero seven, Flyer eighty-four ninety-four.
+1792414840 atc CFE8405: CFE8405 climb FL070 | 
+1792414840 pilot CFE8405: Flyer 8405, up to FL070. | Flyer eight four zero five, up to level seven zero.
+1792414897 pilot KLC1050: City 1050, runway vacated. | City ten fifty, runway vacated.
+1792414903 pilot CFE8752: Flyer 8752, established localizer 27. | Flyer eighty-seven fifty-two, established localizer two seven.
+1792415056 atc NJE677: NJE677 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792415056 pilot NJE677: Cleared to land, Fraction 677. | Cleared to land, Fraction six seventy-seven.
+1792415057 pilot CFE8494: Flyer 8494, holding point runway 27, ready for departure | Flyer eighty-four ninety-four, holding point runway two seven, ready for departure
+1792415058 atc CFE8494: CFE8494 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792415058 pilot CFE8494: Cleared for take-off 27, Flyer 8494, off we go. | Cleared for take-off two seven, Flyer eighty-four ninety-four, off we go.
+1792415100 pilot CFE8494: London, Flyer 8494, airborne, climbing 3000 ft, SOQQA 1A | London, Flyer eighty-four ninety-four, airborne, climbing three thousand, SOQQA 1 Alpha
+1792415110 pilot CFE8410: Thames Director, Flyer 8410, passing FL169, descending FL080, SOVAT 1C arrival, information R. | Thames Director, Flyer eighty-four ten, passing flight level one six niner, descending flight level eight zero, SOVAT one Charlie arrival, information Romeo.
+1792415110 atc CFE8410: CFE8410 descend altitude 3000 ft, QNH 1015 | 
+1792415110 pilot CFE8410: Down to 3000 ft, 1015, Flyer 8410. | Down to three thousand, one zero one five, Flyer eighty-four ten.
+1792415110 atc CFE8410: CFE8410 cleared ILS approach runway 27 | 
+1792415110 pilot CFE8410: Flyer 8410, ILS 27, cleared. | Flyer eighty-four ten, I L S two seven, cleared.
+1792415122 system : SEPARATION LOST KLC1280 / CFE8494 — 2.1 NM, 946 ft (−50) | 
+1792415152 atc CFE8405: CFE8405 contact London Control 133.175, good day | 
+1792415152 pilot CFE8405: Flyer 8405, 33.175. | Flyer eight four zero five, uh, three three one seven five.
+1792415156 atc CFE8494: CFE8494 climb FL070 | 
+1792415156 pilot CFE8494: Climbing FL070, Flyer 8494. | Climbing flight level seven zero, Flyer eighty-four ninety-four.
+1792415160 pilot CFE8673: City Ground, good morning, Flyer 8673, stand 6, information R, IFR to Edinburgh, request start-up | City Ground, good afternoon, Flyer eighty-six seventy-three, stand six, information Romeo, IFR to Edinburgh, request start-up
+1792415160 atc CFE8673: CFE8673 cleared to Edinburgh, BPK 1A departure, squawk 2524, start-up approved | 
+1792415160 pilot CFE8673: Cleared to Edinburgh, BPK 1A departure, squawk 2524, Flyer 8673. | Cleared to Edinburgh, B P K one Alpha departure, squawk two five two four, Flyer eighty-six seventy-three.
+1792415245 pilot CFE8414: Flyer 8414, established on the localizer 27. | Flyer eight four one four, established on the localizer two seven.
+1792415263 pilot NJE677: Fraction 677, runway vacated. | Fraction six seventy-seven, runway vacated.
+1792415348 atc CFE8752: CFE8752 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792415348 pilot CFE8752: Flyer 8752, cleared to land 27. | Flyer eighty-seven fifty-two, cleared to land two seven.
+1792415397 pilot CFE8673: Flyer 8673, holding point runway 27, ready for departure | Flyer eighty-six seventy-three, holding point runway two seven, ready for departure
+1792415398 system : SEPARATION LOST KLC1280 / CFE8752 — 2.9 NM, 40 ft (−50) | 
+1792415410 pilot BTI653: Thames Director, good afternoon, Airbaltic 653, passing FL159, descending FL080, XAMAN 1C arrival, information R. | Thames Director, good afternoon, Airbaltic six five three, passing flight level one five niner, descending flight level eight zero, XAMAN one Charlie arrival, information Romeo.
+1792415410 atc BTI653: BTI653 descend altitude 3000 ft, QNH 1015 | 
+1792415410 pilot BTI653: Down to 3000 ft, 1015, Airbaltic 653. | Down to three thousand, one zero one five, Airbaltic six five three.
+1792415410 atc BTI653: BTI653 cleared ILS approach runway 27 | 
+1792415410 pilot BTI653: Cleared ILS 27, Airbaltic 653. | Cleared I L S two seven, Airbaltic six five three.
+1792415468 atc CFE8494: CFE8494 contact London Control 133.175, good day | 
+1792415468 pilot CFE8494: London Control 133.175, Flyer 8494. | London Control one three three decimal one seven five, Flyer eighty-four ninety-four.
+1792415534 pilot CFE8752: Flyer 8752, runway vacated. | Flyer eighty-seven fifty-two, runway vacated.
+1792415534 atc CFE8673: CFE8673 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792415534 pilot CFE8673: Cleared to go 27, Flyer 8673. | Uh, cleared to go two seven, Flyer eighty-six seventy-three.
+1792415558 pilot CFE8413: City Ground, Flyer 8413, stand 9, information R, IFR to Zurich, request start-up | City Ground, Flyer eighty-four thirteen, stand niner, information Romeo, IFR to Zurich, request start-up
+1792415558 atc CFE8413: CFE8413 cleared to Zurich, SOQQA 1A departure, squawk 2551, start-up approved | 
+1792415558 pilot CFE8413: Cleared to Zurich, SOQQA 1A departure, squawk 2551, Flyer 8413. | Cleared to Zurich, SOQQA one Alpha departure, squawk two five five one, Flyer eighty-four thirteen.
+1792415576 pilot CFE8673: London, Flyer 8673, airborne, climbing 3000 ft, BPK 1A | London, Flyer eighty-six seventy-three, airborne, climbing three thousand, BPK 1 Alpha
+1792415602 system : SEPARATION LOST CFE8410 / BTI653 — 2.8 NM, 182 ft (−50) | 
+1792415626 system : SEPARATION LOST CFE8610 / CFE8410 — 3.0 NM, 944 ft (−50) | 
+1792415632 atc CFE8673: CFE8673 climb FL070 | 
+1792415632 pilot CFE8673: Climbing FL070, Flyer 8673. | Climbing flight level seven zero, Flyer eighty-six seventy-three.
+1792415690 atc CFE8414: CFE8414 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792415690 pilot CFE8414: Runway 27, cleared to land, Flyer 8414. | Runway two seven, cleared to land, Flyer eight four one four.
+1792415710 pilot SWR458: Thames Director, good afternoon, Swiss 458, with you descending FL080, on the SOVAT 1C, and we have information R. | Thames Director, good afternoon, Swiss four five eight, with you uh, descending flight level eight zero, on the SOVAT one Charlie, and we have information Romeo.
+1792415710 atc SWR458: SWR458 descend altitude 3000 ft, QNH 1015 | 
+1792415710 pilot SWR458: Down to 3000 ft, 1015, Swiss 458. | Down to three thousand, one zero one five, Swiss four five eight.
+1792415710 atc SWR458: SWR458 cleared ILS approach runway 27 | 
+1792415710 pilot SWR458: Cleared the ILS, Swiss 458. | Cleared the I L S, Swiss four five eight.
+1792415780 system : SEPARATION LOST KLC1280 / CFE8414 — 3.0 NM, 520 ft (−50) | 
+1792415812 system : SEPARATION LOST CFE8610 / BTI653 — 0.4 NM, 945 ft (−50) | 
+1792415827 pilot CFE8413: Flyer 8413, holding point runway 27, ready for departure | Flyer eighty-four thirteen, holding point runway two seven, ready for departure
+1792415839 pilot SWR461: City Ground, good morning, Swiss 461, stand 26, information R, IFR to Geneva, request start-up | City Ground, good afternoon, Swiss four six one, stand two six, information Romeo, IFR to Geneva, request start-up
+1792415840 atc SWR461: SWR461 cleared to Geneva, SOQQA 1A departure, squawk 2510, start-up approved | 
+1792415840 pilot SWR461: Swiss 461, SOQQA 1A, squawk 2510, thank you. | Swiss four six one, SOQQA one Alpha, squawk two five one zero, thank you.
+1792415852 pilot CFE8410: Flyer 8410, established localizer 27. | Flyer eighty-four ten, established localizer two seven.
+1792415875 pilot CFE8414: Flyer 8414, runway vacated, thanks, see you next time. | Flyer eight four one four, runway vacated, thanks, see you next time.
+1792415876 atc CFE8413: CFE8413 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792415876 pilot CFE8413: Runway 27, cleared for take-off, Flyer 8413. | Runway two seven, cleared for take-off, Flyer eighty-four thirteen.
+1792415918 pilot CFE8413: London, Flyer 8413, airborne, climbing 3000 ft, SOQQA 1A | London, Flyer eighty-four thirteen, airborne, climbing three thousand, SOQQA 1 Alpha
+1792415954 atc CFE8673: CFE8673 contact London Control 133.175, good day | 
+1792415954 pilot CFE8673: London Control 133.175, Flyer 8673, have a nice day. | London Control one three three decimal one seven five, Flyer eighty-six seventy-three, have a nice day.
+1792415974 atc CFE8413: CFE8413 climb FL070 | 
+1792415974 pilot CFE8413: Flyer 8413, climb FL070. | Flyer eighty-four thirteen, climb flight level seven zero.
+1792416002 pilot SWR461: Swiss 461, holding point runway 27, ready for departure | Swiss four six one, holding point runway two seven, ready for departure
+1792416002 atc SWR461: SWR461 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792416002 pilot SWR461: Runway 27, cleared for take-off, Swiss 461. | Runway two seven, cleared for take-off, Swiss four six one.
+1792416011 pilot KLC1629: Thames Director, City 1629, passing FL139, descending FL080, XAMAN 1C arrival, information R. | Thames Director, City one six two niner, passing flight level one three niner, descending flight level eight zero, XAMAN one Charlie arrival, information Romeo.
+1792416012 atc KLC1629: KLC1629 descend altitude 3000 ft, QNH 1015 | 
+1792416012 pilot KLC1629: Descending 3000 ft, 1015, City 1629. | Descending three thousand, one zero one five, City one six two niner.
+1792416012 atc KLC1629: KLC1629 cleared ILS approach runway 27 | 
+1792416012 pilot KLC1629: Cleared the ILS, City 1629. | Cleared the I L S, City one six two niner.
+1792416039 pilot CFE8610: Flyer 8610, established localizer 27. | Flyer eighty-six ten, established localizer two seven.
+1792416041 pilot SWR461: London, Swiss 461, airborne, climbing 3000 ft, SOQQA 1A | London, Swiss four six one, airborne, climbing three thousand, SOQQA 1 Alpha
+1792416045 pilot BTI653: Airbaltic 653, established localizer 27. | Airbaltic six five three, established localizer two seven.
+1792416062 system : SEPARATION LOST KLC1280 / SWR461 — 0.6 NM, 862 ft (−50) | 
+1792416064 system : SEPARATION LOST CFE8513 / SWR458 — 1.4 NM, 945 ft (−50) | 
+1792416090 atc SWR461: SWR461 climb FL070 | 
+1792416090 pilot SWR461: Swiss 461, climbing FL070. | Swiss four six one, climbing flight level seven zero.
+1792416228 pilot CFE8471: City Ground, good morning, Flyer 8471, stand 23, information R, IFR to Florence, request start-up | City Ground, good afternoon, Flyer eight four seven one, stand two three, information Romeo, IFR to Florence, request start-up
+1792416228 atc CFE8471: CFE8471 cleared to Florence, SOQQA 1A departure, squawk 2541, start-up approved | 
+1792416228 pilot CFE8471: SOQQA 1A, squawk 2541, Flyer 8471, thank you. | SOQQA one Alpha, squawk two five four one, Flyer eight four seven one, thank you.
+1792416286 atc CFE8413: CFE8413 contact London Control 133.175, good day | 
+1792416286 pilot CFE8413: 33.175, Flyer 8413. | Three three one seven five, Flyer eighty-four thirteen.
+1792416299 pilot CFE8513: Flyer 8513, established 27. | Flyer eight five one three, established two seven.
+1792416300 atc CFE8410: CFE8410 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792416300 pilot CFE8410: Roger, runway 27, cleared to land, Flyer 8410. | Roger, runway two seven, cleared to land, Flyer eighty-four ten.
+1792416311 pilot SWR466: Thames Director, Swiss 466, FL080, R. | Thames Director, Swiss four six six, flight level eight zero, Romeo.
+1792416312 atc SWR466: SWR466 descend altitude 3000 ft, QNH 1015 | 
+1792416312 pilot SWR466: Down to 3000 ft, 1015, Swiss 466. | Down to three thousand, one zero one five, Swiss four six six.
+1792416312 atc SWR466: SWR466 cleared ILS approach runway 27 | 
+1792416312 pilot SWR466: Cleared ILS 27, Swiss 466. | Cleared I L S two seven, Swiss four six six.
+1792416360 system : SEPARATION LOST KLC1280 / CFE8410 — 2.9 NM, 21 ft (−50) | 
+1792416412 atc SWR461: SWR461 contact London Control 133.175, good day | 
+1792416412 pilot SWR461: Over to Control, 33.175, Swiss 461. | Over to Control, three three one seven five, Swiss four six one.
+1792416421 pilot CFE8471: Flyer 8471, holding point runway 27, ready for departure | Flyer eight four seven one, holding point runway two seven, ready for departure
+1792416451 pilot SWR458: Swiss 458, established on the localizer 27. | Swiss four five eight, established on the localizer two seven.
+1792416484 atc CFE8610: CFE8610 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792416484 pilot CFE8610: Copy, cleared to land, Flyer 8610. | Copy, cleared to land, Flyer eighty-six ten.
+1792416485 pilot CFE8410: Flyer 8410, runway vacated. | Flyer eighty-four ten, runway vacated.
+1792416486 atc CFE8471: CFE8471 wind 272 degrees 12 kt, runway 27 cleared for take-off | 
+1792416486 pilot CFE8471: Flyer 8471, cleared take-off 27. | Flyer eight four seven one, cleared take-off two seven.
+1792416490 atc BTI653: BTI653 wind 272 degrees 12 kt, runway 27 cleared to land | 
+1792416490 pilot BTI653: 27, cleared to land, Airbaltic 653. | Two seven, cleared to land, Airbaltic six five three.
+1792416529 pilot CFE8471: London, Flyer 8471, airborne, climbing 3000 ft, SOQQA 1A | London, Flyer eight four seven one, airborne, climbing three thousand, SOQQA 1 Alpha
+1792416552 system : SEPARATION LOST KLC1280 / CFE8610 — 3.0 NM, 89 ft (−50) | 
+1792416552 system : SEPARATION LOST KLC1280 / BTI653 — 3.0 NM, 12 ft (−50) | 
+1792416574 pilot CFE8553: City Ground, Flyer 8553, stand 12, information R, IFR to Florence, request start-up | City Ground, Flyer eighty-five fifty-three, stand one two, information Romeo, IFR to Florence, request start-up
+1792416574 atc CFE8553: CFE8553 cleared to Florence, SOQQA 1A departure, squawk 2561, start-up approved | 
+1792416574 pilot CFE8553: SOQQA 1A, squawk 2561, Flyer 8553. | SOQQA one Alpha, squawk two five six one, Flyer eighty-five fifty-three.
+1792416586 atc CFE8471: CFE8471 climb FL070 | 
+1792416586 pilot CFE8471: Up to FL070, Flyer 8471. | Up to level seven zero, Flyer eight four seven one.
+KLC1280 airborne 2.158 -0.017 1995
+CFE8610 airborne 1.946 -0.102 975
+CFE8513 airborne 13.578 -0.691 5076
+CFE8669 airborne 37.393 -5.011 13352
+BTI653 airborne 2.222 -0.116 1136
+SWR458 airborne 21.905 -1.113 7923
+KLC1629 airborne 30.870 -1.788 11038
+CFE8471 airborne -2.419 1.544 3095
+SWR466 airborne 45.606 -8.297 15889
+CFE8553 taxi 0.397 -0.103 20

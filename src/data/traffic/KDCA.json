@@ -1,0 +1,241 @@
+[
+ {
+  "airline": "AAL",
+  "types": [
+   "A321",
+   "A319",
+   "A320",
+   "B738"
+  ],
+  "routes": [
+   "KBOS",
+   "KLGA",
+   "KCLT",
+   "KDFW",
+   "KORD",
+   "KFLL",
+   "KPHL"
+  ],
+  "weight": 5,
+  "numbering": [
+   100,
+   2999
+  ]
+ },
+ {
+  "airline": "JIA",
+  "types": [
+   "CRJ9",
+   "CRJ7"
+  ],
+  "routes": [
+   "KCLT",
+   "KBNA",
+   "KJAX",
+   "KORF",
+   "KBOS"
+  ],
+  "weight": 3,
+  "numbering": [
+   5000,
+   5999
+  ]
+ },
+ {
+  "airline": "RPA",
+  "types": [
+   "E75L"
+  ],
+  "routes": [
+   "KLGA",
+   "KBOS",
+   "KORD",
+   "KEWR",
+   "KDTW"
+  ],
+  "weight": 3,
+  "numbering": [
+   3400,
+   4699
+  ]
+ },
+ {
+  "airline": "ENY",
+  "types": [
+   "E75L"
+  ],
+  "routes": [
+   "KORD",
+   "KDFW",
+   "KMSP"
+  ],
+  "weight": 1.5,
+  "numbering": [
+   3200,
+   3999
+  ]
+ },
+ {
+  "airline": "DAL",
+  "types": [
+   "A321",
+   "A320",
+   "B739"
+  ],
+  "routes": [
+   "KLGA",
+   "KATL",
+   "KBOS",
+   "KDTW",
+   "KMSP"
+  ],
+  "weight": 3,
+  "numbering": [
+   1900,
+   2999
+  ]
+ },
+ {
+  "airline": "EDV",
+  "types": [
+   "CRJ9"
+  ],
+  "routes": [
+   "KLGA",
+   "KJFK",
+   "KATL",
+   "KDTW"
+  ],
+  "weight": 1.5,
+  "numbering": [
+   4800,
+   5499
+  ]
+ },
+ {
+  "airline": "SWA",
+  "types": [
+   "B737",
+   "B38M"
+  ],
+  "routes": [
+   "KMDW",
+   "KATL",
+   "KMCO",
+   "KTPA",
+   "KBNA",
+   "KHOU",
+   "KSTL"
+  ],
+  "weight": 2,
+  "numbering": [
+   100,
+   4999
+  ]
+ },
+ {
+  "airline": "UAL",
+  "types": [
+   "A320",
+   "B739",
+   "B38M"
+  ],
+  "routes": [
+   "KORD",
+   "KEWR",
+   "KIAH",
+   "KDEN"
+  ],
+  "weight": 1.5,
+  "numbering": [
+   200,
+   2999
+  ]
+ },
+ {
+  "airline": "JBU",
+  "types": [
+   "A320",
+   "A21N",
+   "E190"
+  ],
+  "routes": [
+   "KBOS",
+   "KFLL",
+   "KMCO"
+  ],
+  "weight": 1.2,
+  "numbering": [
+   100,
+   1999
+  ]
+ },
+ {
+  "airline": "ASA",
+  "types": [
+   "B739",
+   "B38M"
+  ],
+  "routes": [
+   "KSEA",
+   "KSFO",
+   "KLAX",
+   "KSAN"
+  ],
+  "weight": 0.8,
+  "numbering": [
+   1,
+   99
+  ]
+ },
+ {
+  "airline": "JZA",
+  "types": [
+   "CRJ9",
+   "DH8D"
+  ],
+  "routes": [
+   "CYYZ",
+   "CYUL"
+  ],
+  "weight": 0.6,
+  "numbering": [
+   7400,
+   8999
+  ]
+ },
+ {
+  "airline": "FFT",
+  "types": [
+   "A20N",
+   "A21N"
+  ],
+  "routes": [
+   "KDEN",
+   "KMCO"
+  ],
+  "weight": 0.4,
+  "numbering": [
+   1000,
+   2999
+  ]
+ },
+ {
+  "airline": "EJA",
+  "types": [
+   "C56X",
+   "CL35",
+   "E55P"
+  ],
+  "routes": [
+   "KBOS",
+   "KATL",
+   "KMCO"
+  ],
+  "weight": 0.6,
+  "numbering": [
+   300,
+   999
+  ]
+ }
+]

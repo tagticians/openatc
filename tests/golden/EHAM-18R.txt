@@ -1,0 +1,535 @@
+SCORE {"landed":41,"departed":0,"goArounds":5,"separationLosses":30,"stcaSeconds":1330,"runwayIncursions":0,"points":-775,"wakeInfringements":9}
+REMAINING EZY7397 arr airborne heading alt1995 d24.1 hdg181 appfalse locfalse leg2/2
+KLC1711 arr airborne route alt5885 d17.9 hdg24 apptrue locfalse leg4/8
+DLH998 arr airborne loc alt2380 d9.6 hdg181 apptrue loctrue leg2/8
+BAW438 arr airborne loc alt1839 d8.9 hdg179 apptrue loctrue leg0/1
+TRA6416 arr airborne route alt6623 d22.4 hdg287 apptrue locfalse leg1/8
+EZY8758 dep airborne route alt14295 d32.6 hdg247 appfalse locfalse leg3/5
+DAL90 arr airborne route alt6246 d18.1 hdg95 apptrue locfalse leg0/1
+KLC1977 arr airborne route alt8502 d24.0 hdg287 apptrue locfalse leg1/8
+KLC1779 dep airborne route alt7425 d14.8 hdg246 appfalse locfalse leg3/5
+TRA5924 arr airborne route alt14882 d37.0 hdg310 apptrue locfalse leg0/8
+EZY7519 arr airborne route alt11889 d38.1 hdg313 apptrue locfalse leg0/8
+KLC1166 arr airborne route alt11889 d38.0 hdg231 apptrue locfalse leg0/8
+KLC1372 dep airborne route alt3825 d3.7 hdg93 appfalse locfalse leg1/6
+---FULL
+1792411203 pilot KLC1280: Arrival, City 1280, FL070, R. | Arrival, City twelve eighty, flight level seven zero, Romeo.
+1792411203 pilot THY1952: Schiphol Arrival, good afternoon, Turkish 1952, with you descending FL080, on the RKN 2A, and we have information R. | Skip-hol Arrival, good afternoon, Turkish nineteen fifty-two, with you descending flight level eight zero, on the R K N two Alpha, and we have information Romeo.
+1792411203 pilot KLC1766: Schiphol Arrival, good afternoon, City 1766, with you descending FL090, on the RKN 2A, and we have information R. | Skip-hol Arrival, good afternoon, City one seven six six, with you uh, descending flight level niner zero, on the R K N two Alpha, and we have information Romeo.
+1792411203 pilot KLC1294: Arrival, City 1294, FL070, R. | Arrival, City one two niner four, flight level seven zero, Romeo.
+1792411203 pilot EZY7907: Schiphol Arrival, good afternoon, Easy 7907, with you descending FL080, on the PESER 3A, and we have information R. | Skip-hol Arrival, good afternoon, Easy seventy-nine zero seven, with you uh, descending flight level eight zero, on the PESER three Alpha, and we have information Romeo.
+1792411204 atc KLC1280: KLC1280 descend 3000 ft, QNH 1015 | 
+1792411204 pilot KLC1280: Down to 3000 ft, 1015, City 1280. | Down to three thousand, one zero one five, City twelve eighty.
+1792411204 atc KLC1280: KLC1280 cleared ILS approach runway 18C | 
+1792411204 pilot KLC1280: Cleared ILS 18C, City 1280. | Cleared I L S one eight center, City twelve eighty.
+1792411204 atc THY1952: THY1952 descend 3000 ft, QNH 1015 | 
+1792411204 pilot THY1952: Descending 3000 ft, 1015, Turkish 1952. | Descending three thousand, one zero one five, Turkish nineteen fifty-two.
+1792411204 atc THY1952: THY1952 cleared ILS approach runway 18C | 
+1792411204 pilot THY1952: Cleared ILS 18C, we'll call you established, Turkish 1952. | Cleared I L S one eight center, we'll call you established, Turkish nineteen fifty-two.
+1792411204 atc KLC1766: KLC1766 descend 3000 ft, QNH 1015 | 
+1792411204 pilot KLC1766: City 1766, down to 3000 ft, 1015. | City one seven six six, uh, down to three thousand, one zero one five.
+1792411204 atc KLC1766: KLC1766 cleared ILS approach runway 18C | 
+1792411204 pilot KLC1766: Cleared the ILS, City 1766. | Cleared the I L S, City one seven six six.
+1792411204 atc KLC1294: KLC1294 descend 3000 ft, QNH 1015 | 
+1792411204 pilot KLC1294: Descend altitude 3000 ft, QNH 1015, City 1294. | Descend altitude three thousand, Q N H one zero one five, City one two niner four.
+1792411204 atc KLC1294: KLC1294 cleared ILS approach runway 18C | 
+1792411204 pilot KLC1294: City 1294, ILS 18C, cleared. | City one two niner four, I L S one eight center, cleared.
+1792411204 atc EZY7907: EZY7907 descend 3000 ft, QNH 1015 | 
+1792411204 pilot EZY7907: Copy, descending 3000 ft, 1015, Easy 7907. | Uh, descending three thousand, one zero one five, Easy seventy-nine zero seven.
+1792411204 atc EZY7907: EZY7907 cleared ILS approach runway 18C | 
+1792411204 pilot EZY7907: Copy, cleared ILS 18C, we'll call you established, Easy 7907. | Copy, cleared I L S one eight center, we'll call you established, Easy seventy-nine zero seven.
+1792411301 pilot DLH996: Schiphol Arrival, good afternoon, Lufthansa 996, with you descending FL070, on the RKN 2A, and we have information R. | Skip-hol Arrival, good afternoon, Lufthansa niner niner six, with you descending flight level seven zero, on the R K N two Alpha, and we have information Romeo.
+1792411302 atc DLH996: DLH996 descend 3000 ft, QNH 1015 | 
+1792411302 pilot DLH996: Descend altitude 3000 ft, QNH 1015, Lufthansa 996. | Descend altitude three thousand, Q N H one zero one five, Lufthansa niner niner six.
+1792411302 atc DLH996: DLH996 cleared ILS approach runway 18C | 
+1792411302 pilot DLH996: Cleared ILS approach runway 18C, Lufthansa 996. | Cleared I L S approach runway one eight center, Lufthansa niner niner six.
+1792411421 pilot AFR1195: Schiphol Arrival, good afternoon, Airfrans 1195, passing FL129, descending FL070, HELEN 2A arrival, information R. | Skip-hol Arrival, good afternoon, Airfrans one one niner five, passing flight level one two niner, descending flight level seven zero, HELEN two Alpha arrival, information Romeo.
+1792411422 atc AFR1195: AFR1195 descend 3000 ft, QNH 1015 | 
+1792411422 pilot AFR1195: Descending 3000 ft, 1015, Airfrans 1195. | Descending three thousand, one zero one five, Airfrans one one niner five.
+1792411422 atc AFR1195: AFR1195 cleared ILS approach runway 18C | 
+1792411422 pilot AFR1195: ILS 18C, cleared, Airfrans 1195. | I L S one eight center, cleared, Airfrans one one niner five.
+1792411509 pilot KLM758: Schiphol Arrival, good afternoon, KLM 758 heavy, with you descending FL070, on the PESER 3A, and we have information R. | Skip-hol Arrival, good afternoon, K L M seven fifty-eight heavy, with you descending flight level seven zero, on the PESER three Alpha, and we have information Romeo.
+1792411510 atc KLM758: KLM758 descend 3000 ft, QNH 1015 | 
+1792411510 pilot KLM758: Descend altitude 3000 ft, QNH 1015, KLM 758. | Descend altitude three thousand, Q N H one zero one five, K L M seven fifty-eight.
+1792411510 atc KLM758: KLM758 cleared ILS approach runway 18C | 
+1792411510 pilot KLM758: Roger, cleared the ILS, KLM 758. | Roger, cleared the I L S, K L M seven fifty-eight.
+1792411629 pilot KLM1289: Schiphol Arrival, good afternoon, KLM 1289, passing FL139, descending FL070, RKN 2A arrival, information R. | Skip-hol Arrival, good afternoon, K L M twelve eighty-nine, passing flight level one three niner, descending flight level seven zero, R K N two Alpha arrival, information Romeo.
+1792411630 atc KLM1289: KLM1289 descend 3000 ft, QNH 1015 | 
+1792411630 pilot KLM1289: Descend altitude 3000 ft, QNH 1015, KLM 1289. | Descend altitude three thousand, Q N H one zero one five, K L M twelve eighty-nine.
+1792411630 atc KLM1289: KLM1289 cleared ILS approach runway 18C | 
+1792411630 pilot KLM1289: ILS 18C, cleared, KLM 1289. | I L S one eight center, cleared, K L M twelve eighty-nine.
+1792411639 pilot KLC1766: City 1766, established on the localizer 18C. | City one seven six six, established on the localizer one eight center.
+1792411664 system : SEPARATION LOST THY1952 / KLC1766 — 3.0 NM, 193 ft (−50) | 
+1792411691 pilot THY1952: Turkish 1952, established on the localizer 18C. | Turkish nineteen fifty-two, established on the localizer one eight center.
+1792411736 system : SEPARATION LOST KLC1280 / THY1952 — 3.0 NM, 443 ft (−50) | 
+1792411748 pilot KLC1280: City 1280, established 18C. | City twelve eighty, established one eight center.
+1792411749 pilot KLC1791: Schiphol Arrival, good afternoon, City 1791, with you descending FL070, on the HELEN 2A, and we have information R. | Skip-hol Arrival, good afternoon, City one seven niner one, with you uh, descending flight level seven zero, on the HELEN two Alpha, and we have information Romeo.
+1792411750 atc KLC1791: KLC1791 descend 3000 ft, QNH 1015 | 
+1792411750 pilot KLC1791: Down to 3000 ft, 1015, City 1791. | Uh, down to three thousand, one zero one five, City one seven niner one.
+1792411750 atc KLC1791: KLC1791 cleared ILS approach runway 18C | 
+1792411750 pilot KLC1791: Cleared ILS 18C, City 1791. | Cleared I L S one eight center, City one seven niner one.
+1792411812 system : SEPARATION LOST KLC1294 / DAL94 — 2.4 NM, 947 ft (−50) | 
+1792411870 pilot KLM1983: Schiphol Arrival, KLM 1983, passing FL149, descending FL070, REDFA 1A arrival, information R. | Skip-hol Arrival, K L M nineteen eighty-three, passing flight level one four niner, descending flight level seven zero, REDFA one Alpha arrival, information Romeo.
+1792411870 atc KLM1983: KLM1983 descend 3000 ft, QNH 1015 | 
+1792411870 pilot KLM1983: Descending 3000 ft, 1015, KLM 1983. | Descending three thousand, one zero one five, K L M nineteen eighty-three.
+1792411870 atc KLM1983: KLM1983 cleared ILS approach runway 18R | 
+1792411870 pilot KLM1983: Cleared ILS approach runway 18R, KLM 1983. | Uh, cleared I L S approach runway one eight right, K L M nineteen eighty-three.
+1792411902 system KLC1791: WAKE KLC1791 4.9 NM behind heavy KLM758, 5 NM required (−25) | 
+1792411958 atc KLC1766: KLC1766 contact Tower 118.280 | 
+1792411958 pilot KLC1766: Over to tower, 18.28, City 1766, thanks for the help. | Over to tower, one eight two eight, City one seven six six, thanks for the help.
+1792411966 system : SEPARATION LOST THY1952 / KLC1766 — 2.5 NM, 522 ft (−50) | 
+1792411990 pilot KLC1883: Arrival, City 1883, FL070, R. | Arrival, City eighteen eighty-three, flight level seven zero, Romeo.
+1792411990 atc KLC1883: KLC1883 descend 3000 ft, QNH 1015 | 
+1792411990 pilot KLC1883: Descending 3000 ft, 1015, City 1883. | Descending three thousand, one zero one five, City eighteen eighty-three.
+1792411990 atc KLC1883: KLC1883 cleared ILS approach runway 18C | 
+1792411990 pilot KLC1883: ILS 18C, cleared, City 1883. | I L S one eight center, cleared, City eighteen eighty-three.
+1792412008 pilot DLH996: Lufthansa 996, established on the localizer 18C. | Lufthansa niner niner six, established on the localizer one eight center.
+1792412010 atc THY1952: THY1952 contact Tower 118.280 | 
+1792412010 pilot THY1952: Over to tower, 18.28, Turkish 1952, thanks, take care. | Uh, over to tower, one eight two eight, Turkish nineteen fifty-two, thanks, take care.
+1792412064 system : SEPARATION LOST KLC1280 / THY1952 — 2.5 NM, 771 ft (−50) | 
+1792412068 system : SEPARATION LOST KLM758 / KLC1791 — 2.9 NM, 935 ft (−50) | 
+1792412068 atc KLC1280: KLC1280 contact Tower 118.280 | 
+1792412068 pilot KLC1280: 118.280, City 1280. | One one eight decimal two eight, City twelve eighty.
+1792412098 system : SEPARATION LOST EZY7907 / KLM620 — 1.5 NM, 948 ft (−50) | 
+1792412110 pilot UAE147: Schiphol Arrival, good afternoon, Emirates 147 heavy, with you descending FL070, on the RKN 2A, and we have information R. | Skip-hol Arrival, good afternoon, Emirates one four seven heavy, with you descending flight level seven zero, on the R K N two Alpha, and we have information Romeo.
+1792412110 atc UAE147: UAE147 descend 3000 ft, QNH 1015 | 
+1792412110 pilot UAE147: Down to 3000 ft, 1015, Emirates 147. | Down to three thousand, one zero one five, Emirates one four seven.
+1792412110 atc UAE147: UAE147 cleared ILS approach runway 18C | 
+1792412110 pilot UAE147: ILS 18C, cleared, Emirates 147. | I L S one eight center, cleared, Emirates one four seven.
+1792412144 system : SEPARATION LOST KLC1294 / DLH996 — 3.0 NM, 761 ft (−50) | 
+1792412146 pilot KLC1766: City 1766, runway vacated, thanks for the help. | City one seven six six, runway vacated, thanks for the help.
+1792412166 pilot KLC1294: City 1294, established 18C. | City one two niner four, established one eight center.
+1792412189 pilot THY1952: Turkish 1952, runway vacated, thanks for the help. | Turkish nineteen fifty-two, runway vacated, thanks for the help.
+1792412219 pilot KLM1891: Schiphol Arrival, good afternoon, KLM 1891, passing FL119, descending FL070, NORKU 2A arrival, information R. | Skip-hol Arrival, good afternoon, K L M eighteen ninety-one, passing flight level one one niner, descending flight level seven zero, NORKU two Alpha arrival, information Romeo.
+1792412220 atc KLM1891: KLM1891 descend 3000 ft, QNH 1015 | 
+1792412220 pilot KLM1891: Down to 3000 ft, 1015, KLM 1891. | Uh, down to three thousand, one zero one five, K L M eighteen ninety-one.
+1792412220 atc KLM1891: KLM1891 cleared ILS approach runway 18C | 
+1792412220 pilot KLM1891: Cleared ILS approach runway 18C, KLM 1891. | Cleared I L S approach runway one eight center, K L M eighteen ninety-one.
+1792412222 system KLM1891: WAKE KLM1891 3.2 NM behind super UAE147, 7 NM required (−25) | 
+1792412257 pilot KLC1280: City 1280, runway vacated, cheers. | City twelve eighty, runway vacated, cheers.
+1792412272 atc KLC1294: KLC1294 contact Tower 118.280 | 
+1792412272 pilot KLC1294: Over to tower, 18.28, City 1294. | Over to tower, one eight two eight, City one two niner four.
+1792412285 pilot KLM1289: KLM 1289, established localizer 18C. | K L M twelve eighty-nine, established localizer one eight center.
+1792412308 system : SEPARATION LOST KLC1294 / DLH996 — 2.5 NM, 627 ft (−50) | 
+1792412326 atc DLH996: DLH996 contact Tower 118.280 | 
+1792412326 pilot DLH996: Roger, 18.28, Lufthansa 996, thanks for the help. | Uh, one eight two eight, Lufthansa niner niner six, thanks for the help.
+1792412340 pilot TRA5857: Schiphol Arrival, good afternoon, Transavia 5857, passing FL139, descending FL070, PESER 3A arrival, information R. | Skip-hol Arrival, good afternoon, Transavia fifty-eight fifty-seven, passing flight level one three niner, descending flight level seven zero, PESER three Alpha arrival, information Romeo.
+1792412340 pilot AFR1195: Airfrans 1195, established localizer 18C. | Airfrans one one niner five, established localizer one eight center.
+1792412340 atc TRA5857: TRA5857 descend 3000 ft, QNH 1015 | 
+1792412340 pilot TRA5857: Down to 3000 ft, 1015, Transavia 5857. | Down to three thousand, one zero one five, Transavia fifty-eight fifty-seven.
+1792412340 atc TRA5857: TRA5857 cleared ILS approach runway 18C | 
+1792412340 pilot TRA5857: Cleared ILS approach runway 18C, Transavia 5857. | Cleared I L S approach runway one eight center, Transavia fifty-eight fifty-seven.
+1792412388 system : SEPARATION LOST KLC1791 / KLM1983 — 3.0 NM, 163 ft (−50) | 
+1792412395 pilot EZY7907: Easy 7907, established on the localizer 18C. | Easy seventy-nine zero seven, established on the localizer one eight center.
+1792412406 system : SEPARATION LOST UAE147 / KLM1891 — 1.6 NM, 935 ft (−50) | 
+1792412432 system : SEPARATION LOST KLM758 / KLM1983 — 3.0 NM, 695 ft (−50) | 
+1792412446 pilot KLM1709: Arrival, KLM 1709, FL070, R. | Arrival, K L M seventeen zero niner, flight level seven zero, Romeo.
+1792412446 atc AFR1195: AFR1195 contact Tower 118.280 | 
+1792412446 pilot AFR1195: Tower 118.280, Airfrans 1195, cheers. | Tower one one eight decimal two eight, Airfrans one one niner five, cheers.
+1792412446 atc KLM1709: KLM1709 descend 3000 ft, QNH 1015 | 
+1792412446 pilot KLM1709: Down to 3000 ft, 1015, KLM 1709. | Down to three thousand, one zero one five, K L M seventeen zero niner.
+1792412446 atc KLM1709: KLM1709 cleared ILS approach runway 18R | 
+1792412446 pilot KLM1709: Cleared ILS 18R, KLM 1709. | Cleared I L S one eight right, K L M seventeen zero niner.
+1792412457 pilot KLC1294: City 1294, runway vacated. | City one two niner four, runway vacated.
+1792412480 system : SEPARATION LOST EZY7907 / AFR1195 — 2.5 NM, 607 ft (−50) | 
+1792412500 atc EZY7907: EZY7907 contact Tower 118.280 | 
+1792412500 pilot EZY7907: Okay, Tower 118.280, Easy 7907, see you next time. | Uh, Tower one one eight decimal two eight, Easy seventy-nine zero seven, see you next time.
+1792412509 pilot DLH996: Lufthansa 996, runway vacated, appreciate it. | Lufthansa niner niner six, runway vacated, appreciate it.
+1792412546 pilot SAS551: Arrival, Scandinavian 551, FL070, R. | Arrival, Scandinavian five five one, flight level seven zero, Romeo.
+1792412546 atc SAS551: SAS551 descend 3000 ft, QNH 1015 | 
+1792412546 pilot SAS551: Descending 3000 ft, 1015, Scandinavian 551. | Descending three thousand, one zero one five, Scandinavian five five one.
+1792412546 atc SAS551: SAS551 cleared ILS approach runway 18C | 
+1792412546 pilot SAS551: Cleared ILS 18C, Scandinavian 551. | Cleared I L S one eight center, Scandinavian five five one.
+1792412558 system : SEPARATION LOST TRA5766 / TRA5857 — 2.9 NM, 97 ft (−50) | 
+1792412560 pilot KLM1983: KLM 1983, established localizer 18R. | K L M nineteen eighty-three, established localizer one eight right.
+1792412604 atc KLM1289: KLM1289 contact Tower 118.280 | 
+1792412604 pilot KLM1289: KLM 1289, 18.28, cheers. | K L M twelve eighty-nine, one eight two eight, cheers.
+1792412629 pilot AFR1195: Airfrans 1195, runway vacated. | Airfrans one one niner five, runway vacated.
+1792412631 pilot KLC1883: City 1883, established 18C. | City eighteen eighty-three, established one eight center.
+1792412640 atc KLM1983: KLM1983 contact Tower 118.280 | 
+1792412640 pilot KLM1983: Tower 118.280, KLM 1983. | Tower one one eight decimal two eight, K L M nineteen eighty-three.
+1792412667 pilot KLM1523: Arrival, KLM 1523, FL070, R. | Arrival, K L M fifteen twenty-three, flight level seven zero, Romeo.
+1792412668 atc KLM1523: KLM1523 descend 3000 ft, QNH 1015 | 
+1792412668 pilot KLM1523: Descending 3000 ft, 1015, KLM 1523. | Descending three thousand, one zero one five, K L M fifteen twenty-three.
+1792412668 atc KLM1523: KLM1523 cleared ILS approach runway 18C | 
+1792412668 pilot KLM1523: Cleared the ILS, KLM 1523. | Cleared the I L S, K L M fifteen twenty-three.
+1792412677 pilot KLC1791: City 1791, established on the localizer 18C. | City one seven niner one, established on the localizer one eight center.
+1792412684 pilot EZY7907: Easy 7907, runway vacated, appreciate it. | Easy seventy-nine zero seven, runway vacated, appreciate it.
+1792412715 pilot KLM758: KLM 758, established on the localizer 18C. | K L M seven fifty-eight, established on the localizer one eight center.
+1792412752 pilot UAE148: Schiphol Arrival, good afternoon, Emirates 148 heavy, passing FL129, descending FL070, RKN 2A arrival, information R. | Skip-hol Arrival, good afternoon, Emirates one forty-eight heavy, passing flight level one two niner, descending flight level seven zero, R K N two Alpha arrival, information Romeo.
+1792412752 atc UAE148: UAE148 descend 3000 ft, QNH 1015 | 
+1792412752 pilot UAE148: Copy, descend altitude 3000 ft, QNH 1015, Emirates 148. | Copy, descend altitude three thousand, Q N H one zero one five, Emirates one forty-eight.
+1792412752 atc UAE148: UAE148 cleared ILS approach runway 18C | 
+1792412752 pilot UAE148: Emirates 148, cleared ILS 18C. | Emirates one forty-eight, uh, cleared I L S one eight center.
+1792412781 pilot KLM1289: KLM 1289, runway vacated. | K L M twelve eighty-nine, runway vacated.
+1792412782 atc KLC1791: KLC1791 contact Tower 118.280 | 
+1792412782 pilot KLC1791: 18.28, City 1791, see you next time. | One eight two eight, City one seven niner one, see you next time.
+1792412818 pilot KLM1983: KLM 1983, runway vacated. | K L M nineteen eighty-three, runway vacated.
+1792412822 atc KLM758: KLM758 contact Tower 118.280 | 
+1792412822 pilot KLM758: 18.28, KLM 758. | One eight two eight, K L M seven fifty-eight.
+1792412852 pilot UAE147: Emirates 147, established on the localizer 18C. | Emirates one four seven, established on the localizer one eight center.
+1792412872 pilot TRA5044: Schiphol Arrival, Transavia 5044, passing FL149, descending FL070, RKN 2A arrival, information R. | Skip-hol Arrival, Transavia five zero four four, passing flight level one four niner, descending flight level seven zero, R K N two Alpha arrival, information Romeo.
+1792412872 atc TRA5044: TRA5044 descend 3000 ft, QNH 1015 | 
+1792412872 pilot TRA5044: Descend 3000 ft, QNH 1015, Transavia 5044. | Descend three thousand, Q N H one zero one five, Transavia five zero four four.
+1792412872 atc TRA5044: TRA5044 cleared ILS approach runway 18C | 
+1792412872 pilot TRA5044: Cleared ILS 18C, Transavia 5044. | Cleared I L S one eight center, Transavia five zero four four.
+1792412874 pilot KLM1891: KLM 1891, established localizer 18C. | K L M eighteen ninety-one, established localizer one eight center.
+1792412944 system : SEPARATION LOST KLM1523 / UAE148 — 3.0 NM, 471 ft (−50) | 
+1792412947 pilot KLC1107: Schiphol Arrival, City 1107, passing FL149, descending FL070, RKN 2A arrival, information R. | Skip-hol Arrival, City one one zero seven, passing flight level one four niner, descending flight level seven zero, R K N two Alpha arrival, information Romeo.
+1792412948 atc KLC1107: KLC1107 descend 3000 ft, QNH 1015 | 
+1792412948 pilot KLC1107: Down to 3000 ft, 1015, City 1107. | Down to three thousand, one zero one five, City one one zero seven.
+1792412948 atc KLC1107: KLC1107 cleared ILS approach runway 18C | 
+1792412948 pilot KLC1107: Cleared ILS approach runway 18C, City 1107. | Cleared I L S approach runway one eight center, City one one zero seven.
+1792412950 atc KLC1883: KLC1883 contact Tower 118.280 | 
+1792412950 pilot KLC1883: City 1883, 18.28. | City eighteen eighty-three, one eight two eight.
+1792412968 pilot KLM758: KLM 758, going around, going around. | K L M seven fifty-eight, going around, going around.
+1792412968 system KLM758: KLM758 go-around: spacing: previous arrival still on the runway (−15) | 
+1792412968 pilot KLC1791: City 1791, runway vacated, appreciate it. | City one seven niner one, runway vacated, appreciate it.
+1792413021 pilot KLM1709: KLM 1709, established 18R. | K L M seventeen zero niner, established one eight right.
+1792413040 system : SEPARATION LOST KLM758 / KLM1685 — 2.1 NM, 894 ft (−50) | 
+1792413055 pilot KLC1874: Arrival, City 1874, FL070, R. | Arrival, City eighteen seventy-four, flight level seven zero, Romeo.
+1792413056 atc KLC1874: KLC1874 descend 3000 ft, QNH 1015 | 
+1792413056 pilot KLC1874: Down to 3000 ft, 1015, City 1874. | Uh, down to three thousand, one zero one five, City eighteen seventy-four.
+1792413056 atc KLC1874: KLC1874 cleared ILS approach runway 18C | 
+1792413056 pilot KLC1874: Cleared the ILS, City 1874. | Cleared the I L S, City eighteen seventy-four.
+1792413106 atc KLM1709: KLM1709 contact Tower 118.280 | 
+1792413106 pilot KLM1709: 118.280, KLM 1709. | One one eight decimal two eight, K L M seventeen zero niner.
+1792413136 pilot KLC1883: City 1883, runway vacated. | City eighteen eighty-three, runway vacated.
+1792413145 pilot KLM1336: Schiphol Arrival, KLM 1336, passing FL139, descending FL070, NORKU 2A arrival, information R. | Skip-hol Arrival, K L M thirteen thirty-six, passing flight level one three niner, descending flight level seven zero, NORKU two Alpha arrival, information Romeo.
+1792413146 atc KLM1336: KLM1336 descend 3000 ft, QNH 1015 | 
+1792413146 pilot KLM1336: Descend 3000 ft, QNH 1015, KLM 1336. | Descend three thousand, Q N H one zero one five, K L M thirteen thirty-six.
+1792413146 atc KLM1336: KLM1336 cleared ILS approach runway 18C | 
+1792413146 pilot KLM1336: KLM 1336, cleared ILS 18C. | K L M thirteen thirty-six, uh, cleared I L S one eight center.
+1792413170 atc UAE147: UAE147 contact Tower 118.280 | 
+1792413170 pilot UAE147: 118.280, Emirates 147. | One one eight decimal two eight, Emirates one four seven.
+1792413194 atc KLM1891: KLM1891 contact Tower 118.280 | 
+1792413194 pilot KLM1891: KLM 1891, roger, 118.280, thanks for the help. | K L M eighteen ninety-one, roger, one one eight decimal two eight, thanks for the help.
+1792413223 pilot SAS551: Scandinavian 551, established 18C. | Scandinavian five five one, established one eight center.
+1792413265 pilot TRA5306: Schiphol Arrival, good afternoon, Transavia 5306, with you descending FL070, on the PESER 3A, and we have information R. | Skip-hol Arrival, good afternoon, Transavia five three zero six, with you descending flight level seven zero, on the PESER three Alpha, and we have information Romeo.
+1792413266 atc TRA5306: TRA5306 descend 3000 ft, QNH 1015 | 
+1792413266 pilot TRA5306: Roger, descend 3000 ft, QNH 1015, Transavia 5306. | Uh, descend three thousand, Q N H one zero one five, Transavia five three zero six.
+1792413266 atc TRA5306: TRA5306 cleared ILS approach runway 18C | 
+1792413266 pilot TRA5306: Cleared ILS 18C, we'll call you established, Transavia 5306. | Cleared I L S one eight center, we'll call you established, Transavia five three zero six.
+1792413286 pilot KLM1709: KLM 1709, runway vacated. | K L M seventeen zero niner, runway vacated.
+1792413338 pilot KLM743: Schiphol Arrival, good afternoon, KLM 743 heavy, with you descending FL070, on the NORKU 2A, and we have information R. | Skip-hol Arrival, good afternoon, K L M seven four three heavy, with you descending flight level seven zero, on the NORKU two Alpha, and we have information Romeo.
+1792413338 atc KLM743: KLM743 descend 3000 ft, QNH 1015 | 
+1792413338 pilot KLM743: KLM 743, descend 3000 ft, QNH 1015. | K L M seven four three, descend three thousand, Q N H one zero one five.
+1792413338 atc KLM743: KLM743 cleared ILS approach runway 18C | 
+1792413338 pilot KLM743: KLM 743, ILS 18C, cleared. | K L M seven four three, I L S one eight center, cleared.
+1792413346 pilot KLM1891: KLM 1891, going around. | K L M eighteen ninety-one, going around.
+1792413346 system KLM1891: KLM1891 go-around: spacing: previous arrival still on the runway (−15) | 
+1792413351 pilot UAE147: Emirates 147, runway vacated, cheers. | Emirates one four seven, runway vacated, cheers.
+1792413372 pilot KLM1523: KLM 1523, established 18C. | K L M fifteen twenty-three, established one eight center.
+1792413413 pilot UAE148: Emirates 148, established localizer 18C. | Emirates one forty-eight, established localizer one eight center.
+1792413413 pilot UAE2778: Schiphol Arrival, Emirates 2778 heavy, passing FL149, descending FL070, RKN 2A arrival, information R. | Skip-hol Arrival, Emirates two seven seven eight heavy, passing flight level one four niner, descending flight level seven zero, R K N two Alpha arrival, information Romeo.
+1792413414 atc UAE2778: UAE2778 descend 3000 ft, QNH 1015 | 
+1792413414 pilot UAE2778: Down to 3000 ft, 1015, Emirates 2778. | Uh, down to three thousand, one zero one five, Emirates two seven seven eight.
+1792413414 atc UAE2778: UAE2778 cleared ILS approach runway 18C | 
+1792413414 pilot UAE2778: Cleared the ILS, Emirates 2778. | Uh, cleared the I L S, Emirates two seven seven eight.
+1792413526 system : SEPARATION LOST TRA5857 / KLM1523 — 2.9 NM, 182 ft (−50) | 
+1792413534 pilot KLC1808: Schiphol Arrival, good afternoon, City 1808, with you descending FL070, on the NORKU 2A, and we have information R. | Skip-hol Arrival, good afternoon, City eighteen zero eight, with you descending flight level seven zero, on the NORKU two Alpha, and we have information Romeo.
+1792413534 atc KLC1808: KLC1808 descend 3000 ft, QNH 1015 | 
+1792413534 pilot KLC1808: Down to 3000 ft, 1015, City 1808. | Down to three thousand, one zero one five, City eighteen zero eight.
+1792413534 atc KLC1808: KLC1808 cleared ILS approach runway 18C | 
+1792413534 pilot KLC1808: Cleared the ILS, City 1808. | Cleared the I L S, City eighteen zero eight.
+1792413536 system KLC1808: WAKE KLC1808 6.2 NM behind super UAE2778, 7 NM required (−25) | 
+1792413542 atc SAS551: SAS551 contact Tower 118.280 | 
+1792413542 pilot SAS551: 118.280, Scandinavian 551. | One one eight decimal two eight, Scandinavian five five one.
+1792413544 system : SEPARATION LOST TRA5857 / UAE148 — 3.0 NM, 520 ft (−50) | 
+1792413584 pilot TRA5857: Transavia 5857, established localizer 18C. | Transavia fifty-eight fifty-seven, established localizer one eight center.
+1792413596 pilot TRA5044: Transavia 5044, established localizer 18C. | Transavia five zero four four, established localizer one eight center.
+1792413624 pilot KLC1037: Arrival, City 1037, FL070, R. | Arrival, City ten thirty-seven, flight level seven zero, Romeo.
+1792413624 atc KLC1037: KLC1037 descend 3000 ft, QNH 1015 | 
+1792413624 pilot KLC1037: Down to 3000 ft, 1015, City 1037. | Down to three thousand, one zero one five, City ten thirty-seven.
+1792413624 atc KLC1037: KLC1037 cleared ILS approach runway 18C | 
+1792413624 pilot KLC1037: Cleared the ILS, City 1037. | Cleared the I L S, City ten thirty-seven.
+1792413673 pilot KLC1107: City 1107, established localizer 18C. | City one one zero seven, established localizer one eight center.
+1792413690 atc TRA5857: TRA5857 contact Tower 118.280 | 
+1792413690 pilot TRA5857: Tower 118.280, Transavia 5857. | Tower one one eight decimal two eight, Transavia fifty-eight fifty-seven.
+1792413690 atc KLM1523: KLM1523 contact Tower 118.280 | 
+1792413690 pilot KLM1523: Over to tower, 18.28, KLM 1523. | Over to tower, one eight two eight, K L M fifteen twenty-three.
+1792413725 pilot SAS551: Scandinavian 551, runway vacated, cheers. | Scandinavian five five one, runway vacated, cheers.
+1792413732 atc UAE148: UAE148 contact Tower 118.280 | 
+1792413732 pilot UAE148: Over to tower, 18.28, Emirates 148, thanks, bye. | Over to tower, one eight two eight, Emirates one forty-eight, thanks, bye.
+1792413744 pilot KLM1290: Schiphol Arrival, good afternoon, KLM 1290, with you descending FL070, on the NORKU 2A, and we have information R. | Skip-hol Arrival, good afternoon, K L M twelve ninety, with you descending flight level seven zero, on the NORKU two Alpha, and we have information Romeo.
+1792413744 atc KLM1290: KLM1290 descend 3000 ft, QNH 1015 | 
+1792413744 pilot KLM1290: KLM 1290, descend 3000 ft, QNH 1015. | K L M twelve ninety, descend three thousand, Q N H one zero one five.
+1792413744 atc KLM1290: KLM1290 cleared ILS approach runway 18C | 
+1792413744 pilot KLM1290: KLM 1290, cleared the ILS. | K L M twelve ninety, cleared the I L S.
+1792413766 system : SEPARATION LOST KLC1808 / KLC1037 — 3.0 NM, 892 ft (−50) | 
+1792413824 pilot KLM712: Arrival, KLM 712 heavy, FL070, R. | Arrival, K L M seven one two heavy, flight level seven zero, Romeo.
+1792413824 atc KLM712: KLM712 descend 3000 ft, QNH 1015 | 
+1792413824 pilot KLM712: Descend altitude 3000 ft, QNH 1015, KLM 712. | Descend altitude three thousand, Q N H one zero one five, K L M seven one two.
+1792413824 atc KLM712: KLM712 cleared ILS approach runway 18C | 
+1792413824 pilot KLM712: Cleared ILS 18C, KLM 712. | Cleared I L S one eight center, K L M seven one two.
+1792413840 pilot TRA5857: Transavia 5857, going around. | Transavia fifty-eight fifty-seven, going around.
+1792413840 system TRA5857: TRA5857 go-around: spacing: previous arrival still on the runway (−15) | 
+1792413844 pilot KLM1336: KLM 1336, established localizer 18C. | K L M thirteen thirty-six, established localizer one eight center.
+1792413864 system : SEPARATION LOST TRA5857 / KLC1538 — 2.8 NM, 896 ft (−50) | 
+1792413868 pilot KLM1523: KLM 1523, runway vacated. | K L M fifteen twenty-three, runway vacated.
+1792413908 pilot UAE148: Emirates 148, runway vacated. | Emirates one forty-eight, runway vacated.
+1792413914 atc TRA5044: TRA5044 contact Tower 118.280 | 
+1792413914 pilot TRA5044: Tower 118.280, Transavia 5044. | Tower one one eight decimal two eight, Transavia five zero four four.
+1792413935 pilot TRA5968: Arrival, Transavia 5968, FL070, R. | Arrival, Transavia fifty-nine sixty-eight, flight level seven zero, Romeo.
+1792413936 atc TRA5968: TRA5968 descend 3000 ft, QNH 1015 | 
+1792413936 pilot TRA5968: Descend 3000 ft, QNH 1015, Transavia 5968. | Descend three thousand, Q N H one zero one five, Transavia fifty-nine sixty-eight.
+1792413936 atc TRA5968: TRA5968 cleared ILS approach runway 18C | 
+1792413936 pilot TRA5968: ILS 18C, cleared, Transavia 5968. | I L S one eight center, cleared, Transavia fifty-nine sixty-eight.
+1792413983 pilot KLC1874: City 1874, established 18C. | City eighteen seventy-four, established one eight center.
+1792413992 atc KLC1107: KLC1107 contact Tower 118.280 | 
+1792413992 pilot KLC1107: Tower 118.280, City 1107, cheers. | Tower one one eight decimal two eight, City one one zero seven, cheers.
+1792414009 pilot SAS557: Arrival, Scandinavian 557, FL070, R. | Arrival, Scandinavian five five seven, flight level seven zero, Romeo.
+1792414010 atc SAS557: SAS557 descend 3000 ft, QNH 1015 | 
+1792414010 pilot SAS557: Descending 3000 ft, 1015, Scandinavian 557. | Descending three thousand, one zero one five, Scandinavian five five seven.
+1792414010 atc SAS557: SAS557 cleared ILS approach runway 18C | 
+1792414010 pilot SAS557: Scandinavian 557, ILS 18C, cleared. | Scandinavian five five seven, I L S one eight center, cleared.
+1792414015 pilot KLM743: KLM 743, established on the localizer 18C. | K L M seven four three, established on the localizer one eight center.
+1792414088 atc KLC1874: KLC1874 contact Tower 118.280 | 
+1792414088 pilot KLC1874: 18.28, City 1874. | One eight two eight, City eighteen seventy-four.
+1792414095 pilot TRA5044: Transavia 5044, runway vacated. | Transavia five zero four four, runway vacated.
+1792414129 pilot KLC1774: Schiphol Arrival, City 1774, passing FL129, descending FL070, BLUFA 1A arrival, information R. | Skip-hol Arrival, City seventeen seventy-four, passing flight level one two niner, descending flight level seven zero, BLUFA one Alpha arrival, information Romeo.
+1792414130 atc KLC1774: KLC1774 descend 3000 ft, QNH 1015 | 
+1792414130 pilot KLC1774: Descend 3000 ft, QNH 1015, City 1774. | Descend three thousand, Q N H one zero one five, City seventeen seventy-four.
+1792414130 atc KLC1774: KLC1774 cleared ILS approach runway 18C | 
+1792414130 pilot KLC1774: Cleared ILS approach runway 18C, City 1774. | Cleared I L S approach runway one eight center, City seventeen seventy-four.
+1792414135 pilot UAE2778: Emirates 2778, established localizer 18C. | Emirates two seven seven eight, established localizer one eight center.
+1792414146 system KLC1808: WAKE KLC1808 5.1 NM behind super UAE2778, 7 NM required (−25) | 
+1792414154 system KLC1037: WAKE KLC1037 7.0 NM behind super UAE2778, 7 NM required (−25) | 
+1792414162 atc KLM1336: KLM1336 contact Tower 118.280 | 
+1792414162 pilot KLM1336: KLM 1336, Tower 118.280. | K L M thirteen thirty-six, Tower one one eight decimal two eight.
+1792414178 pilot KLC1107: City 1107, runway vacated. | City one one zero seven, runway vacated.
+1792414214 pilot KLC1808: City 1808, established on the localizer 18C. | City eighteen zero eight, established on the localizer one eight center.
+1792414246 pilot KLC1037: City 1037, established 18C. | City ten thirty-seven, established one eight center.
+1792414249 pilot KLM704: Schiphol Arrival, good afternoon, KLM 704 heavy, passing FL139, descending FL070, PESER 3A arrival, information R. | Skip-hol Arrival, good afternoon, K L M seven zero four heavy, passing flight level one three niner, descending flight level seven zero, PESER three Alpha arrival, information Romeo.
+1792414250 atc KLM704: KLM704 descend 3000 ft, QNH 1015 | 
+1792414250 pilot KLM704: Down to 3000 ft, 1015, KLM 704. | Down to three thousand, one zero one five, K L M seven zero four.
+1792414250 atc KLM704: KLM704 cleared ILS approach runway 18C | 
+1792414250 pilot KLM704: Okay, cleared ILS 18C, KLM 704. | Okay, cleared I L S one eight center, K L M seven zero four.
+1792414277 pilot KLC1874: City 1874, runway vacated. | City eighteen seventy-four, runway vacated.
+1792414300 system TRA5306: WAKE TRA5306 7.0 NM behind super UAE2778, 7 NM required (−25) | 
+1792414334 atc KLM743: KLM743 contact Tower 118.280 | 
+1792414334 pilot KLM743: KLM 743, Tower 118.280, thanks for the help. | K L M seven four three, uh, Tower one one eight decimal two eight, thanks for the help.
+1792414342 pilot KLM1336: KLM 1336, runway vacated. | K L M thirteen thirty-six, runway vacated.
+1792414348 system KLM1290: WAKE KLM1290 4.4 NM behind heavy KLM712, 5 NM required (−25) | 
+1792414368 system : SEPARATION LOST TRA5306 / KLC1808 — 2.9 NM, 182 ft (−50) | 
+1792414369 pilot EZY7938: Schiphol Arrival, Easy 7938, passing FL139, descending FL070, PESER 3A arrival, information R. | Skip-hol Arrival, Easy seven niner three eight, passing flight level one three niner, descending flight level seven zero, PESER three Alpha arrival, information Romeo.
+1792414370 atc EZY7938: EZY7938 descend 3000 ft, QNH 1015 | 
+1792414370 pilot EZY7938: Easy 7938, descend 3000 ft, QNH 1015. | Easy seven niner three eight, descend three thousand, Q N H one zero one five.
+1792414370 atc EZY7938: EZY7938 cleared ILS approach runway 18C | 
+1792414370 pilot EZY7938: Easy 7938, cleared the ILS. | Easy seven niner three eight, cleared the I L S.
+1792414380 system : SEPARATION LOST TRA5306 / KLC1037 — 3.0 NM, 359 ft (−50) | 
+1792414394 pilot KLM1290: KLM 1290, established on the localizer 18C. | K L M twelve ninety, established on the localizer one eight center.
+1792414426 pilot TRA5306: Transavia 5306, established on the localizer 18C. | Transavia five three zero six, established on the localizer one eight center.
+1792414454 atc UAE2778: UAE2778 contact Tower 118.280 | 
+1792414454 pilot UAE2778: Emirates 2778, 118.280, thanks, bye. | Emirates two seven seven eight, uh, one one eight decimal two eight, thanks, bye.
+1792414460 pilot KLM712: KLM 712, established 18C. | K L M seven one two, established one eight center.
+1792414490 pilot KLM1097: Arrival, KLM 1097, FL070, R. | Arrival, K L M ten ninety-seven, flight level seven zero, Romeo.
+1792414490 atc KLM1097: KLM1097 descend 3000 ft, QNH 1015 | 
+1792414490 pilot KLM1097: Descending 3000 ft, 1015, KLM 1097. | Descending three thousand, one zero one five, K L M ten ninety-seven.
+1792414490 atc KLM1097: KLM1097 cleared ILS approach runway 18C | 
+1792414490 pilot KLM1097: ILS 18C, cleared, KLM 1097. | Uh, I L S one eight center, cleared, K L M ten ninety-seven.
+1792414514 pilot KLM743: KLM 743, runway vacated. | K L M seven four three, runway vacated.
+1792414532 atc TRA5306: TRA5306 contact Tower 118.280 | 
+1792414532 pilot TRA5306: Copy, 18.28, Transavia 5306. | Uh, one eight two eight, Transavia five three zero six.
+1792414534 atc KLC1808: KLC1808 contact Tower 118.280 | 
+1792414534 pilot KLC1808: Tower 118.280, City 1808. | Tower one one eight decimal two eight, City eighteen zero eight.
+1792414566 atc KLC1037: KLC1037 contact Tower 118.280 | 
+1792414566 pilot KLC1037: Over to tower, 18.28, City 1037. | Over to tower, one eight two eight, City ten thirty-seven.
+1792414572 pilot TRA5968: Transavia 5968, established 18C. | Transavia fifty-nine sixty-eight, established one eight center.
+1792414599 pilot KLM1072: Schiphol Arrival, KLM 1072, passing FL129, descending FL070, REDFA 1A arrival, information R. | Skip-hol Arrival, K L M one zero seven two, passing flight level one two niner, descending flight level seven zero, REDFA one Alpha arrival, information Romeo.
+1792414600 atc KLM1072: KLM1072 descend 3000 ft, QNH 1015 | 
+1792414600 pilot KLM1072: Descend altitude 3000 ft, QNH 1015, KLM 1072. | Descend altitude three thousand, Q N H one zero one five, K L M one zero seven two.
+1792414600 atc KLM1072: KLM1072 cleared ILS approach runway 18R | 
+1792414600 pilot KLM1072: Cleared the ILS, KLM 1072. | Cleared the I L S, K L M one zero seven two.
+1792414635 pilot UAE2778: Emirates 2778, runway vacated. | Emirates two seven seven eight, runway vacated.
+1792414656 pilot SAS557: Scandinavian 557, established 18C. | Scandinavian five five seven, established one eight center.
+1792414698 pilot KLM1549: Schiphol Arrival, KLM 1549, passing FL139, descending FL070, HELEN 2A arrival, information R. | Skip-hol Arrival, K L M fifteen forty-nine, passing flight level one three niner, descending flight level seven zero, HELEN two Alpha arrival, information Romeo.
+1792414698 atc KLM1549: KLM1549 descend 3000 ft, QNH 1015 | 
+1792414698 pilot KLM1549: Descend 3000 ft, QNH 1015, KLM 1549. | Descend three thousand, Q N H one zero one five, K L M fifteen forty-nine.
+1792414698 atc KLM1549: KLM1549 cleared ILS approach runway 18C | 
+1792414698 pilot KLM1549: Cleared ILS approach runway 18C, KLM 1549. | Cleared I L S approach runway one eight center, K L M fifteen forty-nine.
+1792414699 pilot KLC1808: City 1808, going around, going around. | City eighteen zero eight, going around, going around.
+1792414699 system KLC1808: KLC1808 go-around: spacing: previous arrival still on the runway (−15) | 
+1792414712 atc KLM1290: KLM1290 contact Tower 118.280 | 
+1792414712 pilot KLM1290: KLM 1290, 18.28, cheers. | K L M twelve ninety, one eight two eight, cheers.
+1792414713 pilot TRA5306: Transavia 5306, runway vacated, thanks for the help. | Transavia five three zero six, runway vacated, thanks for the help.
+1792414752 pilot KLC1037: City 1037, runway vacated. | City ten thirty-seven, runway vacated.
+1792414778 system : SEPARATION LOST KLC1808 / KLC1071 — 2.4 NM, 925 ft (−50) | 
+1792414778 atc KLM712: KLM712 contact Tower 118.280 | 
+1792414778 pilot KLM712: 118.280, KLM 712. | One one eight decimal two eight, K L M seven one two.
+1792414801 pilot KLC1774: City 1774, established localizer 18C. | City seventeen seventy-four, established localizer one eight center.
+1792414807 pilot AFR1237: Arrival, Airfrans 1237, FL070, R. | Arrival, Airfrans one two three seven, flight level seven zero, Romeo.
+1792414808 atc AFR1237: AFR1237 descend 3000 ft, QNH 1015 | 
+1792414808 pilot AFR1237: Down to 3000 ft, 1015, Airfrans 1237. | Down to three thousand, one zero one five, Airfrans one two three seven.
+1792414808 atc AFR1237: AFR1237 cleared ILS approach runway 18C | 
+1792414808 pilot AFR1237: Cleared ILS 18C, Airfrans 1237. | Cleared I L S one eight center, Airfrans one two three seven.
+1792414848 system TRA5968: WAKE TRA5968 5.0 NM behind heavy KLM712, 5 NM required (−25) | 
+1792414890 pilot KLM1290: KLM 1290, runway vacated, have a nice day. | K L M twelve ninety, runway vacated, have a nice day.
+1792414890 atc TRA5968: TRA5968 contact Tower 118.280 | 
+1792414890 pilot TRA5968: Over to tower, 18.28, Transavia 5968. | Over to tower, one eight two eight, Transavia fifty-nine sixty-eight.
+1792414927 pilot TRA6280: Schiphol Arrival, Transavia 6280, passing FL139, descending FL070, HELEN 2A arrival, information R. | Skip-hol Arrival, Transavia six two eight zero, passing flight level one three niner, descending flight level seven zero, HELEN two Alpha arrival, information Romeo.
+1792414928 atc TRA6280: TRA6280 descend 3000 ft, QNH 1015 | 
+1792414928 pilot TRA6280: Descend 3000 ft, QNH 1015, Transavia 6280. | Descend three thousand, Q N H one zero one five, Transavia six two eight zero.
+1792414928 atc TRA6280: TRA6280 cleared ILS approach runway 18C | 
+1792414928 pilot TRA6280: Cleared ILS approach runway 18C, Transavia 6280. | Cleared I L S approach runway one eight center, Transavia six two eight zero.
+1792414957 pilot KLM712: KLM 712, runway vacated. | K L M seven one two, runway vacated.
+1792414976 atc SAS557: SAS557 contact Tower 118.280 | 
+1792414976 pilot SAS557: 18.28, Scandinavian 557. | One eight two eight, Scandinavian five five seven.
+1792415021 pilot EZY7397: Schiphol Arrival, good afternoon, Easy 7397, with you descending FL070, on the DENUT 3A, and we have information R. | Skip-hol Arrival, good afternoon, Easy seventy-three ninety-seven, with you descending flight level seven zero, on the DENUT three Alpha, and we have information Romeo.
+1792415022 atc EZY7397: EZY7397 descend 3000 ft, QNH 1015 | 
+1792415022 pilot EZY7397: Down to 3000 ft, 1015, Easy 7397. | Down to three thousand, one zero one five, Easy seventy-three ninety-seven.
+1792415022 atc EZY7397: EZY7397 cleared ILS approach runway 18C | 
+1792415022 pilot EZY7397: Cleared ILS 18C, we'll call you established, Easy 7397. | Cleared I L S one eight center, we'll call you established, Easy seventy-three ninety-seven.
+1792415071 pilot TRA5968: Transavia 5968, runway vacated. | Transavia fifty-nine sixty-eight, runway vacated.
+1792415120 atc KLC1774: KLC1774 contact Tower 118.280 | 
+1792415120 pilot KLC1774: Tower 118.280, City 1774. | Uh, Tower one one eight decimal two eight, City seventeen seventy-four.
+1792415142 pilot KLM1681: Schiphol Arrival, KLM 1681, passing FL129, descending FL070, LAMSO 2A arrival, information R. | Skip-hol Arrival, K L M one six eight one, passing flight level one two niner, descending flight level seven zero, LAMSO two Alpha arrival, information Romeo.
+1792415142 atc KLM1681: KLM1681 descend 3000 ft, QNH 1015 | 
+1792415142 pilot KLM1681: Descend altitude 3000 ft, QNH 1015, KLM 1681. | Descend altitude three thousand, Q N H one zero one five, K L M one six eight one.
+1792415142 atc KLM1681: KLM1681 cleared ILS approach runway 18R | 
+1792415142 pilot KLM1681: KLM 1681, roger, cleared ILS 18R. | K L M one six eight one, roger, cleared I L S one eight right.
+1792415158 pilot SAS557: Scandinavian 557, runway vacated. | Scandinavian five five seven, runway vacated.
+1792415217 pilot KLM1097: KLM 1097, established 18C. | K L M ten ninety-seven, established one eight center.
+1792415226 pilot KLM1072: KLM 1072, established localizer 18R. | K L M one zero seven two, established localizer one eight right.
+1792415253 pilot AFR1149: Schiphol Arrival, good afternoon, Airfrans 1149, with you descending FL070, on the HELEN 2A, and we have information R. | Skip-hol Arrival, good afternoon, Airfrans eleven forty-nine, with you descending flight level seven zero, on the HELEN two Alpha, and we have information Romeo.
+1792415254 atc AFR1149: AFR1149 descend 3000 ft, QNH 1015 | 
+1792415254 pilot AFR1149: Descend altitude 3000 ft, QNH 1015, Airfrans 1149. | Descend altitude three thousand, Q N H one zero one five, Airfrans eleven forty-nine.
+1792415254 atc AFR1149: AFR1149 cleared ILS approach runway 18C | 
+1792415254 pilot AFR1149: ILS 18C, cleared, Airfrans 1149. | I L S one eight center, cleared, Airfrans eleven forty-nine.
+1792415306 atc KLM1072: KLM1072 contact Tower 118.280 | 
+1792415306 pilot KLM1072: Roger, 118.280, KLM 1072. | Roger, one one eight decimal two eight, K L M one zero seven two.
+1792415308 pilot KLC1774: City 1774, runway vacated. | City seventeen seventy-four, runway vacated.
+1792415338 system : SEPARATION LOST TRA6280 / EZY7397 — 1.4 NM, 924 ft (−50) | 
+1792415341 pilot KLC1003: Arrival, City 1003, FL070, R. | Arrival, City one zero zero three, flight level seven zero, Romeo.
+1792415342 atc KLC1003: KLC1003 descend 3000 ft, QNH 1015 | 
+1792415342 pilot KLC1003: Down to 3000 ft, 1015, City 1003. | Down to three thousand, one zero one five, City one zero zero three.
+1792415342 atc KLC1003: KLC1003 cleared ILS approach runway 18C | 
+1792415342 pilot KLC1003: Cleared ILS 18C, City 1003. | Cleared I L S one eight center, City one zero zero three.
+1792415370 system EZY7938: WAKE EZY7938 4.9 NM behind heavy KLM704, 5 NM required (−25) | 
+1792415450 system : SEPARATION LOST KLM704 / KLM1097 — 3.0 NM, 945 ft (−50) | 
+1792415461 pilot BAW436: Schiphol Arrival, Speedbird 436, passing FL119, descending FL070, REDFA 1A arrival, information R. | Skip-hol Arrival, Speedbird four thirty-six, passing flight level one one niner, descending flight level seven zero, REDFA one Alpha arrival, information Romeo.
+1792415462 atc BAW436: BAW436 descend 3000 ft, QNH 1015 | 
+1792415462 pilot BAW436: Down to 3000 ft, 1015, Speedbird 436. | Down to three thousand, one zero one five, Speedbird four thirty-six.
+1792415462 atc BAW436: BAW436 cleared ILS approach runway 18R | 
+1792415462 pilot BAW436: Cleared ILS 18R, Speedbird 436. | Cleared I L S one eight right, Speedbird four thirty-six.
+1792415480 pilot KLM704: KLM 704, established localizer 18C. | K L M seven zero four, established localizer one eight center.
+1792415484 pilot KLM1072: KLM 1072, runway vacated, have a nice day. | K L M one zero seven two, runway vacated, have a nice day.
+1792415488 system : SEPARATION LOST KLM704 / KLM1097 — 2.5 NM, 831 ft (−50) | 
+1792415536 atc KLM1097: KLM1097 contact Tower 118.280 | 
+1792415536 pilot KLM1097: 18.28, KLM 1097. | One eight two eight, K L M ten ninety-seven.
+1792415539 pilot KLC1711: Schiphol Arrival, good afternoon, City 1711, with you descending FL070, on the PESER 3A, and we have information R. | Skip-hol Arrival, good afternoon, City seventeen eleven, with you descending flight level seven zero, on the PESER three Alpha, and we have information Romeo.
+1792415540 atc KLC1711: KLC1711 descend 3000 ft, QNH 1015 | 
+1792415540 pilot KLC1711: Descend 3000 ft, QNH 1015, City 1711. | Descend three thousand, Q N H one zero one five, City seventeen eleven.
+1792415540 atc KLC1711: KLC1711 cleared ILS approach runway 18C | 
+1792415540 pilot KLC1711: Cleared the ILS, City 1711. | Cleared the I L S, City seventeen eleven.
+1792415563 pilot EZY7938: Easy 7938, established localizer 18C. | Easy seven niner three eight, established localizer one eight center.
+1792415586 atc KLM704: KLM704 contact Tower 118.280 | 
+1792415586 pilot KLM704: Tower 118.280, KLM 704, bye bye. | Tower one one eight decimal two eight, K L M seven zero four, bye bye.
+1792415590 system : SEPARATION LOST AFR1237 / KLM1681 — 3.0 NM, 740 ft (−50) | 
+1792415651 pilot DLH998: Schiphol Arrival, Lufthansa 998, passing FL139, descending FL070, RKN 2A arrival, information R. | Skip-hol Arrival, Lufthansa niner ninety-eight, passing flight level one three niner, descending flight level seven zero, R K N two Alpha arrival, information Romeo.
+1792415652 atc DLH998: DLH998 descend 3000 ft, QNH 1015 | 
+1792415652 pilot DLH998: Lufthansa 998, descend altitude 3000 ft, QNH 1015. | Lufthansa niner ninety-eight, descend altitude three thousand, Q N H one zero one five.
+1792415652 atc DLH998: DLH998 cleared ILS approach runway 18C | 
+1792415652 pilot DLH998: ILS 18C, cleared, Lufthansa 998. | Uh, I L S one eight center, cleared, Lufthansa niner ninety-eight.
+1792415668 atc EZY7938: EZY7938 contact Tower 118.280 | 
+1792415668 pilot EZY7938: Easy 7938, 118.280. | Easy seven niner three eight, one one eight decimal two eight.
+1792415682 pilot KLM1549: KLM 1549, established localizer 18C. | K L M fifteen forty-nine, established localizer one eight center.
+1792415715 pilot KLM1097: KLM 1097, runway vacated. | K L M ten ninety-seven, runway vacated.
+1792415736 system : SEPARATION LOST AFR1237 / KLM1681 — 2.9 NM, 776 ft (−50) | 
+1792415740 pilot KLM786: Schiphol Arrival, KLM 786 heavy, passing FL119, descending FL070, MOLIX 2A arrival, information R. | Skip-hol Arrival, K L M seven eighty-six heavy, passing flight level one one niner, descending flight level seven zero, MOLIX two Alpha arrival, information Romeo.
+1792415740 atc KLM786: KLM786 descend 3000 ft, QNH 1015 | 
+1792415740 pilot KLM786: Descend altitude 3000 ft, QNH 1015, KLM 786. | Descend altitude three thousand, Q N H one zero one five, K L M seven eighty-six.
+1792415740 atc KLM786: KLM786 cleared ILS approach runway 18R | 
+1792415740 pilot KLM786: KLM 786, okay, ILS 18R, cleared. | K L M seven eighty-six, okay, I L S one eight right, cleared.
+1792415750 pilot KLM1681: KLM 1681, established localizer 18R. | K L M one six eight one, established localizer one eight right.
+1792415766 pilot KLM704: KLM 704, runway vacated. | K L M seven zero four, runway vacated.
+1792415780 system : SEPARATION LOST AFR1237 / KLM1681 — 2.0 NM, 949 ft (−50) | 
+1792415788 atc KLM1549: KLM1549 contact Tower 118.280 | 
+1792415788 pilot KLM1549: 118.280, KLM 1549. | One one eight decimal two eight, K L M fifteen forty-nine.
+1792415795 pilot AFR1237: Airfrans 1237, established 18C. | Airfrans one two three seven, established one eight center.
+1792415834 atc KLM1681: KLM1681 contact Tower 118.280 | 
+1792415834 pilot KLM1681: 18.28, KLM 1681. | One eight two eight, K L M one six eight one.
+1792415838 pilot BAW438: Schiphol Arrival, good afternoon, Speedbird 438, passing FL129, descending FL070, REDFA 1A arrival, information R. | Skip-hol Arrival, good afternoon, Speedbird four thirty-eight, passing flight level one two niner, descending flight level seven zero, REDFA one Alpha arrival, information Romeo.
+1792415838 atc BAW438: BAW438 descend 3000 ft, QNH 1015 | 
+1792415838 pilot BAW438: Down to 3000 ft, 1015, Speedbird 438. | Down to three thousand, one zero one five, Speedbird four thirty-eight.
+1792415838 atc BAW438: BAW438 cleared ILS approach runway 18R | 
+1792415838 pilot BAW438: Cleared ILS approach runway 18R, Speedbird 438. | Uh, cleared I L S approach runway one eight right, Speedbird four thirty-eight.
+1792415849 pilot EZY7938: Easy 7938, runway vacated. | Easy seven niner three eight, runway vacated.
+1792415902 atc AFR1237: AFR1237 contact Tower 118.280 | 
+1792415902 pilot AFR1237: Over to tower, 18.28, Airfrans 1237. | Over to tower, one eight two eight, Airfrans one two three seven.
+1792415930 pilot TRA6280: Transavia 6280, established localizer 18C. | Transavia six two eight zero, established localizer one eight center.
+1792415949 pilot EZY7397: Easy 7397, established on the localizer 18C. | Easy seventy-three ninety-seven, established on the localizer one eight center.
+1792415958 pilot TRA6416: Schiphol Arrival, Transavia 6416, passing FL139, descending FL070, RKN 2A arrival, information R. | Skip-hol Arrival, Transavia six four one six, passing flight level one three niner, descending flight level seven zero, R K N two Alpha arrival, information Romeo.
+1792415958 atc TRA6416: TRA6416 descend 3000 ft, QNH 1015 | 
+1792415958 pilot TRA6416: Down to 3000 ft, 1015, Transavia 6416. | Down to three thousand, one zero one five, Transavia six four one six.
+1792415958 atc TRA6416: TRA6416 cleared ILS approach runway 18C | 
+1792415958 pilot TRA6416: ILS 18C, cleared, Transavia 6416. | I L S one eight center, cleared, Transavia six four one six.
+1792415961 pilot KLC1003: City 1003, established 18C. | City one zero zero three, established one eight center.
+1792415966 pilot KLM1549: KLM 1549, runway vacated. | K L M fifteen forty-nine, runway vacated.
+1792416014 pilot KLM1681: KLM 1681, runway vacated, cheers. | K L M one six eight one, runway vacated, cheers.
+1792416036 atc TRA6280: TRA6280 contact Tower 118.280 | 
+1792416036 pilot TRA6280: Transavia 6280, 18.28, thanks, take care. | Transavia six two eight zero, one eight two eight, thanks, take care.
+1792416056 atc EZY7397: EZY7397 contact Tower 118.280 | 
+1792416056 pilot EZY7397: Tower 118.280, Easy 7397, thanks for the help. | Uh, Tower one one eight decimal two eight, Easy seventy-three ninety-seven, thanks for the help.
+1792416079 pilot DAL90: Schiphol Arrival, good afternoon, Delta 90 heavy, passing FL139, descending FL070, LAMSO 2A arrival, information R. | Skip-hol Arrival, good afternoon, Delta niner zero heavy, passing flight level one three niner, descending flight level seven zero, LAMSO two Alpha arrival, information Romeo.
+1792416080 atc DAL90: DAL90 descend 3000 ft, QNH 1015 | 
+1792416080 pilot DAL90: Down to 3000 ft, 1015, Delta 90. | Down to three thousand, one zero one five, Delta niner zero.
+1792416080 atc DAL90: DAL90 cleared ILS approach runway 18R | 
+1792416080 pilot DAL90: Cleared ILS approach runway 18R, Delta 90. | Cleared I L S approach runway one eight right, Delta niner zero.
+1792416084 pilot AFR1237: Airfrans 1237, runway vacated. | Airfrans one two three seven, runway vacated.
+1792416085 pilot BAW436: Speedbird 436, established localizer 18R. | Speedbird four thirty-six, established localizer one eight right.
+1792416164 pilot KLC1977: Schiphol Arrival, good afternoon, City 1977, with you descending FL070, on the BLUFA 1A, and we have information R. | Skip-hol Arrival, good afternoon, City nineteen seventy-seven, with you uh, descending flight level seven zero, on the BLUFA one Alpha, and we have information Romeo.
+1792416164 atc KLC1977: KLC1977 descend 3000 ft, QNH 1015 | 
+1792416164 pilot KLC1977: City 1977, descending 3000 ft, 1015. | City nineteen seventy-seven, descending three thousand, one zero one five.
+1792416164 atc KLC1977: KLC1977 cleared ILS approach runway 18C | 
+1792416164 pilot KLC1977: City 1977, cleared ILS 18C. | City nineteen seventy-seven, cleared I L S one eight center.
+1792416166 atc BAW436: BAW436 contact Tower 118.280 | 
+1792416166 pilot BAW436: Tower 118.280, Speedbird 436. | Tower one one eight decimal two eight, Speedbird four thirty-six.
+1792416213 pilot EZY7397: Easy 7397, going around, going around. | Easy seventy-three ninety-seven, going around, going around.
+1792416213 system EZY7397: EZY7397 go-around: spacing: previous arrival still on the runway (−15) | 
+1792416217 pilot TRA6280: Transavia 6280, runway vacated, cheers. | Transavia six two eight zero, runway vacated, cheers.
+1792416268 pilot AFR1149: Airfrans 1149, established on the localizer 18C. | Airfrans eleven forty-nine, established on the localizer one eight center.
+1792416280 atc KLC1003: KLC1003 contact Tower 118.280 | 
+1792416280 pilot KLC1003: Tower 118.280, City 1003. | Tower one one eight decimal two eight, City one zero zero three.
+1792416285 pilot TRA5924: Schiphol Arrival, good afternoon, Transavia 5924, with you descending FL070, on the PESER 3A, and we have information R. | Skip-hol Arrival, good afternoon, Transavia fifty-nine twenty-four, with you descending flight level seven zero, on the PESER three Alpha, and we have information Romeo.
+1792416286 atc TRA5924: TRA5924 descend 3000 ft, QNH 1015 | 
+1792416286 pilot TRA5924: Descend altitude 3000 ft, QNH 1015, Transavia 5924. | Uh, descend altitude three thousand, Q N H one zero one five, Transavia fifty-nine twenty-four.
+1792416286 atc TRA5924: TRA5924 cleared ILS approach runway 18C | 
+1792416286 pilot TRA5924: Cleared the ILS, Transavia 5924. | Uh, cleared the I L S, Transavia fifty-nine twenty-four.
+1792416317 pilot KLM786: KLM 786, established localizer 18R. | K L M seven eighty-six, established localizer one eight right.
+1792416327 pilot DLH998: Lufthansa 998, established localizer 18C. | Lufthansa niner ninety-eight, established localizer one eight center.
+1792416345 pilot BAW436: Speedbird 436, runway vacated. | Speedbird four thirty-six, runway vacated.
+1792416374 atc AFR1149: AFR1149 contact Tower 118.280 | 
+1792416374 pilot AFR1149: 18.28, Airfrans 1149. | Uh, one eight two eight, Airfrans eleven forty-nine.
+1792416404 atc KLM786: KLM786 contact Tower 118.280 | 
+1792416404 pilot KLM786: 18.28, KLM 786. | One eight two eight, K L M seven eighty-six.
+1792416405 pilot EZY7519: Schiphol Arrival, good afternoon, Easy 7519, with you descending FL070, on the PESER 3A, and we have information R. | Skip-hol Arrival, good afternoon, Easy seventy-five nineteen, with you descending flight level seven zero, on the PESER three Alpha, and we have information Romeo.
+1792416406 atc EZY7519: EZY7519 descend 3000 ft, QNH 1015 | 
+1792416406 pilot EZY7519: Easy 7519, descend 3000 ft, QNH 1015. | Easy seventy-five nineteen, descend three thousand, Q N H one zero one five.
+1792416406 atc EZY7519: EZY7519 cleared ILS approach runway 18C | 
+1792416406 pilot EZY7519: Easy 7519, ILS 18C, cleared. | Easy seventy-five nineteen, I L S one eight center, cleared.
+1792416467 pilot KLC1003: City 1003, runway vacated. | City one zero zero three, runway vacated.
+1792416487 pilot KLC1166: Schiphol Arrival, good afternoon, City 1166, with you descending FL070, on the BLUFA 1A, and we have information R. | Skip-hol Arrival, good afternoon, City eleven sixty-six, with you uh, descending flight level seven zero, on the BLUFA one Alpha, and we have information Romeo.
+1792416488 atc KLC1166: KLC1166 descend 3000 ft, QNH 1015 | 
+1792416488 pilot KLC1166: Down to 3000 ft, 1015, City 1166. | Down to three thousand, one zero one five, City eleven sixty-six.
+1792416488 atc KLC1166: KLC1166 cleared ILS approach runway 18C | 
+1792416488 pilot KLC1166: Okay, cleared ILS 18C, we'll call you established, City 1166. | Okay, cleared I L S one eight center, we'll call you established, City eleven sixty-six.
+1792416513 pilot BAW438: Speedbird 438, established localizer 18R. | Speedbird four thirty-eight, established localizer one eight right.
+1792416557 pilot AFR1149: Airfrans 1149, runway vacated, have a nice day. | Airfrans eleven forty-nine, runway vacated, have a nice day.
+1792416576 system : SEPARATION LOST KLC1711 / DAL90 — 3.0 NM, 752 ft (−50) | 
+1792416581 pilot KLM786: KLM 786, runway vacated. | K L M seven eighty-six, runway vacated.
+1792416594 atc BAW438: BAW438 contact Tower 118.280 | 
+1792416594 pilot BAW438: 18.28, Speedbird 438. | One eight two eight, Speedbird four thirty-eight.
+EZY7397 airborne -2.558 -23.949 1995
+KLC1711 airborne -10.051 14.761 5885
+DLH998 airborne -0.423 9.623 2380
+BAW438 airborne -1.639 8.789 1839
+TRA6416 airborne 6.404 21.485 6623
+EZY8758 airborne -29.982 -12.834 14295
+DAL90 airborne -12.140 13.361 6246
+KLC1977 airborne 16.416 17.461 8502
+KLC1779 airborne -13.052 -6.942 7425
+TRA5924 airborne -11.466 -35.206 14882
+EZY7519 airborne -11.248 -36.432 11889
+KLC1166 airborne 34.565 15.694 11889
+KLC1372 airborne 1.847 -3.153 3825

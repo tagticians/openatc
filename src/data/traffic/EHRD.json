@@ -1,0 +1,89 @@
+[
+ {
+  "airline": "TRA",
+  "types": [
+   "B738",
+   "B738",
+   "B737",
+   "A21N"
+  ],
+  "routes": [
+   "LEMG",
+   "LEAL",
+   "LEPA",
+   "LPFR",
+   "LTAI",
+   "GCLP",
+   "GCTS",
+   "LEBL",
+   "LIRF",
+   "LGIR",
+   "LGRP",
+   "GMMX",
+   "LFMN",
+   "LPPT",
+   "LEIB",
+   "LTFE",
+   "GCRR",
+   "LGKO",
+   "LEVC",
+   "LIPE"
+  ],
+  "weight": 10,
+  "numbering": [
+   5000,
+   6999
+  ]
+ },
+ {
+  "airline": "CFE",
+  "types": [
+   "E190"
+  ],
+  "routes": [
+   "EGLC"
+  ],
+  "weight": 2,
+  "numbering": [
+   8400,
+   8499
+  ]
+ },
+ {
+  "airline": "CND",
+  "types": [
+   "B738"
+  ],
+  "routes": [
+   "LTAI",
+   "LTBS",
+   "GCTS",
+   "LGIR"
+  ],
+  "weight": 1,
+  "numbering": [
+   700,
+   799
+  ]
+ },
+ {
+  "airline": "NJE",
+  "types": [
+   "C56X",
+   "CL35"
+  ],
+  "routes": [
+   "LFPB",
+   "EGGW",
+   "LSGG",
+   "LFMN",
+   "EDDM",
+   "LEPA"
+  ],
+  "weight": 1.5,
+  "numbering": [
+   100,
+   999
+  ]
+ }
+]

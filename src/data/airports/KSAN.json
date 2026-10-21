@@ -1,0 +1,5142 @@
+{
+ "icao": "KSAN",
+ "name": "SAN DIEGO INTL",
+ "arp": [
+  32.733564,
+  -117.189664
+ ],
+ "elevation": 17,
+ "magVar": 11.0,
+ "transitionAltitude": 18000,
+ "runways": {
+  "09": {
+   "id": "09",
+   "trueHdg": 106.07,
+   "length": 2865,
+   "thr": [
+    32.736364,
+    -117.201231
+   ],
+   "end": [
+    32.731372,
+    -117.180631
+   ],
+   "elevation": 16,
+   "displaced": 1000,
+   "ils": {
+    "ident": "ISAN",
+    "freq": "111.55"
+   },
+   "locOnly": false,
+   "gpAngle": 3.1,
+   "approach": {
+    "ident": "I09-Y",
+    "transitions": {
+     "MZB": [
+      {
+       "t": "FIX",
+       "fix": "MZB"
+      },
+      {
+       "t": "FIX",
+       "fix": "GATTO",
+       "alt": {
+        "above": 2800
+       }
+      }
+     ],
+     "BARET": [
+      {
+       "t": "FIX",
+       "fix": "BARET"
+      },
+      {
+       "t": "FIX",
+       "fix": "PGY"
+      },
+      {
+       "t": "FIX",
+       "fix": "IFSOX"
+      },
+      {
+       "t": "FIX",
+       "fix": "SARGS"
+      }
+     ],
+     "MNLYT": [
+      {
+       "t": "FIX",
+       "fix": "MNLYT",
+       "alt": {
+        "above": 4000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "SARGS",
+       "alt": {
+        "above": 2100
+       }
+      }
+     ],
+     "SHAMU": [
+      {
+       "t": "FIX",
+       "fix": "SHAMU"
+      },
+      {
+       "t": "FIX",
+       "fix": "SARGS"
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "SARGS",
+      "alt": {
+       "at": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "GATTO",
+      "alt": {
+       "at": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR09"
+     }
+    ],
+    "missed": [
+     {
+      "t": "FIX",
+      "fix": "PGY",
+      "alt": {
+       "above": 5000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "CAPUS",
+      "alt": {
+       "above": 5000
+      },
+      "flyover": true
+     }
+    ],
+    "ifix": "SARGS",
+    "faf": "GATTO"
+   }
+  },
+  "27": {
+   "id": "27",
+   "trueHdg": 286.08,
+   "length": 2865,
+   "thr": [
+    32.731372,
+    -117.180631
+   ],
+   "end": [
+    32.736364,
+    -117.201231
+   ],
+   "elevation": 15,
+   "displaced": 1810,
+   "ils": {
+    "ident": "IUBR",
+    "freq": "110.90"
+   },
+   "locOnly": true,
+   "gpAngle": 3.5,
+   "approach": {
+    "ident": "L27",
+    "transitions": {
+     "LYNDI": [
+      {
+       "t": "FIX",
+       "fix": "LYNDI",
+       "alt": {
+        "above": 5000
+       },
+       "spd": 210
+      },
+      {
+       "t": "FIX",
+       "fix": "VYDDA",
+       "alt": {
+        "above": 4000
+       }
+      }
+     ],
+     "KLOMN": [
+      {
+       "t": "FIX",
+       "fix": "KLOMN",
+       "alt": {
+        "at": 6000
+       },
+       "spd": 210
+      },
+      {
+       "t": "FIX",
+       "fix": "AJADE",
+       "alt": {
+        "above": 5200
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "CATDG",
+       "alt": {
+        "above": 4800
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "CRSNR",
+       "alt": {
+        "above": 3700
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "SAYAE",
+       "alt": {
+        "above": 3200
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "REEBO",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "BARET": [
+      {
+       "t": "FIX",
+       "fix": "BARET"
+      },
+      {
+       "t": "FIX",
+       "fix": "IFHEJ"
+      },
+      {
+       "t": "FIX",
+       "fix": "VYDDA"
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "VYDDA",
+      "alt": {
+       "above": 4000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "OKAIN",
+      "alt": {
+       "above": 3600
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "CIJHI",
+      "alt": {
+       "above": 2700
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "REEBO",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR27"
+     }
+    ],
+    "missed": [
+     {
+      "t": "FIX",
+      "fix": "CCADE",
+      "alt": {
+       "above": 2500
+      },
+      "flyover": true
+     }
+    ],
+    "ifix": "VYDDA",
+    "faf": "REEBO"
+   }
+  }
+ },
+ "sids": [
+  {
+   "name": "BRDR 7",
+   "ident": "BRDR7",
+   "runway": "09",
+   "transition": "IPL",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 93,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "BROWS"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    }
+   ]
+  },
+  {
+   "name": "BRDR 7",
+   "ident": "BRDR7",
+   "runway": "09",
+   "transition": "JLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 93,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "BROWS"
+    },
+    {
+     "t": "FIX",
+     "fix": "JLI"
+    }
+   ]
+  },
+  {
+   "name": "BRDR 7",
+   "ident": "BRDR7",
+   "runway": "27",
+   "transition": "IPL",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 123,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "PGY"
+    },
+    {
+     "t": "FIX",
+     "fix": "BROWS"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    }
+   ]
+  },
+  {
+   "name": "BRDR 7",
+   "ident": "BRDR7",
+   "runway": "27",
+   "transition": "JLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 123,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "PGY"
+    },
+    {
+     "t": "FIX",
+     "fix": "BROWS"
+    },
+    {
+     "t": "FIX",
+     "fix": "JLI"
+    }
+   ]
+  },
+  {
+   "name": "CLSSY 3",
+   "ident": "CLSSY3",
+   "runway": "27",
+   "transition": "CENZA",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "RRONN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRGDY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLAMP"
+    },
+    {
+     "t": "FIX",
+     "fix": "CLSSY",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "CENZA"
+    }
+   ]
+  },
+  {
+   "name": "CLSSY 3",
+   "ident": "CLSSY3",
+   "runway": "27",
+   "transition": "GBN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "RRONN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRGDY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLAMP"
+    },
+    {
+     "t": "FIX",
+     "fix": "CLSSY",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "GUUSE"
+    },
+    {
+     "t": "FIX",
+     "fix": "BLUZE"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BZA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOGGZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOHAK"
+    },
+    {
+     "t": "FIX",
+     "fix": "JUDTH"
+    },
+    {
+     "t": "FIX",
+     "fix": "GBN"
+    }
+   ]
+  },
+  {
+   "name": "CLSSY 3",
+   "ident": "CLSSY3",
+   "runway": "27",
+   "transition": "HOGGZ",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "RRONN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRGDY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLAMP"
+    },
+    {
+     "t": "FIX",
+     "fix": "CLSSY",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "GUUSE"
+    },
+    {
+     "t": "FIX",
+     "fix": "BLUZE"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BZA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOGGZ"
+    }
+   ]
+  },
+  {
+   "name": "CLSSY 3",
+   "ident": "CLSSY3",
+   "runway": "27",
+   "transition": "MTBAL",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "RRONN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRGDY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLAMP"
+    },
+    {
+     "t": "FIX",
+     "fix": "CLSSY",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "PIEZZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "NSHEE"
+    },
+    {
+     "t": "FIX",
+     "fix": "MTBAL"
+    }
+   ]
+  },
+  {
+   "name": "CLSSY 3",
+   "ident": "CLSSY3",
+   "runway": "27",
+   "transition": "TGOLD",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 517
+    },
+    {
+     "t": "FIX",
+     "fix": "RRONN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRGDY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLAMP"
+    },
+    {
+     "t": "FIX",
+     "fix": "CLSSY",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "GUUSE"
+    },
+    {
+     "t": "FIX",
+     "fix": "BLUZE"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BZA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOGGZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOHAK"
+    },
+    {
+     "t": "FIX",
+     "fix": "JUDTH"
+    },
+    {
+     "t": "FIX",
+     "fix": "TGOLD"
+    }
+   ]
+  },
+  {
+   "name": "CWARD 2",
+   "ident": "CWARD2",
+   "runway": "27",
+   "transition": "LAX",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "CWARD",
+     "alt": {
+      "below": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LAX"
+    }
+   ]
+  },
+  {
+   "name": "CWARD 2",
+   "ident": "CWARD2",
+   "runway": "27",
+   "transition": "SLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "CWARD",
+     "alt": {
+      "below": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MADOW"
+    },
+    {
+     "t": "FIX",
+     "fix": "SLI"
+    }
+   ]
+  },
+  {
+   "name": "ECHHO 2",
+   "ident": "ECHHO2",
+   "runway": "09",
+   "transition": "IKAYE",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 4000
+    },
+    {
+     "t": "FIX",
+     "fix": "BAUCA"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEDEY"
+    },
+    {
+     "t": "FIX",
+     "fix": "GEEGN"
+    },
+    {
+     "t": "FIX",
+     "fix": "IKAYE"
+    }
+   ]
+  },
+  {
+   "name": "ECHHO 2",
+   "ident": "ECHHO2",
+   "runway": "09",
+   "transition": "SLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 4000
+    },
+    {
+     "t": "FIX",
+     "fix": "BAUCA"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "SLI"
+    }
+   ]
+  },
+  {
+   "name": "ECHHO 2",
+   "ident": "ECHHO2",
+   "runway": "27",
+   "transition": "IKAYE",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "LANDN"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEDEY"
+    },
+    {
+     "t": "FIX",
+     "fix": "GEEGN"
+    },
+    {
+     "t": "FIX",
+     "fix": "IKAYE"
+    }
+   ]
+  },
+  {
+   "name": "ECHHO 2",
+   "ident": "ECHHO2",
+   "runway": "27",
+   "transition": "SLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "LANDN"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "SLI"
+    }
+   ]
+  },
+  {
+   "name": "FALCC 1",
+   "ident": "FALCC1",
+   "runway": "09",
+   "transition": "SLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 4000
+    },
+    {
+     "t": "FIX",
+     "fix": "BOKNE"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAFAN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LNSAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FALCC"
+    },
+    {
+     "t": "FIX",
+     "fix": "SLI"
+    }
+   ]
+  },
+  {
+   "name": "FALCC 1",
+   "ident": "FALCC1",
+   "runway": "09",
+   "transition": "SXC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 4000
+    },
+    {
+     "t": "FIX",
+     "fix": "BOKNE"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAFAN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LNSAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FALCC"
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "FALCC 1",
+   "ident": "FALCC1",
+   "runway": "27",
+   "transition": "SLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 417
+    },
+    {
+     "t": "FIX",
+     "fix": "CLSTR",
+     "alt": {
+      "below": 4000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BOKNE"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAFAN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LNSAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FALCC"
+    },
+    {
+     "t": "FIX",
+     "fix": "SLI"
+    }
+   ]
+  },
+  {
+   "name": "FALCC 1",
+   "ident": "FALCC1",
+   "runway": "27",
+   "transition": "SXC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 417
+    },
+    {
+     "t": "FIX",
+     "fix": "CLSTR",
+     "alt": {
+      "below": 4000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BOKNE"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAFAN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LNSAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FALCC"
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "MMOTO 2",
+   "ident": "MMOTO2",
+   "runway": "09",
+   "transition": "DINTY",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 4000
+    },
+    {
+     "t": "FIX",
+     "fix": "BAUCA"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO",
+     "alt": {
+      "below": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "MMOTO 2",
+   "ident": "MMOTO2",
+   "runway": "09",
+   "transition": "MALIT",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 4000
+    },
+    {
+     "t": "FIX",
+     "fix": "BAUCA"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO",
+     "alt": {
+      "below": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "MMOTO 2",
+   "ident": "MMOTO2",
+   "runway": "27",
+   "transition": "DINTY",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "LANDN"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO",
+     "alt": {
+      "below": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "MMOTO 2",
+   "ident": "MMOTO2",
+   "runway": "27",
+   "transition": "MALIT",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "LANDN"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECHHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "GOFUR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MMOTO",
+     "alt": {
+      "below": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "PADRZ 2",
+   "ident": "PADRZ2",
+   "runway": "27",
+   "transition": "CHKNN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERNL"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "HFMNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "CHKNN"
+    }
+   ]
+  },
+  {
+   "name": "PADRZ 2",
+   "ident": "PADRZ2",
+   "runway": "27",
+   "transition": "DINTY",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERNL"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "PADRZ 2",
+   "ident": "PADRZ2",
+   "runway": "27",
+   "transition": "EHF",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERNL"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "HFMNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "CHKNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIDDL"
+    },
+    {
+     "t": "FIX",
+     "fix": "LANDO"
+    },
+    {
+     "t": "FIX",
+     "fix": "EHF"
+    }
+   ]
+  },
+  {
+   "name": "PADRZ 2",
+   "ident": "PADRZ2",
+   "runway": "27",
+   "transition": "IKAYE",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERNL"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "IKAYE"
+    }
+   ]
+  },
+  {
+   "name": "PADRZ 2",
+   "ident": "PADRZ2",
+   "runway": "27",
+   "transition": "MALIT",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERNL"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "PADRZ 2",
+   "ident": "PADRZ2",
+   "runway": "27",
+   "transition": "OROSZ",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "WNFLD"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERNL"
+    },
+    {
+     "t": "FIX",
+     "fix": "GYWNN",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PADRZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "HFMNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "CHKNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIDDL"
+    },
+    {
+     "t": "FIX",
+     "fix": "TWINE"
+    },
+    {
+     "t": "FIX",
+     "fix": "OROSZ"
+    }
+   ]
+  },
+  {
+   "name": "PEBLE 6",
+   "ident": "PEBLE6",
+   "runway": "27",
+   "transition": "SLI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 417
+    },
+    {
+     "t": "FIX",
+     "fix": "MELDY",
+     "alt": {
+      "above": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SLI"
+    }
+   ]
+  },
+  {
+   "name": "PEBLE 6",
+   "ident": "PEBLE6",
+   "runway": "27",
+   "transition": "SXC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 275,
+     "alt": 417
+    },
+    {
+     "t": "FIX",
+     "fix": "MELDY",
+     "alt": {
+      "above": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    }
+   ]
+  },
+  {
+   "name": "SAYOW 2",
+   "ident": "SAYOW2",
+   "runway": "09",
+   "transition": "IPL",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "SAYOW",
+     "alt": {
+      "above": 4900
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CHRJR",
+     "alt": {
+      "above": 7200
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JUNOR",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    }
+   ]
+  },
+  {
+   "name": "SAYOW 2",
+   "ident": "SAYOW2",
+   "runway": "09",
+   "transition": "MTBAL",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 95,
+     "alt": 520
+    },
+    {
+     "t": "FIX",
+     "fix": "SAYOW",
+     "alt": {
+      "above": 4900
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LEGUE",
+     "alt": {
+      "above": 10000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "NSHEE"
+    },
+    {
+     "t": "FIX",
+     "fix": "MTBAL"
+    }
+   ]
+  },
+  {
+   "name": "ZZOOO 4",
+   "ident": "ZZOOO4",
+   "runway": "27",
+   "transition": "CENZA",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "JETTI",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "CENZA"
+    }
+   ]
+  },
+  {
+   "name": "ZZOOO 4",
+   "ident": "ZZOOO4",
+   "runway": "27",
+   "transition": "GBN",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "JETTI",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "GUUSE"
+    },
+    {
+     "t": "FIX",
+     "fix": "BLUZE"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BZA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOGGZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOHAK"
+    },
+    {
+     "t": "FIX",
+     "fix": "JUDTH"
+    },
+    {
+     "t": "FIX",
+     "fix": "GBN"
+    }
+   ]
+  },
+  {
+   "name": "ZZOOO 4",
+   "ident": "ZZOOO4",
+   "runway": "27",
+   "transition": "HOGGZ",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "JETTI",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "GUUSE"
+    },
+    {
+     "t": "FIX",
+     "fix": "BLUZE"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BZA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOGGZ"
+    }
+   ]
+  },
+  {
+   "name": "ZZOOO 4",
+   "ident": "ZZOOO4",
+   "runway": "27",
+   "transition": "MTBAL",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "JETTI",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "PIEZZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "NSHEE"
+    },
+    {
+     "t": "FIX",
+     "fix": "MTBAL"
+    }
+   ]
+  },
+  {
+   "name": "ZZOOO 4",
+   "ident": "ZZOOO4",
+   "runway": "27",
+   "transition": "TGOLD",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "JETTI",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "ZZOOO",
+     "alt": {
+      "below": 23000,
+      "above": 6000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "ANRMN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JORRJ",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GRIDR"
+    },
+    {
+     "t": "FIX",
+     "fix": "GUUSE"
+    },
+    {
+     "t": "FIX",
+     "fix": "BLUZE"
+    },
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BZA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOGGZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOHAK"
+    },
+    {
+     "t": "FIX",
+     "fix": "JUDTH"
+    },
+    {
+     "t": "FIX",
+     "fix": "TGOLD"
+    }
+   ]
+  }
+ ],
+ "stars": [
+  {
+   "name": "BARET 5",
+   "ident": "BARET5",
+   "transition": "EED",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "EED"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHADI"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "SALTN"
+    },
+    {
+     "t": "FIX",
+     "fix": "CARUL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET"
+    }
+   ]
+  },
+  {
+   "name": "BARET 5",
+   "ident": "BARET5",
+   "transition": "IPL",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "IPL"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUMBA"
+    },
+    {
+     "t": "FIX",
+     "fix": "PILLO"
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET"
+    }
+   ]
+  },
+  {
+   "name": "BARET 5",
+   "ident": "BARET5",
+   "transition": "PKE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "PKE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHADI"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "SALTN"
+    },
+    {
+     "t": "FIX",
+     "fix": "CARUL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET"
+    }
+   ]
+  },
+  {
+   "name": "BARET 5",
+   "ident": "BARET5",
+   "transition": "TNP",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TNP"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "SALTN"
+    },
+    {
+     "t": "FIX",
+     "fix": "CARUL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET"
+    }
+   ]
+  },
+  {
+   "name": "COMIX 2",
+   "ident": "COMIX2",
+   "transition": "HUULK",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "HUULK"
+    },
+    {
+     "t": "FIX",
+     "fix": "DECEA"
+    },
+    {
+     "t": "FIX",
+     "fix": "JOEKR"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAMBT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEJEN",
+     "alt": {
+      "below": 19000,
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COMIX",
+     "alt": {
+      "below": 15000,
+      "above": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "FLSHH"
+    },
+    {
+     "t": "FIX",
+     "fix": "LNTRN",
+     "alt": {
+      "above": 9000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "XMANS",
+     "alt": {
+      "above": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "KLOMN",
+     "alt": {
+      "at": 6000
+     },
+     "spd": 210
+    },
+    {
+     "t": "FIX",
+     "fix": "NADDO",
+     "alt": {
+      "at": 6000
+     },
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "COMIX 2",
+   "ident": "COMIX2",
+   "transition": "LAX",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LAX"
+    },
+    {
+     "t": "FIX",
+     "fix": "MRVEL"
+    },
+    {
+     "t": "FIX",
+     "fix": "SPYDE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAMBT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEJEN",
+     "alt": {
+      "below": 19000,
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COMIX",
+     "alt": {
+      "below": 15000,
+      "above": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "FLSHH"
+    },
+    {
+     "t": "FIX",
+     "fix": "LNTRN",
+     "alt": {
+      "above": 9000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "XMANS",
+     "alt": {
+      "above": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "KLOMN",
+     "alt": {
+      "at": 6000
+     },
+     "spd": 210
+    },
+    {
+     "t": "FIX",
+     "fix": "NADDO",
+     "alt": {
+      "at": 6000
+     },
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "COMIX 2",
+   "ident": "COMIX2",
+   "transition": "SXC",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "SXC",
+     "alt": {
+      "below": 29000,
+      "above": 25000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SLAER"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEJEN",
+     "alt": {
+      "below": 19000,
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COMIX",
+     "alt": {
+      "below": 15000,
+      "above": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "FLSHH"
+    },
+    {
+     "t": "FIX",
+     "fix": "LNTRN",
+     "alt": {
+      "above": 9000
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "XMANS",
+     "alt": {
+      "above": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "KLOMN",
+     "alt": {
+      "at": 6000
+     },
+     "spd": 210
+    },
+    {
+     "t": "FIX",
+     "fix": "NADDO",
+     "alt": {
+      "at": 6000
+     },
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "HUBRD 1",
+   "ident": "HUBRD1",
+   "transition": "LAX",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LAX"
+    },
+    {
+     "t": "FIX",
+     "fix": "OTISS"
+    },
+    {
+     "t": "FIX",
+     "fix": "HUBRD"
+    },
+    {
+     "t": "FIX",
+     "fix": "CARDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "TORIE"
+    }
+   ]
+  },
+  {
+   "name": "HUBRD 1",
+   "ident": "HUBRD1",
+   "transition": "SXC",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "SXC"
+    },
+    {
+     "t": "FIX",
+     "fix": "HUBRD"
+    },
+    {
+     "t": "FIX",
+     "fix": "CARDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "TORIE"
+    }
+   ]
+  },
+  {
+   "name": "LUCKI 1",
+   "ident": "LUCKI1",
+   "transition": "HOGGZ",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "HOGGZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "MANRS"
+    },
+    {
+     "t": "FIX",
+     "fix": "CBOLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "KRMAA"
+    },
+    {
+     "t": "FIX",
+     "fix": "SOFII",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CMPOE",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HEELX",
+     "alt": {
+      "below": 15000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "JACKK",
+     "alt": {
+      "below": 11000,
+      "above": 10000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "AZTEK",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JEEVS",
+     "alt": {
+      "above": 6100
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LUCKI",
+     "alt": {
+      "at": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LYNDI",
+     "alt": {
+      "above": 5000
+     },
+     "spd": 210
+    }
+   ]
+  },
+  {
+   "name": "LUCKI 1",
+   "ident": "LUCKI1",
+   "transition": "IPL",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "IPL",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HEELX",
+     "alt": {
+      "below": 15000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "JACKK",
+     "alt": {
+      "below": 11000,
+      "above": 10000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "AZTEK",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JEEVS",
+     "alt": {
+      "above": 6100
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LUCKI",
+     "alt": {
+      "at": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LYNDI",
+     "alt": {
+      "above": 5000
+     },
+     "spd": 210
+    }
+   ]
+  },
+  {
+   "name": "LUCKI 1",
+   "ident": "LUCKI1",
+   "transition": "LVELL",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LVELL"
+    },
+    {
+     "t": "FIX",
+     "fix": "CHADT"
+    },
+    {
+     "t": "FIX",
+     "fix": "CABIC"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DSURT",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TRIXI",
+     "alt": {
+      "below": 14000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "HSKER",
+     "alt": {
+      "above": 8700
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HNAHH",
+     "alt": {
+      "above": 6100
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LUCKI",
+     "alt": {
+      "at": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LYNDI",
+     "alt": {
+      "above": 5000
+     },
+     "spd": 210
+    }
+   ]
+  },
+  {
+   "name": "LUCKI 1",
+   "ident": "LUCKI1",
+   "transition": "MOMAR",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "MOMAR",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DSURT",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TRIXI",
+     "alt": {
+      "below": 14000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "HSKER",
+     "alt": {
+      "above": 8700
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HNAHH",
+     "alt": {
+      "above": 6100
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LUCKI",
+     "alt": {
+      "at": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LYNDI",
+     "alt": {
+      "above": 5000
+     },
+     "spd": 210
+    }
+   ]
+  },
+  {
+   "name": "LUCKI 1",
+   "ident": "LUCKI1",
+   "transition": "PKE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "PKE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LNDON"
+    },
+    {
+     "t": "FIX",
+     "fix": "WBERG"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHADI"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DSURT",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TRIXI",
+     "alt": {
+      "below": 14000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "HSKER",
+     "alt": {
+      "above": 8700
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HNAHH",
+     "alt": {
+      "above": 6100
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LUCKI",
+     "alt": {
+      "at": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LYNDI",
+     "alt": {
+      "above": 5000
+     },
+     "spd": 210
+    }
+   ]
+  },
+  {
+   "name": "LUCKI 1",
+   "ident": "LUCKI1",
+   "transition": "TTRUE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TTRUE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LINNE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SRRFR"
+    },
+    {
+     "t": "FIX",
+     "fix": "TRRSH"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHADI"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DSURT",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TRIXI",
+     "alt": {
+      "below": 14000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "HSKER",
+     "alt": {
+      "above": 8700
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BARET",
+     "alt": {
+      "above": 8000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HNAHH",
+     "alt": {
+      "above": 6100
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LUCKI",
+     "alt": {
+      "at": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LYNDI",
+     "alt": {
+      "above": 5000
+     },
+     "spd": 210
+    }
+   ]
+  },
+  {
+   "name": "PLYYA 2",
+   "ident": "PLYYA2",
+   "transition": "BAUBB",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "BAUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "DIRBY",
+     "alt": {
+      "at": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PITTD",
+     "alt": {
+      "below": 16500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OHBEA",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PLYYA",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MNLYT",
+     "alt": {
+      "above": 4000
+     }
+    }
+   ]
+  },
+  {
+   "name": "PLYYA 2",
+   "ident": "PLYYA2",
+   "transition": "ELKEY",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "ELKEY"
+    },
+    {
+     "t": "FIX",
+     "fix": "DIRBY",
+     "alt": {
+      "at": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PITTD",
+     "alt": {
+      "below": 16500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OHBEA",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PLYYA",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MNLYT",
+     "alt": {
+      "above": 4000
+     }
+    }
+   ]
+  },
+  {
+   "name": "PLYYA 2",
+   "ident": "PLYYA2",
+   "transition": "FICKY",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "DIRBY",
+     "alt": {
+      "at": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PITTD",
+     "alt": {
+      "below": 16500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OHBEA",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PLYYA",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MNLYT",
+     "alt": {
+      "above": 4000
+     }
+    }
+   ]
+  },
+  {
+   "name": "PLYYA 2",
+   "ident": "PLYYA2",
+   "transition": "LAX",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LAX",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "TASCO",
+     "alt": {
+      "below": 21000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWAMI",
+     "alt": {
+      "below": 16500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OHBEA",
+     "alt": {
+      "above": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PLYYA",
+     "alt": {
+      "above": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MNLYT",
+     "alt": {
+      "above": 4000
+     }
+    }
+   ]
+  },
+  {
+   "name": "SHAMU 1",
+   "ident": "SHAMU1",
+   "transition": "LAX",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LAX"
+    },
+    {
+     "t": "FIX",
+     "fix": "EIREE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHAMU"
+    }
+   ]
+  },
+  {
+   "name": "TOPGN 2",
+   "ident": "TOPGN2",
+   "transition": "IPL",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "IPL",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BLUZE",
+     "alt": {
+      "below": 19000,
+      "above": 17000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "GUUSE",
+     "alt": {
+      "below": 13000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "TOPGN",
+     "alt": {
+      "below": 10000,
+      "above": 9000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ISEMN",
+     "alt": {
+      "above": 6400
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ZIPPP",
+     "alt": {
+      "below": 8000,
+      "above": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TMCAT",
+     "alt": {
+      "at": 6000
+     },
+     "spd": 210,
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "TOPGN 2",
+   "ident": "TOPGN2",
+   "transition": "MOMAR",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "MOMAR",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DSURT",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TRIXI",
+     "alt": {
+      "below": 13000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "TOPGN",
+     "alt": {
+      "below": 10000,
+      "above": 9000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ISEMN",
+     "alt": {
+      "above": 6400
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ZIPPP",
+     "alt": {
+      "below": 8000,
+      "above": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TMCAT",
+     "alt": {
+      "at": 6000
+     },
+     "spd": 210,
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "TOPGN 2",
+   "ident": "TOPGN2",
+   "transition": "PKE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "PKE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LNDON"
+    },
+    {
+     "t": "FIX",
+     "fix": "WBERG"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHADI"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DSURT",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TRIXI",
+     "alt": {
+      "below": 13000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "TOPGN",
+     "alt": {
+      "below": 10000,
+      "above": 9000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ISEMN",
+     "alt": {
+      "above": 6400
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ZIPPP",
+     "alt": {
+      "below": 8000,
+      "above": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TMCAT",
+     "alt": {
+      "at": 6000
+     },
+     "spd": 210,
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "TOPGN 2",
+   "ident": "TOPGN2",
+   "transition": "TTRUE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TTRUE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LINNE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SRRFR"
+    },
+    {
+     "t": "FIX",
+     "fix": "TRRSH"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHADI"
+    },
+    {
+     "t": "FIX",
+     "fix": "MOMAR",
+     "alt": {
+      "below": 26000,
+      "above": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DSURT",
+     "alt": {
+      "below": 23000,
+      "above": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TRIXI",
+     "alt": {
+      "below": 13000,
+      "above": 12000
+     },
+     "spd": 270
+    },
+    {
+     "t": "FIX",
+     "fix": "TOPGN",
+     "alt": {
+      "below": 10000,
+      "above": 9000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ISEMN",
+     "alt": {
+      "above": 6400
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ZIPPP",
+     "alt": {
+      "below": 8000,
+      "above": 6000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TMCAT",
+     "alt": {
+      "at": 6000
+     },
+     "spd": 210,
+     "flyover": true
+    }
+   ]
+  }
+ ],
+ "holdings": {
+  "SARGS": {
+   "inbound": 95,
+   "turn": "R",
+   "minAlt": 2500
+  },
+  "CAPUS": {
+   "inbound": 5,
+   "turn": "R",
+   "minAlt": 3000
+  },
+  "CCADE": {
+   "inbound": 75,
+   "turn": "R",
+   "minAlt": 2500
+  },
+  "BARET": {
+   "inbound": 181,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "NADDO": {
+   "inbound": 104,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "TORIE": {
+   "inbound": 144,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "LYNDI": {
+   "inbound": 239,
+   "turn": "R",
+   "minAlt": 5000,
+   "synthetic": true
+  },
+  "MNLYT": {
+   "inbound": 126,
+   "turn": "R",
+   "minAlt": 4000,
+   "synthetic": true
+  },
+  "SHAMU": {
+   "inbound": 118,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "TMCAT": {
+   "inbound": 273,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  }
+ },
+ "airspace": [
+  {
+   "name": "SAN DIEGO AREA A",
+   "cls": "B",
+   "lower": "4800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.99203,
+     -117.79019
+    ],
+    [
+     32.88333,
+     -117.69528
+    ],
+    [
+     32.75631,
+     -117.62628
+    ],
+    [
+     32.95053,
+     -117.54294
+    ],
+    [
+     32.97361,
+     -117.42878
+    ],
+    [
+     32.98125,
+     -117.39089
+    ],
+    [
+     33.03681,
+     -117.43722
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA B",
+   "cls": "B",
+   "lower": "2000",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.97361,
+     -117.42878
+    ],
+    [
+     32.75064,
+     -117.43797
+    ],
+    [
+     32.72281,
+     -117.34636
+    ],
+    [
+     32.72281,
+     -117.32069
+    ],
+    [
+     32.65397,
+     -117.30789
+    ],
+    [
+     32.69078,
+     -117.59075
+    ],
+    [
+     32.75631,
+     -117.62628
+    ],
+    [
+     32.95053,
+     -117.54294
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA C",
+   "cls": "B",
+   "lower": "1800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.97361,
+     -117.42878
+    ],
+    [
+     32.98125,
+     -117.39089
+    ],
+    [
+     32.90228,
+     -117.32514
+    ],
+    [
+     32.88633,
+     -117.32078
+    ],
+    [
+     32.84097,
+     -117.30842
+    ],
+    [
+     32.78219,
+     -117.22542
+    ],
+    [
+     32.79675,
+     -117.33447
+    ],
+    [
+     32.72281,
+     -117.32069
+    ],
+    [
+     32.72281,
+     -117.34636
+    ],
+    [
+     32.75064,
+     -117.43797
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA D",
+   "cls": "B",
+   "lower": "1800",
+   "upper": "3200",
+   "polygon": [
+    [
+     32.98125,
+     -117.39089
+    ],
+    [
+     32.90228,
+     -117.32514
+    ],
+    [
+     32.88633,
+     -117.32078
+    ],
+    [
+     32.84694,
+     -117.20222
+    ],
+    [
+     32.88694,
+     -117.22778
+    ],
+    [
+     32.90861,
+     -117.2275
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA D",
+   "cls": "B",
+   "lower": "6800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.98125,
+     -117.39089
+    ],
+    [
+     32.90228,
+     -117.32514
+    ],
+    [
+     32.88633,
+     -117.32078
+    ],
+    [
+     32.84694,
+     -117.20222
+    ],
+    [
+     32.88694,
+     -117.22778
+    ],
+    [
+     32.90861,
+     -117.2275
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA E",
+   "cls": "B",
+   "lower": "3000",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.97256,
+     -117.19367
+    ],
+    [
+     32.99217,
+     -117.12331
+    ],
+    [
+     32.97922,
+     -117.10803
+    ],
+    [
+     32.94583,
+     -117.1265
+    ],
+    [
+     32.91811,
+     -117.20278
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA F",
+   "cls": "B",
+   "lower": "0",
+   "upper": "3200",
+   "polygon": [
+    [
+     32.90861,
+     -117.2275
+    ],
+    [
+     32.86444,
+     -117.16528
+    ],
+    [
+     32.86583,
+     -117.12694
+    ],
+    [
+     32.85397,
+     -117.05083
+    ],
+    [
+     32.85008,
+     -117.05264
+    ],
+    [
+     32.84028,
+     -117.09667
+    ],
+    [
+     32.84028,
+     -117.16389
+    ],
+    [
+     32.84722,
+     -117.17778
+    ],
+    [
+     32.84694,
+     -117.20222
+    ],
+    [
+     32.88694,
+     -117.22778
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA F",
+   "cls": "B",
+   "lower": "4800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.90861,
+     -117.2275
+    ],
+    [
+     32.86444,
+     -117.16528
+    ],
+    [
+     32.86583,
+     -117.12694
+    ],
+    [
+     32.85397,
+     -117.05083
+    ],
+    [
+     32.85008,
+     -117.05264
+    ],
+    [
+     32.84028,
+     -117.09667
+    ],
+    [
+     32.84028,
+     -117.16389
+    ],
+    [
+     32.84722,
+     -117.17778
+    ],
+    [
+     32.84694,
+     -117.20222
+    ],
+    [
+     32.88694,
+     -117.22778
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA G",
+   "cls": "B",
+   "lower": "0",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.90861,
+     -117.2275
+    ],
+    [
+     32.86444,
+     -117.16528
+    ],
+    [
+     32.86583,
+     -117.12694
+    ],
+    [
+     32.85397,
+     -117.05083
+    ],
+    [
+     32.86739,
+     -116.97636
+    ],
+    [
+     32.96053,
+     -117.08597
+    ],
+    [
+     32.94583,
+     -117.1265
+    ],
+    [
+     32.91811,
+     -117.20278
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA H",
+   "cls": "B",
+   "lower": "1800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.96053,
+     -117.08597
+    ],
+    [
+     32.97575,
+     -117.04397
+    ],
+    [
+     32.90747,
+     -116.94828
+    ],
+    [
+     32.87178,
+     -116.95197
+    ],
+    [
+     32.86739,
+     -116.97636
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA I",
+   "cls": "B",
+   "lower": "3200",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.97575,
+     -117.04397
+    ],
+    [
+     32.98553,
+     -117.01703
+    ],
+    [
+     32.91972,
+     -116.91439
+    ],
+    [
+     32.87692,
+     -116.92339
+    ],
+    [
+     32.87447,
+     -116.937
+    ],
+    [
+     32.87178,
+     -116.95197
+    ],
+    [
+     32.90747,
+     -116.94828
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA J",
+   "cls": "B",
+   "lower": "4800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.87447,
+     -116.937
+    ],
+    [
+     32.87178,
+     -116.95197
+    ],
+    [
+     32.86739,
+     -116.97636
+    ],
+    [
+     32.85397,
+     -117.05083
+    ],
+    [
+     32.85008,
+     -117.05264
+    ],
+    [
+     32.84028,
+     -117.09667
+    ],
+    [
+     32.84028,
+     -117.16389
+    ],
+    [
+     32.84722,
+     -117.17778
+    ],
+    [
+     32.84694,
+     -117.20222
+    ],
+    [
+     32.88633,
+     -117.32078
+    ],
+    [
+     32.84097,
+     -117.30842
+    ],
+    [
+     32.78219,
+     -117.22542
+    ],
+    [
+     32.76972,
+     -117.13194
+    ],
+    [
+     32.75592,
+     -117.03022
+    ],
+    [
+     32.74797,
+     -116.97169
+    ],
+    [
+     32.74267,
+     -116.93267
+    ],
+    [
+     32.72914,
+     -116.83375
+    ],
+    [
+     32.64022,
+     -116.887
+    ],
+    [
+     32.61033,
+     -116.97908
+    ],
+    [
+     32.62689,
+     -116.81883
+    ],
+    [
+     32.74325,
+     -116.76631
+    ],
+    [
+     32.77533,
+     -116.80797
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA K",
+   "cls": "B",
+   "lower": "5800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.77533,
+     -116.80797
+    ],
+    [
+     32.77278,
+     -116.67053
+    ],
+    [
+     32.63889,
+     -116.70117
+    ],
+    [
+     32.62689,
+     -116.81883
+    ],
+    [
+     32.74325,
+     -116.76631
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA L",
+   "cls": "B",
+   "lower": "0",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.78219,
+     -117.22542
+    ],
+    [
+     32.79675,
+     -117.33447
+    ],
+    [
+     32.72281,
+     -117.32069
+    ],
+    [
+     32.72278,
+     -117.20992
+    ],
+    [
+     32.71508,
+     -117.19406
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA L",
+   "cls": "B",
+   "lower": "0",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.76972,
+     -117.13194
+    ],
+    [
+     32.75592,
+     -117.03022
+    ],
+    [
+     32.70044,
+     -117.05314
+    ],
+    [
+     32.663,
+     -117.08703
+    ],
+    [
+     32.67417,
+     -117.10972
+    ],
+    [
+     32.67639,
+     -117.10917
+    ],
+    [
+     32.67869,
+     -117.10939
+    ],
+    [
+     32.68181,
+     -117.11122
+    ],
+    [
+     32.68528,
+     -117.11361
+    ],
+    [
+     32.68708,
+     -117.11628
+    ],
+    [
+     32.69078,
+     -117.1205
+    ],
+    [
+     32.69378,
+     -117.12494
+    ],
+    [
+     32.69583,
+     -117.13097
+    ],
+    [
+     32.69589,
+     -117.13531
+    ],
+    [
+     32.6985,
+     -117.141
+    ],
+    [
+     32.70133,
+     -117.14486
+    ],
+    [
+     32.70547,
+     -117.14697
+    ],
+    [
+     32.71106,
+     -117.14806
+    ],
+    [
+     32.71361,
+     -117.1475
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA L",
+   "cls": "B",
+   "lower": "0",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.78219,
+     -117.22542
+    ],
+    [
+     32.71508,
+     -117.19406
+    ],
+    [
+     32.67417,
+     -117.10972
+    ],
+    [
+     32.67639,
+     -117.10917
+    ],
+    [
+     32.67869,
+     -117.10939
+    ],
+    [
+     32.68181,
+     -117.11122
+    ],
+    [
+     32.68528,
+     -117.11361
+    ],
+    [
+     32.68708,
+     -117.11628
+    ],
+    [
+     32.69078,
+     -117.1205
+    ],
+    [
+     32.69378,
+     -117.12494
+    ],
+    [
+     32.69583,
+     -117.13097
+    ],
+    [
+     32.69589,
+     -117.13531
+    ],
+    [
+     32.6985,
+     -117.141
+    ],
+    [
+     32.70133,
+     -117.14486
+    ],
+    [
+     32.70547,
+     -117.14697
+    ],
+    [
+     32.71106,
+     -117.14806
+    ],
+    [
+     32.71361,
+     -117.1475
+    ],
+    [
+     32.76972,
+     -117.13194
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA M",
+   "cls": "B",
+   "lower": "1800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.75592,
+     -117.03022
+    ],
+    [
+     32.74797,
+     -116.97169
+    ],
+    [
+     32.68628,
+     -116.995
+    ],
+    [
+     32.63725,
+     -117.03422
+    ],
+    [
+     32.663,
+     -117.08703
+    ],
+    [
+     32.70044,
+     -117.05314
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA N",
+   "cls": "B",
+   "lower": "3000",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.74797,
+     -116.97169
+    ],
+    [
+     32.74267,
+     -116.93267
+    ],
+    [
+     32.67689,
+     -116.95653
+    ],
+    [
+     32.62025,
+     -116.99939
+    ],
+    [
+     32.63725,
+     -117.03422
+    ],
+    [
+     32.68628,
+     -116.995
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA O",
+   "cls": "B",
+   "lower": "3500",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.74267,
+     -116.93267
+    ],
+    [
+     32.72914,
+     -116.83375
+    ],
+    [
+     32.64022,
+     -116.887
+    ],
+    [
+     32.61033,
+     -116.97908
+    ],
+    [
+     32.62025,
+     -116.99939
+    ],
+    [
+     32.67689,
+     -116.95653
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA P",
+   "cls": "B",
+   "lower": "4800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.69078,
+     -117.59075
+    ],
+    [
+     32.561,
+     -117.52039
+    ],
+    [
+     32.61033,
+     -116.97908
+    ],
+    [
+     32.62025,
+     -116.99939
+    ],
+    [
+     32.63725,
+     -117.03422
+    ],
+    [
+     32.663,
+     -117.08703
+    ],
+    [
+     32.67417,
+     -117.10972
+    ],
+    [
+     32.63167,
+     -117.13972
+    ],
+    [
+     32.65397,
+     -117.30789
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA Q",
+   "cls": "B",
+   "lower": "2800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.72281,
+     -117.32069
+    ],
+    [
+     32.72278,
+     -117.20992
+    ],
+    [
+     32.71508,
+     -117.19406
+    ],
+    [
+     32.68083,
+     -117.17806
+    ],
+    [
+     32.67681,
+     -117.17714
+    ],
+    [
+     32.67408,
+     -117.17467
+    ],
+    [
+     32.67,
+     -117.17006
+    ],
+    [
+     32.66658,
+     -117.16628
+    ],
+    [
+     32.66311,
+     -117.16308
+    ],
+    [
+     32.65897,
+     -117.16003
+    ],
+    [
+     32.65833,
+     -117.15694
+    ],
+    [
+     32.65539,
+     -117.15708
+    ],
+    [
+     32.65164,
+     -117.15422
+    ],
+    [
+     32.64764,
+     -117.15147
+    ],
+    [
+     32.64331,
+     -117.14947
+    ],
+    [
+     32.63894,
+     -117.14667
+    ],
+    [
+     32.63503,
+     -117.14447
+    ],
+    [
+     32.63261,
+     -117.14294
+    ],
+    [
+     32.63167,
+     -117.13972
+    ],
+    [
+     32.65397,
+     -117.30789
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA Q",
+   "cls": "B",
+   "lower": "2800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.71508,
+     -117.19406
+    ],
+    [
+     32.68083,
+     -117.17806
+    ],
+    [
+     32.67681,
+     -117.17714
+    ],
+    [
+     32.67408,
+     -117.17467
+    ],
+    [
+     32.67,
+     -117.17006
+    ],
+    [
+     32.66658,
+     -117.16628
+    ],
+    [
+     32.66311,
+     -117.16308
+    ],
+    [
+     32.65897,
+     -117.16003
+    ],
+    [
+     32.65833,
+     -117.15694
+    ],
+    [
+     32.65539,
+     -117.15708
+    ],
+    [
+     32.65164,
+     -117.15422
+    ],
+    [
+     32.64764,
+     -117.15147
+    ],
+    [
+     32.64331,
+     -117.14947
+    ],
+    [
+     32.63894,
+     -117.14667
+    ],
+    [
+     32.63503,
+     -117.14447
+    ],
+    [
+     32.63261,
+     -117.14294
+    ],
+    [
+     32.63167,
+     -117.13972
+    ],
+    [
+     32.67417,
+     -117.10972
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA R",
+   "cls": "B",
+   "lower": "4800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.96053,
+     -117.08597
+    ],
+    [
+     32.97575,
+     -117.04397
+    ],
+    [
+     32.98553,
+     -117.01703
+    ],
+    [
+     33.00694,
+     -116.95778
+    ],
+    [
+     32.94736,
+     -116.84142
+    ],
+    [
+     33.00367,
+     -116.81831
+    ],
+    [
+     33.06483,
+     -116.972
+    ],
+    [
+     33.02669,
+     -117.16406
+    ],
+    [
+     32.99217,
+     -117.12331
+    ],
+    [
+     32.97922,
+     -117.10803
+    ],
+    [
+     32.94583,
+     -117.1265
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA S",
+   "cls": "B",
+   "lower": "6800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.90861,
+     -117.2275
+    ],
+    [
+     32.98125,
+     -117.39089
+    ],
+    [
+     33.03681,
+     -117.43722
+    ],
+    [
+     33.08731,
+     -117.02867
+    ],
+    [
+     33.06483,
+     -116.972
+    ],
+    [
+     33.02669,
+     -117.16406
+    ],
+    [
+     33.02244,
+     -117.18533
+    ],
+    [
+     32.97256,
+     -117.19367
+    ],
+    [
+     32.91811,
+     -117.20278
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA T",
+   "cls": "B",
+   "lower": "3800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.98553,
+     -117.01703
+    ],
+    [
+     32.91972,
+     -116.91439
+    ],
+    [
+     32.87692,
+     -116.92339
+    ],
+    [
+     32.88722,
+     -116.86606
+    ],
+    [
+     32.94736,
+     -116.84142
+    ],
+    [
+     33.00694,
+     -116.95778
+    ]
+   ]
+  },
+  {
+   "name": "SAN DIEGO AREA U",
+   "cls": "B",
+   "lower": "3800",
+   "upper": "10000",
+   "polygon": [
+    [
+     32.97256,
+     -117.19367
+    ],
+    [
+     32.99217,
+     -117.12331
+    ],
+    [
+     33.02669,
+     -117.16406
+    ],
+    [
+     33.02244,
+     -117.18533
+    ]
+   ]
+  }
+ ],
+ "restricted": [],
+ "fixes": {
+  "EED": [
+   34.766006,
+   -114.474106
+  ],
+  "SHADI": [
+   33.620606,
+   -115.761658
+  ],
+  "MOMAR": [
+   33.515036,
+   -115.944483
+  ],
+  "SALTN": [
+   33.379236,
+   -116.178347
+  ],
+  "CARUL": [
+   32.942597,
+   -116.635464
+  ],
+  "BARET": [
+   32.774108,
+   -116.677464
+  ],
+  "IPL": [
+   32.748867,
+   -115.508583
+  ],
+  "KUMBA": [
+   32.761994,
+   -116.053714
+  ],
+  "PILLO": [
+   32.770386,
+   -116.468572
+  ],
+  "PKE": [
+   34.101972,
+   -114.682067
+  ],
+  "TNP": [
+   34.112233,
+   -115.769906
+  ],
+  "PGY": [
+   32.610339,
+   -116.9791
+  ],
+  "IFSOX": [
+   32.695014,
+   -117.383806
+  ],
+  "SARGS": [
+   32.781719,
+   -117.389539
+  ],
+  "IFHEJ": [
+   32.659969,
+   -116.888056
+  ],
+  "VYDDA": [
+   32.671708,
+   -116.935789
+  ],
+  "HUULK": [
+   34.590917,
+   -118.603164
+  ],
+  "DECEA": [
+   33.846944,
+   -118.076667
+  ],
+  "JOEKR": [
+   33.547625,
+   -117.878872
+  ],
+  "GAMBT": [
+   33.441256,
+   -117.806428
+  ],
+  "LEJEN": [
+   33.25115,
+   -117.603469
+  ],
+  "COMIX": [
+   33.137436,
+   -117.483794
+  ],
+  "LAX": [
+   33.93315,
+   -118.432014
+  ],
+  "MRVEL": [
+   33.776603,
+   -118.229458
+  ],
+  "SPYDE": [
+   33.551111,
+   -117.933889
+  ],
+  "SXC": [
+   33.375056,
+   -118.419911
+  ],
+  "SLAER": [
+   33.345236,
+   -118.197175
+  ],
+  "FLSHH": [
+   33.050556,
+   -117.411389
+  ],
+  "LNTRN": [
+   32.918333,
+   -117.300556
+  ],
+  "XMANS": [
+   32.8118,
+   -117.212031
+  ],
+  "KLOMN": [
+   32.778872,
+   -117.064397
+  ],
+  "NADDO": [
+   32.750694,
+   -116.992075
+  ],
+  "OTISS": [
+   33.445406,
+   -117.810081
+  ],
+  "HUBRD": [
+   33.26,
+   -117.576558
+  ],
+  "CARDI": [
+   33.136567,
+   -117.421931
+  ],
+  "TORIE": [
+   32.857853,
+   -117.267231
+  ],
+  "HOGGZ": [
+   32.774861,
+   -114.0692
+  ],
+  "MANRS": [
+   32.787428,
+   -114.38625
+  ],
+  "CBOLA": [
+   32.879394,
+   -114.721081
+  ],
+  "KRMAA": [
+   32.864842,
+   -115.341178
+  ],
+  "SOFII": [
+   32.844431,
+   -115.487039
+  ],
+  "CMPOE": [
+   32.785167,
+   -115.848119
+  ],
+  "HEELX": [
+   32.752072,
+   -116.285447
+  ],
+  "JACKK": [
+   32.735278,
+   -116.500833
+  ],
+  "AZTEK": [
+   32.720147,
+   -116.657433
+  ],
+  "JEEVS": [
+   32.713667,
+   -116.74
+  ],
+  "LUCKI": [
+   32.7075,
+   -116.818056
+  ],
+  "LVELL": [
+   34.210383,
+   -115.614792
+  ],
+  "CHADT": [
+   33.921803,
+   -115.750906
+  ],
+  "CABIC": [
+   33.771392,
+   -115.824642
+  ],
+  "DSURT": [
+   33.3375,
+   -116.25
+  ],
+  "TRIXI": [
+   33.005556,
+   -116.444167
+  ],
+  "HSKER": [
+   32.844444,
+   -116.606667
+  ],
+  "HNAHH": [
+   32.739917,
+   -116.749694
+  ],
+  "LNDON": [
+   33.960331,
+   -115.002267
+  ],
+  "WBERG": [
+   33.724247,
+   -115.526711
+  ],
+  "TTRUE": [
+   34.633758,
+   -114.384736
+  ],
+  "LINNE": [
+   34.352736,
+   -114.772219
+  ],
+  "SRRFR": [
+   33.990025,
+   -115.265381
+  ],
+  "TRRSH": [
+   33.708414,
+   -115.645597
+  ],
+  "LYNDI": [
+   32.688222,
+   -116.879861
+  ],
+  "BAUBB": [
+   33.571667,
+   -118.774753
+  ],
+  "DIRBY": [
+   33.342603,
+   -118.4491
+  ],
+  "PITTD": [
+   33.306344,
+   -118.094042
+  ],
+  "OHBEA": [
+   33.296947,
+   -118.003656
+  ],
+  "PLYYA": [
+   33.137064,
+   -117.804464
+  ],
+  "ELKEY": [
+   32.683364,
+   -122.051008
+  ],
+  "TASCO": [
+   33.553611,
+   -118.312778
+  ],
+  "SWAMI": [
+   33.358019,
+   -118.079953
+  ],
+  "MNLYT": [
+   32.868142,
+   -117.508853
+  ],
+  "EIREE": [
+   33.231778,
+   -117.890947
+  ],
+  "SHAMU": [
+   33.148056,
+   -117.766117
+  ],
+  "BLUZE": [
+   32.701256,
+   -116.031181
+  ],
+  "GUUSE": [
+   32.665794,
+   -116.425169
+  ],
+  "TOPGN": [
+   32.644075,
+   -116.576789
+  ],
+  "ISEMN": [
+   32.614917,
+   -116.805264
+  ],
+  "ZIPPP": [
+   32.599819,
+   -116.973383
+  ],
+  "TMCAT": [
+   32.641356,
+   -117.171428
+  ],
+  "BROWS": [
+   32.631117,
+   -116.769919
+  ],
+  "JLI": [
+   33.140458,
+   -116.585936
+  ],
+  "RRONN": [
+   32.783533,
+   -117.295864
+  ],
+  "BRGDY": [
+   32.759739,
+   -117.364381
+  ],
+  "LLAMP": [
+   32.718586,
+   -117.3811
+  ],
+  "CLSSY": [
+   32.681278,
+   -117.354836
+  ],
+  "ZZOOO": [
+   32.631456,
+   -117.245828
+  ],
+  "CENZA": [
+   32.586706,
+   -117.102181
+  ],
+  "ANRMN": [
+   32.618622,
+   -117.104553
+  ],
+  "JORRJ": [
+   32.666281,
+   -116.958697
+  ],
+  "GRIDR": [
+   32.671136,
+   -116.753242
+  ],
+  "BZA": [
+   32.768108,
+   -114.602947
+  ],
+  "MOHAK": [
+   32.775844,
+   -113.972097
+  ],
+  "JUDTH": [
+   32.816503,
+   -113.688394
+  ],
+  "GBN": [
+   32.956258,
+   -112.674272
+  ],
+  "PIEZZ": [
+   33.009414,
+   -116.587447
+  ],
+  "NSHEE": [
+   33.399361,
+   -116.383111
+  ],
+  "MTBAL": [
+   33.603314,
+   -116.042306
+  ],
+  "TGOLD": [
+   33.123611,
+   -112.720556
+  ],
+  "WNFLD": [
+   32.798008,
+   -117.315969
+  ],
+  "GYWNN": [
+   33.063456,
+   -117.729231
+  ],
+  "PADRZ": [
+   33.193889,
+   -117.861944
+  ],
+  "CWARD": [
+   33.384014,
+   -117.909272
+  ],
+  "MADOW": [
+   33.623603,
+   -117.9964
+  ],
+  "SLI": [
+   33.7833,
+   -118.054758
+  ],
+  "BAUCA": [
+   32.860211,
+   -117.260569
+  ],
+  "ECHHO": [
+   32.967067,
+   -117.373167
+  ],
+  "LANDN": [
+   32.793617,
+   -117.303497
+  ],
+  "GOFUR": [
+   33.174922,
+   -117.590594
+  ],
+  "MMOTO": [
+   33.269564,
+   -117.695261
+  ],
+  "TEDEY": [
+   33.537569,
+   -117.954111
+  ],
+  "GEEGN": [
+   33.897853,
+   -118.752267
+  ],
+  "IKAYE": [
+   34.143056,
+   -119.010278
+  ],
+  "BOKNE": [
+   32.973525,
+   -117.361856
+  ],
+  "MAFAN": [
+   33.068308,
+   -117.429708
+  ],
+  "CLSTR": [
+   32.869311,
+   -117.34015
+  ],
+  "LNSAY": [
+   33.146167,
+   -117.485572
+  ],
+  "FALCC": [
+   33.261406,
+   -117.568464
+  ],
+  "KERNL": [
+   32.929667,
+   -117.520306
+  ],
+  "HFMNN": [
+   33.575872,
+   -118.236144
+  ],
+  "CHKNN": [
+   33.758383,
+   -118.336747
+  ],
+  "RIDDL": [
+   34.002028,
+   -118.4598
+  ],
+  "LANDO": [
+   35.012428,
+   -118.616372
+  ],
+  "EHF": [
+   35.484556,
+   -119.097294
+  ],
+  "TWINE": [
+   34.309694,
+   -118.616478
+  ],
+  "OROSZ": [
+   34.426717,
+   -118.674169
+  ],
+  "MELDY": [
+   33.089397,
+   -117.693828
+  ],
+  "PEBLE": [
+   33.18195,
+   -117.836167
+  ],
+  "SAYOW": [
+   32.684869,
+   -116.987964
+  ],
+  "CHRJR": [
+   32.710806,
+   -116.850278
+  ],
+  "JUNOR": [
+   32.767792,
+   -116.545311
+  ],
+  "LEGUE": [
+   32.864167,
+   -116.833611
+  ],
+  "JETTI": [
+   32.76375,
+   -117.31455
+  ],
+  "SAYAE": [
+   32.68975,
+   -117.009583
+  ],
+  "CIJHI": [
+   32.697203,
+   -117.040133
+  ],
+  "TOKOE": [
+   32.707669,
+   -117.083031
+  ],
+  "AJADE": [
+   32.759725,
+   -116.985697
+  ],
+  "CATDG": [
+   32.745933,
+   -116.962603
+  ],
+  "CRSNR": [
+   32.691808,
+   -116.979236
+  ],
+  "OKAIN": [
+   32.680989,
+   -116.973725
+  ],
+  "GATTO": [
+   32.763281,
+   -117.312597
+  ],
+  "CAPUS": [
+   32.687839,
+   -117.432225
+  ],
+  "MZB": [
+   32.782208,
+   -117.225422
+  ],
+  "REEBO": [
+   32.707547,
+   -117.082514
+  ],
+  "CCADE": [
+   32.781411,
+   -117.468533
+  ],
+  "THR09": [
+   32.736364,
+   -117.201231
+  ],
+  "THR27": [
+   32.731372,
+   -117.180631
+  ]
+ },
+ "source": "FAA CIFP cycle 2610"
+}

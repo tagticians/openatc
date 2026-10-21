@@ -1,0 +1,27 @@
+node_modules
+dist
+.env.local
+.DS_Store
+LVNL/
+.tts-cache
+.tts-usage.json
+.schedule-cache
+video/node_modules
+video/frames
+video/out
+video/.voice-cache
+video/capture.log
+video/render.log
+public/demo-voice.json
+# secrets: every .env file except the documented example
+.env
+.env.*
+!.env.example
+# generated video assets (large; rebuilt by video/capture.mjs and video/voices.ts)
+video/public/clips
+video/public/audio
+video/*.log
+*.log
+__pycache__/
+# AI-generated reference clips for local voice testing only (see dev/voice-refs/README.md)
+dev/voice-refs/*.mp3

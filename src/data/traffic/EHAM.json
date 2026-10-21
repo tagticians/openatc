@@ -1,0 +1,265 @@
+[
+ {
+  "airline": "KLM",
+  "types": [
+   "B738",
+   "B739",
+   "B738",
+   "A321"
+  ],
+  "routes": [
+   "EGLL",
+   "EGKK",
+   "EGCC",
+   "EGPH",
+   "EIDW",
+   "LFPG",
+   "EDDF",
+   "EDDB",
+   "EDDH",
+   "EDDM",
+   "LSZH",
+   "LOWW",
+   "EKCH",
+   "ENGM",
+   "ESSA",
+   "EFHK",
+   "LEMD",
+   "LEBL",
+   "LIRF",
+   "LIMC",
+   "LPPT",
+   "LPPR",
+   "LGAV",
+   "EPWA",
+   "LKPR"
+  ],
+  "weight": 9,
+  "numbering": [
+   1000,
+   1999
+  ]
+ },
+ {
+  "airline": "KLM",
+  "types": [
+   "B772",
+   "B77W",
+   "B789",
+   "B78X",
+   "A333"
+  ],
+  "routes": [
+   "KJFK",
+   "KATL",
+   "KDTW",
+   "CYYZ",
+   "SBGR",
+   "FAOR",
+   "WSSS",
+   "VHHH",
+   "TNCC",
+   "OMDB"
+  ],
+  "weight": 2.5,
+  "numbering": [
+   600,
+   899
+  ]
+ },
+ {
+  "airline": "KLC",
+  "types": [
+   "E190",
+   "E295",
+   "E75L"
+  ],
+  "routes": [
+   "EGLL",
+   "EGKK",
+   "EGCC",
+   "EGPH",
+   "EIDW",
+   "LFPG",
+   "EDDF",
+   "EDDB",
+   "EDDH",
+   "EDDM",
+   "LSZH",
+   "LOWW",
+   "EKCH",
+   "ENGM",
+   "ESSA",
+   "EFHK",
+   "LEMD",
+   "LEBL",
+   "LIRF",
+   "LIMC",
+   "LPPT",
+   "LPPR",
+   "LGAV",
+   "EPWA",
+   "LKPR"
+  ],
+  "weight": 6,
+  "numbering": [
+   1000,
+   1999
+  ]
+ },
+ {
+  "airline": "TRA",
+  "types": [
+   "B738",
+   "A21N"
+  ],
+  "routes": [
+   "LEMG",
+   "LEAL",
+   "LEPA",
+   "LPFR",
+   "LTAI",
+   "GCLP",
+   "LEBL",
+   "LIRF",
+   "LGIR"
+  ],
+  "weight": 3,
+  "numbering": [
+   5000,
+   6999
+  ]
+ },
+ {
+  "airline": "EZY",
+  "types": [
+   "A320",
+   "A21N",
+   "A319"
+  ],
+  "routes": [
+   "EGKK",
+   "EGCC",
+   "EGPH",
+   "LSZH",
+   "LEBL",
+   "LPPT"
+  ],
+  "weight": 2.5,
+  "numbering": [
+   7000,
+   8999
+  ]
+ },
+ {
+  "airline": "BAW",
+  "types": [
+   "A320",
+   "A321",
+   "A319"
+  ],
+  "routes": [
+   "EGLL"
+  ],
+  "weight": 1.5,
+  "numbering": [
+   420,
+   439
+  ]
+ },
+ {
+  "airline": "DLH",
+  "types": [
+   "A320",
+   "A21N"
+  ],
+  "routes": [
+   "EDDF",
+   "EDDM"
+  ],
+  "weight": 1.2,
+  "numbering": [
+   990,
+   999
+  ]
+ },
+ {
+  "airline": "AFR",
+  "types": [
+   "A320",
+   "A319"
+  ],
+  "routes": [
+   "LFPG"
+  ],
+  "weight": 1,
+  "numbering": [
+   1140,
+   1249
+  ]
+ },
+ {
+  "airline": "SAS",
+  "types": [
+   "A20N",
+   "A320"
+  ],
+  "routes": [
+   "EKCH",
+   "ENGM",
+   "ESSA"
+  ],
+  "weight": 1,
+  "numbering": [
+   550,
+   559
+  ]
+ },
+ {
+  "airline": "DAL",
+  "types": [
+   "A333",
+   "A359"
+  ],
+  "routes": [
+   "KJFK",
+   "KATL",
+   "KDTW"
+  ],
+  "weight": 0.8,
+  "numbering": [
+   44,
+   99
+  ]
+ },
+ {
+  "airline": "UAE",
+  "types": [
+   "A388",
+   "B77W"
+  ],
+  "routes": [
+   "OMDB"
+  ],
+  "weight": 0.3,
+  "numbering": [
+   147,
+   149
+  ]
+ },
+ {
+  "airline": "THY",
+  "types": [
+   "A321",
+   "B38M"
+  ],
+  "routes": [
+   "LTFM"
+  ],
+  "weight": 0.8,
+  "numbering": [
+   1951,
+   1959
+  ]
+ }
+]

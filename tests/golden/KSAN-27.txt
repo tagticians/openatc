@@ -1,0 +1,337 @@
+SCORE {"landed":16,"departed":15,"goArounds":2,"separationLosses":3,"stcaSeconds":176,"runwayIncursions":2,"points":645,"wakeInfringements":1}
+REMAINING SWA3414 arr airborne hold alt1995 d32.2 hdg74 appfalse locfalse leg2/2
+HAL51 arr airborne loc alt1483 d4.3 hdg275 apptrue loctrue leg0/1
+ACA559 arr airborne loc alt4479 d12.4 hdg179 apptrue loctrue leg0/1
+WJA1549 dep airborne route alt10177 d17.9 hdg296 appfalse locfalse leg2/10
+SKW5916 arr airborne route alt9153 d7.1 hdg126 apptrue locfalse leg0/1
+UAL1921 dep airborne route alt3226 d2.2 hdg82 appfalse locfalse leg1/4
+DAL2709 arr airborne route alt12786 d34.3 hdg202 apptrue locfalse leg0/3
+SKW5283 dep stand route alt15 d0.5 hdg5 appfalse locfalse leg0/6
+---FULL
+1792411202 pilot SWA4012: Southwest 4012, holding point runway 27, ready for departure | Southwest forty twelve, holding point runway two seven, ready for departure
+1792411202 atc SWA4012: SWA4012 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792411202 pilot SWA4012: Cleared for take-off 27, Southwest 4012. | Cleared for take-off two seven, Southwest forty twelve.
+1792411203 pilot UAL986: SoCal Approach, United 986, passing 8900 ft, descending 6000 ft, BARET 5 arrival, information R. | SoCal Approach, United niner eighty-six, passing eight thousand nine hundred, descending six thousand, BARET 5 arrival, information Romeo.
+1792411203 pilot EJA397: SoCal Approach, good morning, Execjet 397, passing 7900 ft, descending 6000 ft, COMIX 2 arrival, information R. | SoCal Approach, good morning, Execjet three ninety-seven, passing seven thousand nine hundred, descending six thousand, COMIX 2 arrival, information Romeo.
+1792411203 pilot QXE2766: SoCal Approach, good morning, Horizon 2766, with you descending 7000 ft, on the COMIX 2, and we have information R. | SoCal Approach, good morning, Horizon two seven six six, with you descending seven thousand, on the COMIX 2, and we have information Romeo.
+1792411204 atc UAL986: UAL986 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792411204 pilot UAL986: Cleared localizer 27, United 986. | Cleared localizer two seven, United niner eighty-six.
+1792411204 atc EJA397: EJA397 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot EJA397: Execjet 397, descend 3000 ft, altimeter 2997. | Execjet three ninety-seven, descend three thousand, altimeter two niner niner seven.
+1792411204 atc EJA397: EJA397 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792411204 pilot EJA397: Roger, cleared localizer 27, Execjet 397. | Roger, cleared localizer two seven, Execjet three ninety-seven.
+1792411204 atc QXE2766: QXE2766 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot QXE2766: Out of 10000 for 3000, 2997, Horizon 2766. | Out of ten for three, two niner niner seven, Horizon two seven six six.
+1792411204 atc QXE2766: QXE2766 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792411204 pilot QXE2766: Horizon 2766, cleared localizer 27, we'll call you established. | Horizon two seven six six, cleared localizer two seven, we'll call you established.
+1792411234 pilot SWA3815: San Diego Clearance, Southwest 3815, IFR to Nashville, with R, gate 2 | San Diego Clearance, Southwest thirty-eight fifteen, IFR to Nashville, with Romeo, gate 2
+1792411234 atc SWA3815: SWA3815 cleared to Nashville airport, CLSSY 3 departure, then as filed, squawk 2512 | 
+1792411234 pilot SWA3815: Southwest 3815, cleared Nashville, CLSSY 3 departure, squawk 2512. | Southwest thirty-eight fifteen, cleared Nashville, CLSSY 3 departure, squawk two five one two.
+1792411248 pilot SWA4012: SoCal Approach, Southwest 4012, passing 1000 ft for 15000 ft | SoCal Approach, Southwest forty twelve, passing one thousand for one five thousand
+1792411455 pilot SWA3815: Southwest 3815, holding point runway 27, ready for departure | Southwest thirty-eight fifteen, holding point runway two seven, ready for departure
+1792411456 atc SWA3815: SWA3815 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792411456 pilot SWA3815: Cleared take-off 27, Southwest 3815. | Cleared take-off two seven, Southwest thirty-eight fifteen.
+1792411492 pilot AAL1297: SoCal Approach, American 1297, passing 10900 ft, descending 6000 ft, LUCKI 1 arrival, information R. | SoCal Approach, American twelve ninety-seven, passing ten thousand nine hundred, descending six thousand, LUCKI 1 arrival, information Romeo.
+1792411492 atc AAL1297: AAL1297 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792411492 pilot AAL1297: Cleared localizer 27, American 1297. | Cleared localizer two seven, American twelve ninety-seven.
+1792411499 pilot SWA3815: SoCal Approach, Southwest 3815, passing 1000 ft for 15000 ft | SoCal Approach, Southwest thirty-eight fifteen, passing one thousand for one five thousand
+1792411546 pilot UAL986: United 986, established localizer 27. | United niner eighty-six, established localizer two seven.
+1792411554 atc SWA4012: SWA4012 contact Los Angeles Center 132.150, good day | 
+1792411554 pilot SWA4012: 132.150, Southwest 4012. | One three two point one five, Southwest forty twelve.
+1792411600 pilot UAL336: San Diego Clearance, good morning, United 336, IFR to Denver, with R, gate 38 | San Diego Clearance, good morning, United three thirty-six, IFR to Denver, with Romeo, gate 38
+1792411600 atc UAL336: UAL336 cleared to Denver airport, BRDR 7 departure, then as filed, squawk 2537 | 
+1792411600 pilot UAL336: Cleared Denver, BRDR 7 departure, squawk 2537, United 336. | Cleared Denver, BRDR 7 departure, squawk two five three seven, United three thirty-six.
+1792411739 pilot EJA397: Execjet 397, established localizer 27. | Execjet three ninety-seven, established localizer two seven.
+1792411746 atc UAL986: UAL986 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792411746 pilot UAL986: Cleared to land 27, United 986. | Cleared to land two seven, United niner eighty-six.
+1792411792 pilot ASA1909: SoCal Approach, good morning, Alaska 1909, passing 12900 ft, descending 6000 ft, BARET 5 arrival, information R. | SoCal Approach, good morning, Alaska one niner zero niner, passing twelve thousand nine hundred, descending six thousand, BARET 5 arrival, information Romeo.
+1792411792 atc ASA1909: ASA1909 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792411792 pilot ASA1909: Cleared localizer approach runway 27, Alaska 1909. | Cleared localizer approach runway two seven, Alaska one niner zero niner.
+1792411862 pilot JBU174: San Diego Clearance, Jetblue 174, IFR to New York, with R, gate N9 | San Diego Clearance, Jetblue one seventy-four, IFR to New York, with Romeo, gate N9
+1792411862 atc JBU174: JBU174 cleared to New York JFK airport, BRDR 7 departure, then as filed, squawk 2555 | 
+1792411862 pilot JBU174: BRDR 7, squawk 2555, Jetblue 174. | BRDR 7, squawk two five five five, Jetblue one seventy-four.
+1792411870 pilot QXE2766: Horizon 2766, established on the localizer 27. | Horizon two seven six six, established on the localizer two seven.
+1792411902 atc EJA397: EJA397 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792411902 pilot EJA397: Runway 27, cleared to land, Execjet 397. | Runway two seven, cleared to land, Execjet three ninety-seven.
+1792411921 pilot SWA3815: Southwest 3815, level 15000 ft, request further climb. | Southwest thirty-eight fifteen, level fifteen thousand, request further climb.
+1792411929 pilot UAL986: United 986, runway vacated, thanks for the help. | United niner eighty-six, runway vacated, thanks for the help.
+1792411932 pilot AAL1297: American 1297, established localizer 27. | American twelve ninety-seven, established localizer two seven.
+1792411976 pilot UAL336: United 336, holding point runway 27, ready for departure | United three thirty-six, holding point runway two seven, ready for departure
+1792412002 atc SWA3815: SWA3815 contact Los Angeles Center 132.150, good day | 
+1792412002 pilot SWA3815: Southwest 3815, Los Angeles Center 132.150. | Southwest thirty-eight fifteen, Los Angeles Center one three two point one five.
+1792412032 atc QXE2766: QXE2766 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792412032 pilot QXE2766: Okay, cleared to land 27, Horizon 2766. | Okay, cleared to land two seven, Horizon two seven six six.
+1792412093 pilot DAL2861: SoCal Approach, good morning, Delta 2861, passing 13900 ft, descending 6000 ft, BARET 5 arrival, information R. | SoCal Approach, good morning, Delta two eight six one, passing thirteen thousand nine hundred, descending six thousand, BARET 5 arrival, information Romeo.
+1792412094 atc DAL2861: DAL2861 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792412094 pilot DAL2861: Cleared localizer 27, Delta 2861. | Cleared localizer two seven, Delta two eight six one.
+1792412103 pilot EJA397: Execjet 397, runway vacated. | Execjet three ninety-seven, runway vacated.
+1792412106 atc AAL1297: AAL1297 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792412106 pilot AAL1297: Cleared to land 27, American 1297. | Cleared to land two seven, American twelve ninety-seven.
+1792412220 pilot QXE2766: Horizon 2766, runway vacated. | Horizon two seven six six, runway vacated.
+1792412231 pilot ASA715: San Diego Clearance, Alaska 715, IFR to Anchorage, with R, gate 5 | San Diego Clearance, Alaska seven one five, IFR to Anchorage, with Romeo, gate 5
+1792412232 atc ASA715: ASA715 cleared to Anchorage airport, PADRZ 2 departure, then as filed, squawk 2542 | 
+1792412232 pilot ASA715: PADRZ 2, squawk 2542, Alaska 715. | PADRZ 2, squawk two five four two, Alaska seven one five.
+1792412284 pilot AAL1297: American 1297, runway vacated. | American twelve ninety-seven, runway vacated.
+1792412284 atc UAL336: UAL336 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792412284 pilot UAL336: United 336, cleared for take-off 27. | United three thirty-six, uh, cleared for take-off two seven.
+1792412302 pilot JBU174: Jetblue 174, holding point runway 27, ready for departure | Jetblue one seventy-four, holding point runway two seven, ready for departure
+1792412312 pilot JBU675: SoCal Approach, Jetblue 675, passing 12900 ft, descending 6000 ft, BARET 5 arrival, information R. | SoCal Approach, Jetblue six seven five, passing twelve thousand nine hundred, descending six thousand, BARET 5 arrival, information Romeo.
+1792412312 atc JBU675: JBU675 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792412312 pilot JBU675: Cleared localizer 27, Jetblue 675. | Cleared localizer two seven, Jetblue six seven five.
+1792412334 pilot UAL336: SoCal Approach, United 336, passing 1000 ft for 15000 ft | SoCal Approach, United three thirty-six, passing one thousand for one five thousand
+1792412334 atc JBU174: JBU174 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792412334 pilot JBU174: Jetblue 174, cleared for take-off 27. | Jetblue one seventy-four, cleared for take-off two seven.
+1792412351 pilot ASA1909: Alaska 1909, established localizer 27. | Alaska one niner zero niner, established localizer two seven.
+1792412381 pilot ASA715: Alaska 715, holding point runway 27, ready for departure | Alaska seven one five, holding point runway two seven, ready for departure
+1792412384 pilot JBU174: SoCal Approach, Jetblue 174, passing 1000 ft for 15000 ft | SoCal Approach, Jetblue one seventy-four, passing one thousand for one five thousand
+1792412384 atc ASA715: ASA715 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792412384 pilot ASA715: Runway 27, cleared for take-off, Alaska 715. | Runway two seven, cleared for take-off, Alaska seven one five.
+1792412434 pilot ASA715: SoCal Approach, Alaska 715, passing 1000 ft for 15000 ft | SoCal Approach, Alaska seven one five, passing one thousand for one five thousand
+1792412526 pilot UAL595: SoCal Approach, good morning, United 595, passing 11900 ft, descending 6000 ft, COMIX 2 arrival, information R. | SoCal Approach, good morning, United five niner five, passing eleven thousand nine hundred, descending six thousand, COMIX 2 arrival, information Romeo.
+1792412526 atc UAL595: UAL595 descend and maintain 3000 ft, altimeter 2997 | 
+1792412526 pilot UAL595: United 595, down to 3000 ft, 2997. | United five niner five, down to three thousand, two niner niner seven.
+1792412526 atc UAL595: UAL595 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792412526 pilot UAL595: United 595, cleared localizer approach runway 27. | United five niner five, cleared localizer approach runway two seven.
+1792412552 atc ASA1909: ASA1909 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792412552 pilot ASA1909: 27, cleared to land, Alaska 1909. | Two seven, cleared to land, Alaska one niner zero niner.
+1792412602 pilot SKW4569: San Diego Clearance, good morning, Skywest 4569, IFR to Seattle, with R, gate 20 | San Diego Clearance, good morning, Skywest forty-five sixty-nine, IFR to Seattle, with Romeo, gate 20
+1792412602 atc SKW4569: SKW4569 cleared to Seattle–Tacoma airport, PADRZ 2 departure, then as filed, squawk 2513 | 
+1792412602 pilot SKW4569: Okay, cleared Seattle, PADRZ 2 departure, squawk 2513, Skywest 4569, thanks. | Uh, cleared Seattle, PADRZ 2 departure, squawk two five one three, Skywest forty-five sixty-nine, thanks.
+1792412650 atc UAL336: UAL336 contact Los Angeles Center 132.150, good day | 
+1792412650 pilot UAL336: United 336, 32.15. | United three thirty-six, thirty-two one five.
+1792412671 pilot DAL2861: Delta 2861, established localizer 27. | Delta two eight six one, established localizer two seven.
+1792412700 atc JBU174: JBU174 contact Los Angeles Center 132.150, good day | 
+1792412700 pilot JBU174: Jetblue 174, Los Angeles Center 132.150. | Jetblue one seventy-four, Los Angeles Center one three two point one five.
+1792412722 atc ASA715: ASA715 contact Los Angeles Center 132.150, good day | 
+1792412722 pilot ASA715: 132.150, Alaska 715. | One three two point one five, Alaska seven one five.
+1792412727 pilot ASA1909: Alaska 1909, runway vacated. | Alaska one niner zero niner, runway vacated.
+1792412746 pilot JBU174: Jetblue 174, level 11500 ft, request further climb. | Jetblue one seventy-four, level eleven thousand five hundred, request further climb.
+1792412827 pilot NKS125: SoCal Approach, Spirit Wings 125, passing 12900 ft, descending 6000 ft, BARET 5 arrival, information R. | SoCal Approach, Spirit Wings one two five, passing twelve thousand nine hundred, descending six thousand, BARET 5 arrival, information Romeo.
+1792412828 atc NKS125: NKS125 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792412828 pilot NKS125: Spirit Wings 125, cleared localizer approach runway 27. | Spirit Wings one two five, cleared localizer approach runway two seven.
+1792412872 atc DAL2861: DAL2861 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792412872 pilot DAL2861: 27, cleared to land, Delta 2861. | Two seven, cleared to land, Delta two eight six one.
+1792412880 pilot JBU675: Jetblue 675, established localizer 27. | Jetblue six seven five, established localizer two seven.
+1792412891 pilot NKS881: San Diego Clearance, Spirit Wings 881, IFR to Detroit, with R, gate 26 | San Diego Clearance, Spirit Wings eight eighty-one, IFR to Detroit, with Romeo, gate 26
+1792412892 atc NKS881: NKS881 cleared to Detroit airport, BRDR 7 departure, then as filed, squawk 2550 | 
+1792412892 pilot NKS881: Spirit Wings 881, cleared Detroit, BRDR 7 departure, squawk 2550. | Spirit Wings eight eighty-one, cleared Detroit, BRDR 7 departure, squawk two five five zero.
+1792412949 pilot SKW4569: Skywest 4569, holding point runway 27, ready for departure | Skywest forty-five sixty-nine, holding point runway two seven, ready for departure
+1792413051 pilot DAL2861: Delta 2861, runway vacated, have a nice day. | Delta two eight six one, runway vacated, have a nice day.
+1792413052 atc SKW4569: SKW4569 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792413052 pilot SKW4569: Copy that, cleared to go 27, Skywest 4569, we're rolling. | Uh, cleared to go two seven, Skywest forty-five sixty-nine, we're rolling.
+1792413080 atc JBU675: JBU675 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792413080 pilot JBU675: Cleared to land 27, Jetblue 675. | Uh, cleared to land two seven, Jetblue six seven five.
+1792413093 pilot SKW4569: SoCal Approach, Skywest 4569, passing 1000 ft for 15000 ft | SoCal Approach, Skywest forty-five sixty-nine, passing one thousand for one five thousand
+1792413127 pilot ASA1779: SoCal Approach, Alaska 1779, passing 11900 ft, descending 6000 ft, COMIX 2 arrival, information R. | SoCal Approach, Alaska seventeen seventy-nine, passing eleven thousand nine hundred, descending six thousand, COMIX 2 arrival, information Romeo.
+1792413128 atc ASA1779: ASA1779 descend and maintain 3000 ft, altimeter 2997 | 
+1792413128 pilot ASA1779: Alaska 1779, okay, out of 12000 for 3000, 2997. | Alaska seventeen seventy-nine, okay, out of twelve for three, two niner niner seven.
+1792413128 atc ASA1779: ASA1779 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792413128 pilot ASA1779: Cleared localizer 27, Alaska 1779. | Cleared localizer two seven, Alaska seventeen seventy-nine.
+1792413147 pilot SKW4150: San Diego Clearance, good morning, Skywest 4150, IFR to Denver, with R, gate N7 | San Diego Clearance, good morning, Skywest forty-one fifty, IFR to Denver, with Romeo, gate N7
+1792413148 atc SKW4150: SKW4150 cleared to Denver airport, BRDR 7 departure, then as filed, squawk 2517 | 
+1792413148 pilot SKW4150: Skywest 4150, cleared to Denver, BRDR 7 departure, squawk 2517, thanks. | Skywest forty-one fifty, cleared to Denver, BRDR 7 departure, squawk two five one seven, thanks.
+1792413194 pilot NKS881: Spirit Wings 881, holding point runway 27, ready for departure | Spirit Wings eight eighty-one, holding point runway two seven, ready for departure
+1792413263 pilot JBU675: Jetblue 675, runway vacated. | Jetblue six seven five, runway vacated.
+1792413264 atc NKS881: NKS881 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792413264 pilot NKS881: Spirit Wings 881, cleared for take-off 27. | Spirit Wings eight eighty-one, cleared for take-off two seven.
+1792413284 pilot UAL595: United 595, established localizer 27. | United five niner five, established localizer two seven.
+1792413309 pilot NKS881: SoCal Approach, Spirit Wings 881, passing 1000 ft for 15000 ft | SoCal Approach, Spirit Wings eight eighty-one, passing one thousand for one five thousand
+1792413346 pilot SKW4150: Skywest 4150, holding point runway 27, ready for departure | Skywest forty-one fifty, holding point runway two seven, ready for departure
+1792413346 atc SKW4150: SKW4150 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792413346 pilot SKW4150: Cleared for take-off 27, Skywest 4150. | Cleared for take-off two seven, Skywest forty-one fifty.
+1792413378 atc SKW4569: SKW4569 contact Los Angeles Center 132.150, good day | 
+1792413378 pilot SKW4569: Skywest 4569, over to Center, 32.15, appreciate it, have a good one. | Skywest forty-five sixty-nine, over to Center, thirty-two one five, appreciate it, have a good one.
+1792413387 pilot SKW4150: SoCal Approach, Skywest 4150, passing 1000 ft for 15000 ft | SoCal Approach, Skywest forty-one fifty, passing one thousand for one five thousand
+1792413411 pilot NKS125: Spirit Wings 125, established localizer 27. | Spirit Wings one two five, established localizer two seven.
+1792413427 pilot SWA279: SoCal Approach, good morning, Southwest 279, passing 12900 ft, descending 6000 ft, COMIX 2 arrival, information R. | SoCal Approach, good morning, Southwest two seven niner, passing twelve thousand nine hundred, descending six thousand, COMIX 2 arrival, information Romeo.
+1792413428 atc SWA279: SWA279 descend and maintain 3000 ft, altimeter 2997 | 
+1792413428 pilot SWA279: Descend and maintain 3000 ft, altimeter 2997, Southwest 279. | Descend and maintain three thousand, altimeter two niner niner seven, Southwest two seven niner.
+1792413428 atc SWA279: SWA279 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792413428 pilot SWA279: Localizer 27, cleared, Southwest 279. | Localizer two seven, cleared, Southwest two seven niner.
+1792413446 atc UAL595: UAL595 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792413446 pilot UAL595: United 595, cleared to land 27. | United five niner five, uh, cleared to land two seven.
+1792413449 pilot SWA4472: San Diego Clearance, Southwest 4472, IFR to Denver, with R, gate 5 | San Diego Clearance, Southwest four four seven two, IFR to Denver, with Romeo, gate 5
+1792413450 atc SWA4472: SWA4472 cleared to Denver airport, BRDR 7 departure, then as filed, squawk 2533 | 
+1792413450 pilot SWA4472: BRDR 7, squawk 2533, Southwest 4472. | BRDR 7, squawk two five three three, Southwest four four seven two.
+1792413610 pilot SWA4472: Southwest 4472, holding point runway 27, ready for departure | Southwest four four seven two, holding point runway two seven, ready for departure
+1792413612 atc NKS125: NKS125 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792413612 pilot NKS125: Cleared to land 27, Spirit Wings 125, thanks. | Cleared to land two seven, Spirit Wings one two five, thanks.
+1792413616 atc NKS881: NKS881 contact Los Angeles Center 132.150, good day | 
+1792413616 pilot NKS881: 32.15, Spirit Wings 881, have a good one. | Thirty-two one five, Spirit Wings eight eighty-one, have a good one.
+1792413628 pilot UAL595: United 595, runway vacated. | United five niner five, runway vacated.
+1792413628 atc SWA4472: SWA4472 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792413628 pilot SWA4472: Cleared take-off 27, Southwest 4472. | Cleared take-off two seven, Southwest four four seven two.
+1792413666 pilot UAL341: SoCal Approach, United 341, 6000 ft, R. | SoCal Approach, United three forty-one, six thousand, Romeo.
+1792413666 atc UAL341: UAL341 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792413666 pilot UAL341: United 341, localizer 27, cleared. | United three forty-one, localizer two seven, cleared.
+1792413674 pilot SWA4472: SoCal Approach, Southwest 4472, passing 1000 ft for 15000 ft | SoCal Approach, Southwest four four seven two, passing one thousand for one five thousand
+1792413688 atc SKW4150: SKW4150 contact Los Angeles Center 132.150, good day | 
+1792413688 pilot SKW4150: Skywest 4150, over to Center, 32.15, see you next time. | Skywest forty-one fifty, over to Center, thirty-two one five, see you next time.
+1792413794 pilot NKS125: Spirit Wings 125, runway vacated, appreciate it. | Spirit Wings one two five, runway vacated, appreciate it.
+1792413806 pilot SWA4370: San Diego Clearance, good morning, Southwest 4370, IFR to Austin, with R, gate W2 | San Diego Clearance, good morning, Southwest four three seven zero, IFR to Austin, with Romeo, gate W2
+1792413806 atc SWA4370: SWA4370 cleared to Austin airport, BRDR 7 departure, then as filed, squawk 2541 | 
+1792413806 pilot SWA4370: Cleared Austin, BRDR 7 departure, squawk 2541, Southwest 4370. | Cleared Austin, BRDR 7 departure, squawk two five four one, Southwest four three seven zero.
+1792413830 pilot ASA1779: Alaska 1779, established localizer 27. | Alaska seventeen seventy-nine, established localizer two seven.
+1792413966 pilot SCX363: SoCal Approach, Sun Country 363, passing 10900 ft, descending 6000 ft, LUCKI 1 arrival, information R. | SoCal Approach, Sun Country three sixty-three, passing ten thousand nine hundred, descending six thousand, LUCKI 1 arrival, information Romeo.
+1792413966 atc SCX363: SCX363 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792413966 pilot SCX363: Sun Country 363, cleared localizer approach runway 27. | Sun Country three sixty-three, cleared localizer approach runway two seven.
+1792413984 atc SWA4472: SWA4472 contact Los Angeles Center 132.150, good day | 
+1792413984 pilot SWA4472: 32.15, Southwest 4472. | Thirty-two one five, Southwest four four seven two.
+1792413992 atc ASA1779: ASA1779 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792413992 pilot ASA1779: Cleared to land 27, Alaska 1779. | Cleared to land two seven, Alaska seventeen seventy-nine.
+1792414132 pilot SWA3242: San Diego Clearance, Southwest 3242, IFR to Denver, with R, gate 33 | San Diego Clearance, Southwest three two four two, IFR to Denver, with Romeo, gate 33
+1792414132 atc SWA3242: SWA3242 cleared to Denver airport, BRDR 7 departure, then as filed, squawk 2517 | 
+1792414132 pilot SWA3242: Cleared Denver, BRDR 7 departure, squawk 2517, Southwest 3242. | Cleared Denver, BRDR 7 departure, squawk two five one seven, Southwest three two four two.
+1792414170 pilot ASA1779: Alaska 1779, runway vacated. | Alaska seventeen seventy-nine, runway vacated.
+1792414173 pilot UAL341: United 341, established 27. | United three forty-one, established two seven.
+1792414210 pilot SWA279: Southwest 279, established localizer 27. | Southwest two seven niner, established localizer two seven.
+1792414216 system : SEPARATION LOST SWA279 / UAL341 — 2.5 NM, 275 ft (−50) | 
+1792414232 pilot SWA4370: Southwest 4370, holding point runway 27, ready for departure | Southwest four three seven zero, holding point runway two seven, ready for departure
+1792414232 atc SWA4370: SWA4370 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792414232 pilot SWA4370: Cleared to go 27, Southwest 4370. | Cleared to go two seven, Southwest four three seven zero.
+1792414266 pilot SWA2687: SoCal Approach, good morning, Southwest 2687, with you descending 6000 ft, on the COMIX 2, and we have information R. | SoCal Approach, good morning, Southwest two six eight seven, with you descending six thousand, on the COMIX 2, and we have information Romeo.
+1792414266 atc SWA2687: SWA2687 descend and maintain 3000 ft, altimeter 2997 | 
+1792414266 pilot SWA2687: Down to 3000 ft, 2997, Southwest 2687. | Down to three thousand, two niner niner seven, Southwest two six eight seven.
+1792414266 atc SWA2687: SWA2687 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792414266 pilot SWA2687: Okay, localizer 27, cleared, Southwest 2687. | Uh, localizer two seven, cleared, Southwest two six eight seven.
+1792414278 pilot SWA4370: SoCal Approach, Southwest 4370, passing 1000 ft for 15000 ft | SoCal Approach, Southwest four three seven zero, passing one thousand for one five thousand
+1792414372 atc SWA279: SWA279 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792414372 pilot SWA279: 27, cleared to land, Southwest 279. | Uh, two seven, cleared to land, Southwest two seven niner.
+1792414374 atc UAL341: UAL341 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792414374 pilot UAL341: United 341, cleared to land 27. | United three forty-one, cleared to land two seven.
+1792414425 pilot SCX363: Sun Country 363, established localizer 27. | Sun Country three sixty-three, established localizer two seven.
+1792414475 pilot SWA171: San Diego Clearance, good morning, Southwest 171, IFR to Honolulu, with R, gate 22 | San Diego Clearance, good morning, Southwest one seventy-one, IFR to Honolulu, with Romeo, gate 22
+1792414476 atc SWA171: SWA171 cleared to Honolulu airport, FALCC 1 departure, then as filed, squawk 2555 | 
+1792414476 pilot SWA171: Cleared Honolulu, FALCC 1 departure, squawk 2555, Southwest 171. | Uh, cleared Honolulu, FALCC 1 departure, squawk two five five five, Southwest one seventy-one.
+1792414490 pilot SWA3242: Southwest 3242, holding point runway 27, ready for departure | Southwest three two four two, holding point runway two seven, ready for departure
+1792414509 pilot ASA639: SoCal Approach, Alaska 639, 6000 ft, R. | SoCal Approach, Alaska six three niner, six thousand, Romeo.
+1792414510 atc ASA639: ASA639 descend and maintain 3000 ft, altimeter 2997 | 
+1792414510 pilot ASA639: Down to 3000 ft, 2997, Alaska 639. | Down to three thousand, two niner niner seven, Alaska six three niner.
+1792414510 atc ASA639: ASA639 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792414510 pilot ASA639: Localizer 27, cleared, Alaska 639. | Localizer two seven, cleared, Alaska six three niner.
+1792414530 pilot UAL341: United 341, going around. | United three forty-one, going around.
+1792414530 system UAL341: UAL341 go-around: runway occupied: SWA279 still rolling out (−15) | 
+1792414550 pilot SWA279: Southwest 279, runway vacated. | Southwest two seven niner, runway vacated.
+1792414550 atc SWA3242: SWA3242 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792414550 pilot SWA3242: Cleared take-off 27, Southwest 3242. | Cleared take-off two seven, Southwest three two four two.
+1792414584 atc SWA4370: SWA4370 contact Los Angeles Center 132.150, good day | 
+1792414584 pilot SWA4370: 32.15, Southwest 4370, have a nice day. | Thirty-two one five, Southwest four three seven zero, have a nice day.
+1792414593 pilot SWA3242: SoCal Approach, Southwest 3242, passing 1000 ft for 15000 ft | SoCal Approach, Southwest three two four two, passing one thousand for one five thousand
+1792414598 atc SCX363: SCX363 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792414598 pilot SCX363: Sun Country 363, runway 27, cleared to land, thanks. | Sun Country three sixty-three, runway two seven, cleared to land, thanks.
+1792414760 pilot UAL341: United 341, entering the hold at CCADE, 2000 ft. | United three forty-one, entering the hold at CCADE, two thousand.
+1792414775 pilot SCX363: Sun Country 363, runway vacated, have a nice day. | Sun Country three sixty-three, runway vacated, have a nice day.
+1792414807 pilot SWA171: Southwest 171, holding point runway 27, ready for departure | Southwest one seventy-one, holding point runway two seven, ready for departure
+1792414808 atc SWA171: SWA171 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792414808 pilot SWA171: Runway 27, cleared for take-off, Southwest 171. | Runway two seven, cleared for take-off, Southwest one seventy-one.
+1792414810 pilot SWA3414: SoCal Approach, good morning, Southwest 3414, with you descending 6000 ft, on the BARET 5, and we have information R. | SoCal Approach, good morning, Southwest three four one four, with you descending six thousand, on the BARET 5, and we have information Romeo.
+1792414810 atc SWA3414: SWA3414 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792414810 pilot SWA3414: Cleared localizer 27, Southwest 3414. | Uh, cleared localizer two seven, Southwest three four one four.
+1792414825 pilot SWA1262: San Diego Clearance, good morning, Southwest 1262, IFR to St. Louis, with R, gate 31 | San Diego Clearance, good morning, Southwest one two six two, IFR to St. Louis, with Romeo, gate 31
+1792414826 atc SWA1262: SWA1262 cleared to St. Louis airport, BRDR 7 departure, then as filed, squawk 2507 | 
+1792414826 pilot SWA1262: Cleared St. Louis, BRDR 7 departure, squawk 2507, Southwest 1262. | Uh, cleared St. Louis, BRDR 7 departure, squawk two five zero seven, Southwest one two six two.
+1792414854 pilot SWA171: SoCal Approach, Southwest 171, passing 1000 ft for 15000 ft | SoCal Approach, Southwest one seventy-one, passing one thousand for one five thousand
+1792414896 atc SWA3242: SWA3242 contact Los Angeles Center 132.150, good day | 
+1792414896 pilot SWA3242: 32.15, Southwest 3242. | Thirty-two one five, Southwest three two four two.
+1792414965 pilot SWA2687: Southwest 2687, established on the localizer 27. | Southwest two six eight seven, established on the localizer two seven.
+1792415110 pilot SWA229: SoCal Approach, good morning, Southwest 229, with you descending 6000 ft, on the BARET 5, and we have information R. | SoCal Approach, good morning, Southwest two twenty-nine, with you descending six thousand, on the BARET 5, and we have information Romeo.
+1792415110 atc SWA229: SWA229 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792415110 pilot SWA229: Cleared localizer approach runway 27, Southwest 229. | Cleared localizer approach runway two seven, Southwest two twenty-nine.
+1792415126 atc SWA2687: SWA2687 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792415126 pilot SWA2687: Cleared to land 27, Southwest 2687. | Cleared to land two seven, Southwest two six eight seven.
+1792415146 atc SWA171: SWA171 contact Los Angeles Center 132.150, good day | 
+1792415146 pilot SWA171: Roger, 32.15, Southwest 171, thanks for the help. | Roger, thirty-two one five, Southwest one seventy-one, thanks for the help.
+1792415160 pilot ASA1399: San Diego Clearance, Alaska 1399, IFR to Seattle, with R, gate 11 | San Diego Clearance, Alaska one three niner niner, IFR to Seattle, with Romeo, gate 11
+1792415160 atc ASA1399: ASA1399 cleared to Seattle–Tacoma airport, PADRZ 2 departure, then as filed, squawk 2524 | 
+1792415160 pilot ASA1399: Alaska 1399, cleared to Seattle, PADRZ 2 departure, squawk 2524. | Alaska one three niner niner, cleared to Seattle, PADRZ 2 departure, squawk two five two four.
+1792415182 pilot SWA1262: Southwest 1262, holding point runway 27, ready for departure | Southwest one two six two, holding point runway two seven, ready for departure
+1792415220 pilot SWA3414: Southwest 3414, established on the localizer 27. | Southwest three four one four, established on the localizer two seven.
+1792415246 pilot ASA639: Alaska 639, established 27. | Alaska six three niner, established two seven.
+1792415258 system : SEPARATION LOST ASA639 / SWA3414 — 2.4 NM, 25 ft (−50) | 
+1792415307 pilot SWA2687: Southwest 2687, runway vacated, have a good one. | Southwest two six eight seven, runway vacated, have a good one.
+1792415308 atc SWA1262: SWA1262 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792415308 pilot SWA1262: Cleared take-off 27, Southwest 1262. | Cleared take-off two seven, Southwest one two six two.
+1792415351 pilot SWA1262: SoCal Approach, Southwest 1262, passing 1000 ft for 15000 ft | SoCal Approach, Southwest one two six two, passing one thousand for one five thousand
+1792415408 atc ASA639: ASA639 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792415408 pilot ASA639: 27, cleared to land, Alaska 639. | Two seven, cleared to land, Alaska six three niner.
+1792415410 pilot NKS158: SoCal Approach, good morning, Spirit Wings 158, with you descending 6000 ft, on the BARET 5, and we have information R. | SoCal Approach, good morning, Spirit Wings one fifty-eight, with you descending six thousand, on the BARET 5, and we have information Romeo.
+1792415410 atc NKS158: NKS158 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792415410 pilot NKS158: Spirit Wings 158, cleared localizer 27. | Spirit Wings one fifty-eight, uh, cleared localizer two seven.
+1792415420 atc SWA3414: SWA3414 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792415420 pilot SWA3414: Cleared to land 27, Southwest 3414, thanks. | Cleared to land two seven, Southwest three four one four, thanks.
+1792415521 pilot NKS265: San Diego Clearance, good morning, Spirit Wings 265, IFR to Las Vegas, with R, gate 5 | San Diego Clearance, good morning, Spirit Wings two six five, IFR to Las Vegas, with Romeo, gate 5
+1792415522 atc NKS265: NKS265 cleared to Las Vegas Harry Reid airport, CLSSY 3 departure, then as filed, squawk 2544 | 
+1792415522 pilot NKS265: Spirit Wings 265, cleared to Las Vegas, CLSSY 3 departure, squawk 2544. | Spirit Wings two six five, cleared to Las Vegas, CLSSY 3 departure, squawk two five four four.
+1792415543 pilot ASA1399: Alaska 1399, holding point runway 27, ready for departure | Alaska one three niner niner, holding point runway two seven, ready for departure
+1792415575 pilot SWA3414: Southwest 3414, going around, going around. | Southwest three four one four, going around, going around.
+1792415575 system SWA3414: SWA3414 go-around: runway occupied: ASA639 still rolling out (−15) | 
+1792415585 pilot ASA639: Alaska 639, runway vacated. | Alaska six three niner, runway vacated.
+1792415586 atc ASA1399: ASA1399 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792415586 pilot ASA1399: Runway 27, cleared for take-off, Alaska 1399. | Runway two seven, cleared for take-off, Alaska one three niner niner.
+1792415636 pilot ASA1399: SoCal Approach, Alaska 1399, passing 1000 ft for 15000 ft | SoCal Approach, Alaska one three niner niner, passing one thousand for one five thousand
+1792415639 pilot HAL51: SoCal Approach, good morning, Hawaiian 51 heavy, passing 11900 ft, descending 6000 ft, PLYYA 2 arrival, information R. | SoCal Approach, good morning, Hawaiian fifty-one heavy, passing eleven thousand nine hundred, descending six thousand, PLYYA 2 arrival, information Romeo.
+1792415640 atc HAL51: HAL51 descend and maintain 3000 ft, altimeter 2997 | 
+1792415640 pilot HAL51: Hawaiian 51, descend and maintain 3000 ft, altimeter 2997. | Hawaiian fifty-one, descend and maintain three thousand, altimeter two niner niner seven.
+1792415640 atc HAL51: HAL51 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792415640 pilot HAL51: Cleared localizer approach runway 27, Hawaiian 51. | Cleared localizer approach runway two seven, Hawaiian fifty-one.
+1792415654 atc SWA1262: SWA1262 contact Los Angeles Center 132.150, good day | 
+1792415654 pilot SWA1262: Southwest 1262, 32.15, have a good one. | Southwest one two six two, thirty-two one five, have a good one.
+1792415662 system : SEPARATION LOST SWA3414 / ASA1399 — 2.9 NM, 920 ft (−50) | 
+1792415692 pilot SWA229: Southwest 229, established on the localizer 27. | Southwest two twenty-nine, established on the localizer two seven.
+1792415706 pilot NKS265: Spirit Wings 265, holding point runway 27, ready for departure | Spirit Wings two six five, holding point runway two seven, ready for departure
+1792415706 atc NKS265: NKS265 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792415706 pilot NKS265: Cleared to go 27, Spirit Wings 265. | Uh, cleared to go two seven, Spirit Wings two six five.
+1792415756 pilot NKS265: SoCal Approach, Spirit Wings 265, passing 1000 ft for 15000 ft | SoCal Approach, Spirit Wings two six five, passing one thousand for one five thousand
+1792415804 pilot SWA3414: Southwest 3414, we're entering the hold at CCADE, 2000 ft. | Southwest three four one four, we're entering the hold at CCADE, two thousand.
+1792415868 pilot ACA559: SoCal Approach, Air Canada 559, passing 10900 ft, descending 6000 ft, COMIX 2 arrival, information R. | SoCal Approach, Air Canada five five niner, passing ten thousand nine hundred, descending six thousand, COMIX 2 arrival, information Romeo.
+1792415868 atc ACA559: ACA559 descend and maintain 3000 ft, altimeter 2997 | 
+1792415868 pilot ACA559: Descending 3000 ft, 2997, Air Canada 559. | Uh, descending three thousand, two niner niner seven, Air Canada five five niner.
+1792415868 atc ACA559: ACA559 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792415868 pilot ACA559: Cleared the localizer, Air Canada 559. | Cleared the localizer, Air Canada five five niner.
+1792415892 atc SWA229: SWA229 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792415892 pilot SWA229: Cleared to land 27, Southwest 229. | Uh, cleared to land two seven, Southwest two twenty-nine.
+1792415895 pilot NKS158: Spirit Wings 158, established on the localizer 27. | Spirit Wings one fifty-eight, established on the localizer two seven.
+1792415919 pilot WJA1549: San Diego Clearance, good morning, Westjet 1549, IFR to Calgary, with R, gate 23 | San Diego Clearance, good morning, Westjet fifteen forty-nine, IFR to Calgary, with Romeo, gate 23
+1792415920 atc WJA1549: WJA1549 cleared to Calgary airport, PADRZ 2 departure, then as filed, squawk 2520 | 
+1792415920 pilot WJA1549: Cleared to Calgary, PADRZ 2 departure, squawk 2520, Westjet 1549. | Cleared to Calgary, PADRZ 2 departure, squawk two five two zero, Westjet fifteen forty-nine.
+1792415924 atc ASA1399: ASA1399 contact Los Angeles Center 132.150, good day | 
+1792415924 pilot ASA1399: Over to Center, 32.15, Alaska 1399. | Over to Center, thirty-two one five, Alaska one three niner niner.
+1792416070 pilot SWA229: Southwest 229, runway vacated, have a good one. | Southwest two twenty-nine, runway vacated, have a good one.
+1792416085 pilot SKW5916: SoCal Approach, Skywest 5916, passing 11900 ft, descending 6000 ft, COMIX 2 arrival, information R. | SoCal Approach, Skywest five niner one six, passing eleven thousand nine hundred, descending six thousand, COMIX 2 arrival, information Romeo.
+1792416086 atc SKW5916: SKW5916 descend and maintain 3000 ft, altimeter 2997 | 
+1792416086 pilot SKW5916: Descend 3000 ft, altimeter 2997, Skywest 5916. | Descend three thousand, altimeter two niner niner seven, Skywest five niner one six.
+1792416086 atc SKW5916: SKW5916 maintain 3000 ft until established, cleared localizer runway 27 approach | 
+1792416086 pilot SKW5916: Cleared localizer 27, Skywest 5916. | Cleared localizer two seven, Skywest five niner one six.
+1792416096 atc NKS158: NKS158 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792416096 pilot NKS158: 27, cleared to land, Spirit Wings 158, thanks. | Uh, two seven, cleared to land, Spirit Wings one fifty-eight, thanks.
+1792416256 pilot NKS265: Spirit Wings 265, level 15000 ft, any chance of higher? | Spirit Wings two six five, level fifteen thousand, any chance of higher?
+1792416264 atc NKS265: NKS265 contact Los Angeles Center 132.150, good day | 
+1792416264 pilot NKS265: 32.15, Spirit Wings 265. | Uh, thirty-two one five, Spirit Wings two six five.
+1792416272 pilot UAL1921: San Diego Clearance, good morning, United 1921, IFR to Houston, with R, gate N1 | San Diego Clearance, good morning, United one niner two one, IFR to Houston, with Romeo, gate N1
+1792416272 atc UAL1921: UAL1921 cleared to Houston Intercontinental airport, BRDR 7 departure, then as filed, squawk 2536 | 
+1792416272 pilot UAL1921: Cleared Houston, BRDR 7 departure, squawk 2536, United 1921. | Uh, cleared Houston, BRDR 7 departure, squawk two five three six, United one niner two one.
+1792416278 pilot NKS158: Spirit Wings 158, runway vacated. | Spirit Wings one fifty-eight, runway vacated.
+1792416294 pilot WJA1549: Westjet 1549, holding point runway 27, ready for departure | Westjet fifteen forty-nine, holding point runway two seven, ready for departure
+1792416294 atc WJA1549: WJA1549 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792416294 pilot WJA1549: Cleared to go 27, Westjet 1549, we're rolling. | Uh, cleared to go two seven, Westjet fifteen forty-nine, we're rolling.
+1792416340 pilot WJA1549: SoCal Approach, Westjet 1549, passing 1000 ft for 15000 ft | SoCal Approach, Westjet fifteen forty-nine, passing one thousand for one five thousand
+1792416379 pilot HAL51: Hawaiian 51, established localizer 27. | Hawaiian fifty-one, established localizer two seven.
+1792416386 pilot DAL2709: SoCal Approach, Delta 2709, 6000 ft, R. | SoCal Approach, Delta two seven zero niner, six thousand, Romeo.
+1792416386 atc DAL2709: DAL2709 maintain 6000 ft until established, cleared localizer runway 27 approach | 
+1792416386 pilot DAL2709: Cleared localizer 27, Delta 2709. | Cleared localizer two seven, Delta two seven zero niner.
+1792416480 pilot UAL1921: United 1921, holding point runway 27, ready for departure | United one niner two one, holding point runway two seven, ready for departure
+1792416480 atc UAL1921: UAL1921 wind 275 degrees 12 kt, runway 27 cleared for take-off | 
+1792416480 pilot UAL1921: Cleared to go 27, United 1921. | Cleared to go two seven, United one niner two one.
+1792416512 system ACA559: WAKE ACA559 3.6 NM behind heavy HAL51, 5 NM required (−25) | 
+1792416526 pilot UAL1921: SoCal Approach, United 1921, passing 1000 ft for 15000 ft | SoCal Approach, United one niner two one, passing one thousand for one five thousand
+1792416550 atc HAL51: HAL51 wind 275 degrees 12 kt, runway 27 cleared to land | 
+1792416550 pilot HAL51: Runway 27, cleared to land, Hawaiian 51. | Runway two seven, cleared to land, Hawaiian fifty-one.
+1792416578 pilot ACA559: Air Canada 559, established localizer 27. | Air Canada five five niner, established localizer two seven.
+SWA3414 airborne 30.522 10.124 1995
+HAL51 airborne 4.124 -1.193 1483
+ACA559 airborne 11.855 -3.496 4479
+WJA1549 airborne -14.655 10.209 10177
+SKW5916 airborne 3.108 6.364 9153
+UAL1921 airborne 0.515 -2.093 3226
+DAL2709 airborne 31.868 12.591 12786
+SKW5283 stand 0.434 -0.208 15

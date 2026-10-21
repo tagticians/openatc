@@ -1,0 +1,10 @@
+import { setAirport } from '../src/data/airport';
+import { AIRPORTS } from '../src/data/registry';
+setAirport(AIRPORTS.find((a) => a.icao === (process.env.APT ?? 'EHRD'))!);
+import { Sim } from '../src/sim/sim';
+const sim = new Sim();
+sim.start();
+for (let i = 0; i < 4 * 1800; i++) sim['step'](0.25);
+console.log(JSON.stringify(sim.score));
+console.log(sim.radio.filter((m) => m.from === 'system').map((m) => m.text).slice(-8).join('\n'));
+console.log(sim.aircraft.map((a) => `${a.callsign} ${a.phase} ${a.lateral.mode} cfl${a.cfl} alt${Math.round(a.alt)}`).join('\n'));

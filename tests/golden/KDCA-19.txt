@@ -1,0 +1,382 @@
+SCORE {"landed":13,"departed":16,"goArounds":6,"separationLosses":18,"stcaSeconds":806,"runwayIncursions":5,"points":-185}
+REMAINING AAL2061 arr airborne hold alt1995 d34.5 hdg6 appfalse locfalse leg3/3
+ASA46 arr airborne hold alt1995 d11.1 hdg327 appfalse locfalse leg3/3
+JZA8356 arr airborne route alt4059 d15.7 hdg325 apptrue locfalse leg3/10
+DAL2968 arr airborne route alt3083 d10.6 hdg148 apptrue locfalse leg4/11
+DAL2575 dep taxi route alt12 d0.6 hdg277 appfalse locfalse leg0/7
+SWA4472 arr airborne route alt9899 d31.1 hdg66 apptrue locfalse leg1/11
+DAL2736 dep stand route alt12 d0.6 hdg277 appfalse locfalse leg0/7
+---FULL
+1792411202 pilot AAL2415: American 2415, holding point runway 19, ready for departure | American two four one five, holding point runway one niner, ready for departure
+1792411202 atc AAL2415: AAL2415 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792411202 pilot AAL2415: American 2415, cleared for take-off 19. | American two four one five, cleared for take-off one niner.
+1792411203 pilot DAL2208: Potomac Approach, good morning, Delta 2208, with you descending 6000 ft, on the FRDMM 7, and we have information R. | Potomac Approach, good morning, Delta two two zero eight, with you descending six thousand, on the FRDMM 7, and we have information Romeo.
+1792411203 pilot EJA397: Potomac Approach, good morning, Execjet 397, passing 8900 ft, descending 6000 ft, TRUPS 6 arrival, information R. | Potomac Approach, good morning, Execjet three ninety-seven, passing eight thousand nine hundred, descending six thousand, TRUPS 6 arrival, information Romeo.
+1792411203 pilot ENY3812: Potomac Approach, good morning, Envoy 3812, with you descending 6000 ft, on the TIKEE 4, and we have information R. | Potomac Approach, good morning, Envoy three eight one two, with you descending six thousand, on the TIKEE 4, and we have information Romeo.
+1792411204 atc DAL2208: DAL2208 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot DAL2208: Descending 3000 ft, 2997, Delta 2208. | Descending three thousand, two niner niner seven, Delta two two zero eight.
+1792411204 atc DAL2208: DAL2208 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792411204 pilot DAL2208: Delta 2208, localizer 19, cleared. | Delta two two zero eight, localizer one niner, cleared.
+1792411204 atc EJA397: EJA397 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot EJA397: Execjet 397, descend 3000 ft, altimeter 2997. | Execjet three ninety-seven, descend three thousand, altimeter two niner niner seven.
+1792411204 atc EJA397: EJA397 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792411204 pilot EJA397: Roger, cleared localizer 19, Execjet 397. | Roger, cleared localizer one niner, Execjet three ninety-seven.
+1792411204 atc ENY3812: ENY3812 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot ENY3812: Descend and maintain 3000 ft, altimeter 2997, Envoy 3812. | Uh, descend and maintain three thousand, altimeter two niner niner seven, Envoy three eight one two.
+1792411204 atc ENY3812: ENY3812 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792411204 pilot ENY3812: Localizer 19, cleared, Envoy 3812. | Localizer one niner, cleared, Envoy three eight one two.
+1792411234 pilot AAL2298: National Clearance, good morning, American 2298, IFR to Dallas, with R, gate 4 | National Clearance, good morning, American twenty-two ninety-eight, IFR to Dallas, with Romeo, gate 4
+1792411234 atc AAL2298: AAL2298 cleared to Dallas/Fort Worth airport, REBLL 5 departure, then as filed, squawk 2512 | 
+1792411234 pilot AAL2298: REBLL 5, squawk 2512, American 2298. | REBLL 5, squawk two five one two, American twenty-two ninety-eight.
+1792411245 pilot AAL2415: Potomac Approach, American 2415, passing 1000 ft for 10000 ft | Potomac Approach, American two four one five, passing one thousand for one zero thousand
+1792411374 system : SEPARATION LOST DAL2208 / EJA397 — 2.9 NM, 535 ft (−50) | 
+1792411492 pilot SWA2124: Potomac Approach, Southwest 2124, 6000 ft, R. | Potomac Approach, Southwest twenty-one twenty-four, six thousand, Romeo.
+1792411492 atc SWA2124: SWA2124 descend and maintain 3000 ft, altimeter 2997 | 
+1792411492 pilot SWA2124: Descending 3000 ft, 2997, Southwest 2124. | Descending three thousand, two niner niner seven, Southwest twenty-one twenty-four.
+1792411492 atc SWA2124: SWA2124 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792411492 pilot SWA2124: Southwest 2124, cleared the localizer. | Southwest twenty-one twenty-four, cleared the localizer.
+1792411519 pilot AAL2415: American 2415, level 10000 ft, request further climb. | American two four one five, level ten thousand, request further climb.
+1792411584 pilot AAL2298: American 2298, holding point runway 19, ready for departure | American twenty-two ninety-eight, holding point runway one niner, ready for departure
+1792411584 atc AAL2298: AAL2298 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792411584 pilot AAL2298: Cleared to go 19, American 2298. | Cleared to go one niner, American twenty-two ninety-eight.
+1792411600 pilot DAL1953: National Clearance, Delta 1953, IFR to Atlanta, with R, gate B22 | National Clearance, Delta one niner five three, IFR to Atlanta, with Romeo, gate B22
+1792411600 atc DAL1953: DAL1953 cleared to Atlanta airport, SCRAM 6 departure, then as filed, squawk 2537 | 
+1792411600 pilot DAL1953: Cleared to Atlanta, SCRAM 6 departure, squawk 2537, Delta 1953. | Cleared to Atlanta, SCRAM 6 departure, squawk two five three seven, Delta one niner five three.
+1792411610 atc AAL2415: AAL2415 contact Washington Center 133.550, good day | 
+1792411610 pilot AAL2415: 33.55, American 2415. | Thirty-three five five, American two four one five.
+1792411630 pilot AAL2298: Potomac Approach, American 2298, passing 1000 ft for 10000 ft | Potomac Approach, American twenty-two ninety-eight, passing one thousand for one zero thousand
+1792411751 pilot ENY3812: Envoy 3812, going around, going around. | Envoy three eight one two, going around, going around.
+1792411751 system ENY3812: ENY3812 go-around: unstable approach (too high) (−15) | 
+1792411751 pilot ENY3812: Envoy 3812, established on the localizer 19. | Envoy three eight one two, established on the localizer one niner.
+1792411792 pilot RPA4637: Potomac Approach, good morning, Brickyard 4637, with you descending 6000 ft, on the CLIPR 3, and we have information R. | Potomac Approach, good morning, Brickyard four six three seven, with you uh, descending six thousand, on the CLIPR 3, and we have information Romeo.
+1792411792 atc RPA4637: RPA4637 descend and maintain 3000 ft, altimeter 2997 | 
+1792411792 pilot RPA4637: Out of 13000 for 3000, 2997, Brickyard 4637. | Out of thirteen for three, two niner niner seven, Brickyard four six three seven.
+1792411792 atc RPA4637: RPA4637 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792411792 pilot RPA4637: Localizer 19, cleared, Brickyard 4637. | Uh, localizer one niner, cleared, Brickyard four six three seven.
+1792411806 pilot DAL1953: Delta 1953, holding point runway 19, ready for departure | Delta one niner five three, holding point runway one niner, ready for departure
+1792411806 atc DAL1953: DAL1953 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792411806 pilot DAL1953: Cleared to go 19, Delta 1953. | Cleared to go one niner, Delta one niner five three.
+1792411836 pilot EJA397: Execjet 397, established localizer 19. | Execjet three ninety-seven, established localizer one niner.
+1792411836 atc EJA397: EJA397 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792411836 pilot EJA397: Roger, cleared to land 19, Execjet 397. | Uh, cleared to land one niner, Execjet three ninety-seven.
+1792411846 pilot DAL2208: Delta 2208, established on the localizer 19. | Delta two two zero eight, established on the localizer one niner.
+1792411846 atc DAL2208: DAL2208 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792411846 pilot DAL2208: Roger, 19, cleared to land, Delta 2208. | Uh, one niner, cleared to land, Delta two two zero eight.
+1792411856 pilot DAL1953: Potomac Approach, Delta 1953, passing 1000 ft for 10000 ft | Potomac Approach, Delta one niner five three, passing one thousand for one zero thousand
+1792411862 pilot UAL310: National Clearance, good morning, United 310, IFR to Chicago, with R, gate E53 | National Clearance, good morning, United three ten, IFR to Chicago, with Romeo, gate E53
+1792411862 atc UAL310: UAL310 cleared to Chicago O'Hare airport, WYNGS 5 departure, then as filed, squawk 2555 | 
+1792411862 pilot UAL310: WYNGS 5, squawk 2555, United 310. | WYNGS 5, squawk two five five five, United three ten.
+1792411877 pilot DAL2208: Delta 2208, going around, going around. | Delta two two zero eight, going around, going around.
+1792411877 system DAL2208: DAL2208 go-around: runway occupied: EJA397 still rolling out (−15) | 
+1792411877 pilot ENY3812: Envoy 3812, we're entering the hold at BADDN, 2000 ft. | Envoy three eight one two, we're entering the hold at BADDN, two thousand.
+1792411889 pilot EJA397: Execjet 397, runway vacated. | Execjet three ninety-seven, runway vacated.
+1792411902 system : SEPARATION LOST DAL2208 / DAL1953 — 1.6 NM, 755 ft (−50) | 
+1792411930 pilot AAL2298: American 2298, level 10000 ft, request further climb. | American twenty-two ninety-eight, level ten thousand, request further climb.
+1792411958 system : SEPARATION LOST SWA2124 / DAL1953 — 2.9 NM, 685 ft (−50) | 
+1792411969 pilot DAL2208: Delta 2208, we're entering the hold at BADDN, 2000 ft. | Delta two two zero eight, we're entering the hold at BADDN, two thousand.
+1792411972 system : SEPARATION LOST DAL2208 / SWA2124 — 2.8 NM, 798 ft (−50) | 
+1792411978 atc AAL2298: AAL2298 contact Washington Center 133.550, good day | 
+1792411978 pilot AAL2298: Over to Center, 33.55, American 2298. | Over to Center, thirty-three five five, American twenty-two ninety-eight.
+1792411993 pilot UAL310: United 310, holding point runway 19, ready for departure | United three ten, holding point runway one niner, ready for departure
+1792411994 atc UAL310: UAL310 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792411994 pilot UAL310: Runway 19, cleared for take-off, United 310, off we go. | Runway one niner, cleared for take-off, United three ten, off we go.
+1792412040 pilot UAL310: Potomac Approach, United 310, passing 1000 ft for 10000 ft | Potomac Approach, United three ten, passing one thousand for one zero thousand
+1792412093 pilot EDV5463: Potomac Approach, good morning, Endeavor 5463, with you descending 6000 ft, on the TRUPS 6, and we have information R. | Potomac Approach, good morning, Endeavor five four six three, with you uh, descending six thousand, on the TRUPS 6, and we have information Romeo.
+1792412094 atc EDV5463: EDV5463 descend and maintain 3000 ft, altimeter 2997 | 
+1792412094 pilot EDV5463: Descend 3000 ft, altimeter 2997, Endeavor 5463. | Descend three thousand, altimeter two niner niner seven, Endeavor five four six three.
+1792412094 atc EDV5463: EDV5463 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792412094 pilot EDV5463: Cleared localizer 19, we'll call you established, Endeavor 5463. | Cleared localizer one niner, we'll call you established, Endeavor five four six three.
+1792412172 atc DAL1953: DAL1953 contact Washington Center 133.550, good day | 
+1792412172 pilot DAL1953: Okay, Washington Center 133.550, Delta 1953. | Okay, Washington Center one three three point five five, Delta one niner five three.
+1792412189 pilot DAL1953: Delta 1953, level 10000 ft, request further climb. | Delta one niner five three, level ten thousand, request further climb.
+1792412231 pilot RPA3821: National Clearance, good morning, Brickyard 3821, IFR to Chicago, with R, gate E53 | National Clearance, good morning, Brickyard three eight two one, IFR to Chicago, with Romeo, gate E53
+1792412232 atc RPA3821: RPA3821 cleared to Chicago O'Hare airport, WYNGS 5 departure, then as filed, squawk 2542 | 
+1792412232 pilot RPA3821: Cleared Chicago, WYNGS 5 departure, squawk 2542, Brickyard 3821, thanks. | Uh, cleared Chicago, WYNGS 5 departure, squawk two five four two, Brickyard three eight two one, thanks.
+1792412304 system : SEPARATION LOST DAL2208 / SWA2124 — 2.8 NM, 638 ft (−50) | 
+1792412312 pilot JBU675: Potomac Approach, Jetblue 675, passing 11900 ft, descending 6000 ft, CLIPR 3 arrival, information R. | Potomac Approach, Jetblue six seven five, passing eleven thousand nine hundred, descending six thousand, CLIPR 3 arrival, information Romeo.
+1792412312 atc JBU675: JBU675 descend and maintain 3000 ft, altimeter 2997 | 
+1792412312 pilot JBU675: Copy that, descend and maintain 3000 ft, altimeter 2997, Jetblue 675. | Copy that, descend and maintain three thousand, altimeter two niner niner seven, Jetblue six seven five.
+1792412312 atc JBU675: JBU675 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792412312 pilot JBU675: Cleared localizer 19, Jetblue 675. | Cleared localizer one niner, Jetblue six seven five.
+1792412331 pilot UAL310: United 310, level 10000 ft, any chance of higher? | United three ten, level ten thousand, any chance of higher?
+1792412345 pilot RPA3821: Brickyard 3821, holding point runway 19, ready for departure | Brickyard three eight two one, holding point runway one niner, ready for departure
+1792412346 atc RPA3821: RPA3821 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792412346 pilot RPA3821: Cleared take-off 19, Brickyard 3821. | Uh, cleared take-off one niner, Brickyard three eight two one.
+1792412387 pilot RPA3821: Potomac Approach, Brickyard 3821, passing 1000 ft for 10000 ft | Potomac Approach, Brickyard three eight two one, passing one thousand for one zero thousand
+1792412404 atc UAL310: UAL310 contact Washington Center 133.550, good day | 
+1792412404 pilot UAL310: 33.55, United 310, see you next time. | Thirty-three five five, United three ten, see you next time.
+1792412437 pilot SWA2124: Southwest 2124, established 19. | Southwest twenty-one twenty-four, established one niner.
+1792412438 atc SWA2124: SWA2124 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792412438 pilot SWA2124: Southwest 2124, cleared to land. | Southwest twenty-one twenty-four, cleared to land.
+1792412493 pilot SWA2124: Southwest 2124, runway vacated. | Southwest twenty-one twenty-four, runway vacated.
+1792412526 pilot DAL2055: Potomac Approach, good morning, Delta 2055, with you descending 6000 ft, on the CLIPR 3, and we have information R. | Potomac Approach, good morning, Delta twenty fifty-five, with you descending six thousand, on the CLIPR 3, and we have information Romeo.
+1792412526 atc DAL2055: DAL2055 descend and maintain 3000 ft, altimeter 2997 | 
+1792412526 pilot DAL2055: Descend and maintain 3000 ft, altimeter 2997, Delta 2055. | Uh, descend and maintain three thousand, altimeter two niner niner seven, Delta twenty fifty-five.
+1792412526 atc DAL2055: DAL2055 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792412526 pilot DAL2055: Localizer 19, cleared, Delta 2055. | Uh, localizer one niner, cleared, Delta twenty fifty-five.
+1792412602 pilot EDV5165: National Clearance, Endeavor 5165, IFR to Atlanta, with R, gate 105 | National Clearance, Endeavor five one six five, IFR to Atlanta, with Romeo, gate 105
+1792412602 atc EDV5165: EDV5165 cleared to Atlanta airport, SCRAM 6 departure, then as filed, squawk 2513 | 
+1792412602 pilot EDV5165: Endeavor 5165, cleared Atlanta, SCRAM 6 departure, squawk 2513, thanks. | Endeavor five one six five, cleared Atlanta, SCRAM 6 departure, squawk two five one three, thanks.
+1792412661 pilot RPA3821: Brickyard 3821, level 10000 ft, any chance of higher? | Brickyard three eight two one, level ten thousand, any chance of higher?
+1792412756 atc RPA3821: RPA3821 contact Washington Center 133.550, good day | 
+1792412756 pilot RPA3821: 133.550, Brickyard 3821, thanks, take care. | One three three point five five, Brickyard three eight two one, thanks, take care.
+1792412827 pilot JBU153: Potomac Approach, Jetblue 153, 6000 ft, R. | Potomac Approach, Jetblue one five three, six thousand, Romeo.
+1792412828 atc JBU153: JBU153 descend and maintain 3000 ft, altimeter 2997 | 
+1792412828 pilot JBU153: Down to 3000 ft, 2997, Jetblue 153. | Down to three thousand, two niner niner seven, Jetblue one five three.
+1792412828 atc JBU153: JBU153 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792412828 pilot JBU153: Localizer 19, cleared, Jetblue 153. | Localizer one niner, cleared, Jetblue one five three.
+1792412880 pilot EDV5165: Endeavor 5165, holding point runway 19, ready for departure | Endeavor five one six five, holding point runway one niner, ready for departure
+1792412880 atc EDV5165: EDV5165 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792412880 pilot EDV5165: Endeavor 5165, cleared take-off 19. | Endeavor five one six five, cleared take-off one niner.
+1792412891 pilot JBU1751: National Clearance, Jetblue 1751, IFR to Boston, with R, gate E57 | National Clearance, Jetblue one seven five one, IFR to Boston, with Romeo, gate E57
+1792412892 atc JBU1751: JBU1751 cleared to Boston Logan airport, DOCTR 5 departure, then as filed, squawk 2550 | 
+1792412892 pilot JBU1751: Cleared Boston, DOCTR 5 departure, squawk 2550, Jetblue 1751. | Cleared Boston, DOCTR 5 departure, squawk two five five zero, Jetblue one seven five one.
+1792412913 pilot EDV5463: Endeavor 5463, established on the localizer 19. | Endeavor five four six three, established on the localizer one niner.
+1792412914 atc EDV5463: EDV5463 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792412914 pilot EDV5463: 19, cleared to land, Endeavor 5463, thanks. | Uh, one niner, cleared to land, Endeavor five four six three, thanks.
+1792412924 pilot EDV5165: Potomac Approach, Endeavor 5165, passing 1000 ft for 10000 ft | Potomac Approach, Endeavor five one six five, passing one thousand for one zero thousand
+1792412971 pilot EDV5463: Endeavor 5463, runway vacated, thanks, see you next time. | Endeavor five four six three, runway vacated, thanks, see you next time.
+1792412991 pilot JBU1751: Jetblue 1751, holding point runway 19, ready for departure | Jetblue one seven five one, holding point runway one niner, ready for departure
+1792412992 pilot RPA4637: Brickyard 4637, established on the localizer 19. | Brickyard four six three seven, established on the localizer one niner.
+1792412992 atc RPA4637: RPA4637 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792412992 pilot RPA4637: 19, cleared to land, Brickyard 4637. | One niner, cleared to land, Brickyard four six three seven.
+1792413045 pilot RPA4637: Brickyard 4637, runway vacated. | Brickyard four six three seven, runway vacated.
+1792413046 atc JBU1751: JBU1751 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792413046 pilot JBU1751: Jetblue 1751, cleared take-off 19. | Jetblue one seven five one, cleared take-off one niner.
+1792413092 pilot JBU1751: Potomac Approach, Jetblue 1751, passing 1000 ft for 10000 ft | Potomac Approach, Jetblue one seven five one, passing one thousand for one zero thousand
+1792413127 pilot RPA4549: Potomac Approach, good morning, Brickyard 4549, with you descending 6000 ft, on the CLIPR 3, and we have information R. | Potomac Approach, good morning, Brickyard forty-five forty-nine, with you uh, descending six thousand, on the CLIPR 3, and we have information Romeo.
+1792413128 atc RPA4549: RPA4549 descend and maintain 3000 ft, altimeter 2997 | 
+1792413128 pilot RPA4549: Descend and maintain 3000 ft, altimeter 2997, Brickyard 4549. | Descend and maintain three thousand, altimeter two niner niner seven, Brickyard forty-five forty-nine.
+1792413128 atc RPA4549: RPA4549 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792413128 pilot RPA4549: Cleared localizer approach runway 19, Brickyard 4549. | Cleared localizer approach runway one niner, Brickyard forty-five forty-nine.
+1792413147 pilot DAL2321: National Clearance, Delta 2321, IFR to Atlanta, with R, gate A5 | National Clearance, Delta twenty-three twenty-one, IFR to Atlanta, with Romeo, gate A5
+1792413148 atc DAL2321: DAL2321 cleared to Atlanta airport, SCRAM 6 departure, then as filed, squawk 2517 | 
+1792413148 pilot DAL2321: Delta 2321, cleared Atlanta, SCRAM 6 departure, squawk 2517. | Delta twenty-three twenty-one, cleared Atlanta, SCRAM 6 departure, squawk two five one seven.
+1792413206 pilot EDV5165: Endeavor 5165, level 10000 ft, request further climb. | Endeavor five one six five, level ten thousand, request further climb.
+1792413240 atc EDV5165: EDV5165 contact Washington Center 133.550, good day | 
+1792413240 pilot EDV5165: Endeavor 5165, 33.55, good day. | Endeavor five one six five, thirty-three five five, good day.
+1792413290 system : SEPARATION LOST JBU675 / DAL2055 — 3.0 NM, 767 ft (−50) | 
+1792413392 pilot JBU1751: Jetblue 1751, level 10000 ft, request further climb. | Jetblue one seven five one, level ten thousand, request further climb.
+1792413427 pilot AAL206: Potomac Approach, American 206, 6000 ft, R. | Potomac Approach, American two zero six, six thousand, Romeo.
+1792413428 atc AAL206: AAL206 descend and maintain 3000 ft, altimeter 2997 | 
+1792413428 pilot AAL206: Out of 12000 for 3000, 2997, American 206. | Out of twelve for three, two niner niner seven, American two zero six.
+1792413428 atc AAL206: AAL206 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792413428 pilot AAL206: Cleared the localizer, American 206. | Cleared the localizer, American two zero six.
+1792413449 pilot AAL2687: National Clearance, American 2687, IFR to Charlotte, with R, gate B14 | National Clearance, American twenty-six eighty-seven, IFR to Charlotte, with Romeo, gate B14
+1792413450 atc AAL2687: AAL2687 cleared to Charlotte airport, JDUBB 4 departure, then as filed, squawk 2533 | 
+1792413450 pilot AAL2687: JDUBB 4, squawk 2533, American 2687. | Uh, JDUBB 4, squawk two five three three, American twenty-six eighty-seven.
+1792413472 atc JBU1751: JBU1751 contact Washington Center 133.550, good day | 
+1792413472 pilot JBU1751: 133.550, Jetblue 1751. | One three three point five five, Jetblue one seven five one.
+1792413478 pilot DAL2321: Delta 2321, holding point runway 19, ready for departure | Delta twenty-three twenty-one, holding point runway one niner, ready for departure
+1792413478 atc DAL2321: DAL2321 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792413478 pilot DAL2321: Alright, runway 19, cleared for take-off, Delta 2321. | Alright, runway one niner, cleared for take-off, Delta twenty-three twenty-one.
+1792413522 pilot JBU675: Jetblue 675, established localizer 19. | Jetblue six seven five, established localizer one niner.
+1792413522 atc JBU675: JBU675 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792413522 pilot JBU675: Runway 19, cleared to land, Jetblue 675. | Runway one niner, cleared to land, Jetblue six seven five.
+1792413528 pilot DAL2321: Potomac Approach, Delta 2321, passing 1000 ft for 10000 ft | Potomac Approach, Delta twenty-three twenty-one, passing one thousand for one zero thousand
+1792413577 pilot JBU675: Jetblue 675, runway vacated. | Jetblue six seven five, runway vacated.
+1792413649 pilot AAL2687: American 2687, holding point runway 19, ready for departure | American twenty-six eighty-seven, holding point runway one niner, ready for departure
+1792413650 atc AAL2687: AAL2687 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792413650 pilot AAL2687: Runway 19, cleared for take-off, American 2687. | Runway one niner, cleared for take-off, American twenty-six eighty-seven.
+1792413666 pilot DAL1955: Potomac Approach, good morning, Delta 1955, with you descending 6000 ft, on the FRDMM 7, and we have information R. | Potomac Approach, good morning, Delta nineteen fifty-five, with you descending six thousand, on the FRDMM 7, and we have information Romeo.
+1792413666 atc DAL1955: DAL1955 maintain 6000 ft until established, cleared localizer runway 19 approach | 
+1792413666 pilot DAL1955: Cleared localizer approach runway 19, Delta 1955. | Cleared localizer approach runway one niner, Delta nineteen fifty-five.
+1792413696 pilot AAL2687: Potomac Approach, American 2687, passing 1000 ft for 10000 ft | Potomac Approach, American twenty-six eighty-seven, passing one thousand for one zero thousand
+1792413720 pilot DAL2055: Delta 2055, established on the localizer 19. | Delta twenty fifty-five, established on the localizer one niner.
+1792413720 atc DAL2055: DAL2055 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792413720 pilot DAL2055: Cleared to land, Delta 2055. | Cleared to land, Delta twenty fifty-five.
+1792413777 pilot DAL2055: Delta 2055, runway vacated, appreciate it. | Delta twenty fifty-five, runway vacated, appreciate it.
+1792413806 pilot AAL2626: National Clearance, good morning, American 2626, IFR to Dallas, with R, gate 8 | National Clearance, good morning, American two six two six, IFR to Dallas, with Romeo, gate 8
+1792413806 atc AAL2626: AAL2626 cleared to Dallas/Fort Worth airport, REBLL 5 departure, then as filed, squawk 2541 | 
+1792413806 pilot AAL2626: American 2626, cleared to Dallas, REBLL 5 departure, squawk 2541. | American two six two six, cleared to Dallas, REBLL 5 departure, squawk two five four one.
+1792413826 system : SEPARATION LOST JBU153 / RPA4549 — 3.0 NM, 793 ft (−50) | 
+1792413844 atc DAL2321: DAL2321 contact Washington Center 133.550, good day | 
+1792413844 pilot DAL2321: 33.55, Delta 2321, thanks for the help. | Thirty-three five five, Delta twenty-three twenty-one, thanks for the help.
+1792413849 pilot DAL2321: Delta 2321, level 10000 ft, request further climb. | Delta twenty-three twenty-one, level ten thousand, request further climb.
+1792413966 pilot ASA63: Potomac Approach, good morning, Alaska 63, passing 9900 ft, descending 6000 ft, FRDMM 7 arrival, information R. | Potomac Approach, good morning, Alaska sixty-three, passing nine thousand nine hundred, descending six thousand, FRDMM 7 arrival, information Romeo.
+1792413966 atc ASA63: ASA63 maintain 6000 ft until established, cleared localizer runway 19 approach | 
+1792413966 pilot ASA63: Cleared the localizer, Alaska 63. | Cleared the localizer, Alaska sixty-three.
+1792413996 pilot AAL2687: American 2687, level 10000 ft, request further climb. | American twenty-six eighty-seven, level ten thousand, request further climb.
+1792414012 atc AAL2687: AAL2687 contact Washington Center 133.550, good day | 
+1792414012 pilot AAL2687: American 2687, Washington Center 133.550. | American twenty-six eighty-seven, Washington Center one three three point five five.
+1792414053 pilot JBU153: Jetblue 153, established 19. | Jetblue one five three, established one niner.
+1792414054 atc JBU153: JBU153 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792414054 pilot JBU153: Jetblue 153, cleared to land. | Jetblue one five three, cleared to land.
+1792414108 pilot JBU153: Jetblue 153, runway vacated. | Jetblue one five three, runway vacated.
+1792414132 pilot AAL1959: National Clearance, good morning, American 1959, IFR to New York, with R, gate D44B | National Clearance, good morning, American one niner five niner, IFR to New York, with Romeo, gate D44B
+1792414132 atc AAL1959: AAL1959 cleared to New York LaGuardia airport, DOCTR 5 departure, then as filed, squawk 2517 | 
+1792414132 pilot AAL1959: Cleared to New York, DOCTR 5 departure, squawk 2517, American 1959. | Cleared to New York, DOCTR 5 departure, squawk two five one seven, American one niner five niner.
+1792414157 pilot AAL2626: American 2626, holding point runway 19, ready for departure | American two six two six, holding point runway one niner, ready for departure
+1792414158 atc AAL2626: AAL2626 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792414158 pilot AAL2626: Cleared take-off 19, American 2626. | Cleared take-off one niner, American two six two six.
+1792414201 pilot AAL2626: Potomac Approach, American 2626, passing 1000 ft for 10000 ft | Potomac Approach, American two six two six, passing one thousand for one zero thousand
+1792414260 pilot AAL1959: American 1959, holding point runway 19, ready for departure | American one niner five niner, holding point runway one niner, ready for departure
+1792414260 atc AAL1959: AAL1959 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792414260 pilot AAL1959: Cleared for take-off 19, American 1959, we're rolling. | Uh, cleared for take-off one niner, American one niner five niner, we're rolling.
+1792414262 pilot RPA4549: Brickyard 4549, established on the localizer 19. | Brickyard forty-five forty-nine, established on the localizer one niner.
+1792414262 atc RPA4549: RPA4549 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792414262 pilot RPA4549: Cleared to land 19, Brickyard 4549. | Cleared to land one niner, Brickyard forty-five forty-nine.
+1792414266 pilot AAL1631: Potomac Approach, good morning, American 1631, passing 11900 ft, descending 6000 ft, CLIPR 3 arrival, information R. | Potomac Approach, good morning, American sixteen thirty-one, passing eleven thousand nine hundred, descending six thousand, CLIPR 3 arrival, information Romeo.
+1792414266 atc AAL1631: AAL1631 descend and maintain 3000 ft, altimeter 2997 | 
+1792414266 pilot AAL1631: Descend and maintain 3000 ft, altimeter 2997, American 1631. | Descend and maintain three thousand, altimeter two niner niner seven, American sixteen thirty-one.
+1792414266 atc AAL1631: AAL1631 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792414266 pilot AAL1631: Cleared localizer 19, American 1631. | Cleared localizer one niner, American sixteen thirty-one.
+1792414292 pilot RPA4549: Brickyard 4549, going around, going around. | Brickyard forty-five forty-nine, going around, going around.
+1792414292 system RPA4549: RPA4549 go-around: runway occupied: AAL1959 still on its take-off roll (−15) | 
+1792414306 pilot AAL1959: Potomac Approach, American 1959, passing 1000 ft for 10000 ft | Potomac Approach, American one niner five niner, passing one thousand for one zero thousand
+1792414330 system : SEPARATION LOST RPA4549 / AAL1959 — 0.4 NM, 619 ft (−50) | 
+1792414359 pilot DAL1955: Delta 1955, established on the localizer 19. | Delta nineteen fifty-five, established on the localizer one niner.
+1792414360 atc DAL1955: DAL1955 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792414360 pilot DAL1955: Cleared to land 19, Delta 1955. | Cleared to land one niner, Delta nineteen fifty-five.
+1792414384 pilot RPA4549: Brickyard 4549, we're entering the hold at BADDN, 2000 ft. | Brickyard forty-five forty-nine, we're entering the hold at BADDN, two thousand.
+1792414410 system : SEPARATION LOST AAL206 / ASA63 — 2.9 NM, 451 ft (−50) | 
+1792414419 pilot DAL1955: Delta 1955, runway vacated, have a nice day. | Delta nineteen fifty-five, runway vacated, have a nice day.
+1792414475 pilot AAL142: National Clearance, good morning, American 142, IFR to Philadelphia, with R, gate B15 | National Clearance, good morning, American one forty-two, IFR to Philadelphia, with Romeo, gate B15
+1792414475 pilot AAL2626: American 2626, level 10000 ft, request further climb. | American two six two six, level ten thousand, request further climb.
+1792414476 atc AAL142: AAL142 cleared to Philadelphia airport, DOCTR 5 departure, then as filed, squawk 2555 | 
+1792414476 pilot AAL142: Cleared Philadelphia, DOCTR 5 departure, squawk 2555, American 142. | Cleared Philadelphia, DOCTR 5 departure, squawk two five five five, American one forty-two.
+1792414509 pilot RPA3769: Potomac Approach, Brickyard 3769, 6000 ft, R. | Potomac Approach, Brickyard thirty-seven sixty-nine, six thousand, Romeo.
+1792414510 atc RPA3769: RPA3769 descend and maintain 3000 ft, altimeter 2997 | 
+1792414510 pilot RPA3769: Brickyard 3769, descending 3000 ft, 2997. | Brickyard thirty-seven sixty-nine, descending three thousand, two niner niner seven.
+1792414510 atc RPA3769: RPA3769 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792414510 pilot RPA3769: Localizer 19, cleared, Brickyard 3769. | Localizer one niner, cleared, Brickyard thirty-seven sixty-nine.
+1792414548 atc AAL2626: AAL2626 contact Washington Center 133.550, good day | 
+1792414548 pilot AAL2626: Washington Center 133.550, American 2626. | Uh, Washington Center one three three point five five, American two six two six.
+1792414606 pilot AAL1959: American 1959, level 10000 ft, request further climb. | American one niner five niner, level ten thousand, request further climb.
+1792414636 pilot ASA63: Alaska 63, established localizer 19. | Alaska sixty-three, established localizer one niner.
+1792414636 atc ASA63: ASA63 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792414636 pilot ASA63: Alright, runway 19, cleared to land, Alaska 63. | Alright, runway one niner, cleared to land, Alaska sixty-three.
+1792414655 pilot AAL206: American 206, established 19. | American two zero six, established one niner.
+1792414656 atc AAL206: AAL206 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792414656 pilot AAL206: 19, cleared to land, American 206. | One niner, cleared to land, American two zero six.
+1792414677 pilot AAL142: American 142, holding point runway 19, ready for departure | American one forty-two, holding point runway one niner, ready for departure
+1792414685 pilot AAL206: American 206, going around. | American two zero six, going around.
+1792414685 system AAL206: AAL206 go-around: runway occupied: ASA63 still rolling out (−15) | 
+1792414686 atc AAL1959: AAL1959 contact Washington Center 133.550, good day | 
+1792414686 pilot AAL1959: Washington Center 133.550, American 1959. | Washington Center one three three point five five, American one niner five niner.
+1792414694 pilot ASA63: Alaska 63, runway vacated, appreciate it. | Alaska sixty-three, runway vacated, appreciate it.
+1792414694 atc AAL142: AAL142 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792414694 pilot AAL142: Cleared to go 19, American 142. | Cleared to go one niner, American one forty-two.
+1792414740 pilot AAL142: Potomac Approach, American 142, passing 1000 ft for 10000 ft | Potomac Approach, American one forty-two, passing one thousand for one zero thousand
+1792414777 pilot AAL206: American 206, entering the hold at BADDN, 2000 ft. | American two zero six, entering the hold at BADDN, two thousand.
+1792414810 pilot AAL2061: Potomac Approach, good morning, American 2061, passing 11900 ft, descending 6000 ft, CAPSS 4 arrival, information R. | Potomac Approach, good morning, American twenty sixty-one, passing eleven thousand nine hundred, descending six thousand, CAPSS 4 arrival, information Romeo.
+1792414810 atc AAL2061: AAL2061 descend and maintain 3000 ft, altimeter 2997 | 
+1792414810 pilot AAL2061: American 2061, descend 3000 ft, altimeter 2997. | American twenty sixty-one, descend three thousand, altimeter two niner niner seven.
+1792414810 atc AAL2061: AAL2061 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792414810 pilot AAL2061: American 2061, cleared localizer 19. | American twenty sixty-one, cleared localizer one niner.
+1792414825 pilot AAL787: National Clearance, good morning, American 787, IFR to Chicago, with R, gate A1 | National Clearance, good morning, American seven eight seven, IFR to Chicago, with Romeo, gate A1
+1792414826 atc AAL787: AAL787 cleared to Chicago O'Hare airport, WYNGS 5 departure, then as filed, squawk 2507 | 
+1792414826 pilot AAL787: WYNGS 5, squawk 2507, American 787, thanks. | WYNGS 5, squawk two five zero seven, American seven eight seven, thanks.
+1792415040 pilot AAL142: American 142, level 10000 ft, request further climb. | American one forty-two, level ten thousand, request further climb.
+1792415110 pilot AAL176: Potomac Approach, American 176, passing 12900 ft, descending 6000 ft, CLIPR 3 arrival, information R. | Potomac Approach, American one seventy-six, passing twelve thousand nine hundred, descending six thousand, CLIPR 3 arrival, information Romeo.
+1792415110 atc AAL176: AAL176 descend and maintain 3000 ft, altimeter 2997 | 
+1792415110 pilot AAL176: Out of 13000 for 3000, 2997, American 176. | Out of thirteen for three, two niner niner seven, American one seventy-six.
+1792415110 atc AAL176: AAL176 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792415110 pilot AAL176: Localizer 19, cleared, American 176. | Localizer one niner, cleared, American one seventy-six.
+1792415118 atc AAL142: AAL142 contact Washington Center 133.550, good day | 
+1792415118 pilot AAL142: Over to Center, 33.55, American 142. | Over to Center, thirty-three five five, American one forty-two.
+1792415147 pilot AAL787: American 787, holding point runway 19, ready for departure | American seven eight seven, holding point runway one niner, ready for departure
+1792415148 atc AAL787: AAL787 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792415148 pilot AAL787: Alright, cleared for take-off 19, American 787, rolling. | Alright, cleared for take-off one niner, American seven eight seven, rolling.
+1792415160 pilot RPA4289: National Clearance, Brickyard 4289, IFR to New York, with R, gate 102 | National Clearance, Brickyard four two eight niner, IFR to New York, with Romeo, gate 102
+1792415160 atc RPA4289: RPA4289 cleared to New York LaGuardia airport, DOCTR 5 departure, then as filed, squawk 2524 | 
+1792415160 pilot RPA4289: DOCTR 5, squawk 2524, Brickyard 4289. | DOCTR 5, squawk two five two four, Brickyard four two eight niner.
+1792415188 system : SEPARATION LOST AAL206 / RPA3769 — 3.0 NM, 474 ft (−50) | 
+1792415198 pilot AAL787: Potomac Approach, American 787, passing 1000 ft for 10000 ft | Potomac Approach, American seven eight seven, passing one thousand for one zero thousand
+1792415288 system : SEPARATION LOST AAL787 / AAL2061 — 3.0 NM, 544 ft (−50) | 
+1792415296 pilot RPA4289: Brickyard 4289, holding point runway 19, ready for departure | Brickyard four two eight niner, holding point runway one niner, ready for departure
+1792415296 atc RPA4289: RPA4289 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792415296 pilot RPA4289: Cleared to go 19, Brickyard 4289. | Cleared to go one niner, Brickyard four two eight niner.
+1792415337 pilot RPA4289: Potomac Approach, Brickyard 4289, passing 1000 ft for 10000 ft | Potomac Approach, Brickyard four two eight niner, passing one thousand for one zero thousand
+1792415397 pilot AAL1631: American 1631, established localizer 19. | American sixteen thirty-one, established localizer one niner.
+1792415398 atc AAL1631: AAL1631 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792415398 pilot AAL1631: Cleared to land, American 1631. | Cleared to land, American sixteen thirty-one.
+1792415410 pilot JBU224: Potomac Approach, Jetblue 224, 6000 ft, R. | Potomac Approach, Jetblue two two four, six thousand, Romeo.
+1792415410 atc JBU224: JBU224 descend and maintain 3000 ft, altimeter 2997 | 
+1792415410 pilot JBU224: Descending 3000 ft, 2997, Jetblue 224. | Descending three thousand, two niner niner seven, Jetblue two two four.
+1792415410 atc JBU224: JBU224 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792415410 pilot JBU224: Cleared the localizer, Jetblue 224. | Cleared the localizer, Jetblue two two four.
+1792415452 pilot AAL1631: American 1631, runway vacated. | American sixteen thirty-one, runway vacated.
+1792415521 pilot JBU449: National Clearance, Jetblue 449, IFR to Boston, with R, gate B10C | National Clearance, Jetblue four forty-nine, IFR to Boston, with Romeo, gate B10C
+1792415522 atc JBU449: JBU449 cleared to Boston Logan airport, DOCTR 5 departure, then as filed, squawk 2544 | 
+1792415522 pilot JBU449: Cleared to Boston, DOCTR 5 departure, squawk 2544, Jetblue 449. | Cleared to Boston, DOCTR 5 departure, squawk two five four four, Jetblue four forty-nine.
+1792415531 pilot AAL787: American 787, level 10000 ft, any chance of higher? | American seven eight seven, level ten thousand, any chance of higher?
+1792415564 atc AAL787: AAL787 contact Washington Center 133.550, good day | 
+1792415564 pilot AAL787: Over to Center, 33.55, American 787. | Over to Center, thirty-three five five, American seven eight seven.
+1792415611 pilot RPA4289: Brickyard 4289, level 10000 ft, request further climb. | Brickyard four two eight niner, level ten thousand, request further climb.
+1792415639 pilot ASA46: Potomac Approach, good morning, Alaska 46, passing 10900 ft, descending 6000 ft, FRDMM 7 arrival, information R. | Potomac Approach, good morning, Alaska four six, passing ten thousand nine hundred, descending six thousand, FRDMM 7 arrival, information Romeo.
+1792415640 atc ASA46: ASA46 maintain 6000 ft until established, cleared localizer runway 19 approach | 
+1792415640 pilot ASA46: Cleared localizer 19, Alaska 46. | Uh, cleared localizer one niner, Alaska four six.
+1792415687 pilot RPA3769: Brickyard 3769, established 19. | Brickyard thirty-seven sixty-nine, established one niner.
+1792415688 atc RPA3769: RPA3769 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792415688 pilot RPA3769: Cleared to land, Brickyard 3769. | Cleared to land, Brickyard thirty-seven sixty-nine.
+1792415698 pilot JBU449: Jetblue 449, holding point runway 19, ready for departure | Jetblue four forty-nine, holding point runway one niner, ready for departure
+1792415718 atc RPA4289: RPA4289 contact Washington Center 133.550, good day | 
+1792415718 pilot RPA4289: 33.55, Brickyard 4289. | Thirty-three five five, Brickyard four two eight niner.
+1792415741 pilot RPA3769: Brickyard 3769, runway vacated. | Brickyard thirty-seven sixty-nine, runway vacated.
+1792415742 atc JBU449: JBU449 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792415742 pilot JBU449: Cleared to go 19, Jetblue 449. | Uh, cleared to go one niner, Jetblue four forty-nine.
+1792415754 pilot AAL2061: American 2061, established localizer 19. | American twenty sixty-one, established localizer one niner.
+1792415754 atc AAL2061: AAL2061 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792415754 pilot AAL2061: American 2061, runway 19, cleared to land. | American twenty sixty-one, runway one niner, cleared to land.
+1792415784 pilot AAL2061: American 2061, going around. | American twenty sixty-one, going around.
+1792415784 system AAL2061: AAL2061 go-around: runway occupied: JBU449 still on its take-off roll (−15) | 
+1792415784 pilot JBU449: Potomac Approach, Jetblue 449, passing 1000 ft for 10000 ft | Potomac Approach, Jetblue four forty-nine, passing one thousand for one zero thousand
+1792415812 system : SEPARATION LOST AAL2061 / JBU449 — 0.3 NM, 240 ft (−50) | 
+1792415868 pilot JZA8356: Potomac Approach, good morning, Jazz 8356, passing 10900 ft, descending 6000 ft, SKILS 5 arrival, information R. | Potomac Approach, good morning, Jazz eighty-three fifty-six, passing ten thousand nine hundred, descending six thousand, SKILS 5 arrival, information Romeo.
+1792415868 atc JZA8356: JZA8356 descend and maintain 3000 ft, altimeter 2997 | 
+1792415868 pilot JZA8356: Descending 3000 ft, 2997, Jazz 8356. | Descending three thousand, two niner niner seven, Jazz eighty-three fifty-six.
+1792415868 atc JZA8356: JZA8356 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792415868 pilot JZA8356: Jazz 8356, cleared localizer 19. | Jazz eighty-three fifty-six, cleared localizer one niner.
+1792415876 pilot AAL2061: American 2061, entering the hold at BADDN, 2000 ft. | American twenty sixty-one, entering the hold at BADDN, two thousand.
+1792415919 pilot JZA8191: National Clearance, good morning, Jazz 8191, IFR to Toronto, with R, gate E51 | National Clearance, good morning, Jazz eight one niner one, IFR to Toronto, with Romeo, gate E51
+1792415920 atc JZA8191: JZA8191 cleared to Toronto Pearson airport, HORTO 4 departure, then as filed, squawk 2520 | 
+1792415920 pilot JZA8191: Cleared Toronto, HORTO 4 departure, squawk 2520, Jazz 8191. | Uh, cleared Toronto, HORTO 4 departure, squawk two five two zero, Jazz eight one niner one.
+1792415928 system : SEPARATION LOST AAL2061 / JBU224 — 2.3 NM, 926 ft (−50) | 
+1792416050 pilot JZA8191: Jazz 8191, holding point runway 19, ready for departure | Jazz eight one niner one, holding point runway one niner, ready for departure
+1792416050 atc JZA8191: JZA8191 wind 187 degrees 12 kt, runway 19 cleared for take-off | 
+1792416050 pilot JZA8191: Runway 19, cleared for take-off, Jazz 8191. | Runway one niner, cleared for take-off, Jazz eight one niner one.
+1792416066 pilot JBU449: Jetblue 449, level 10000 ft, request further climb. | Jetblue four forty-nine, level ten thousand, request further climb.
+1792416085 pilot DAL2968: Potomac Approach, Delta 2968, 6000 ft, R. | Potomac Approach, Delta two niner six eight, six thousand, Romeo.
+1792416086 atc DAL2968: DAL2968 maintain 6000 ft until established, cleared localizer runway 19 approach | 
+1792416086 pilot DAL2968: Cleared the localizer, Delta 2968. | Cleared the localizer, Delta two niner six eight.
+1792416094 pilot JZA8191: Potomac Approach, Jazz 8191, passing 1000 ft for 10000 ft | Potomac Approach, Jazz eight one niner one, passing one thousand for one zero thousand
+1792416122 system : SEPARATION LOST AAL176 / ASA46 — 3.0 NM, 103 ft (−50) | 
+1792416164 atc JBU449: JBU449 contact Washington Center 133.550, good day | 
+1792416164 pilot JBU449: Jetblue 449, over to Center, 33.55. | Jetblue four forty-nine, over to Center, thirty-three five five.
+1792416212 system : SEPARATION LOST AAL2061 / AAL176 — 2.9 NM, 464 ft (−50) | 
+1792416214 system : SEPARATION LOST AAL2061 / ASA46 — 2.9 NM, 673 ft (−50) | 
+1792416248 system : SEPARATION LOST AAL2061 / JBU224 — 2.4 NM, 932 ft (−50) | 
+1792416272 pilot DAL2575: National Clearance, Delta 2575, IFR to Boston, with R, gate 7 | National Clearance, Delta twenty-five seventy-five, IFR to Boston, with Romeo, gate 7
+1792416272 system : SEPARATION LOST JBU224 / ASA46 — 3.0 NM, 940 ft (−50) | 
+1792416272 atc DAL2575: DAL2575 cleared to Boston Logan airport, DOCTR 5 departure, then as filed, squawk 2536 | 
+1792416272 pilot DAL2575: Delta 2575, cleared to Boston, DOCTR 5 departure, squawk 2536. | Delta twenty-five seventy-five, cleared to Boston, DOCTR 5 departure, squawk two five three six.
+1792416335 pilot AAL176: American 176, established localizer 19. | American one seventy-six, established localizer one niner.
+1792416336 atc AAL176: AAL176 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792416336 pilot AAL176: 19, cleared to land, American 176, thanks. | Uh, one niner, cleared to land, American one seventy-six, thanks.
+1792416344 pilot ASA46: Alaska 46, established localizer 19. | Alaska four six, established localizer one niner.
+1792416344 atc ASA46: ASA46 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792416344 pilot ASA46: 19, cleared to land, Alaska 46. | One niner, cleared to land, Alaska four six.
+1792416375 pilot ASA46: Alaska 46, going around. | Alaska four six, going around.
+1792416375 system ASA46: ASA46 go-around: runway occupied: AAL176 still rolling out (−15) | 
+1792416376 pilot JZA8191: Jazz 8191, level 10000 ft, request further climb. | Jazz eight one niner one, level ten thousand, request further climb.
+1792416386 pilot SWA4472: Potomac Approach, Southwest 4472, 6000 ft, R. | Potomac Approach, Southwest four four seven two, six thousand, Romeo.
+1792416386 atc SWA4472: SWA4472 descend and maintain 3000 ft, altimeter 2997 | 
+1792416386 pilot SWA4472: Out of 13000 for 3000, 2997, Southwest 4472. | Out of thirteen for three, two niner niner seven, Southwest four four seven two.
+1792416386 atc SWA4472: SWA4472 maintain 3000 ft until established, cleared localizer runway 19 approach | 
+1792416386 pilot SWA4472: Localizer 19, cleared, Southwest 4472. | Localizer one niner, cleared, Southwest four four seven two.
+1792416393 pilot AAL176: American 176, runway vacated. | American one seventy-six, runway vacated.
+1792416400 pilot JBU224: Jetblue 224, established 19. | Jetblue two two four, established one niner.
+1792416400 atc JBU224: JBU224 wind 187 degrees 12 kt, runway 19 cleared to land | 
+1792416400 pilot JBU224: 19, cleared to land, Jetblue 224. | One niner, cleared to land, Jetblue two two four.
+1792416456 pilot JBU224: Jetblue 224, runway vacated. | Jetblue two two four, runway vacated.
+1792416468 pilot ASA46: Alaska 46, entering the hold at BADDN, 2000 ft. | Alaska four six, entering the hold at BADDN, two thousand.
+1792416528 atc JZA8191: JZA8191 contact Washington Center 133.550, good day | 
+1792416528 pilot JZA8191: 33.55, Jazz 8191. | Thirty-three five five, Jazz eight one niner one.
+AAL2061 airborne -7.240 33.700 1995
+ASA46 airborne -2.892 -10.671 1995
+JZA8356 airborne -6.141 14.432 4059
+DAL2968 airborne -6.777 8.214 3083
+DAL2575 taxi 0.033 0.591 12
+SWA4472 airborne -31.007 -1.836 9899
+DAL2736 stand 0.033 0.591 12

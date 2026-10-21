@@ -1,0 +1,9754 @@
+{
+ "icao": "KDCA",
+ "name": "RONALD REAGAN WASHINGTON NTL",
+ "arp": [
+  38.851442,
+  -77.037722
+ ],
+ "elevation": 14,
+ "magVar": -11.0,
+ "transitionAltitude": 18000,
+ "runways": {
+  "01": {
+   "id": "01",
+   "trueHdg": 355.51,
+   "length": 2185,
+   "thr": [
+    38.841569,
+    -77.036747
+   ],
+   "end": [
+    38.861192,
+    -77.038725
+   ],
+   "elevation": 11,
+   "displaced": 0,
+   "ils": {
+    "ident": "IDCA",
+    "freq": "109.90"
+   },
+   "locOnly": false,
+   "gpAngle": 3.0,
+   "approach": {
+    "ident": "I01",
+    "transitions": {
+     "CAPSS": [
+      {
+       "t": "FIX",
+       "fix": "CAPSS",
+       "alt": {
+        "below": 13000,
+        "above": 10000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "HOYAS",
+       "alt": {
+        "at": 9000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "HALLL"
+      },
+      {
+       "t": "FIX",
+       "fix": "KATRN",
+       "flyover": true
+      }
+     ],
+     "EYESS": [
+      {
+       "t": "FIX",
+       "fix": "EYESS"
+      },
+      {
+       "t": "FIX",
+       "fix": "BRUNC"
+      },
+      {
+       "t": "FIX",
+       "fix": "FELTY"
+      },
+      {
+       "t": "FIX",
+       "fix": "HITEK"
+      },
+      {
+       "t": "FIX",
+       "fix": "CAVDI",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "BADDN",
+       "alt": {
+        "at": 1600
+       }
+      }
+     ],
+     "DEALE": [
+      {
+       "t": "FIX",
+       "fix": "DEALE",
+       "alt": {
+        "at": 10000
+       },
+       "spd": 280
+      },
+      {
+       "t": "FIX",
+       "fix": "YUCKK",
+       "alt": {
+        "at": 10000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "TIRZA",
+       "alt": {
+        "below": 8000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "HITEK",
+       "alt": {
+        "at": 7000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "MITEY",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "BADDN",
+       "alt": {
+        "at": 1600
+       }
+      }
+     ],
+     "ALWYZ": [
+      {
+       "t": "FIX",
+       "fix": "ALWYZ",
+       "alt": {
+        "below": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "LETZZ",
+       "alt": {
+        "at": 8000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "RLLLL",
+       "alt": {
+        "at": 6000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "VCTRY"
+      },
+      {
+       "t": "FIX",
+       "fix": "HEROO",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "BADDN",
+       "alt": {
+        "at": 1600
+       }
+      }
+     ],
+     "AML": [
+      {
+       "t": "FIX",
+       "fix": "AML"
+      },
+      {
+       "t": "FIX",
+       "fix": "NUMMY",
+       "alt": {
+        "at": 6000
+       },
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "BADDN",
+       "alt": {
+        "at": 1600
+       }
+      }
+     ],
+     "TRUPS": [
+      {
+       "t": "FIX",
+       "fix": "TRUPS",
+       "alt": {
+        "at": 11000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "LETZZ",
+       "alt": {
+        "at": 8000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "RLLLL",
+       "alt": {
+        "at": 6000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "VCTRY"
+      },
+      {
+       "t": "FIX",
+       "fix": "HEROO",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "BADDN",
+       "alt": {
+        "at": 1600
+       }
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "KATRN",
+      "alt": {
+       "at": 3000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "BADDN",
+      "alt": {
+       "at": 1600
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR01"
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 6,
+      "alt": 420
+     },
+     {
+      "t": "FIX",
+      "fix": "GTN",
+      "alt": {
+       "above": 2200
+      },
+      "flyover": true
+     }
+    ],
+    "ifix": "KATRN",
+    "faf": "BADDN"
+   }
+  },
+  "04": {
+   "id": "04",
+   "trueHdg": 25.47,
+   "length": 1524,
+   "thr": [
+    38.841622,
+    -77.041153
+   ],
+   "end": [
+    38.853511,
+    -77.033881
+   ],
+   "elevation": 12,
+   "displaced": 200
+  },
+  "15": {
+   "id": "15",
+   "trueHdg": 142.75,
+   "length": 1586,
+   "thr": [
+    38.861161,
+    -77.043297
+   ],
+   "end": [
+    38.849803,
+    -77.032208
+   ],
+   "elevation": 14,
+   "displaced": 0,
+   "gpAngle": 3.0,
+   "approach": {
+    "ident": "R15",
+    "transitions": {
+     "CAPSS": [
+      {
+       "t": "FIX",
+       "fix": "CAPSS",
+       "alt": {
+        "below": 13000,
+        "above": 10000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "FLIPZ",
+       "alt": {
+        "below": 11000
+       },
+       "spd": 280
+      },
+      {
+       "t": "FIX",
+       "fix": "MOEJO",
+       "alt": {
+        "at": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "JILES"
+      },
+      {
+       "t": "FIX",
+       "fix": "SMOOT",
+       "alt": {
+        "above": 7000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "BAAAM",
+       "alt": {
+        "at": 6000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "PACKE",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "AVOLE",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "EYESS": [
+      {
+       "t": "FIX",
+       "fix": "EYESS"
+      },
+      {
+       "t": "FIX",
+       "fix": "EDDWD"
+      },
+      {
+       "t": "FIX",
+       "fix": "MEGGS"
+      },
+      {
+       "t": "FIX",
+       "fix": "NAYES",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "AVOLE",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "DEALE": [
+      {
+       "t": "FIX",
+       "fix": "DEALE",
+       "alt": {
+        "at": 10000
+       },
+       "spd": 280
+      },
+      {
+       "t": "FIX",
+       "fix": "EDDGY"
+      },
+      {
+       "t": "FIX",
+       "fix": "THANE"
+      },
+      {
+       "t": "FIX",
+       "fix": "MEGGS",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "AVOLE",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "ALWYZ": [
+      {
+       "t": "FIX",
+       "fix": "ALWYZ",
+       "alt": {
+        "below": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "FRDMM",
+       "alt": {
+        "at": 8000
+       },
+       "spd": 240
+      },
+      {
+       "t": "FIX",
+       "fix": "STAND"
+      },
+      {
+       "t": "FIX",
+       "fix": "TGTHR"
+      },
+      {
+       "t": "FIX",
+       "fix": "PUNKN",
+       "flyover": true
+      }
+     ],
+     "IRONS": [
+      {
+       "t": "FIX",
+       "fix": "IRONS"
+      },
+      {
+       "t": "FIX",
+       "fix": "SAMMO",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "AVOLE",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "AML": [
+      {
+       "t": "FIX",
+       "fix": "AML"
+      },
+      {
+       "t": "FIX",
+       "fix": "AVOLE",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "TRUPS": [
+      {
+       "t": "FIX",
+       "fix": "TRUPS",
+       "alt": {
+        "at": 11000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "FRDMM",
+       "alt": {
+        "at": 8000
+       },
+       "spd": 240
+      },
+      {
+       "t": "FIX",
+       "fix": "STAND"
+      },
+      {
+       "t": "FIX",
+       "fix": "TGTHR"
+      },
+      {
+       "t": "FIX",
+       "fix": "PUNKN",
+       "flyover": true
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "PUNKN",
+      "alt": {
+       "above": 2700
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "AVOLE",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR15"
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 151,
+      "alt": 600
+     },
+     {
+      "t": "FIX",
+      "fix": "KATRN",
+      "alt": {
+       "above": 3000
+      },
+      "flyover": true
+     }
+    ],
+    "ifix": "PUNKN",
+    "faf": "AVOLE"
+   }
+  },
+  "19": {
+   "id": "19",
+   "trueHdg": 175.51,
+   "length": 2185,
+   "thr": [
+    38.861192,
+    -77.038725
+   ],
+   "end": [
+    38.841569,
+    -77.036747
+   ],
+   "elevation": 12,
+   "displaced": 0,
+   "ils": {
+    "ident": "IVWH",
+    "freq": "111.35"
+   },
+   "locOnly": true,
+   "gpAngle": 3.0,
+   "approach": {
+    "ident": "H19-Z",
+    "transitions": {
+     "CAPSS": [
+      {
+       "t": "FIX",
+       "fix": "CAPSS",
+       "alt": {
+        "below": 13000,
+        "above": 10000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "FLIPZ",
+       "alt": {
+        "below": 11000
+       },
+       "spd": 280
+      },
+      {
+       "t": "FIX",
+       "fix": "MOEJO",
+       "alt": {
+        "at": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "JILES"
+      },
+      {
+       "t": "FIX",
+       "fix": "SMOOT",
+       "alt": {
+        "above": 7000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "BAAAM",
+       "alt": {
+        "at": 6000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "PACKE",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "SUNEY",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "EYESS": [
+      {
+       "t": "FIX",
+       "fix": "EYESS"
+      },
+      {
+       "t": "FIX",
+       "fix": "EDDWD"
+      },
+      {
+       "t": "FIX",
+       "fix": "MEGGS"
+      },
+      {
+       "t": "FIX",
+       "fix": "NAYES",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "SUNEY",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "DEALE": [
+      {
+       "t": "FIX",
+       "fix": "DEALE",
+       "alt": {
+        "at": 10000
+       },
+       "spd": 280
+      },
+      {
+       "t": "FIX",
+       "fix": "EDDGY"
+      },
+      {
+       "t": "FIX",
+       "fix": "THANE"
+      },
+      {
+       "t": "FIX",
+       "fix": "MEGGS",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "SUNEY",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "ALWYZ": [
+      {
+       "t": "FIX",
+       "fix": "ALWYZ",
+       "alt": {
+        "below": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "FRDMM",
+       "alt": {
+        "at": 8000
+       },
+       "spd": 240
+      },
+      {
+       "t": "FIX",
+       "fix": "STAND"
+      },
+      {
+       "t": "FIX",
+       "fix": "TGTHR"
+      },
+      {
+       "t": "FIX",
+       "fix": "DARIC",
+       "flyover": true
+      }
+     ],
+     "IRONS": [
+      {
+       "t": "FIX",
+       "fix": "IRONS"
+      },
+      {
+       "t": "FIX",
+       "fix": "SAMMO",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "SUNEY",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "AML": [
+      {
+       "t": "FIX",
+       "fix": "AML"
+      },
+      {
+       "t": "FIX",
+       "fix": "SUNEY",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "TRUPS": [
+      {
+       "t": "FIX",
+       "fix": "TRUPS",
+       "alt": {
+        "at": 11000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "FRDMM",
+       "alt": {
+        "at": 8000
+       },
+       "spd": 240
+      },
+      {
+       "t": "FIX",
+       "fix": "STAND"
+      },
+      {
+       "t": "FIX",
+       "fix": "TGTHR"
+      },
+      {
+       "t": "FIX",
+       "fix": "DARIC",
+       "flyover": true
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "DARIC",
+      "alt": {
+       "above": 2700
+      },
+      "spd": 180
+     },
+     {
+      "t": "FIX",
+      "fix": "SUNEY",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "GREYZ"
+     },
+     {
+      "t": "FIX",
+      "fix": "FONVI"
+     },
+     {
+      "t": "FIX",
+      "fix": "JUBOL"
+     },
+     {
+      "t": "FIX",
+      "fix": "WIRSO"
+     },
+     {
+      "t": "FIX",
+      "fix": "FIROP"
+     },
+     {
+      "t": "FIX",
+      "fix": "THR19"
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 186,
+      "alt": 414
+     },
+     {
+      "t": "FIX",
+      "fix": "BADDN",
+      "alt": {
+       "above": 3000
+      },
+      "flyover": true
+     }
+    ],
+    "ifix": "DARIC",
+    "faf": "SUNEY"
+   }
+  },
+  "22": {
+   "id": "22",
+   "trueHdg": 205.47,
+   "length": 1524,
+   "thr": [
+    38.853511,
+    -77.033881
+   ],
+   "end": [
+    38.841622,
+    -77.041153
+   ],
+   "elevation": 11,
+   "displaced": 0
+  },
+  "33": {
+   "id": "33",
+   "trueHdg": 322.76,
+   "length": 1586,
+   "thr": [
+    38.849803,
+    -77.032208
+   ],
+   "end": [
+    38.861161,
+    -77.043297
+   ],
+   "elevation": 10,
+   "displaced": 0
+  }
+ },
+ "sids": [
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "01",
+   "transition": "COLIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "GUCER"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "01",
+   "transition": "SCOOB",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "GUCER"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCOOB"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "04",
+   "transition": "COLIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 37,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "ERECA"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDDGY"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "04",
+   "transition": "SCOOB",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 37,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "ERECA"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDDGY"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCOOB"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "15",
+   "transition": "COLIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "LEAVY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MCNAB"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "15",
+   "transition": "SCOOB",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "LEAVY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MCNAB"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCOOB"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "19",
+   "transition": "COLIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MCNAB"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "19",
+   "transition": "SCOOB",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MCNAB"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCOOB"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "33",
+   "transition": "COLIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "GUCER"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    }
+   ]
+  },
+  {
+   "name": "AMEEE 1",
+   "ident": "AMEEE1",
+   "runway": "33",
+   "transition": "SCOOB",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "GUCER"
+    },
+    {
+     "t": "FIX",
+     "fix": "AMEEE",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCOOB"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "01",
+   "transition": "FLASK",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRUTL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEEMS"
+    },
+    {
+     "t": "FIX",
+     "fix": "FLASK"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "01",
+   "transition": "MAULS",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRUTL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAULS"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "15",
+   "transition": "FLASK",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEEMS"
+    },
+    {
+     "t": "FIX",
+     "fix": "FLASK"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "15",
+   "transition": "MAULS",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAULS"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "19",
+   "transition": "FLASK",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEEMS"
+    },
+    {
+     "t": "FIX",
+     "fix": "FLASK"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "19",
+   "transition": "MAULS",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAULS"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "33",
+   "transition": "FLASK",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRUTL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEEMS"
+    },
+    {
+     "t": "FIX",
+     "fix": "FLASK"
+    }
+   ]
+  },
+  {
+   "name": "CLTCH 3",
+   "ident": "CLTCH3",
+   "runway": "33",
+   "transition": "MAULS",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "BRUTL"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUTRZ",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CLTCH"
+    },
+    {
+     "t": "FIX",
+     "fix": "KERRK"
+    },
+    {
+     "t": "FIX",
+     "fix": "MAULS"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "01",
+   "transition": "AGARD",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "RIISE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AGARD"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "01",
+   "transition": "DQO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "RIISE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DQO"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "04",
+   "transition": "AGARD",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 37,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "ERECA"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AGARD"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "04",
+   "transition": "DQO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 37,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "ERECA"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DQO"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "15",
+   "transition": "AGARD",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "LEAVY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MOTBE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GDYUP"
+    },
+    {
+     "t": "FIX",
+     "fix": "HMBGR"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AGARD"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "15",
+   "transition": "DQO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "LEAVY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MOTBE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GDYUP"
+    },
+    {
+     "t": "FIX",
+     "fix": "HMBGR"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DQO"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "19",
+   "transition": "AGARD",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MOTBE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GDYUP"
+    },
+    {
+     "t": "FIX",
+     "fix": "HMBGR"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AGARD"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "19",
+   "transition": "DQO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MOTBE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GDYUP"
+    },
+    {
+     "t": "FIX",
+     "fix": "HMBGR"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DQO"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "33",
+   "transition": "AGARD",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "RIISE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AGARD"
+    }
+   ]
+  },
+  {
+   "name": "DOCTR 5",
+   "ident": "DOCTR5",
+   "runway": "33",
+   "transition": "DQO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "RIISE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOCTR",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DQO"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "01",
+   "transition": "BUFFR",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELOE"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BUFFR"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "01",
+   "transition": "JERES",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELOE"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JERES"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "15",
+   "transition": "BUFFR",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "RLLLL"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BUFFR"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "15",
+   "transition": "JERES",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "RLLLL"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JERES"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "19",
+   "transition": "BUFFR",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "RLLLL"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BUFFR"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "19",
+   "transition": "JERES",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "RLLLL"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JERES"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "33",
+   "transition": "BUFFR",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELOE"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BUFFR"
+    }
+   ]
+  },
+  {
+   "name": "HORTO 4",
+   "ident": "HORTO4",
+   "runway": "33",
+   "transition": "JERES",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELOE"
+    },
+    {
+     "t": "FIX",
+     "fix": "HORTO",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JERES"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "01",
+   "transition": "MELTN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "CASLY"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELTN"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "01",
+   "transition": "RRSIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "TYPNZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCORN"
+    },
+    {
+     "t": "FIX",
+     "fix": "RRSIN"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "15",
+   "transition": "MELTN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "CASLY"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELTN"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "15",
+   "transition": "RRSIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "TYPNZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCORN"
+    },
+    {
+     "t": "FIX",
+     "fix": "RRSIN"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "19",
+   "transition": "MELTN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "CASLY"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELTN"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "19",
+   "transition": "RRSIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "TYPNZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCORN"
+    },
+    {
+     "t": "FIX",
+     "fix": "RRSIN"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "33",
+   "transition": "MELTN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "CASLY"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELTN"
+    }
+   ]
+  },
+  {
+   "name": "JDUBB 4",
+   "ident": "JDUBB4",
+   "runway": "33",
+   "transition": "RRSIN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "HAFNR",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "JDUBB"
+    },
+    {
+     "t": "FIX",
+     "fix": "TYPNZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCORN"
+    },
+    {
+     "t": "FIX",
+     "fix": "RRSIN"
+    }
+   ]
+  },
+  {
+   "name": "REBLL 5",
+   "ident": "REBLL5",
+   "runway": "01",
+   "transition": "OTTTO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "DUDDD"
+    },
+    {
+     "t": "FIX",
+     "fix": "REBLL",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OTTTO"
+    }
+   ]
+  },
+  {
+   "name": "REBLL 5",
+   "ident": "REBLL5",
+   "runway": "15",
+   "transition": "OTTTO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEZER"
+    },
+    {
+     "t": "FIX",
+     "fix": "REBLL",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OTTTO"
+    }
+   ]
+  },
+  {
+   "name": "REBLL 5",
+   "ident": "REBLL5",
+   "runway": "19",
+   "transition": "OTTTO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "TEZER"
+    },
+    {
+     "t": "FIX",
+     "fix": "REBLL",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OTTTO"
+    }
+   ]
+  },
+  {
+   "name": "REBLL 5",
+   "ident": "REBLL5",
+   "runway": "33",
+   "transition": "OTTTO",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "DUDDD"
+    },
+    {
+     "t": "FIX",
+     "fix": "REBLL",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OTTTO"
+    }
+   ]
+  },
+  {
+   "name": "SCRAM 6",
+   "ident": "SCRAM6",
+   "runway": "01",
+   "transition": "GLANC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "POOCH",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SCRAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "DANOO"
+    },
+    {
+     "t": "FIX",
+     "fix": "WALCE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GLANC"
+    }
+   ]
+  },
+  {
+   "name": "SCRAM 6",
+   "ident": "SCRAM6",
+   "runway": "15",
+   "transition": "GLANC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "POOCH",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SCRAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "DANOO"
+    },
+    {
+     "t": "FIX",
+     "fix": "WALCE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GLANC"
+    }
+   ]
+  },
+  {
+   "name": "SCRAM 6",
+   "ident": "SCRAM6",
+   "runway": "19",
+   "transition": "GLANC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "DMKRT"
+    },
+    {
+     "t": "FIX",
+     "fix": "POOCH",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SCRAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "DANOO"
+    },
+    {
+     "t": "FIX",
+     "fix": "WALCE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GLANC"
+    }
+   ]
+  },
+  {
+   "name": "SCRAM 6",
+   "ident": "SCRAM6",
+   "runway": "33",
+   "transition": "GLANC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "CUKLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "POOCH",
+     "alt": {
+      "above": 3000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SCRAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "DANOO"
+    },
+    {
+     "t": "FIX",
+     "fix": "WALCE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GLANC"
+    }
+   ]
+  },
+  {
+   "name": "SOOKI 6",
+   "ident": "SOOKI6",
+   "runway": "01",
+   "transition": "SWANN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "PHERB"
+    },
+    {
+     "t": "FIX",
+     "fix": "SOOKI",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWANN"
+    }
+   ]
+  },
+  {
+   "name": "SOOKI 6",
+   "ident": "SOOKI6",
+   "runway": "04",
+   "transition": "SWANN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 37,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "ERECA"
+    },
+    {
+     "t": "FIX",
+     "fix": "SOOKI",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWANN"
+    }
+   ]
+  },
+  {
+   "name": "SOOKI 6",
+   "ident": "SOOKI6",
+   "runway": "15",
+   "transition": "SWANN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "LEAVY"
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MOTBE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GDYUP"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIISE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SOOKI",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWANN"
+    }
+   ]
+  },
+  {
+   "name": "SOOKI 6",
+   "ident": "SOOKI6",
+   "runway": "19",
+   "transition": "SWANN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMBI",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "MOTBE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GDYUP"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIISE"
+    },
+    {
+     "t": "FIX",
+     "fix": "SOOKI",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWANN"
+    }
+   ]
+  },
+  {
+   "name": "SOOKI 6",
+   "ident": "SOOKI6",
+   "runway": "33",
+   "transition": "SWANN",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "COVTO"
+    },
+    {
+     "t": "FIX",
+     "fix": "ALEEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOGUE",
+     "alt": {
+      "above": 4000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "PHERB"
+    },
+    {
+     "t": "FIX",
+     "fix": "SOOKI",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWANN"
+    }
+   ]
+  },
+  {
+   "name": "WYNGS 5",
+   "ident": "WYNGS5",
+   "runway": "01",
+   "transition": "RAMAY",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 6,
+     "alt": 514
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELOE"
+    },
+    {
+     "t": "FIX",
+     "fix": "WYNGS",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "RAMAY"
+    }
+   ]
+  },
+  {
+   "name": "WYNGS 5",
+   "ident": "WYNGS5",
+   "runway": "15",
+   "transition": "RAMAY",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 154,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "GINYA"
+    },
+    {
+     "t": "FIX",
+     "fix": "WYNGS",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "RAMAY"
+    }
+   ]
+  },
+  {
+   "name": "WYNGS 5",
+   "ident": "WYNGS5",
+   "runway": "19",
+   "transition": "RAMAY",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 186,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPVC"
+    },
+    {
+     "t": "FIX",
+     "fix": "GAITE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LBOLT"
+    },
+    {
+     "t": "FIX",
+     "fix": "GINYA"
+    },
+    {
+     "t": "FIX",
+     "fix": "WYNGS",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "RAMAY"
+    }
+   ]
+  },
+  {
+   "name": "WYNGS 5",
+   "ident": "WYNGS5",
+   "runway": "33",
+   "transition": "RAMAY",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 334,
+     "alt": 515
+    },
+    {
+     "t": "FIX",
+     "fix": "REVGE",
+     "alt": {
+      "above": 1500
+     },
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "BEBLE"
+    },
+    {
+     "t": "FIX",
+     "fix": "RGIII"
+    },
+    {
+     "t": "FIX",
+     "fix": "MELOE"
+    },
+    {
+     "t": "FIX",
+     "fix": "WYNGS",
+     "alt": {
+      "above": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "RAMAY"
+    }
+   ]
+  }
+ ],
+ "stars": [
+  {
+   "name": "CAPSS 4",
+   "ident": "CAPSS4",
+   "transition": "THHMP",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "THHMP"
+    },
+    {
+     "t": "FIX",
+     "fix": "BULII",
+     "alt": {
+      "below": 16000,
+      "above": 13000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPSS",
+     "alt": {
+      "below": 13000,
+      "above": 10000
+     }
+    }
+   ]
+  },
+  {
+   "name": "CAPSS 4",
+   "ident": "CAPSS4",
+   "transition": "WAVES",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "WAVES",
+     "alt": {
+      "below": 22000,
+      "above": 21000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "KSETT",
+     "alt": {
+      "above": 17000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ELAPP",
+     "alt": {
+      "below": 20000,
+      "above": 14000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "BULII",
+     "alt": {
+      "below": 16000,
+      "above": 13000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "CAPSS",
+     "alt": {
+      "below": 13000,
+      "above": 10000
+     }
+    }
+   ]
+  },
+  {
+   "name": "CLIPR 3",
+   "ident": "CLIPR3",
+   "transition": "MXE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "MXE"
+    },
+    {
+     "t": "FIX",
+     "fix": "NUGGY"
+    },
+    {
+     "t": "FIX",
+     "fix": "TROYZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "BELAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "TRISH"
+    },
+    {
+     "t": "FIX",
+     "fix": "CLIPR",
+     "alt": {
+      "at": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BAL",
+     "alt": {
+      "at": 10000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "EYESS"
+    }
+   ]
+  },
+  {
+   "name": "DEALE 3",
+   "ident": "DEALE3",
+   "transition": "LAFLN",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LAFLN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BILIT",
+     "alt": {
+      "at": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DEALE",
+     "alt": {
+      "at": 10000
+     },
+     "spd": 280
+    }
+   ]
+  },
+  {
+   "name": "DEALE 3",
+   "ident": "DEALE3",
+   "transition": "RIDGY",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RIDGY"
+    },
+    {
+     "t": "FIX",
+     "fix": "BILIT",
+     "alt": {
+      "at": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DEALE",
+     "alt": {
+      "at": 10000
+     },
+     "spd": 280
+    }
+   ]
+  },
+  {
+   "name": "FRDMM 7",
+   "ident": "FRDMM7",
+   "transition": "BUCKO",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "BUCKO",
+     "alt": {
+      "at": 31000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DRRON",
+     "alt": {
+      "below": 31000,
+      "above": 27000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HONNR",
+     "alt": {
+      "below": 28000,
+      "above": 24000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "BRVRY",
+     "alt": {
+      "below": 26000,
+      "above": 22000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COURG",
+     "alt": {
+      "below": 23000,
+      "above": 20000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "PLDGE",
+     "alt": {
+      "below": 17000,
+      "above": 15000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "WEWIL",
+     "alt": {
+      "above": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NEVVR",
+     "alt": {
+      "above": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "FORGT",
+     "alt": {
+      "above": 11000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "SEPII",
+     "alt": {
+      "above": 10000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "ALWYZ",
+     "alt": {
+      "below": 10000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "FRDMM 7",
+   "ident": "FRDMM7",
+   "transition": "LUISE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LUISE"
+    },
+    {
+     "t": "FIX",
+     "fix": "BUCKO",
+     "alt": {
+      "at": 31000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DRRON",
+     "alt": {
+      "below": 31000,
+      "above": 27000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HONNR",
+     "alt": {
+      "below": 28000,
+      "above": 24000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "BRVRY",
+     "alt": {
+      "below": 26000,
+      "above": 22000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "COURG",
+     "alt": {
+      "below": 23000,
+      "above": 20000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "PLDGE",
+     "alt": {
+      "below": 17000,
+      "above": 15000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "WEWIL",
+     "alt": {
+      "above": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NEVVR",
+     "alt": {
+      "above": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "FORGT",
+     "alt": {
+      "above": 11000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "SEPII",
+     "alt": {
+      "above": 10000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "ALWYZ",
+     "alt": {
+      "below": 10000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "IRONS 7",
+   "ident": "IRONS7",
+   "transition": "RIC",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RIC"
+    },
+    {
+     "t": "FIX",
+     "fix": "EPICS"
+    },
+    {
+     "t": "FIX",
+     "fix": "PEGBY"
+    },
+    {
+     "t": "FIX",
+     "fix": "OJAAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "IRONS"
+    }
+   ]
+  },
+  {
+   "name": "NUMMY 3",
+   "ident": "NUMMY3",
+   "transition": "BUCKO",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "BUCKO",
+     "alt": {
+      "at": 31000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HONNR",
+     "alt": {
+      "at": 26000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ESL",
+     "alt": {
+      "at": 23000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DRUZZ",
+     "alt": {
+      "at": 15000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "WEWIL",
+     "alt": {
+      "above": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NEVVR",
+     "alt": {
+      "above": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "FORGT"
+    },
+    {
+     "t": "FIX",
+     "fix": "SEPII",
+     "alt": {
+      "at": 11000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ALWYZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "AML",
+     "alt": {
+      "at": 8000
+     }
+    }
+   ]
+  },
+  {
+   "name": "SKILS 5",
+   "ident": "SKILS5",
+   "transition": "LRP",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LRP"
+    },
+    {
+     "t": "FIX",
+     "fix": "ROAST"
+    },
+    {
+     "t": "FIX",
+     "fix": "VINNY"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHILO"
+    },
+    {
+     "t": "FIX",
+     "fix": "SKILS",
+     "alt": {
+      "at": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BAL",
+     "alt": {
+      "at": 10000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "EYESS"
+    }
+   ]
+  },
+  {
+   "name": "SKILS 5",
+   "ident": "SKILS5",
+   "transition": "PSB",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "PSB"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHILO"
+    },
+    {
+     "t": "FIX",
+     "fix": "SKILS",
+     "alt": {
+      "at": 12000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BAL",
+     "alt": {
+      "at": 10000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "EYESS"
+    }
+   ]
+  },
+  {
+   "name": "TIKEE 4",
+   "ident": "TIKEE4",
+   "transition": "BBONE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "BBONE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LURAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLBEE",
+     "alt": {
+      "at": 9000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TIKEE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GILFF"
+    },
+    {
+     "t": "FIX",
+     "fix": "HIGPO",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "TIKEE 4",
+   "ident": "TIKEE4",
+   "transition": "ESL",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "ESL",
+     "alt": {
+      "at": 19000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "BBONE"
+    },
+    {
+     "t": "FIX",
+     "fix": "LURAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLBEE",
+     "alt": {
+      "at": 9000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TIKEE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GILFF"
+    },
+    {
+     "t": "FIX",
+     "fix": "HIGPO",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "TIKEE 4",
+   "ident": "TIKEE4",
+   "transition": "SEALZ",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "SEALZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "LLBEE",
+     "alt": {
+      "at": 9000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "TIKEE"
+    },
+    {
+     "t": "FIX",
+     "fix": "GILFF"
+    },
+    {
+     "t": "FIX",
+     "fix": "HIGPO",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "TRUPS 6",
+   "ident": "TRUPS6",
+   "transition": "DILNN",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "DILNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SEALZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "RANJR",
+     "alt": {
+      "below": 28000,
+      "above": 24000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "JARHD",
+     "alt": {
+      "below": 26000,
+      "above": 22000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PJAAE",
+     "alt": {
+      "below": 23000,
+      "above": 21000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "USAAY",
+     "alt": {
+      "below": 21000,
+      "above": 17000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "WEEDU",
+     "alt": {
+      "below": 19000,
+      "above": 16000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SUPRT",
+     "alt": {
+      "below": 17000,
+      "above": 14000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "OOURR",
+     "alt": {
+      "below": 13000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "TRUPS",
+     "alt": {
+      "at": 11000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "TRUPS 6",
+   "ident": "TRUPS6",
+   "transition": "HVQ",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "HVQ"
+    },
+    {
+     "t": "FIX",
+     "fix": "FIMPA"
+    },
+    {
+     "t": "FIX",
+     "fix": "DILNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SEALZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "RANJR",
+     "alt": {
+      "below": 28000,
+      "above": 24000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "JARHD",
+     "alt": {
+      "below": 26000,
+      "above": 22000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PJAAE",
+     "alt": {
+      "below": 23000,
+      "above": 21000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "USAAY",
+     "alt": {
+      "below": 21000,
+      "above": 17000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "WEEDU",
+     "alt": {
+      "below": 19000,
+      "above": 16000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SUPRT",
+     "alt": {
+      "below": 17000,
+      "above": 14000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "OOURR",
+     "alt": {
+      "below": 13000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "TRUPS",
+     "alt": {
+      "at": 11000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "TRUPS 6",
+   "ident": "TRUPS6",
+   "transition": "SITTR",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "SITTR"
+    },
+    {
+     "t": "FIX",
+     "fix": "POMYK"
+    },
+    {
+     "t": "FIX",
+     "fix": "DEBZZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "DILNN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SEALZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "RANJR",
+     "alt": {
+      "below": 28000,
+      "above": 24000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "JARHD",
+     "alt": {
+      "below": 26000,
+      "above": 22000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PJAAE",
+     "alt": {
+      "below": 23000,
+      "above": 21000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "USAAY",
+     "alt": {
+      "below": 21000,
+      "above": 17000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "WEEDU",
+     "alt": {
+      "below": 19000,
+      "above": 16000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SUPRT",
+     "alt": {
+      "below": 17000,
+      "above": 14000
+     },
+     "spd": 280
+    },
+    {
+     "t": "FIX",
+     "fix": "OOURR",
+     "alt": {
+      "below": 13000
+     },
+     "spd": 250
+    },
+    {
+     "t": "FIX",
+     "fix": "TRUPS",
+     "alt": {
+      "at": 11000
+     },
+     "spd": 250
+    }
+   ]
+  }
+ ],
+ "holdings": {
+  "BADDN": {
+   "inbound": 6,
+   "turn": "R",
+   "minAlt": 3000
+  },
+  "GTN": {
+   "inbound": 147,
+   "turn": "R",
+   "minAlt": 2200
+  },
+  "KATRN": {
+   "inbound": 6,
+   "turn": "R",
+   "minAlt": 3000
+  },
+  "CAPSS": {
+   "inbound": 25,
+   "turn": "R",
+   "minAlt": 10000,
+   "synthetic": true
+  },
+  "EYESS": {
+   "inbound": 234,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "DEALE": {
+   "inbound": 288,
+   "turn": "R",
+   "minAlt": 10000,
+   "synthetic": true
+  },
+  "ALWYZ": {
+   "inbound": 119,
+   "turn": "R",
+   "minAlt": 10000,
+   "synthetic": true
+  },
+  "IRONS": {
+   "inbound": 20,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "AML": {
+   "inbound": 119,
+   "turn": "R",
+   "minAlt": 8000,
+   "synthetic": true
+  },
+  "HIGPO": {
+   "inbound": 91,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "TRUPS": {
+   "inbound": 59,
+   "turn": "R",
+   "minAlt": 11000,
+   "synthetic": true
+  }
+ },
+ "airspace": [
+  {
+   "name": "WASHINGTON-TRI AREA AREA A",
+   "cls": "B",
+   "lower": "0",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.06269,
+     -76.71717
+    ],
+    [
+     39.05943,
+     -76.70465
+    ],
+    [
+     39.05689,
+     -76.69178
+    ],
+    [
+     39.05524,
+     -76.67867
+    ],
+    [
+     39.05449,
+     -76.66543
+    ],
+    [
+     39.05465,
+     -76.65215
+    ],
+    [
+     39.05572,
+     -76.63894
+    ],
+    [
+     39.05768,
+     -76.6259
+    ],
+    [
+     39.06053,
+     -76.61314
+    ],
+    [
+     39.06424,
+     -76.60075
+    ],
+    [
+     39.06878,
+     -76.58884
+    ],
+    [
+     39.07412,
+     -76.57748
+    ],
+    [
+     39.08021,
+     -76.56678
+    ],
+    [
+     39.08701,
+     -76.55681
+    ],
+    [
+     39.09447,
+     -76.54765
+    ],
+    [
+     39.10252,
+     -76.53938
+    ],
+    [
+     39.11111,
+     -76.53205
+    ],
+    [
+     39.12017,
+     -76.52573
+    ],
+    [
+     39.12962,
+     -76.52046
+    ],
+    [
+     39.13939,
+     -76.51629
+    ],
+    [
+     39.14942,
+     -76.51325
+    ],
+    [
+     39.15961,
+     -76.51136
+    ],
+    [
+     39.16989,
+     -76.51063
+    ],
+    [
+     39.18018,
+     -76.51108
+    ],
+    [
+     39.1904,
+     -76.51269
+    ],
+    [
+     39.20047,
+     -76.51547
+    ],
+    [
+     39.21031,
+     -76.51937
+    ],
+    [
+     39.21984,
+     -76.52438
+    ],
+    [
+     39.229,
+     -76.53045
+    ],
+    [
+     39.2377,
+     -76.53755
+    ],
+    [
+     39.24589,
+     -76.5456
+    ],
+    [
+     39.25349,
+     -76.55455
+    ],
+    [
+     39.26045,
+     -76.56434
+    ],
+    [
+     39.26672,
+     -76.57487
+    ],
+    [
+     39.27224,
+     -76.58608
+    ],
+    [
+     39.27698,
+     -76.59787
+    ],
+    [
+     39.28089,
+     -76.61016
+    ],
+    [
+     39.28394,
+     -76.62284
+    ],
+    [
+     39.28612,
+     -76.63582
+    ],
+    [
+     39.2874,
+     -76.649
+    ],
+    [
+     39.28777,
+     -76.66227
+    ],
+    [
+     39.28724,
+     -76.67553
+    ],
+    [
+     39.2858,
+     -76.68868
+    ],
+    [
+     39.28347,
+     -76.70162
+    ],
+    [
+     39.28027,
+     -76.71424
+    ],
+    [
+     39.27621,
+     -76.72645
+    ],
+    [
+     39.27133,
+     -76.73814
+    ],
+    [
+     39.26568,
+     -76.74924
+    ],
+    [
+     39.25929,
+     -76.75965
+    ],
+    [
+     39.25221,
+     -76.7693
+    ],
+    [
+     39.2445,
+     -76.7781
+    ],
+    [
+     39.23622,
+     -76.78599
+    ],
+    [
+     39.22743,
+     -76.7929
+    ],
+    [
+     39.2182,
+     -76.79879
+    ],
+    [
+     39.20861,
+     -76.80361
+    ],
+    [
+     39.19872,
+     -76.80732
+    ],
+    [
+     39.18862,
+     -76.80989
+    ],
+    [
+     39.17838,
+     -76.81131
+    ],
+    [
+     39.16809,
+     -76.81155
+    ],
+    [
+     39.15782,
+     -76.81062
+    ],
+    [
+     39.14765,
+     -76.80852
+    ],
+    [
+     39.13767,
+     -76.80528
+    ],
+    [
+     39.12794,
+     -76.80092
+    ],
+    [
+     39.11855,
+     -76.79546
+    ],
+    [
+     39.10958,
+     -76.78869
+    ],
+    [
+     39.10956,
+     -76.71717
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA A",
+   "cls": "B",
+   "lower": "0",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.05139,
+     -77.46667
+    ],
+    [
+     39.05094,
+     -77.4536
+    ],
+    [
+     39.04962,
+     -77.44062
+    ],
+    [
+     39.04741,
+     -77.42785
+    ],
+    [
+     39.04435,
+     -77.41537
+    ],
+    [
+     39.04046,
+     -77.40328
+    ],
+    [
+     39.03576,
+     -77.39168
+    ],
+    [
+     39.03029,
+     -77.38064
+    ],
+    [
+     39.02409,
+     -77.37026
+    ],
+    [
+     39.01722,
+     -77.36061
+    ],
+    [
+     39.00971,
+     -77.35177
+    ],
+    [
+     39.00164,
+     -77.34381
+    ],
+    [
+     38.99306,
+     -77.33678
+    ],
+    [
+     38.98403,
+     -77.33074
+    ],
+    [
+     38.97462,
+     -77.32573
+    ],
+    [
+     38.96492,
+     -77.32179
+    ],
+    [
+     38.95498,
+     -77.31896
+    ],
+    [
+     38.94489,
+     -77.31725
+    ],
+    [
+     38.93472,
+     -77.31668
+    ],
+    [
+     38.92455,
+     -77.31725
+    ],
+    [
+     38.91446,
+     -77.31896
+    ],
+    [
+     38.90453,
+     -77.32179
+    ],
+    [
+     38.89482,
+     -77.32573
+    ],
+    [
+     38.88542,
+     -77.33074
+    ],
+    [
+     38.87639,
+     -77.33678
+    ],
+    [
+     38.8678,
+     -77.34381
+    ],
+    [
+     38.85973,
+     -77.35177
+    ],
+    [
+     38.85223,
+     -77.36061
+    ],
+    [
+     38.84535,
+     -77.37026
+    ],
+    [
+     38.83915,
+     -77.38064
+    ],
+    [
+     38.83369,
+     -77.39168
+    ],
+    [
+     38.82899,
+     -77.40328
+    ],
+    [
+     38.82509,
+     -77.41537
+    ],
+    [
+     38.82203,
+     -77.42785
+    ],
+    [
+     38.81983,
+     -77.44062
+    ],
+    [
+     38.8185,
+     -77.4536
+    ],
+    [
+     38.81806,
+     -77.46667
+    ],
+    [
+     38.8185,
+     -77.47974
+    ],
+    [
+     38.81983,
+     -77.49271
+    ],
+    [
+     38.82203,
+     -77.50549
+    ],
+    [
+     38.82509,
+     -77.51796
+    ],
+    [
+     38.82899,
+     -77.53005
+    ],
+    [
+     38.83369,
+     -77.54166
+    ],
+    [
+     38.83915,
+     -77.55269
+    ],
+    [
+     38.84535,
+     -77.56307
+    ],
+    [
+     38.85223,
+     -77.57272
+    ],
+    [
+     38.85973,
+     -77.58156
+    ],
+    [
+     38.8678,
+     -77.58953
+    ],
+    [
+     38.87639,
+     -77.59656
+    ],
+    [
+     38.88542,
+     -77.6026
+    ],
+    [
+     38.89482,
+     -77.60761
+    ],
+    [
+     38.90453,
+     -77.61154
+    ],
+    [
+     38.91446,
+     -77.61437
+    ],
+    [
+     38.92455,
+     -77.61608
+    ],
+    [
+     38.93472,
+     -77.61665
+    ],
+    [
+     38.94489,
+     -77.61608
+    ],
+    [
+     38.95498,
+     -77.61437
+    ],
+    [
+     38.96492,
+     -77.61154
+    ],
+    [
+     38.97462,
+     -77.60761
+    ],
+    [
+     38.98403,
+     -77.6026
+    ],
+    [
+     38.99306,
+     -77.59656
+    ],
+    [
+     39.00164,
+     -77.58953
+    ],
+    [
+     39.00971,
+     -77.58156
+    ],
+    [
+     39.01722,
+     -77.57272
+    ],
+    [
+     39.02409,
+     -77.56307
+    ],
+    [
+     39.03029,
+     -77.55269
+    ],
+    [
+     39.03576,
+     -77.54166
+    ],
+    [
+     39.04046,
+     -77.53005
+    ],
+    [
+     39.04435,
+     -77.51796
+    ],
+    [
+     39.04741,
+     -77.50549
+    ],
+    [
+     39.04962,
+     -77.49271
+    ],
+    [
+     39.05094,
+     -77.47974
+    ],
+    [
+     39.05139,
+     -77.46667
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA A",
+   "cls": "B",
+   "lower": "0",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.69481,
+     -76.90667
+    ],
+    [
+     38.69254,
+     -76.89388
+    ],
+    [
+     38.6911,
+     -76.88084
+    ],
+    [
+     38.69056,
+     -76.86769
+    ],
+    [
+     38.69092,
+     -76.85453
+    ],
+    [
+     38.69218,
+     -76.84146
+    ],
+    [
+     38.69434,
+     -76.82858
+    ],
+    [
+     38.69736,
+     -76.816
+    ],
+    [
+     38.70124,
+     -76.80381
+    ],
+    [
+     38.70593,
+     -76.7921
+    ],
+    [
+     38.71141,
+     -76.78096
+    ],
+    [
+     38.71763,
+     -76.77049
+    ],
+    [
+     38.72455,
+     -76.76075
+    ],
+    [
+     38.7321,
+     -76.75184
+    ],
+    [
+     38.74024,
+     -76.74381
+    ],
+    [
+     38.74889,
+     -76.73673
+    ],
+    [
+     38.758,
+     -76.73065
+    ],
+    [
+     38.76748,
+     -76.72563
+    ],
+    [
+     38.77727,
+     -76.72169
+    ],
+    [
+     38.7873,
+     -76.71887
+    ],
+    [
+     38.79748,
+     -76.7172
+    ],
+    [
+     38.80773,
+     -76.71668
+    ],
+    [
+     38.81798,
+     -76.71731
+    ],
+    [
+     38.82815,
+     -76.7191
+    ],
+    [
+     38.83816,
+     -76.72203
+    ],
+    [
+     38.84792,
+     -76.72608
+    ],
+    [
+     38.85737,
+     -76.73121
+    ],
+    [
+     38.86644,
+     -76.73739
+    ],
+    [
+     38.87504,
+     -76.74457
+    ],
+    [
+     38.88312,
+     -76.75269
+    ],
+    [
+     38.89061,
+     -76.76169
+    ],
+    [
+     38.89746,
+     -76.7715
+    ],
+    [
+     38.90361,
+     -76.78204
+    ],
+    [
+     38.90901,
+     -76.79324
+    ],
+    [
+     38.91363,
+     -76.805
+    ],
+    [
+     38.91742,
+     -76.81724
+    ],
+    [
+     38.92036,
+     -76.82986
+    ],
+    [
+     38.92243,
+     -76.84276
+    ],
+    [
+     38.9236,
+     -76.85584
+    ],
+    [
+     38.92387,
+     -76.86901
+    ],
+    [
+     38.92324,
+     -76.88215
+    ],
+    [
+     38.92171,
+     -76.89517
+    ],
+    [
+     38.91933,
+     -76.90806
+    ],
+    [
+     38.92804,
+     -76.9152
+    ],
+    [
+     38.93605,
+     -76.92339
+    ],
+    [
+     38.94347,
+     -76.93245
+    ],
+    [
+     38.95024,
+     -76.94231
+    ],
+    [
+     38.95632,
+     -76.9529
+    ],
+    [
+     38.96164,
+     -76.96413
+    ],
+    [
+     38.96618,
+     -76.97591
+    ],
+    [
+     38.9699,
+     -76.98816
+    ],
+    [
+     38.97277,
+     -77.00078
+    ],
+    [
+     38.97476,
+     -77.01368
+    ],
+    [
+     38.97587,
+     -77.02675
+    ],
+    [
+     38.97608,
+     -77.0399
+    ],
+    [
+     38.97539,
+     -77.05301
+    ],
+    [
+     38.97381,
+     -77.066
+    ],
+    [
+     38.97135,
+     -77.07877
+    ],
+    [
+     38.96802,
+     -77.0912
+    ],
+    [
+     38.96386,
+     -77.10322
+    ],
+    [
+     38.9589,
+     -77.11471
+    ],
+    [
+     38.95317,
+     -77.12561
+    ],
+    [
+     38.94672,
+     -77.13582
+    ],
+    [
+     38.93959,
+     -77.14526
+    ],
+    [
+     38.93185,
+     -77.15387
+    ],
+    [
+     38.92355,
+     -77.16157
+    ],
+    [
+     38.91476,
+     -77.1683
+    ],
+    [
+     38.90554,
+     -77.17402
+    ],
+    [
+     38.89597,
+     -77.17868
+    ],
+    [
+     38.88611,
+     -77.18225
+    ],
+    [
+     38.87605,
+     -77.18469
+    ],
+    [
+     38.86586,
+     -77.18599
+    ],
+    [
+     38.85563,
+     -77.18613
+    ],
+    [
+     38.84542,
+     -77.18513
+    ],
+    [
+     38.83532,
+     -77.18298
+    ],
+    [
+     38.8254,
+     -77.17969
+    ],
+    [
+     38.81575,
+     -77.17531
+    ],
+    [
+     38.80644,
+     -77.16986
+    ],
+    [
+     38.79753,
+     -77.16337
+    ],
+    [
+     38.7891,
+     -77.15591
+    ],
+    [
+     38.78121,
+     -77.14753
+    ],
+    [
+     38.77392,
+     -77.1383
+    ],
+    [
+     38.76729,
+     -77.12828
+    ],
+    [
+     38.76138,
+     -77.11755
+    ],
+    [
+     38.75621,
+     -77.10619
+    ],
+    [
+     38.75185,
+     -77.0943
+    ],
+    [
+     38.74831,
+     -77.08197
+    ],
+    [
+     38.74562,
+     -77.06928
+    ],
+    [
+     38.74382,
+     -77.05634
+    ],
+    [
+     38.7429,
+     -77.04324
+    ],
+    [
+     38.74288,
+     -77.03009
+    ],
+    [
+     38.74376,
+     -77.01699
+    ],
+    [
+     38.74553,
+     -77.00404
+    ],
+    [
+     38.74811,
+     -76.99139
+    ],
+    [
+     38.77222,
+     -76.99139
+    ],
+    [
+     38.77222,
+     -76.90667
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA B",
+   "cls": "B",
+   "lower": "1500",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.69306,
+     -77.02167
+    ],
+    [
+     38.68283,
+     -77.00873
+    ],
+    [
+     38.67361,
+     -76.99424
+    ],
+    [
+     38.66542,
+     -76.97877
+    ],
+    [
+     38.65831,
+     -76.96244
+    ],
+    [
+     38.65234,
+     -76.94537
+    ],
+    [
+     38.64755,
+     -76.9277
+    ],
+    [
+     38.64399,
+     -76.90956
+    ],
+    [
+     38.64167,
+     -76.89109
+    ],
+    [
+     38.64062,
+     -76.87243
+    ],
+    [
+     38.64085,
+     -76.85373
+    ],
+    [
+     38.64235,
+     -76.83512
+    ],
+    [
+     38.64511,
+     -76.81675
+    ],
+    [
+     38.64911,
+     -76.79876
+    ],
+    [
+     38.65432,
+     -76.78129
+    ],
+    [
+     38.66069,
+     -76.76447
+    ],
+    [
+     38.66819,
+     -76.74843
+    ],
+    [
+     38.67676,
+     -76.73329
+    ],
+    [
+     38.68632,
+     -76.71917
+    ],
+    [
+     38.69681,
+     -76.70618
+    ],
+    [
+     38.70814,
+     -76.69441
+    ],
+    [
+     38.72023,
+     -76.68396
+    ],
+    [
+     38.73298,
+     -76.6749
+    ],
+    [
+     38.74631,
+     -76.66731
+    ],
+    [
+     38.7601,
+     -76.66124
+    ],
+    [
+     38.77425,
+     -76.65674
+    ],
+    [
+     38.78865,
+     -76.65384
+    ],
+    [
+     38.80319,
+     -76.65257
+    ],
+    [
+     38.81777,
+     -76.65294
+    ],
+    [
+     38.83226,
+     -76.65494
+    ],
+    [
+     38.84656,
+     -76.65855
+    ],
+    [
+     38.86056,
+     -76.66376
+    ],
+    [
+     38.87416,
+     -76.67052
+    ],
+    [
+     38.88724,
+     -76.67877
+    ],
+    [
+     38.89971,
+     -76.68846
+    ],
+    [
+     38.91147,
+     -76.69951
+    ],
+    [
+     38.92243,
+     -76.71184
+    ],
+    [
+     38.93252,
+     -76.72535
+    ],
+    [
+     38.94164,
+     -76.73994
+    ],
+    [
+     38.94974,
+     -76.7555
+    ],
+    [
+     38.95674,
+     -76.7719
+    ],
+    [
+     38.96261,
+     -76.78903
+    ],
+    [
+     38.96728,
+     -76.80675
+    ],
+    [
+     38.97073,
+     -76.82493
+    ],
+    [
+     38.97292,
+     -76.84342
+    ],
+    [
+     38.97385,
+     -76.86209
+    ],
+    [
+     38.97361,
+     -76.88083
+    ],
+    [
+     38.98429,
+     -76.8946
+    ],
+    [
+     38.99367,
+     -76.90951
+    ],
+    [
+     39.00197,
+     -76.92544
+    ],
+    [
+     39.00913,
+     -76.94227
+    ],
+    [
+     39.01509,
+     -76.95985
+    ],
+    [
+     39.0198,
+     -76.97804
+    ],
+    [
+     39.02322,
+     -76.9967
+    ],
+    [
+     39.02533,
+     -77.01568
+    ],
+    [
+     39.02611,
+     -77.03483
+    ],
+    [
+     39.02555,
+     -77.05399
+    ],
+    [
+     39.02365,
+     -77.073
+    ],
+    [
+     39.02044,
+     -77.09173
+    ],
+    [
+     39.01594,
+     -77.11001
+    ],
+    [
+     39.01018,
+     -77.1277
+    ],
+    [
+     39.00322,
+     -77.14465
+    ],
+    [
+     38.9951,
+     -77.16074
+    ],
+    [
+     38.98589,
+     -77.17583
+    ],
+    [
+     38.97566,
+     -77.1898
+    ],
+    [
+     38.96451,
+     -77.20254
+    ],
+    [
+     38.95222,
+     -77.21389
+    ],
+    [
+     38.77472,
+     -77.22028
+    ],
+    [
+     38.7619,
+     -77.20993
+    ],
+    [
+     38.74987,
+     -77.19766
+    ],
+    [
+     38.73877,
+     -77.18401
+    ],
+    [
+     38.72869,
+     -77.16911
+    ],
+    [
+     38.71973,
+     -77.15309
+    ],
+    [
+     38.71195,
+     -77.13606
+    ],
+    [
+     38.70543,
+     -77.1182
+    ],
+    [
+     38.70022,
+     -77.09963
+    ],
+    [
+     38.69636,
+     -77.08053
+    ],
+    [
+     38.69389,
+     -77.06106
+    ],
+    [
+     38.69282,
+     -77.04137
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA B",
+   "cls": "B",
+   "lower": "1500",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.09,
+     -77.30472
+    ],
+    [
+     39.10078,
+     -77.32337
+    ],
+    [
+     39.11003,
+     -77.34291
+    ],
+    [
+     39.11789,
+     -77.36343
+    ],
+    [
+     39.1243,
+     -77.38476
+    ],
+    [
+     39.12921,
+     -77.40674
+    ],
+    [
+     39.13259,
+     -77.4292
+    ],
+    [
+     39.13439,
+     -77.45195
+    ],
+    [
+     39.13462,
+     -77.47482
+    ],
+    [
+     39.13327,
+     -77.49763
+    ],
+    [
+     39.13034,
+     -77.52019
+    ],
+    [
+     39.12587,
+     -77.54233
+    ],
+    [
+     39.11988,
+     -77.56386
+    ],
+    [
+     39.11243,
+     -77.58463
+    ],
+    [
+     39.10357,
+     -77.60447
+    ],
+    [
+     39.09338,
+     -77.62321
+    ],
+    [
+     39.08193,
+     -77.64072
+    ],
+    [
+     39.06932,
+     -77.65685
+    ],
+    [
+     39.05564,
+     -77.67147
+    ],
+    [
+     39.041,
+     -77.68448
+    ],
+    [
+     39.02552,
+     -77.69576
+    ],
+    [
+     39.00933,
+     -77.70522
+    ],
+    [
+     38.99254,
+     -77.7128
+    ],
+    [
+     38.9753,
+     -77.71843
+    ],
+    [
+     38.95774,
+     -77.72207
+    ],
+    [
+     38.93999,
+     -77.72369
+    ],
+    [
+     38.9222,
+     -77.72328
+    ],
+    [
+     38.90451,
+     -77.72083
+    ],
+    [
+     38.88706,
+     -77.71637
+    ],
+    [
+     38.86999,
+     -77.70994
+    ],
+    [
+     38.85343,
+     -77.70158
+    ],
+    [
+     38.83751,
+     -77.69137
+    ],
+    [
+     38.82236,
+     -77.67937
+    ],
+    [
+     38.8081,
+     -77.66569
+    ],
+    [
+     38.79485,
+     -77.65044
+    ],
+    [
+     38.7827,
+     -77.63373
+    ],
+    [
+     38.77175,
+     -77.61571
+    ],
+    [
+     38.76209,
+     -77.5965
+    ],
+    [
+     38.7538,
+     -77.57626
+    ],
+    [
+     38.74694,
+     -77.55516
+    ],
+    [
+     38.74157,
+     -77.53336
+    ],
+    [
+     38.73772,
+     -77.51102
+    ],
+    [
+     38.73543,
+     -77.48834
+    ],
+    [
+     38.73472,
+     -77.46549
+    ],
+    [
+     38.7356,
+     -77.44265
+    ],
+    [
+     38.73805,
+     -77.41999
+    ],
+    [
+     38.74205,
+     -77.39771
+    ],
+    [
+     38.74758,
+     -77.37597
+    ],
+    [
+     38.75459,
+     -77.35495
+    ],
+    [
+     38.76302,
+     -77.33481
+    ],
+    [
+     38.77278,
+     -77.31611
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA B",
+   "cls": "B",
+   "lower": "1500",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.12194,
+     -76.91056
+    ],
+    [
+     39.13926,
+     -76.9158
+    ],
+    [
+     39.15665,
+     -76.91841
+    ],
+    [
+     39.17416,
+     -76.91906
+    ],
+    [
+     39.19164,
+     -76.91773
+    ],
+    [
+     39.20896,
+     -76.91443
+    ],
+    [
+     39.22599,
+     -76.90919
+    ],
+    [
+     39.2426,
+     -76.90204
+    ],
+    [
+     39.25867,
+     -76.89305
+    ],
+    [
+     39.27406,
+     -76.88228
+    ],
+    [
+     39.28866,
+     -76.86982
+    ],
+    [
+     39.30237,
+     -76.85576
+    ],
+    [
+     39.31506,
+     -76.8402
+    ],
+    [
+     39.32666,
+     -76.82328
+    ],
+    [
+     39.33706,
+     -76.80511
+    ],
+    [
+     39.34619,
+     -76.78583
+    ],
+    [
+     39.35397,
+     -76.7656
+    ],
+    [
+     39.36036,
+     -76.74457
+    ],
+    [
+     39.36529,
+     -76.7229
+    ],
+    [
+     39.36874,
+     -76.70075
+    ],
+    [
+     39.37067,
+     -76.6783
+    ],
+    [
+     39.37107,
+     -76.65572
+    ],
+    [
+     39.36994,
+     -76.63318
+    ],
+    [
+     39.36728,
+     -76.61086
+    ],
+    [
+     39.36312,
+     -76.58892
+    ],
+    [
+     39.35749,
+     -76.56753
+    ],
+    [
+     39.35043,
+     -76.54686
+    ],
+    [
+     39.34199,
+     -76.52707
+    ],
+    [
+     39.33225,
+     -76.5083
+    ],
+    [
+     39.32127,
+     -76.49071
+    ],
+    [
+     39.30914,
+     -76.47442
+    ],
+    [
+     39.29595,
+     -76.45956
+    ],
+    [
+     39.2818,
+     -76.44625
+    ],
+    [
+     39.26681,
+     -76.43458
+    ],
+    [
+     39.25108,
+     -76.42465
+    ],
+    [
+     39.23474,
+     -76.41654
+    ],
+    [
+     39.21791,
+     -76.4103
+    ],
+    [
+     39.20072,
+     -76.40598
+    ],
+    [
+     39.18331,
+     -76.40361
+    ],
+    [
+     39.1658,
+     -76.40322
+    ],
+    [
+     39.14833,
+     -76.40481
+    ],
+    [
+     39.13104,
+     -76.40836
+    ],
+    [
+     39.11406,
+     -76.41385
+    ],
+    [
+     39.09751,
+     -76.42124
+    ],
+    [
+     39.08152,
+     -76.43046
+    ],
+    [
+     39.06623,
+     -76.44145
+    ],
+    [
+     39.05173,
+     -76.45413
+    ],
+    [
+     39.03816,
+     -76.46839
+    ],
+    [
+     39.0256,
+     -76.48413
+    ],
+    [
+     39.01415,
+     -76.50123
+    ],
+    [
+     39.00391,
+     -76.51955
+    ],
+    [
+     38.99495,
+     -76.53895
+    ],
+    [
+     38.98735,
+     -76.5593
+    ],
+    [
+     38.98115,
+     -76.58042
+    ],
+    [
+     38.9764,
+     -76.60216
+    ],
+    [
+     38.97306,
+     -76.62444
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA C",
+   "cls": "B",
+   "lower": "2500",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.09,
+     -77.30472
+    ],
+    [
+     39.14972,
+     -77.30278
+    ],
+    [
+     39.16035,
+     -77.32826
+    ],
+    [
+     39.16898,
+     -77.35443
+    ],
+    [
+     39.17578,
+     -77.38147
+    ],
+    [
+     39.18069,
+     -77.40918
+    ],
+    [
+     39.18368,
+     -77.43734
+    ],
+    [
+     39.18472,
+     -77.46573
+    ],
+    [
+     39.18381,
+     -77.49412
+    ],
+    [
+     39.18095,
+     -77.52231
+    ],
+    [
+     39.17616,
+     -77.55005
+    ],
+    [
+     39.16949,
+     -77.57714
+    ],
+    [
+     39.16098,
+     -77.60337
+    ],
+    [
+     39.1507,
+     -77.62854
+    ],
+    [
+     39.13873,
+     -77.65243
+    ],
+    [
+     39.12517,
+     -77.67487
+    ],
+    [
+     39.11012,
+     -77.69569
+    ],
+    [
+     39.09369,
+     -77.71471
+    ],
+    [
+     39.07603,
+     -77.7318
+    ],
+    [
+     39.05726,
+     -77.74681
+    ],
+    [
+     39.03753,
+     -77.75963
+    ],
+    [
+     39.01699,
+     -77.77016
+    ],
+    [
+     38.99582,
+     -77.77832
+    ],
+    [
+     38.97416,
+     -77.78404
+    ],
+    [
+     38.9522,
+     -77.78727
+    ],
+    [
+     38.9301,
+     -77.78801
+    ],
+    [
+     38.90804,
+     -77.78622
+    ],
+    [
+     38.88618,
+     -77.78195
+    ],
+    [
+     38.86471,
+     -77.7752
+    ],
+    [
+     38.84378,
+     -77.76604
+    ],
+    [
+     38.82357,
+     -77.75454
+    ],
+    [
+     38.80422,
+     -77.7408
+    ],
+    [
+     38.78589,
+     -77.7249
+    ],
+    [
+     38.76873,
+     -77.70699
+    ],
+    [
+     38.75286,
+     -77.6872
+    ],
+    [
+     38.73842,
+     -77.66568
+    ],
+    [
+     38.72551,
+     -77.64261
+    ],
+    [
+     38.71424,
+     -77.61817
+    ],
+    [
+     38.70469,
+     -77.59253
+    ],
+    [
+     38.69694,
+     -77.56592
+    ],
+    [
+     38.69105,
+     -77.53853
+    ],
+    [
+     38.68707,
+     -77.51057
+    ],
+    [
+     38.68502,
+     -77.48227
+    ],
+    [
+     38.68492,
+     -77.45385
+    ],
+    [
+     38.68678,
+     -77.42554
+    ],
+    [
+     38.69057,
+     -77.39754
+    ],
+    [
+     38.69628,
+     -77.37008
+    ],
+    [
+     38.70385,
+     -77.34338
+    ],
+    [
+     38.71306,
+     -77.31806
+    ],
+    [
+     38.77278,
+     -77.31611
+    ],
+    [
+     38.76302,
+     -77.33481
+    ],
+    [
+     38.75459,
+     -77.35495
+    ],
+    [
+     38.74758,
+     -77.37597
+    ],
+    [
+     38.74205,
+     -77.39771
+    ],
+    [
+     38.73805,
+     -77.41999
+    ],
+    [
+     38.7356,
+     -77.44265
+    ],
+    [
+     38.73472,
+     -77.46549
+    ],
+    [
+     38.73543,
+     -77.48834
+    ],
+    [
+     38.73772,
+     -77.51102
+    ],
+    [
+     38.74157,
+     -77.53336
+    ],
+    [
+     38.74694,
+     -77.55516
+    ],
+    [
+     38.7538,
+     -77.57626
+    ],
+    [
+     38.76209,
+     -77.5965
+    ],
+    [
+     38.77175,
+     -77.61571
+    ],
+    [
+     38.7827,
+     -77.63373
+    ],
+    [
+     38.79485,
+     -77.65044
+    ],
+    [
+     38.8081,
+     -77.66569
+    ],
+    [
+     38.82236,
+     -77.67937
+    ],
+    [
+     38.83751,
+     -77.69137
+    ],
+    [
+     38.85343,
+     -77.70158
+    ],
+    [
+     38.86999,
+     -77.70994
+    ],
+    [
+     38.88706,
+     -77.71637
+    ],
+    [
+     38.90451,
+     -77.72083
+    ],
+    [
+     38.9222,
+     -77.72328
+    ],
+    [
+     38.93999,
+     -77.72369
+    ],
+    [
+     38.95774,
+     -77.72207
+    ],
+    [
+     38.9753,
+     -77.71843
+    ],
+    [
+     38.99254,
+     -77.7128
+    ],
+    [
+     39.00933,
+     -77.70522
+    ],
+    [
+     39.02552,
+     -77.69576
+    ],
+    [
+     39.041,
+     -77.68448
+    ],
+    [
+     39.05564,
+     -77.67147
+    ],
+    [
+     39.06932,
+     -77.65685
+    ],
+    [
+     39.08193,
+     -77.64072
+    ],
+    [
+     39.09338,
+     -77.62321
+    ],
+    [
+     39.10357,
+     -77.60447
+    ],
+    [
+     39.11243,
+     -77.58463
+    ],
+    [
+     39.11988,
+     -77.56386
+    ],
+    [
+     39.12587,
+     -77.54233
+    ],
+    [
+     39.13034,
+     -77.52019
+    ],
+    [
+     39.13327,
+     -77.49763
+    ],
+    [
+     39.13462,
+     -77.47482
+    ],
+    [
+     39.13439,
+     -77.45195
+    ],
+    [
+     39.13259,
+     -77.4292
+    ],
+    [
+     39.12921,
+     -77.40674
+    ],
+    [
+     39.1243,
+     -77.38476
+    ],
+    [
+     39.11789,
+     -77.36343
+    ],
+    [
+     39.11003,
+     -77.34291
+    ],
+    [
+     39.10078,
+     -77.32337
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA C",
+   "cls": "B",
+   "lower": "2500",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.65694,
+     -77.22444
+    ],
+    [
+     38.64462,
+     -77.2006
+    ],
+    [
+     38.6339,
+     -77.17488
+    ],
+    [
+     38.62504,
+     -77.14802
+    ],
+    [
+     38.61812,
+     -77.12024
+    ],
+    [
+     38.61319,
+     -77.09177
+    ],
+    [
+     38.61,
+     -77.06278
+    ],
+    [
+     38.5972,
+     -77.04041
+    ],
+    [
+     38.58605,
+     -77.01595
+    ],
+    [
+     38.57663,
+     -76.99033
+    ],
+    [
+     38.56901,
+     -76.96375
+    ],
+    [
+     38.56325,
+     -76.9364
+    ],
+    [
+     38.55939,
+     -76.90851
+    ],
+    [
+     38.55746,
+     -76.88029
+    ],
+    [
+     38.55748,
+     -76.85196
+    ],
+    [
+     38.55944,
+     -76.82374
+    ],
+    [
+     38.56334,
+     -76.79586
+    ],
+    [
+     38.56914,
+     -76.76852
+    ],
+    [
+     38.57679,
+     -76.74195
+    ],
+    [
+     38.58625,
+     -76.71635
+    ],
+    [
+     38.59742,
+     -76.69192
+    ],
+    [
+     38.61023,
+     -76.66885
+    ],
+    [
+     38.62458,
+     -76.64732
+    ],
+    [
+     38.64035,
+     -76.6275
+    ],
+    [
+     38.65743,
+     -76.60954
+    ],
+    [
+     38.67567,
+     -76.59358
+    ],
+    [
+     38.69493,
+     -76.57975
+    ],
+    [
+     38.71508,
+     -76.56816
+    ],
+    [
+     38.73594,
+     -76.55889
+    ],
+    [
+     38.75735,
+     -76.55202
+    ],
+    [
+     38.77916,
+     -76.5476
+    ],
+    [
+     38.80118,
+     -76.54567
+    ],
+    [
+     38.82325,
+     -76.54623
+    ],
+    [
+     38.8452,
+     -76.54929
+    ],
+    [
+     38.86685,
+     -76.55483
+    ],
+    [
+     38.88804,
+     -76.5628
+    ],
+    [
+     38.90859,
+     -76.57313
+    ],
+    [
+     38.92778,
+     -76.58583
+    ],
+    [
+     38.93412,
+     -76.55843
+    ],
+    [
+     38.94202,
+     -76.532
+    ],
+    [
+     38.95169,
+     -76.50656
+    ],
+    [
+     38.96306,
+     -76.48232
+    ],
+    [
+     38.97602,
+     -76.45946
+    ],
+    [
+     38.9905,
+     -76.43815
+    ],
+    [
+     39.00636,
+     -76.41857
+    ],
+    [
+     39.0235,
+     -76.40085
+    ],
+    [
+     39.04178,
+     -76.38515
+    ],
+    [
+     39.06105,
+     -76.37157
+    ],
+    [
+     39.08118,
+     -76.36023
+    ],
+    [
+     39.10199,
+     -76.35121
+    ],
+    [
+     39.12335,
+     -76.34458
+    ],
+    [
+     39.14507,
+     -76.34039
+    ],
+    [
+     39.16699,
+     -76.33868
+    ],
+    [
+     39.18894,
+     -76.33946
+    ],
+    [
+     39.21076,
+     -76.34272
+    ],
+    [
+     39.23227,
+     -76.34844
+    ],
+    [
+     39.2533,
+     -76.35657
+    ],
+    [
+     39.27371,
+     -76.36705
+    ],
+    [
+     39.29332,
+     -76.37979
+    ],
+    [
+     39.31199,
+     -76.39471
+    ],
+    [
+     39.32957,
+     -76.41169
+    ],
+    [
+     39.34593,
+     -76.43059
+    ],
+    [
+     39.36094,
+     -76.45127
+    ],
+    [
+     39.37448,
+     -76.47357
+    ],
+    [
+     39.38646,
+     -76.49731
+    ],
+    [
+     39.39677,
+     -76.52232
+    ],
+    [
+     39.40534,
+     -76.5484
+    ],
+    [
+     39.41211,
+     -76.57535
+    ],
+    [
+     39.41701,
+     -76.60296
+    ],
+    [
+     39.42002,
+     -76.63103
+    ],
+    [
+     39.42111,
+     -76.65932
+    ],
+    [
+     39.42026,
+     -76.68763
+    ],
+    [
+     39.4175,
+     -76.71573
+    ],
+    [
+     39.41283,
+     -76.74341
+    ],
+    [
+     39.4063,
+     -76.77045
+    ],
+    [
+     39.39795,
+     -76.79666
+    ],
+    [
+     39.38786,
+     -76.82181
+    ],
+    [
+     39.37609,
+     -76.84573
+    ],
+    [
+     39.36273,
+     -76.86822
+    ],
+    [
+     39.3479,
+     -76.88911
+    ],
+    [
+     39.33171,
+     -76.90824
+    ],
+    [
+     39.31428,
+     -76.92547
+    ],
+    [
+     39.29574,
+     -76.94066
+    ],
+    [
+     39.27624,
+     -76.95369
+    ],
+    [
+     39.25592,
+     -76.96446
+    ],
+    [
+     39.23496,
+     -76.97289
+    ],
+    [
+     39.2135,
+     -76.97891
+    ],
+    [
+     39.19171,
+     -76.98249
+    ],
+    [
+     39.16977,
+     -76.98358
+    ],
+    [
+     39.14783,
+     -76.98218
+    ],
+    [
+     39.12608,
+     -76.97831
+    ],
+    [
+     39.10444,
+     -76.97083
+    ],
+    [
+     39.10787,
+     -77.00047
+    ],
+    [
+     39.1094,
+     -77.03013
+    ],
+    [
+     39.10878,
+     -77.05984
+    ],
+    [
+     39.10602,
+     -77.08935
+    ],
+    [
+     39.10115,
+     -77.11841
+    ],
+    [
+     39.09421,
+     -77.14676
+    ],
+    [
+     39.08525,
+     -77.17417
+    ],
+    [
+     39.07417,
+     -77.20083
+    ],
+    [
+     39.07975,
+     -77.20488
+    ],
+    [
+     39.08389,
+     -77.20944
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA D",
+   "cls": "B",
+   "lower": "3500",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.65694,
+     -77.22444
+    ],
+    [
+     38.67078,
+     -77.24705
+    ],
+    [
+     38.68591,
+     -77.2675
+    ],
+    [
+     38.70238,
+     -77.28617
+    ],
+    [
+     38.72,
+     -77.30194
+    ],
+    [
+     38.71664,
+     -77.30953
+    ],
+    [
+     38.71306,
+     -77.31806
+    ],
+    [
+     38.61167,
+     -77.32167
+    ],
+    [
+     38.59151,
+     -77.29105
+    ],
+    [
+     38.57371,
+     -77.25683
+    ],
+    [
+     38.55854,
+     -77.22057
+    ],
+    [
+     38.54616,
+     -77.18261
+    ],
+    [
+     38.53667,
+     -77.1433
+    ],
+    [
+     38.52972,
+     -77.10278
+    ],
+    [
+     38.51412,
+     -77.07012
+    ],
+    [
+     38.50081,
+     -77.03479
+    ],
+    [
+     38.49007,
+     -76.99804
+    ],
+    [
+     38.482,
+     -76.96018
+    ],
+    [
+     38.47667,
+     -76.92153
+    ],
+    [
+     38.47412,
+     -76.88242
+    ],
+    [
+     38.47438,
+     -76.84317
+    ],
+    [
+     38.47744,
+     -76.80412
+    ],
+    [
+     38.48328,
+     -76.76559
+    ],
+    [
+     38.49184,
+     -76.72791
+    ],
+    [
+     38.50306,
+     -76.6914
+    ],
+    [
+     38.51684,
+     -76.65636
+    ],
+    [
+     38.53306,
+     -76.62309
+    ],
+    [
+     38.55159,
+     -76.59186
+    ],
+    [
+     38.57228,
+     -76.56295
+    ],
+    [
+     38.59494,
+     -76.53659
+    ],
+    [
+     38.61939,
+     -76.51301
+    ],
+    [
+     38.64542,
+     -76.49241
+    ],
+    [
+     38.6725,
+     -76.47667
+    ],
+    [
+     39.03611,
+     -76.26972
+    ],
+    [
+     39.06347,
+     -76.25418
+    ],
+    [
+     39.09139,
+     -76.24363
+    ],
+    [
+     39.11992,
+     -76.23625
+    ],
+    [
+     39.14883,
+     -76.23211
+    ],
+    [
+     39.17791,
+     -76.23124
+    ],
+    [
+     39.20695,
+     -76.23364
+    ],
+    [
+     39.2357,
+     -76.2393
+    ],
+    [
+     39.26397,
+     -76.24817
+    ],
+    [
+     39.29153,
+     -76.26019
+    ],
+    [
+     39.31817,
+     -76.27526
+    ],
+    [
+     39.3437,
+     -76.29327
+    ],
+    [
+     39.3679,
+     -76.31408
+    ],
+    [
+     39.39061,
+     -76.33753
+    ],
+    [
+     39.41165,
+     -76.36345
+    ],
+    [
+     39.43085,
+     -76.39164
+    ],
+    [
+     39.44808,
+     -76.42188
+    ],
+    [
+     39.4632,
+     -76.45394
+    ],
+    [
+     39.47609,
+     -76.48758
+    ],
+    [
+     39.48666,
+     -76.52254
+    ],
+    [
+     39.49482,
+     -76.55855
+    ],
+    [
+     39.50052,
+     -76.59535
+    ],
+    [
+     39.50371,
+     -76.63265
+    ],
+    [
+     39.50437,
+     -76.67016
+    ],
+    [
+     39.50249,
+     -76.70761
+    ],
+    [
+     39.49808,
+     -76.7447
+    ],
+    [
+     39.49119,
+     -76.78116
+    ],
+    [
+     39.48185,
+     -76.8167
+    ],
+    [
+     39.47015,
+     -76.85106
+    ],
+    [
+     39.45618,
+     -76.88396
+    ],
+    [
+     39.44003,
+     -76.91518
+    ],
+    [
+     39.42183,
+     -76.94445
+    ],
+    [
+     39.40172,
+     -76.97157
+    ],
+    [
+     39.37986,
+     -76.99632
+    ],
+    [
+     39.35556,
+     -77.01889
+    ],
+    [
+     39.27556,
+     -77.34722
+    ],
+    [
+     39.14972,
+     -77.30278
+    ],
+    [
+     39.13639,
+     -77.27672
+    ],
+    [
+     39.12086,
+     -77.25211
+    ],
+    [
+     39.10351,
+     -77.22959
+    ],
+    [
+     39.08389,
+     -77.20944
+    ],
+    [
+     39.0798,
+     -77.20493
+    ],
+    [
+     39.07417,
+     -77.20111
+    ],
+    [
+     39.08517,
+     -77.17439
+    ],
+    [
+     39.09414,
+     -77.14699
+    ],
+    [
+     39.1011,
+     -77.11865
+    ],
+    [
+     39.10599,
+     -77.0896
+    ],
+    [
+     39.10876,
+     -77.0601
+    ],
+    [
+     39.1094,
+     -77.03039
+    ],
+    [
+     39.1079,
+     -77.00074
+    ],
+    [
+     39.10444,
+     -76.97111
+    ],
+    [
+     39.12614,
+     -76.97832
+    ],
+    [
+     39.1479,
+     -76.98219
+    ],
+    [
+     39.16983,
+     -76.98358
+    ],
+    [
+     39.19178,
+     -76.98248
+    ],
+    [
+     39.21357,
+     -76.9789
+    ],
+    [
+     39.23503,
+     -76.97286
+    ],
+    [
+     39.256,
+     -76.96442
+    ],
+    [
+     39.27631,
+     -76.95364
+    ],
+    [
+     39.29581,
+     -76.9406
+    ],
+    [
+     39.31435,
+     -76.92541
+    ],
+    [
+     39.33178,
+     -76.90817
+    ],
+    [
+     39.34797,
+     -76.88903
+    ],
+    [
+     39.3628,
+     -76.86812
+    ],
+    [
+     39.37614,
+     -76.84562
+    ],
+    [
+     39.38791,
+     -76.8217
+    ],
+    [
+     39.398,
+     -76.79653
+    ],
+    [
+     39.40634,
+     -76.77033
+    ],
+    [
+     39.41286,
+     -76.74327
+    ],
+    [
+     39.41752,
+     -76.71559
+    ],
+    [
+     39.42027,
+     -76.68748
+    ],
+    [
+     39.42111,
+     -76.65917
+    ],
+    [
+     39.42001,
+     -76.63087
+    ],
+    [
+     39.41699,
+     -76.60281
+    ],
+    [
+     39.41207,
+     -76.5752
+    ],
+    [
+     39.4053,
+     -76.54825
+    ],
+    [
+     39.39671,
+     -76.52217
+    ],
+    [
+     39.38639,
+     -76.49716
+    ],
+    [
+     39.3744,
+     -76.47342
+    ],
+    [
+     39.36085,
+     -76.45113
+    ],
+    [
+     39.34583,
+     -76.43046
+    ],
+    [
+     39.32946,
+     -76.41157
+    ],
+    [
+     39.31187,
+     -76.39461
+    ],
+    [
+     39.29319,
+     -76.3797
+    ],
+    [
+     39.27357,
+     -76.36696
+    ],
+    [
+     39.25316,
+     -76.3565
+    ],
+    [
+     39.23211,
+     -76.34839
+    ],
+    [
+     39.2106,
+     -76.34269
+    ],
+    [
+     39.18878,
+     -76.33945
+    ],
+    [
+     39.16682,
+     -76.33869
+    ],
+    [
+     39.1449,
+     -76.34042
+    ],
+    [
+     39.12318,
+     -76.34462
+    ],
+    [
+     39.10183,
+     -76.35127
+    ],
+    [
+     39.08101,
+     -76.36031
+    ],
+    [
+     39.06089,
+     -76.37167
+    ],
+    [
+     39.04162,
+     -76.38527
+    ],
+    [
+     39.02335,
+     -76.40099
+    ],
+    [
+     39.00622,
+     -76.41873
+    ],
+    [
+     38.99036,
+     -76.43833
+    ],
+    [
+     38.9759,
+     -76.45965
+    ],
+    [
+     38.96295,
+     -76.48253
+    ],
+    [
+     38.9516,
+     -76.50679
+    ],
+    [
+     38.94194,
+     -76.53224
+    ],
+    [
+     38.93406,
+     -76.55868
+    ],
+    [
+     38.92778,
+     -76.58611
+    ],
+    [
+     38.90868,
+     -76.57318
+    ],
+    [
+     38.88812,
+     -76.56283
+    ],
+    [
+     38.86693,
+     -76.55485
+    ],
+    [
+     38.84527,
+     -76.54931
+    ],
+    [
+     38.82331,
+     -76.54624
+    ],
+    [
+     38.80123,
+     -76.54566
+    ],
+    [
+     38.7792,
+     -76.54759
+    ],
+    [
+     38.75739,
+     -76.55201
+    ],
+    [
+     38.73596,
+     -76.55888
+    ],
+    [
+     38.71509,
+     -76.56815
+    ],
+    [
+     38.69494,
+     -76.57975
+    ],
+    [
+     38.67566,
+     -76.59358
+    ],
+    [
+     38.65742,
+     -76.60955
+    ],
+    [
+     38.64034,
+     -76.62752
+    ],
+    [
+     38.62456,
+     -76.64735
+    ],
+    [
+     38.61021,
+     -76.66889
+    ],
+    [
+     38.5974,
+     -76.69197
+    ],
+    [
+     38.58622,
+     -76.71641
+    ],
+    [
+     38.57677,
+     -76.74203
+    ],
+    [
+     38.56912,
+     -76.76861
+    ],
+    [
+     38.56332,
+     -76.79596
+    ],
+    [
+     38.55943,
+     -76.82386
+    ],
+    [
+     38.55747,
+     -76.85209
+    ],
+    [
+     38.55746,
+     -76.88043
+    ],
+    [
+     38.5594,
+     -76.90866
+    ],
+    [
+     38.56328,
+     -76.93656
+    ],
+    [
+     38.56905,
+     -76.96391
+    ],
+    [
+     38.57669,
+     -76.99051
+    ],
+    [
+     38.58612,
+     -77.01613
+    ],
+    [
+     38.59728,
+     -77.04058
+    ],
+    [
+     38.61,
+     -77.06306
+    ],
+    [
+     38.61322,
+     -77.092
+    ],
+    [
+     38.61816,
+     -77.12042
+    ],
+    [
+     38.62508,
+     -77.14816
+    ],
+    [
+     38.63393,
+     -77.17497
+    ],
+    [
+     38.64464,
+     -77.20064
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA E",
+   "cls": "B",
+   "lower": "3000",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.72222,
+     -77.63611
+    ],
+    [
+     38.65139,
+     -77.69194
+    ],
+    [
+     38.63469,
+     -77.65337
+    ],
+    [
+     38.6211,
+     -77.61183
+    ],
+    [
+     38.61056,
+     -77.56833
+    ],
+    [
+     38.61667,
+     -77.56833
+    ],
+    [
+     38.63056,
+     -77.53861
+    ],
+    [
+     38.61667,
+     -77.42583
+    ],
+    [
+     38.60303,
+     -77.41869
+    ],
+    [
+     38.60929,
+     -77.37393
+    ],
+    [
+     38.61833,
+     -77.33083
+    ],
+    [
+     38.6151,
+     -77.32756
+    ],
+    [
+     38.61167,
+     -77.32167
+    ],
+    [
+     38.71278,
+     -77.31833
+    ],
+    [
+     38.70317,
+     -77.34551
+    ],
+    [
+     38.69532,
+     -77.37408
+    ],
+    [
+     38.6896,
+     -77.40348
+    ],
+    [
+     38.68606,
+     -77.43345
+    ],
+    [
+     38.68473,
+     -77.46371
+    ],
+    [
+     38.68563,
+     -77.49399
+    ],
+    [
+     38.68874,
+     -77.52403
+    ],
+    [
+     38.69403,
+     -77.55356
+    ],
+    [
+     38.70147,
+     -77.58232
+    ],
+    [
+     38.71098,
+     -77.61005
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA E",
+   "cls": "B",
+   "lower": "3000",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.14889,
+     -77.6325
+    ],
+    [
+     39.22028,
+     -77.6875
+    ],
+    [
+     39.23467,
+     -77.65359
+    ],
+    [
+     39.2463,
+     -77.61894
+    ],
+    [
+     39.25551,
+     -77.58312
+    ],
+    [
+     39.26224,
+     -77.54638
+    ],
+    [
+     39.26642,
+     -77.50904
+    ],
+    [
+     39.26804,
+     -77.47136
+    ],
+    [
+     39.26706,
+     -77.43364
+    ],
+    [
+     39.26361,
+     -77.39583
+    ],
+    [
+     39.27556,
+     -77.34722
+    ],
+    [
+     39.14944,
+     -77.30306
+    ],
+    [
+     39.16049,
+     -77.32862
+    ],
+    [
+     39.16918,
+     -77.35511
+    ],
+    [
+     39.176,
+     -77.3825
+    ],
+    [
+     39.18088,
+     -77.41056
+    ],
+    [
+     39.1838,
+     -77.43907
+    ],
+    [
+     39.18472,
+     -77.4678
+    ],
+    [
+     39.18364,
+     -77.49652
+    ],
+    [
+     39.18057,
+     -77.52501
+    ],
+    [
+     39.17553,
+     -77.55302
+    ],
+    [
+     39.16856,
+     -77.58035
+    ],
+    [
+     39.15972,
+     -77.60676
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA E",
+   "cls": "B",
+   "lower": "3000",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.71278,
+     -77.31833
+    ],
+    [
+     39.14944,
+     -77.30306
+    ],
+    [
+     39.13643,
+     -77.27679
+    ],
+    [
+     39.12091,
+     -77.25219
+    ],
+    [
+     39.10359,
+     -77.22968
+    ],
+    [
+     39.08389,
+     -77.20972
+    ],
+    [
+     38.65694,
+     -77.22472
+    ],
+    [
+     38.67089,
+     -77.2472
+    ],
+    [
+     38.68602,
+     -77.26763
+    ],
+    [
+     38.70249,
+     -77.28628
+    ],
+    [
+     38.72,
+     -77.30222
+    ],
+    [
+     38.71652,
+     -77.30981
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA F",
+   "cls": "B",
+   "lower": "1900",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.73583,
+     -77.49861
+    ],
+    [
+     38.79492,
+     -77.53786
+    ],
+    [
+     38.79494,
+     -77.5395
+    ],
+    [
+     38.79494,
+     -77.5415
+    ],
+    [
+     38.79469,
+     -77.54458
+    ],
+    [
+     38.79475,
+     -77.54828
+    ],
+    [
+     38.79456,
+     -77.55114
+    ],
+    [
+     38.79456,
+     -77.55394
+    ],
+    [
+     38.79411,
+     -77.55733
+    ],
+    [
+     38.79394,
+     -77.56064
+    ],
+    [
+     38.79367,
+     -77.56411
+    ],
+    [
+     38.79367,
+     -77.56661
+    ],
+    [
+     38.79372,
+     -77.56928
+    ],
+    [
+     38.79358,
+     -77.573
+    ],
+    [
+     38.79328,
+     -77.57644
+    ],
+    [
+     38.79322,
+     -77.57936
+    ],
+    [
+     38.79308,
+     -77.58242
+    ],
+    [
+     38.79317,
+     -77.58553
+    ],
+    [
+     38.79328,
+     -77.58797
+    ],
+    [
+     38.79353,
+     -77.59089
+    ],
+    [
+     38.79369,
+     -77.59342
+    ],
+    [
+     38.79433,
+     -77.59636
+    ],
+    [
+     38.79464,
+     -77.59908
+    ],
+    [
+     38.79528,
+     -77.60167
+    ],
+    [
+     38.79544,
+     -77.60344
+    ],
+    [
+     38.79547,
+     -77.60453
+    ],
+    [
+     38.79467,
+     -77.60658
+    ],
+    [
+     38.79394,
+     -77.61006
+    ],
+    [
+     38.79303,
+     -77.6135
+    ],
+    [
+     38.79214,
+     -77.61608
+    ],
+    [
+     38.79142,
+     -77.61986
+    ],
+    [
+     38.79014,
+     -77.62372
+    ],
+    [
+     38.78894,
+     -77.62711
+    ],
+    [
+     38.78844,
+     -77.63028
+    ],
+    [
+     38.78789,
+     -77.63269
+    ],
+    [
+     38.78753,
+     -77.6355
+    ],
+    [
+     38.78694,
+     -77.63944
+    ],
+    [
+     38.7757,
+     -77.62261
+    ],
+    [
+     38.76568,
+     -77.60407
+    ],
+    [
+     38.75695,
+     -77.58448
+    ],
+    [
+     38.7496,
+     -77.56398
+    ],
+    [
+     38.74367,
+     -77.54272
+    ],
+    [
+     38.73922,
+     -77.52089
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA G",
+   "cls": "B",
+   "lower": "4500",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.14889,
+     -77.6325
+    ],
+    [
+     39.22028,
+     -77.6875
+    ],
+    [
+     39.20438,
+     -77.71857
+    ],
+    [
+     39.18591,
+     -77.74837
+    ],
+    [
+     39.16545,
+     -77.77594
+    ],
+    [
+     39.14317,
+     -77.80106
+    ],
+    [
+     39.11925,
+     -77.82354
+    ],
+    [
+     39.09386,
+     -77.8432
+    ],
+    [
+     39.06722,
+     -77.85988
+    ],
+    [
+     39.03953,
+     -77.87346
+    ],
+    [
+     39.01101,
+     -77.88382
+    ],
+    [
+     38.98188,
+     -77.89088
+    ],
+    [
+     38.95239,
+     -77.89459
+    ],
+    [
+     38.92275,
+     -77.89492
+    ],
+    [
+     38.89321,
+     -77.89186
+    ],
+    [
+     38.864,
+     -77.88544
+    ],
+    [
+     38.83535,
+     -77.87571
+    ],
+    [
+     38.80748,
+     -77.86274
+    ],
+    [
+     38.78062,
+     -77.84665
+    ],
+    [
+     38.75497,
+     -77.82755
+    ],
+    [
+     38.73075,
+     -77.8056
+    ],
+    [
+     38.70814,
+     -77.78097
+    ],
+    [
+     38.68732,
+     -77.75385
+    ],
+    [
+     38.66846,
+     -77.72447
+    ],
+    [
+     38.65139,
+     -77.69222
+    ],
+    [
+     38.72222,
+     -77.63639
+    ],
+    [
+     38.73515,
+     -77.66024
+    ],
+    [
+     38.7493,
+     -77.68224
+    ],
+    [
+     38.76491,
+     -77.70254
+    ],
+    [
+     38.78186,
+     -77.72098
+    ],
+    [
+     38.80002,
+     -77.73742
+    ],
+    [
+     38.81924,
+     -77.75171
+    ],
+    [
+     38.83937,
+     -77.76376
+    ],
+    [
+     38.86025,
+     -77.77347
+    ],
+    [
+     38.88172,
+     -77.78075
+    ],
+    [
+     38.90361,
+     -77.78556
+    ],
+    [
+     38.92574,
+     -77.78785
+    ],
+    [
+     38.94794,
+     -77.78761
+    ],
+    [
+     38.97004,
+     -77.78484
+    ],
+    [
+     38.99187,
+     -77.77955
+    ],
+    [
+     39.01324,
+     -77.7718
+    ],
+    [
+     39.03399,
+     -77.76164
+    ],
+    [
+     39.05395,
+     -77.74915
+    ],
+    [
+     39.07298,
+     -77.73444
+    ],
+    [
+     39.09092,
+     -77.71761
+    ],
+    [
+     39.10762,
+     -77.6988
+    ],
+    [
+     39.12296,
+     -77.67816
+    ],
+    [
+     39.13682,
+     -77.65586
+    ]
+   ]
+  },
+  {
+   "name": "WASHINGTON-TRI AREA AREA G",
+   "cls": "B",
+   "lower": "4500",
+   "upper": "10000",
+   "polygon": [
+    [
+     39.03611,
+     -76.26972
+    ],
+    [
+     38.9475,
+     -76.20528
+    ],
+    [
+     38.7375,
+     -76.26778
+    ],
+    [
+     38.6725,
+     -76.47667
+    ]
+   ]
+  }
+ ],
+ "restricted": [
+  {
+   "name": "P-56",
+   "cls": "P",
+   "lower": "GND",
+   "upper": "18000",
+   "polygon": [
+    [
+     38.88889,
+     -77.05056
+    ],
+    [
+     38.89583,
+     -77.05639
+    ],
+    [
+     38.89722,
+     -77.05472
+    ],
+    [
+     38.90222,
+     -77.05028
+    ],
+    [
+     38.90222,
+     -77.00361
+    ],
+    [
+     38.89306,
+     -76.99889
+    ],
+    [
+     38.88306,
+     -77.00667
+    ],
+    [
+     38.88222,
+     -77.02
+    ],
+    [
+     38.8875,
+     -77.02
+    ],
+    [
+     38.88778,
+     -77.03361
+    ],
+    [
+     38.88667,
+     -77.04083
+    ]
+   ]
+  },
+  {
+   "name": "P-56B",
+   "cls": "P",
+   "lower": "GND",
+   "upper": "18000",
+   "polygon": [
+    [
+     38.92806,
+     -77.06694
+    ],
+    [
+     38.92795,
+     -77.06546
+    ],
+    [
+     38.92765,
+     -77.06401
+    ],
+    [
+     38.92716,
+     -77.06266
+    ],
+    [
+     38.9265,
+     -77.06144
+    ],
+    [
+     38.92567,
+     -77.06038
+    ],
+    [
+     38.92472,
+     -77.05952
+    ],
+    [
+     38.92367,
+     -77.05889
+    ],
+    [
+     38.92255,
+     -77.05851
+    ],
+    [
+     38.92139,
+     -77.05838
+    ],
+    [
+     38.92023,
+     -77.05851
+    ],
+    [
+     38.91911,
+     -77.05889
+    ],
+    [
+     38.91806,
+     -77.05952
+    ],
+    [
+     38.9171,
+     -77.06038
+    ],
+    [
+     38.91628,
+     -77.06144
+    ],
+    [
+     38.91562,
+     -77.06266
+    ],
+    [
+     38.91512,
+     -77.06401
+    ],
+    [
+     38.91482,
+     -77.06546
+    ],
+    [
+     38.91472,
+     -77.06694
+    ],
+    [
+     38.91482,
+     -77.06843
+    ],
+    [
+     38.91512,
+     -77.06987
+    ],
+    [
+     38.91562,
+     -77.07123
+    ],
+    [
+     38.91628,
+     -77.07245
+    ],
+    [
+     38.9171,
+     -77.07351
+    ],
+    [
+     38.91806,
+     -77.07436
+    ],
+    [
+     38.91911,
+     -77.075
+    ],
+    [
+     38.92023,
+     -77.07538
+    ],
+    [
+     38.92139,
+     -77.07551
+    ],
+    [
+     38.92255,
+     -77.07538
+    ],
+    [
+     38.92367,
+     -77.075
+    ],
+    [
+     38.92472,
+     -77.07436
+    ],
+    [
+     38.92567,
+     -77.07351
+    ],
+    [
+     38.9265,
+     -77.07245
+    ],
+    [
+     38.92716,
+     -77.07123
+    ],
+    [
+     38.92765,
+     -77.06987
+    ],
+    [
+     38.92795,
+     -77.06843
+    ],
+    [
+     38.92806,
+     -77.06694
+    ]
+   ]
+  },
+  {
+   "name": "P-73",
+   "cls": "P",
+   "lower": "GND",
+   "upper": "01499",
+   "polygon": [
+    [
+     38.71444,
+     -77.08611
+    ],
+    [
+     38.71434,
+     -77.08463
+    ],
+    [
+     38.71404,
+     -77.08319
+    ],
+    [
+     38.71355,
+     -77.08184
+    ],
+    [
+     38.71288,
+     -77.08062
+    ],
+    [
+     38.71206,
+     -77.07957
+    ],
+    [
+     38.71111,
+     -77.07871
+    ],
+    [
+     38.71006,
+     -77.07808
+    ],
+    [
+     38.70894,
+     -77.0777
+    ],
+    [
+     38.70778,
+     -77.07757
+    ],
+    [
+     38.70662,
+     -77.0777
+    ],
+    [
+     38.7055,
+     -77.07808
+    ],
+    [
+     38.70444,
+     -77.07871
+    ],
+    [
+     38.70349,
+     -77.07957
+    ],
+    [
+     38.70267,
+     -77.08062
+    ],
+    [
+     38.702,
+     -77.08184
+    ],
+    [
+     38.70151,
+     -77.08319
+    ],
+    [
+     38.70121,
+     -77.08463
+    ],
+    [
+     38.70111,
+     -77.08611
+    ],
+    [
+     38.70121,
+     -77.08759
+    ],
+    [
+     38.70151,
+     -77.08903
+    ],
+    [
+     38.702,
+     -77.09038
+    ],
+    [
+     38.70267,
+     -77.0916
+    ],
+    [
+     38.70349,
+     -77.09266
+    ],
+    [
+     38.70444,
+     -77.09351
+    ],
+    [
+     38.7055,
+     -77.09414
+    ],
+    [
+     38.70662,
+     -77.09452
+    ],
+    [
+     38.70778,
+     -77.09465
+    ],
+    [
+     38.70894,
+     -77.09452
+    ],
+    [
+     38.71006,
+     -77.09414
+    ],
+    [
+     38.71111,
+     -77.09351
+    ],
+    [
+     38.71206,
+     -77.09266
+    ],
+    [
+     38.71288,
+     -77.0916
+    ],
+    [
+     38.71355,
+     -77.09038
+    ],
+    [
+     38.71404,
+     -77.08903
+    ],
+    [
+     38.71434,
+     -77.08759
+    ],
+    [
+     38.71444,
+     -77.08611
+    ]
+   ]
+  },
+  {
+   "name": "R-6608A",
+   "cls": "R",
+   "lower": "GND",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.58611,
+     -77.56833
+    ],
+    [
+     38.61667,
+     -77.56833
+    ],
+    [
+     38.63056,
+     -77.53861
+    ],
+    [
+     38.62139,
+     -77.46222
+    ],
+    [
+     38.59306,
+     -77.46222
+    ]
+   ]
+  },
+  {
+   "name": "R-6608C",
+   "cls": "R",
+   "lower": "GND",
+   "upper": "10000",
+   "polygon": [
+    [
+     38.62139,
+     -77.46222
+    ],
+    [
+     38.61667,
+     -77.42583
+    ],
+    [
+     38.56667,
+     -77.39972
+    ],
+    [
+     38.52083,
+     -77.40528
+    ],
+    [
+     38.49194,
+     -77.46222
+    ]
+   ]
+  }
+ ],
+ "fixes": {
+  "THHMP": [
+   37.491519,
+   -77.319097
+  ],
+  "BULII": [
+   38.071214,
+   -77.298481
+  ],
+  "WAVES": [
+   37.587094,
+   -77.447786
+  ],
+  "KSETT": [
+   37.765375,
+   -77.392858
+  ],
+  "ELAPP": [
+   37.894503,
+   -77.352906
+  ],
+  "CAPSS": [
+   38.200783,
+   -77.257775
+  ],
+  "HOYAS": [
+   38.336858,
+   -77.214528
+  ],
+  "HALLL": [
+   38.518664,
+   -77.009356
+  ],
+  "KATRN": [
+   38.681639,
+   -77.020658
+  ],
+  "FLIPZ": [
+   38.369319,
+   -77.194006
+  ],
+  "MOEJO": [
+   38.575747,
+   -77.114261
+  ],
+  "JILES": [
+   38.687533,
+   -77.071172
+  ],
+  "SMOOT": [
+   38.765717,
+   -77.063278
+  ],
+  "BAAAM": [
+   38.831947,
+   -77.117572
+  ],
+  "PACKE": [
+   38.931781,
+   -77.241836
+  ],
+  "MXE": [
+   39.91805,
+   -75.670822
+  ],
+  "NUGGY": [
+   39.742933,
+   -76.006169
+  ],
+  "TROYZ": [
+   39.684,
+   -76.118242
+  ],
+  "BELAY": [
+   39.587686,
+   -76.300556
+  ],
+  "TRISH": [
+   39.503453,
+   -76.373886
+  ],
+  "CLIPR": [
+   39.448103,
+   -76.421969
+  ],
+  "BAL": [
+   39.171064,
+   -76.661256
+  ],
+  "EYESS": [
+   38.971875,
+   -76.8969
+  ],
+  "BRUNC": [
+   38.930803,
+   -76.940067
+  ],
+  "FELTY": [
+   38.779486,
+   -76.944664
+  ],
+  "HITEK": [
+   38.688611,
+   -76.935833
+  ],
+  "CAVDI": [
+   38.425953,
+   -76.912081
+  ],
+  "EDDWD": [
+   38.976333,
+   -77.027292
+  ],
+  "MEGGS": [
+   39.035522,
+   -77.09885
+  ],
+  "NAYES": [
+   39.133617,
+   -77.221058
+  ],
+  "LAFLN": [
+   38.790944,
+   -75.513256
+  ],
+  "BILIT": [
+   38.754394,
+   -76.065997
+  ],
+  "RIDGY": [
+   38.942975,
+   -75.789814
+  ],
+  "DEALE": [
+   38.797753,
+   -76.533428
+  ],
+  "YUCKK": [
+   38.798975,
+   -76.708031
+  ],
+  "TIRZA": [
+   38.769325,
+   -76.8517
+  ],
+  "MITEY": [
+   38.622044,
+   -76.929797
+  ],
+  "EDDGY": [
+   38.806031,
+   -76.781469
+  ],
+  "THANE": [
+   38.878061,
+   -76.897292
+  ],
+  "BUCKO": [
+   39.293839,
+   -79.825028
+  ],
+  "DRRON": [
+   39.272811,
+   -79.559961
+  ],
+  "HONNR": [
+   39.246275,
+   -79.235808
+  ],
+  "BRVRY": [
+   39.222967,
+   -78.963106
+  ],
+  "COURG": [
+   39.200317,
+   -78.729033
+  ],
+  "PLDGE": [
+   39.164258,
+   -78.366311
+  ],
+  "WEWIL": [
+   39.101661,
+   -78.114378
+  ],
+  "NEVVR": [
+   39.070358,
+   -77.991714
+  ],
+  "FORGT": [
+   39.035372,
+   -77.855347
+  ],
+  "SEPII": [
+   39.0092,
+   -77.753817
+  ],
+  "ALWYZ": [
+   38.983517,
+   -77.654594
+  ],
+  "LUISE": [
+   39.574275,
+   -80.698514
+  ],
+  "LETZZ": [
+   38.911767,
+   -77.450667
+  ],
+  "RLLLL": [
+   38.848642,
+   -77.305619
+  ],
+  "VCTRY": [
+   38.762119,
+   -77.113689
+  ],
+  "HEROO": [
+   38.627061,
+   -77.106186
+  ],
+  "FRDMM": [
+   38.942928,
+   -77.517053
+  ],
+  "STAND": [
+   39.004492,
+   -77.332733
+  ],
+  "TGTHR": [
+   39.035669,
+   -77.239914
+  ],
+  "PUNKN": [
+   38.974997,
+   -77.166431
+  ],
+  "DARIC": [
+   38.965014,
+   -77.153189
+  ],
+  "RIC": [
+   37.502347,
+   -77.320275
+  ],
+  "EPICS": [
+   37.786739,
+   -77.261661
+  ],
+  "PEGBY": [
+   38.07865,
+   -77.201056
+  ],
+  "OJAAY": [
+   38.292631,
+   -77.156289
+  ],
+  "IRONS": [
+   38.5311,
+   -77.106094
+  ],
+  "SAMMO": [
+   38.74425,
+   -77.060953
+  ],
+  "ESL": [
+   39.225492,
+   -78.9895
+  ],
+  "DRUZZ": [
+   39.163411,
+   -78.357975
+  ],
+  "AML": [
+   38.934592,
+   -77.466703
+  ],
+  "NUMMY": [
+   38.783861,
+   -77.159442
+  ],
+  "LRP": [
+   40.119975,
+   -76.291294
+  ],
+  "ROAST": [
+   39.956586,
+   -76.433614
+  ],
+  "VINNY": [
+   39.754622,
+   -76.608378
+  ],
+  "SHILO": [
+   39.683389,
+   -76.614892
+  ],
+  "PSB": [
+   40.916258,
+   -77.992717
+  ],
+  "SKILS": [
+   39.503889,
+   -76.6312
+  ],
+  "BBONE": [
+   38.625033,
+   -78.823836
+  ],
+  "LURAY": [
+   38.598594,
+   -78.566731
+  ],
+  "LLBEE": [
+   38.585347,
+   -78.426511
+  ],
+  "TIKEE": [
+   38.618436,
+   -78.248797
+  ],
+  "SEALZ": [
+   38.423211,
+   -79.2906
+  ],
+  "GILFF": [
+   38.362461,
+   -77.434828
+  ],
+  "HIGPO": [
+   38.371136,
+   -77.372214
+  ],
+  "DILNN": [
+   38.272236,
+   -79.731197
+  ],
+  "RANJR": [
+   38.467492,
+   -79.038911
+  ],
+  "JARHD": [
+   38.499922,
+   -78.852389
+  ],
+  "PJAAE": [
+   38.530933,
+   -78.65565
+  ],
+  "USAAY": [
+   38.572142,
+   -78.396342
+  ],
+  "WEEDU": [
+   38.598325,
+   -78.245656
+  ],
+  "SUPRT": [
+   38.647831,
+   -78.092692
+  ],
+  "OOURR": [
+   38.732803,
+   -77.827639
+  ],
+  "TRUPS": [
+   38.821011,
+   -77.700544
+  ],
+  "HVQ": [
+   38.349675,
+   -81.769914
+  ],
+  "FIMPA": [
+   38.315228,
+   -80.766883
+  ],
+  "SITTR": [
+   37.780314,
+   -81.12325
+  ],
+  "POMYK": [
+   37.880817,
+   -80.839067
+  ],
+  "DEBZZ": [
+   38.087197,
+   -80.255014
+  ],
+  "REVGE": [
+   38.89985,
+   -77.070622
+  ],
+  "BEBLE": [
+   38.915503,
+   -77.107478
+  ],
+  "COVTO": [
+   38.947106,
+   -77.133953
+  ],
+  "ALEEX": [
+   38.983969,
+   -77.158475
+  ],
+  "DOGUE": [
+   39.041933,
+   -77.099031
+  ],
+  "GUCER": [
+   39.029708,
+   -76.948286
+  ],
+  "AMEEE": [
+   38.409542,
+   -76.714028
+  ],
+  "ERECA": [
+   38.918797,
+   -76.851969
+  ],
+  "LEAVY": [
+   38.805369,
+   -77.030581
+  ],
+  "FIMBI": [
+   38.752472,
+   -77.018269
+  ],
+  "MCNAB": [
+   38.551703,
+   -76.841025
+  ],
+  "COLIN": [
+   38.099786,
+   -76.664125
+  ],
+  "SCOOB": [
+   37.592222,
+   -76.630278
+  ],
+  "RGIII": [
+   38.966817,
+   -77.146772
+  ],
+  "CUKLI": [
+   38.986203,
+   -77.276336
+  ],
+  "BRUTL": [
+   38.732961,
+   -77.505628
+  ],
+  "BUTRZ": [
+   38.526583,
+   -77.794569
+  ],
+  "CAPVC": [
+   38.749667,
+   -77.034711
+  ],
+  "GAITE": [
+   38.744478,
+   -77.129158
+  ],
+  "DMKRT": [
+   38.709536,
+   -77.223503
+  ],
+  "CLTCH": [
+   38.447672,
+   -77.905594
+  ],
+  "KERRK": [
+   38.176047,
+   -78.393294
+  ],
+  "TEEMS": [
+   37.690528,
+   -79.197736
+  ],
+  "FLASK": [
+   37.017756,
+   -80.316283
+  ],
+  "MAULS": [
+   37.880378,
+   -79.330331
+  ],
+  "RIISE": [
+   39.00935,
+   -76.661425
+  ],
+  "DOCTR": [
+   39.009883,
+   -76.414097
+  ],
+  "MOTBE": [
+   38.751736,
+   -76.917075
+  ],
+  "GDYUP": [
+   38.863717,
+   -76.830028
+  ],
+  "HMBGR": [
+   38.9439,
+   -76.616411
+  ],
+  "AGARD": [
+   39.043581,
+   -76.069761
+  ],
+  "DQO": [
+   39.678142,
+   -75.607086
+  ],
+  "MELOE": [
+   38.993689,
+   -77.319081
+  ],
+  "HORTO": [
+   39.117917,
+   -77.463694
+  ],
+  "LBOLT": [
+   38.736981,
+   -77.250394
+  ],
+  "BUFFR": [
+   39.459347,
+   -77.598314
+  ],
+  "JERES": [
+   39.642889,
+   -77.455056
+  ],
+  "HAFNR": [
+   38.39735,
+   -77.566375
+  ],
+  "JDUBB": [
+   38.299836,
+   -77.649933
+  ],
+  "CASLY": [
+   38.054006,
+   -77.861036
+  ],
+  "MELTN": [
+   37.202561,
+   -78.578981
+  ],
+  "TYPNZ": [
+   38.045606,
+   -77.921867
+  ],
+  "SCORN": [
+   37.466611,
+   -78.531758
+  ],
+  "RRSIN": [
+   36.952039,
+   -79.059039
+  ],
+  "DUDDD": [
+   38.888911,
+   -77.5799
+  ],
+  "REBLL": [
+   38.845219,
+   -77.885758
+  ],
+  "TEZER": [
+   38.821431,
+   -77.632653
+  ],
+  "OTTTO": [
+   38.854392,
+   -78.205558
+  ],
+  "POOCH": [
+   38.455156,
+   -77.675433
+  ],
+  "SCRAM": [
+   38.371167,
+   -77.798547
+  ],
+  "DANOO": [
+   38.074233,
+   -78.252489
+  ],
+  "WALCE": [
+   37.722064,
+   -78.798111
+  ],
+  "GLANC": [
+   37.440836,
+   -79.060458
+  ],
+  "PHERB": [
+   39.087253,
+   -76.743281
+  ],
+  "SOOKI": [
+   39.118383,
+   -76.522286
+  ],
+  "SWANN": [
+   39.151467,
+   -76.228872
+  ],
+  "WYNGS": [
+   38.948622,
+   -77.85195
+  ],
+  "GINYA": [
+   38.942514,
+   -77.680072
+  ],
+  "RAMAY": [
+   38.960714,
+   -78.216392
+  ],
+  "SUNEY": [
+   38.933803,
+   -77.118522
+  ],
+  "GREYZ": [
+   38.9182,
+   -77.108406
+  ],
+  "FONVI": [
+   38.904892,
+   -77.085603
+  ],
+  "JUBOL": [
+   38.898581,
+   -77.069506
+  ],
+  "WIRSO": [
+   38.882083,
+   -77.046803
+  ],
+  "FIROP": [
+   38.870536,
+   -77.039664
+  ],
+  "BADDN": [
+   38.761403,
+   -77.028672
+  ],
+  "GTN": [
+   38.9299,
+   -77.124217
+  ],
+  "JARAL": [
+   38.811378,
+   -77.033706
+  ],
+  "AVOLE": [
+   38.938442,
+   -77.126831
+  ],
+  "THR01": [
+   38.841569,
+   -77.036747
+  ],
+  "THR04": [
+   38.841622,
+   -77.041153
+  ],
+  "THR15": [
+   38.861161,
+   -77.043297
+  ],
+  "THR19": [
+   38.861192,
+   -77.038725
+  ],
+  "THR22": [
+   38.853511,
+   -77.033881
+  ],
+  "THR33": [
+   38.849803,
+   -77.032208
+  ]
+ },
+ "source": "FAA CIFP cycle 2610"
+}

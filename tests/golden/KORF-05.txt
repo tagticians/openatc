@@ -1,0 +1,408 @@
+SCORE {"landed":17,"departed":15,"goArounds":2,"separationLosses":3,"stcaSeconds":280,"runwayIncursions":1,"points":695}
+REMAINING FFT2195 arr airborne loc alt1823 d6.1 hdg46 apptrue loctrue leg0/1
+FFT1989 dep airborne route alt9995 d21.0 hdg292 appfalse locfalse leg4/7
+EDV5479 arr airborne route alt5622 d9.3 hdg172 apptrue locfalse leg0/1
+DAL1959 dep airborne route alt4145 d4.0 hdg276 appfalse locfalse leg2/6
+UAL2698 arr airborne route alt11911 d27.3 hdg215 apptrue locfalse leg0/1
+EDV5332 dep stand route alt21 d0.6 hdg137 appfalse locfalse leg0/8
+---FULL
+1792411202 pilot SWA4012: Southwest 4012, holding point runway 05, ready for departure | Southwest forty twelve, holding point runway zero five, ready for departure
+1792411202 atc SWA4012: SWA4012 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792411202 pilot SWA4012: Cleared for take-off 05, Southwest 4012. | Cleared for take-off zero five, Southwest forty twelve.
+1792411203 pilot DAL1058: Norfolk Approach, Delta 1058, 6000 ft, R. | Norfolk Approach, Delta ten fifty-eight, six thousand, Romeo.
+1792411203 pilot EJA397: Norfolk Approach, good morning, Execjet 397, passing 8900 ft, descending 6000 ft, KOHLS 1 arrival, information R. | Norfolk Approach, good morning, Execjet three ninety-seven, passing eight thousand nine hundred, descending six thousand, KOHLS 1 arrival, information Romeo.
+1792411203 pilot DAL2370: Norfolk Approach, good morning, Delta 2370, with you descending 7000 ft, on the OUTLA 1, and we have information R. | Norfolk Approach, good morning, Delta twenty-three seventy, with you descending seven thousand, on the OUTLA 1, and we have information Romeo.
+1792411204 atc DAL1058: DAL1058 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot DAL1058: Descending 3000 ft, 2997, Delta 1058. | Descending three thousand, two niner niner seven, Delta ten fifty-eight.
+1792411204 atc DAL1058: DAL1058 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792411204 pilot DAL1058: Cleared the ILS, Delta 1058. | Cleared the I L S, Delta ten fifty-eight.
+1792411204 atc EJA397: EJA397 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot EJA397: Execjet 397, descend 3000 ft, altimeter 2997. | Execjet three ninety-seven, descend three thousand, altimeter two niner niner seven.
+1792411204 atc EJA397: EJA397 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792411204 pilot EJA397: Roger, cleared ILS 05, Execjet 397. | Roger, cleared I L S zero five, Execjet three ninety-seven.
+1792411204 atc DAL2370: DAL2370 descend and maintain 3000 ft, altimeter 2997 | 
+1792411204 pilot DAL2370: Out of 9000 for 3000, 2997, Delta 2370. | Uh, out of nine for three, two niner niner seven, Delta twenty-three seventy.
+1792411204 atc DAL2370: DAL2370 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792411204 pilot DAL2370: Delta 2370, cleared the ILS. | Delta twenty-three seventy, uh, cleared the I L S.
+1792411234 pilot AAL2298: Norfolk Clearance, good morning, American 2298, IFR to Philadelphia, with R, gate 2 | Norfolk Clearance, good morning, American twenty-two ninety-eight, IFR to Philadelphia, with Romeo, gate 2
+1792411234 atc AAL2298: AAL2298 cleared to Philadelphia airport, HOLND 1 departure, then as filed, squawk 2512 | 
+1792411234 pilot AAL2298: HOLND 1, squawk 2512, American 2298. | HOLND 1, squawk two five one two, American twenty-two ninety-eight.
+1792411245 pilot SWA4012: Norfolk Approach, Southwest 4012, passing 1000 ft for 10000 ft | Norfolk Approach, Southwest forty twelve, passing one thousand for one zero thousand
+1792411276 atc SWA4012: SWA4012 resume own navigation | 
+1792411276 pilot SWA4012: Own navigation, Southwest 4012. | Own navigation, Southwest forty twelve.
+1792411447 pilot AAL2298: American 2298, holding point runway 05, ready for departure | American twenty-two ninety-eight, holding point runway zero five, ready for departure
+1792411448 atc AAL2298: AAL2298 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792411448 pilot AAL2298: Cleared for take-off 05, American 2298, we're rolling. | Cleared for take-off zero five, American twenty-two ninety-eight, we're rolling.
+1792411492 pilot UAL1356: Norfolk Approach, United 1356, passing 9900 ft, descending 6000 ft, OUTLA 1 arrival, information R. | Norfolk Approach, United one three five six, passing nine thousand nine hundred, descending six thousand, OUTLA 1 arrival, information Romeo.
+1792411492 atc UAL1356: UAL1356 descend and maintain 3000 ft, altimeter 2997 | 
+1792411492 pilot UAL1356: Descend and maintain 3000 ft, altimeter 2997, United 1356. | Descend and maintain three thousand, altimeter two niner niner seven, United one three five six.
+1792411492 atc UAL1356: UAL1356 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792411492 pilot UAL1356: ILS 05, cleared, United 1356. | I L S zero five, cleared, United one three five six.
+1792411494 pilot AAL2298: Norfolk Approach, American 2298, passing 1000 ft for 10000 ft | Norfolk Approach, American twenty-two ninety-eight, passing one thousand for one zero thousand
+1792411519 pilot SWA4012: Southwest 4012, level 10000 ft, request further climb. | Southwest forty twelve, level ten thousand, request further climb.
+1792411530 atc AAL2298: AAL2298 resume own navigation | 
+1792411530 pilot AAL2298: Okay, own navigation, American 2298. | Okay, own navigation, American twenty-two ninety-eight.
+1792411542 pilot EJA397: Execjet 397, established localizer 05. | Execjet three ninety-seven, established localizer zero five.
+1792411558 atc SWA4012: SWA4012 contact Washington Center 133.550, good day | 
+1792411558 pilot SWA4012: 133.550, Southwest 4012. | One three three point five five, Southwest forty twelve.
+1792411600 pilot DAL431: Norfolk Clearance, Delta 431, IFR to Detroit, with R, gate B17 | Norfolk Clearance, Delta four thirty-one, IFR to Detroit, with Romeo, gate B17
+1792411600 atc DAL431: DAL431 cleared to Detroit airport, NUTIY 1 departure, then as filed, squawk 2537 | 
+1792411600 pilot DAL431: NUTIY 1, squawk 2537, Delta 431. | NUTIY 1, squawk two five three seven, Delta four thirty-one.
+1792411684 atc EJA397: EJA397 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792411684 pilot EJA397: Runway 05, cleared to land, Execjet 397. | Runway zero five, cleared to land, Execjet three ninety-seven.
+1792411716 pilot DAL1058: Delta 1058, established 05. | Delta ten fifty-eight, established zero five.
+1792411716 atc DAL1058: DAL1058 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792411716 pilot DAL1058: Cleared to land, Delta 1058. | Cleared to land, Delta ten fifty-eight.
+1792411788 pilot DAL2370: Delta 2370, established on the localizer 05. | Delta twenty-three seventy, established on the localizer zero five.
+1792411792 pilot JIA5951: Norfolk Approach, Blue Streak 5951, 6000 ft, R. | Norfolk Approach, Blue Streak five niner five one, six thousand, Romeo.
+1792411792 atc JIA5951: JIA5951 descend and maintain 3000 ft, altimeter 2997 | 
+1792411792 pilot JIA5951: Descend and maintain 3000 ft, altimeter 2997, Blue Streak 5951. | Descend and maintain three thousand, altimeter two niner niner seven, Blue Streak five niner five one.
+1792411792 atc JIA5951: JIA5951 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792411792 pilot JIA5951: Cleared ILS 05, Blue Streak 5951. | Cleared I L S zero five, Blue Streak five niner five one.
+1792411794 pilot AAL2298: American 2298, level 10000 ft, request further climb. | American twenty-two ninety-eight, level ten thousand, request further climb.
+1792411794 atc AAL2298: AAL2298 contact Washington Center 133.550, good day | 
+1792411794 pilot AAL2298: Okay, Washington Center 133.550, American 2298. | Okay, Washington Center one three three point five five, American twenty-two ninety-eight.
+1792411831 pilot DAL1058: Delta 1058, going around. | Delta ten fifty-eight, going around.
+1792411831 system DAL1058: DAL1058 go-around: unstable approach (too high) (−15) | 
+1792411859 pilot DAL431: Delta 431, holding point runway 05, ready for departure | Delta four thirty-one, holding point runway zero five, ready for departure
+1792411862 pilot RPA3451: Norfolk Clearance, Brickyard 3451, IFR to Newark, with R, gate B29B | Norfolk Clearance, Brickyard three four five one, IFR to Newark, with Romeo, gate B29B
+1792411862 atc RPA3451: RPA3451 cleared to Newark airport, HOLND 1 departure, then as filed, squawk 2555 | 
+1792411862 pilot RPA3451: HOLND 1, squawk 2555, Brickyard 3451. | HOLND 1, squawk two five five five, Brickyard three four five one.
+1792411887 pilot EJA397: Execjet 397, runway vacated. | Execjet three ninety-seven, runway vacated.
+1792411888 atc DAL431: DAL431 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792411888 pilot DAL431: Cleared to go 05, Delta 431. | Cleared to go zero five, Delta four thirty-one.
+1792411906 atc DAL2370: DAL2370 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792411906 pilot DAL2370: Cleared to land 05, Delta 2370. | Cleared to land zero five, Delta twenty-three seventy.
+1792411938 pilot DAL431: Norfolk Approach, Delta 431, passing 1000 ft for 10000 ft | Norfolk Approach, Delta four thirty-one, passing one thousand for one zero thousand
+1792411978 atc DAL431: DAL431 resume own navigation | 
+1792411978 pilot DAL431: Own nav, Delta 431. | Own nav, Delta four thirty-one.
+1792412029 pilot DAL1058: Delta 1058, entering the hold at JHALL, 2000 ft. | Delta ten fifty-eight, entering the hold at JHALL, two thousand.
+1792412037 pilot RPA3451: Brickyard 3451, holding point runway 05, ready for departure | Brickyard three four five one, holding point runway zero five, ready for departure
+1792412084 pilot DAL2370: Delta 2370, runway vacated. | Delta twenty-three seventy, runway vacated.
+1792412084 atc RPA3451: RPA3451 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792412084 pilot RPA3451: Cleared take-off 05, Brickyard 3451. | Cleared take-off zero five, Brickyard three four five one.
+1792412093 pilot UAL2855: Norfolk Approach, good morning, United 2855, with you descending 6000 ft, on the KOHLS 1, and we have information R. | Norfolk Approach, good morning, United twenty-eight fifty-five, with you descending six thousand, on the KOHLS 1, and we have information Romeo.
+1792412094 atc UAL2855: UAL2855 descend and maintain 3000 ft, altimeter 2997 | 
+1792412094 pilot UAL2855: United 2855, descend and maintain 3000 ft, altimeter 2997. | United twenty-eight fifty-five, uh, descend and maintain three thousand, altimeter two niner niner seven.
+1792412094 atc UAL2855: UAL2855 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792412094 pilot UAL2855: United 2855, ILS 05, cleared. | United twenty-eight fifty-five, uh, I L S zero five, cleared.
+1792412125 pilot RPA3451: Norfolk Approach, Brickyard 3451, passing 1000 ft for 10000 ft | Norfolk Approach, Brickyard three four five one, passing one thousand for one zero thousand
+1792412153 pilot UAL1356: United 1356, established localizer 05. | United one three five six, established localizer zero five.
+1792412156 atc RPA3451: RPA3451 resume own navigation | 
+1792412156 pilot RPA3451: Own nav, Brickyard 3451. | Own nav, Brickyard three four five one.
+1792412231 pilot JIA5324: Norfolk Clearance, good morning, Blue Streak 5324, IFR to Washington, with R, gate 3 | Norfolk Clearance, good morning, Blue Streak five three two four, IFR to Washington, with Romeo, gate 3
+1792412232 atc JIA5324: JIA5324 cleared to Washington National airport, NUTIY 1 departure, then as filed, squawk 2542 | 
+1792412232 pilot JIA5324: Cleared Washington, NUTIY 1 departure, squawk 2542, Blue Streak 5324. | Cleared Washington, NUTIY 1 departure, squawk two five four two, Blue Streak five three two four.
+1792412270 pilot DAL431: Delta 431, level 10000 ft, request further climb. | Delta four thirty-one, level ten thousand, request further climb.
+1792412278 atc UAL1356: UAL1356 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792412278 pilot UAL1356: United 1356, runway 05, cleared to land, thanks. | United one three five six, runway zero five, cleared to land, thanks.
+1792412296 atc DAL431: DAL431 contact Washington Center 133.550, good day | 
+1792412296 pilot DAL431: Delta 431, 133.550. | Delta four thirty-one, one three three point five five.
+1792412312 pilot MXY372: Norfolk Approach, Moxy 372, 6000 ft, R. | Norfolk Approach, Moxy three seven two, six thousand, Romeo.
+1792412312 atc MXY372: MXY372 descend and maintain 3000 ft, altimeter 2997 | 
+1792412312 pilot MXY372: Down to 3000 ft, 2997, Moxy 372. | Down to three thousand, two niner niner seven, Moxy three seven two.
+1792412312 atc MXY372: MXY372 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792412312 pilot MXY372: Cleared the ILS, Moxy 372. | Cleared the I L S, Moxy three seven two.
+1792412399 pilot RPA3451: Brickyard 3451, level 10000 ft, request further climb. | Brickyard three four five one, level ten thousand, request further climb.
+1792412404 pilot JIA5324: Blue Streak 5324, holding point runway 05, ready for departure | Blue Streak five three two four, holding point runway zero five, ready for departure
+1792412428 atc RPA3451: RPA3451 contact Washington Center 133.550, good day | 
+1792412428 pilot RPA3451: 133.550, Brickyard 3451, see you next time. | One three three point five five, Brickyard three four five one, see you next time.
+1792412461 pilot UAL1356: United 1356, runway vacated. | United one three five six, runway vacated.
+1792412462 atc JIA5324: JIA5324 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792412462 pilot JIA5324: Cleared for take-off 05, Blue Streak 5324. | Uh, cleared for take-off zero five, Blue Streak five three two four.
+1792412506 pilot JIA5324: Norfolk Approach, Blue Streak 5324, passing 1000 ft for 10000 ft | Norfolk Approach, Blue Streak five three two four, passing one thousand for one zero thousand
+1792412507 pilot JIA5951: Blue Streak 5951, established 05. | Blue Streak five niner five one, established zero five.
+1792412526 pilot DAL681: Norfolk Approach, good morning, Delta 681, passing 10900 ft, descending 6000 ft, KOHLS 1 arrival, information R. | Norfolk Approach, good morning, Delta six eighty-one, passing ten thousand nine hundred, descending six thousand, KOHLS 1 arrival, information Romeo.
+1792412526 atc DAL681: DAL681 descend and maintain 3000 ft, altimeter 2997 | 
+1792412526 pilot DAL681: Down to 3000 ft, 2997, Delta 681. | Down to three thousand, two niner niner seven, Delta six eighty-one.
+1792412526 atc DAL681: DAL681 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792412526 pilot DAL681: Cleared ILS 05, Delta 681. | Cleared I L S zero five, Delta six eighty-one.
+1792412538 atc JIA5324: JIA5324 resume own navigation | 
+1792412538 pilot JIA5324: Own navigation, Blue Streak 5324. | Own navigation, Blue Streak five three two four.
+1792412573 pilot UAL2855: United 2855, established on the localizer 05. | United twenty-eight fifty-five, established on the localizer zero five.
+1792412602 pilot EDV5165: Norfolk Clearance, Endeavor 5165, IFR to New York, with R, gate B30A | Norfolk Clearance, Endeavor five one six five, IFR to New York, with Romeo, gate B30A
+1792412602 atc EDV5165: EDV5165 cleared to New York LaGuardia airport, HOLND 1 departure, then as filed, squawk 2513 | 
+1792412602 pilot EDV5165: Endeavor 5165, cleared New York, HOLND 1 departure, squawk 2513, thanks. | Endeavor five one six five, cleared New York, HOLND 1 departure, squawk two five one three, thanks.
+1792412644 atc JIA5951: JIA5951 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792412644 pilot JIA5951: Blue Streak 5951, 05, cleared to land. | Blue Streak five niner five one, zero five, cleared to land.
+1792412716 atc UAL2855: UAL2855 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792412716 pilot UAL2855: United 2855, copy that, 05, cleared to land, thanks. | United twenty-eight fifty-five, uh, zero five, cleared to land, thanks.
+1792412779 pilot MXY372: Moxy 372, established 05. | Moxy three seven two, established zero five.
+1792412788 pilot JIA5324: Blue Streak 5324, level 10000 ft, request further climb. | Blue Streak five three two four, level ten thousand, request further climb.
+1792412816 pilot EDV5165: Endeavor 5165, holding point runway 05, ready for departure | Endeavor five one six five, holding point runway zero five, ready for departure
+1792412824 pilot JIA5951: Blue Streak 5951, runway vacated. | Blue Streak five niner five one, runway vacated.
+1792412826 atc JIA5324: JIA5324 contact Washington Center 133.550, good day | 
+1792412826 pilot JIA5324: Blue Streak 5324, Washington Center 133.550, have a good one. | Blue Streak five three two four, Washington Center one three three point five five, have a good one.
+1792412827 pilot MXY125: Norfolk Approach, Moxy 125, 6000 ft, R. | Norfolk Approach, Moxy one two five, six thousand, Romeo.
+1792412828 atc MXY125: MXY125 descend and maintain 3000 ft, altimeter 2997 | 
+1792412828 pilot MXY125: Down to 3000 ft, 2997, Moxy 125. | Down to three thousand, two niner niner seven, Moxy one two five.
+1792412828 atc MXY125: MXY125 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792412828 pilot MXY125: Cleared the ILS, Moxy 125. | Cleared the I L S, Moxy one two five.
+1792412891 pilot MXY881: Norfolk Clearance, good morning, Moxy 881, IFR to Orlando, with R, gate B25A | Norfolk Clearance, good morning, Moxy eight eight one, IFR to Orlando, with Romeo, gate B25A
+1792412892 atc MXY881: MXY881 cleared to Orlando airport, SWOPE 1 departure, then as filed, squawk 2550 | 
+1792412892 pilot MXY881: SWOPE 1, squawk 2550, Moxy 881. | Uh, SWOPE 1, squawk two five five zero, Moxy eight eight one.
+1792412898 pilot UAL2855: United 2855, runway vacated, thanks, see you next time. | United twenty-eight fifty-five, runway vacated, thanks, see you next time.
+1792412898 atc EDV5165: EDV5165 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792412898 pilot EDV5165: Endeavor 5165, cleared take-off 05. | Endeavor five one six five, cleared take-off zero five.
+1792412922 atc MXY372: MXY372 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792412922 pilot MXY372: 05, cleared to land, Moxy 372. | Zero five, cleared to land, Moxy three seven two.
+1792412942 pilot EDV5165: Norfolk Approach, Endeavor 5165, passing 1000 ft for 10000 ft | Norfolk Approach, Endeavor five one six five, passing one thousand for one zero thousand
+1792412974 atc EDV5165: EDV5165 resume own navigation | 
+1792412974 pilot EDV5165: Endeavor 5165, own nav. | Endeavor five one six five, own nav.
+1792412978 pilot DAL681: Delta 681, established localizer 05. | Delta six eighty-one, established localizer zero five.
+1792413078 pilot MXY881: Moxy 881, holding point runway 05, ready for departure | Moxy eight eight one, holding point runway zero five, ready for departure
+1792413109 pilot MXY372: Moxy 372, runway vacated, have a nice day. | Moxy three seven two, runway vacated, have a nice day.
+1792413110 atc MXY881: MXY881 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792413110 pilot MXY881: Alright, cleared take-off 05, Moxy 881, we're rolling. | Uh, cleared take-off zero five, Moxy eight eight one, we're rolling.
+1792413120 atc DAL681: DAL681 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792413120 pilot DAL681: Cleared to land 05, Delta 681. | Cleared to land zero five, Delta six eighty-one.
+1792413127 pilot JIA5883: Norfolk Approach, Blue Streak 5883, passing 10900 ft, descending 6000 ft, KOHLS 1 arrival, information R. | Norfolk Approach, Blue Streak five eight eight three, passing ten thousand nine hundred, descending six thousand, KOHLS 1 arrival, information Romeo.
+1792413128 atc JIA5883: JIA5883 descend and maintain 3000 ft, altimeter 2997 | 
+1792413128 pilot JIA5883: Descending 3000 ft, 2997, Blue Streak 5883. | Uh, descending three thousand, two niner niner seven, Blue Streak five eight eight three.
+1792413128 atc JIA5883: JIA5883 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792413128 pilot JIA5883: Blue Streak 5883, cleared ILS 05. | Blue Streak five eight eight three, cleared I L S zero five.
+1792413147 pilot EDV5068: Norfolk Clearance, good morning, Endeavor 5068, IFR to Atlanta, with R, gate B29B | Norfolk Clearance, good morning, Endeavor five zero six eight, IFR to Atlanta, with Romeo, gate B29B
+1792413148 atc EDV5068: EDV5068 cleared to Atlanta airport, NUTIY 1 departure, then as filed, squawk 2517 | 
+1792413148 pilot EDV5068: Cleared to Atlanta, NUTIY 1 departure, squawk 2517, Endeavor 5068, thanks. | Cleared to Atlanta, NUTIY 1 departure, squawk two five one seven, Endeavor five zero six eight, thanks.
+1792413152 pilot MXY881: Norfolk Approach, Moxy 881, passing 1000 ft for 10000 ft | Norfolk Approach, Moxy eight eight one, passing one thousand for one zero thousand
+1792413184 atc MXY881: MXY881 resume own navigation | 
+1792413184 pilot MXY881: Resume own navigation, Moxy 881. | Resume own navigation, Moxy eight eight one.
+1792413224 pilot EDV5165: Endeavor 5165, level 10000 ft, request further climb. | Endeavor five one six five, level ten thousand, request further climb.
+1792413234 atc EDV5165: EDV5165 contact Washington Center 133.550, good day | 
+1792413234 pilot EDV5165: Endeavor 5165, 133.550. | Endeavor five one six five, one three three point five five.
+1792413299 pilot DAL681: Delta 681, runway vacated. | Delta six eighty-one, runway vacated.
+1792413311 pilot MXY125: Moxy 125, established 05. | Moxy one two five, established zero five.
+1792413340 pilot EDV5068: Endeavor 5068, holding point runway 05, ready for departure | Endeavor five zero six eight, holding point runway zero five, ready for departure
+1792413340 atc EDV5068: EDV5068 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792413340 pilot EDV5068: Runway 05, cleared for take-off, Endeavor 5068, we're rolling. | Runway zero five, cleared for take-off, Endeavor five zero six eight, we're rolling.
+1792413384 pilot EDV5068: Norfolk Approach, Endeavor 5068, passing 1000 ft for 10000 ft | Norfolk Approach, Endeavor five zero six eight, passing one thousand for one zero thousand
+1792413416 atc EDV5068: EDV5068 resume own navigation | 
+1792413416 pilot EDV5068: Own navigation, Endeavor 5068. | Uh, own navigation, Endeavor five zero six eight.
+1792413426 pilot MXY881: Moxy 881, level 10000 ft, any chance of higher? | Moxy eight eight one, level ten thousand, any chance of higher?
+1792413427 pilot AAL206: Norfolk Approach, American 206, 6000 ft, R. | Norfolk Approach, American two zero six, six thousand, Romeo.
+1792413428 atc AAL206: AAL206 descend and maintain 3000 ft, altimeter 2997 | 
+1792413428 pilot AAL206: Out of 12000 for 3000, 2997, American 206. | Out of twelve for three, two niner niner seven, American two zero six.
+1792413428 atc AAL206: AAL206 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792413428 pilot AAL206: Cleared the ILS, American 206. | Cleared the I L S, American two zero six.
+1792413449 pilot SWA4472: Norfolk Clearance, Southwest 4472, IFR to Atlanta, with R, gate 4 | Norfolk Clearance, Southwest four four seven two, IFR to Atlanta, with Romeo, gate 4
+1792413450 atc SWA4472: SWA4472 cleared to Atlanta airport, NUTIY 1 departure, then as filed, squawk 2533 | 
+1792413450 pilot SWA4472: NUTIY 1, squawk 2533, Southwest 4472. | NUTIY 1, squawk two five three three, Southwest four four seven two.
+1792413454 atc MXY125: MXY125 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792413454 pilot MXY125: 05, cleared to land, Moxy 125. | Uh, zero five, cleared to land, Moxy one two five.
+1792413494 atc MXY881: MXY881 contact Washington Center 133.550, good day | 
+1792413494 pilot MXY881: Washington Center 133.550, Moxy 881, thanks, take care. | Washington Center one three three point five five, Moxy eight eight one, thanks, take care.
+1792413518 pilot JIA5883: Blue Streak 5883, established localizer 05. | Blue Streak five eight eight three, established localizer zero five.
+1792413620 pilot SWA4472: Southwest 4472, holding point runway 05, ready for departure | Southwest four four seven two, holding point runway zero five, ready for departure
+1792413640 pilot MXY125: Moxy 125, runway vacated. | Moxy one two five, runway vacated.
+1792413640 atc SWA4472: SWA4472 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792413640 pilot SWA4472: Cleared take-off 05, Southwest 4472. | Cleared take-off zero five, Southwest four four seven two.
+1792413660 atc JIA5883: JIA5883 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792413660 pilot JIA5883: 05, cleared to land, Blue Streak 5883. | Zero five, cleared to land, Blue Streak five eight eight three.
+1792413666 pilot DAL436: Norfolk Approach, good morning, Delta 436, passing 10900 ft, descending 6000 ft, OUTLA 1 arrival, information R. | Norfolk Approach, good morning, Delta four thirty-six, passing ten thousand nine hundred, descending six thousand, OUTLA 1 arrival, information Romeo.
+1792413666 pilot EDV5068: Endeavor 5068, level 10000 ft, any chance of higher? | Endeavor five zero six eight, level ten thousand, any chance of higher?
+1792413666 atc DAL436: DAL436 descend and maintain 3000 ft, altimeter 2997 | 
+1792413666 pilot DAL436: Descend and maintain 3000 ft, altimeter 2997, Delta 436. | Descend and maintain three thousand, altimeter two niner niner seven, Delta four thirty-six.
+1792413666 atc DAL436: DAL436 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792413666 pilot DAL436: Alright, cleared the ILS, Delta 436. | Uh, cleared the I L S, Delta four thirty-six.
+1792413686 pilot SWA4472: Norfolk Approach, Southwest 4472, passing 1000 ft for 10000 ft | Norfolk Approach, Southwest four four seven two, passing one thousand for one zero thousand
+1792413708 atc EDV5068: EDV5068 contact Washington Center 133.550, good day | 
+1792413708 pilot EDV5068: Over to Center, 33.55, Endeavor 5068. | Uh, over to Center, thirty-three five five, Endeavor five zero six eight.
+1792413720 atc SWA4472: SWA4472 resume own navigation | 
+1792413720 pilot SWA4472: Own nav, Southwest 4472. | Own nav, Southwest four four seven two.
+1792413806 pilot SWA4370: Norfolk Clearance, good morning, Southwest 4370, IFR to Orlando, with R, gate B30A | Norfolk Clearance, good morning, Southwest four three seven zero, IFR to Orlando, with Romeo, gate B30A
+1792413806 atc SWA4370: SWA4370 cleared to Orlando airport, SWOPE 1 departure, then as filed, squawk 2541 | 
+1792413806 pilot SWA4370: Cleared Orlando, SWOPE 1 departure, squawk 2541, Southwest 4370. | Cleared Orlando, SWOPE 1 departure, squawk two five four one, Southwest four three seven zero.
+1792413843 pilot JIA5883: Blue Streak 5883, runway vacated. | Blue Streak five eight eight three, runway vacated.
+1792413913 pilot AAL206: American 206, established 05. | American two zero six, established zero five.
+1792413966 pilot AAY713: Norfolk Approach, good morning, Allegiant 713, with you descending 6000 ft, on the KOHLS 1, and we have information R. | Norfolk Approach, good morning, Allegiant seven thirteen, with you descending six thousand, on the KOHLS 1, and we have information Romeo.
+1792413966 atc AAY713: AAY713 descend and maintain 3000 ft, altimeter 2997 | 
+1792413966 pilot AAY713: Okay, descending 3000 ft, 2997, Allegiant 713. | Okay, descending three thousand, two niner niner seven, Allegiant seven thirteen.
+1792413966 atc AAY713: AAY713 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792413966 pilot AAY713: Cleared ILS 05, we'll call you established, Allegiant 713. | Cleared I L S zero five, we'll call you established, Allegiant seven thirteen.
+1792413977 pilot SWA4472: Southwest 4472, level 10000 ft, request further climb. | Southwest four four seven two, level ten thousand, request further climb.
+1792414005 pilot SWA4370: Southwest 4370, holding point runway 05, ready for departure | Southwest four three seven zero, holding point runway zero five, ready for departure
+1792414006 atc SWA4370: SWA4370 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792414006 pilot SWA4370: Southwest 4370, cleared to go 05. | Southwest four three seven zero, cleared to go zero five.
+1792414014 atc SWA4472: SWA4472 contact Washington Center 133.550, good day | 
+1792414014 pilot SWA4472: 33.55, Southwest 4472. | Thirty-three five five, Southwest four four seven two.
+1792414049 pilot SWA4370: Norfolk Approach, Southwest 4370, passing 1000 ft for 10000 ft | Norfolk Approach, Southwest four three seven zero, passing one thousand for one zero thousand
+1792414054 atc AAL206: AAL206 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792414054 pilot AAL206: 05, cleared to land, American 206. | Zero five, cleared to land, American two zero six.
+1792414080 atc SWA4370: SWA4370 resume own navigation | 
+1792414080 pilot SWA4370: Own navigation, Southwest 4370. | Own navigation, Southwest four three seven zero.
+1792414132 pilot SWA3242: Norfolk Clearance, Southwest 3242, IFR to Atlanta, with R, gate A11 | Norfolk Clearance, Southwest three two four two, IFR to Atlanta, with Romeo, gate A11
+1792414132 atc SWA3242: SWA3242 cleared to Atlanta airport, NUTIY 1 departure, then as filed, squawk 2517 | 
+1792414132 pilot SWA3242: Cleared Atlanta, NUTIY 1 departure, squawk 2517, Southwest 3242. | Cleared Atlanta, NUTIY 1 departure, squawk two five one seven, Southwest three two four two.
+1792414234 pilot AAL206: American 206, runway vacated. | American two zero six, runway vacated.
+1792414266 pilot AAL1631: Norfolk Approach, good morning, American 1631, passing 10900 ft, descending 6000 ft, KOHLS 1 arrival, information R. | Norfolk Approach, good morning, American sixteen thirty-one, passing ten thousand nine hundred, descending six thousand, KOHLS 1 arrival, information Romeo.
+1792414266 atc AAL1631: AAL1631 descend and maintain 3000 ft, altimeter 2997 | 
+1792414266 pilot AAL1631: Descend and maintain 3000 ft, altimeter 2997, American 1631. | Descend and maintain three thousand, altimeter two niner niner seven, American sixteen thirty-one.
+1792414266 atc AAL1631: AAL1631 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792414266 pilot AAL1631: Cleared ILS 05, American 1631. | Cleared I L S zero five, American sixteen thirty-one.
+1792414323 pilot SWA4370: Southwest 4370, level 10000 ft, request further climb. | Southwest four three seven zero, level ten thousand, request further climb.
+1792414339 pilot DAL436: Delta 436, established localizer 05. | Delta four thirty-six, established localizer zero five.
+1792414344 pilot AAY713: Allegiant 713, established on the localizer 05. | Allegiant seven thirteen, established on the localizer zero five.
+1792414356 system : SEPARATION LOST DAL436 / AAY713 — 2.3 NM, 166 ft (−50) | 
+1792414392 atc SWA4370: SWA4370 contact Washington Center 133.550, good day | 
+1792414392 pilot SWA4370: Over to Center, 33.55, Southwest 4370. | Over to Center, thirty-three five five, Southwest four three seven zero.
+1792414397 pilot SWA3242: Southwest 3242, holding point runway 05, ready for departure | Southwest three two four two, holding point runway zero five, ready for departure
+1792414398 atc SWA3242: SWA3242 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792414398 pilot SWA3242: Cleared to go 05, Southwest 3242. | Cleared to go zero five, Southwest three two four two.
+1792414444 pilot SWA3242: Norfolk Approach, Southwest 3242, passing 1000 ft for 10000 ft | Norfolk Approach, Southwest three two four two, passing one thousand for one zero thousand
+1792414475 pilot SWA171: Norfolk Clearance, good morning, Southwest 171, IFR to Las Vegas, with R, gate A3 | Norfolk Clearance, good morning, Southwest one seventy-one, IFR to Las Vegas, with Romeo, gate A3
+1792414476 atc SWA171: SWA171 cleared to Las Vegas Harry Reid airport, NUTIY 1 departure, then as filed, squawk 2555 | 
+1792414476 pilot SWA171: Cleared Las Vegas, NUTIY 1 departure, squawk 2555, Southwest 171. | Uh, cleared Las Vegas, NUTIY 1 departure, squawk two five five five, Southwest one seventy-one.
+1792414478 atc SWA3242: SWA3242 resume own navigation | 
+1792414478 pilot SWA3242: Own navigation, Southwest 3242. | Own navigation, Southwest three two four two.
+1792414482 atc DAL436: DAL436 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792414482 pilot DAL436: Cleared to land 05, Delta 436. | Cleared to land zero five, Delta four thirty-six.
+1792414486 atc AAY713: AAY713 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792414486 pilot AAY713: Allegiant 713, cleared to land 05, thanks. | Allegiant seven thirteen, cleared to land zero five, thanks.
+1792414509 pilot JIA5283: Norfolk Approach, good morning, Blue Streak 5283, with you descending 6000 ft, on the KOHLS 1, and we have information R. | Norfolk Approach, good morning, Blue Streak five two eight three, with you descending six thousand, on the KOHLS 1, and we have information Romeo.
+1792414510 atc JIA5283: JIA5283 descend and maintain 3000 ft, altimeter 2997 | 
+1792414510 pilot JIA5283: Blue Streak 5283, copy that, descending 3000 ft, 2997. | Blue Streak five two eight three, copy that, descending three thousand, two niner niner seven.
+1792414510 atc JIA5283: JIA5283 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792414510 pilot JIA5283: Cleared ILS 05, Blue Streak 5283. | Cleared I L S zero five, Blue Streak five two eight three.
+1792414649 pilot AAY713: Allegiant 713, going around, going around. | Allegiant seven thirteen, going around, going around.
+1792414649 system AAY713: AAY713 go-around: runway occupied: DAL436 still rolling out (−15) | 
+1792414653 pilot AAL1631: American 1631, established localizer 05. | American sixteen thirty-one, established localizer zero five.
+1792414664 pilot DAL436: Delta 436, runway vacated, thanks for the help. | Delta four thirty-six, runway vacated, thanks for the help.
+1792414735 pilot SWA3242: Southwest 3242, level 10000 ft, request further climb. | Southwest three two four two, level ten thousand, request further climb.
+1792414772 atc SWA3242: SWA3242 contact Washington Center 133.550, good day | 
+1792414772 pilot SWA3242: Over to Center, 33.55, Southwest 3242. | Uh, over to Center, thirty-three five five, Southwest three two four two.
+1792414787 pilot SWA171: Southwest 171, holding point runway 05, ready for departure | Southwest one seventy-one, holding point runway zero five, ready for departure
+1792414788 atc SWA171: SWA171 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792414788 pilot SWA171: Runway 05, cleared for take-off, Southwest 171. | Runway zero five, cleared for take-off, Southwest one seventy-one.
+1792414796 atc AAL1631: AAL1631 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792414796 pilot AAL1631: 05, cleared to land, American 1631. | Zero five, cleared to land, American sixteen thirty-one.
+1792414810 pilot SWA3414: Norfolk Approach, good morning, Southwest 3414, with you descending 6000 ft, on the KOHLS 1, and we have information R. | Norfolk Approach, good morning, Southwest three four one four, with you descending six thousand, on the KOHLS 1, and we have information Romeo.
+1792414810 atc SWA3414: SWA3414 descend and maintain 3000 ft, altimeter 2997 | 
+1792414810 pilot SWA3414: Southwest 3414, out of 11000 for 3000, 2997. | Southwest three four one four, out of eleven for three, two niner niner seven.
+1792414810 atc SWA3414: SWA3414 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792414810 pilot SWA3414: Cleared ILS 05, Southwest 3414. | Uh, cleared I L S zero five, Southwest three four one four.
+1792414825 pilot SWA1262: Norfolk Clearance, good morning, Southwest 1262, IFR to Nashville, with R, gate 2 | Norfolk Clearance, good morning, Southwest one two six two, IFR to Nashville, with Romeo, gate 2
+1792414826 atc SWA1262: SWA1262 cleared to Nashville airport, NUTIY 1 departure, then as filed, squawk 2507 | 
+1792414826 pilot SWA1262: Cleared Nashville, NUTIY 1 departure, squawk 2507, Southwest 1262. | Uh, cleared Nashville, NUTIY 1 departure, squawk two five zero seven, Southwest one two six two.
+1792414834 pilot SWA171: Norfolk Approach, Southwest 171, passing 1000 ft for 10000 ft | Norfolk Approach, Southwest one seventy-one, passing one thousand for one zero thousand
+1792414841 pilot AAY713: Allegiant 713, we're entering the hold at JHALL, 2000 ft. | Allegiant seven thirteen, we're entering the hold at JHALL, two thousand.
+1792414868 atc SWA171: SWA171 resume own navigation | 
+1792414868 pilot SWA171: Resume own navigation, Southwest 171. | Resume own navigation, Southwest one seventy-one.
+1792414944 pilot JIA5283: Blue Streak 5283, established on the localizer 05. | Blue Streak five two eight three, established on the localizer zero five.
+1792414983 pilot AAL1631: American 1631, runway vacated, have a nice day. | American sixteen thirty-one, runway vacated, have a nice day.
+1792415026 pilot SWA1262: Southwest 1262, holding point runway 05, ready for departure | Southwest one two six two, holding point runway zero five, ready for departure
+1792415026 atc SWA1262: SWA1262 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792415026 pilot SWA1262: Cleared take-off 05, Southwest 1262. | Uh, cleared take-off zero five, Southwest one two six two.
+1792415069 pilot SWA1262: Norfolk Approach, Southwest 1262, passing 1000 ft for 10000 ft | Norfolk Approach, Southwest one two six two, passing one thousand for one zero thousand
+1792415086 atc JIA5283: JIA5283 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792415086 pilot JIA5283: Runway 05, cleared to land, Blue Streak 5283, thanks. | Runway zero five, cleared to land, Blue Streak five two eight three, thanks.
+1792415100 atc SWA1262: SWA1262 resume own navigation | 
+1792415100 pilot SWA1262: Resume own navigation, Southwest 1262. | Resume own navigation, Southwest one two six two.
+1792415110 pilot SWA229: Norfolk Approach, good morning, Southwest 229, with you descending 6000 ft, on the OUTLA 1, and we have information R. | Norfolk Approach, good morning, Southwest two twenty-nine, with you descending six thousand, on the OUTLA 1, and we have information Romeo.
+1792415110 atc SWA229: SWA229 descend and maintain 3000 ft, altimeter 2997 | 
+1792415110 pilot SWA229: Descend 3000 ft, altimeter 2997, Southwest 229. | Descend three thousand, altimeter two niner niner seven, Southwest two twenty-nine.
+1792415110 atc SWA229: SWA229 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792415110 pilot SWA229: Cleared ILS approach runway 05, Southwest 229. | Cleared I L S approach runway zero five, Southwest two twenty-nine.
+1792415125 pilot SWA171: Southwest 171, level 10000 ft, any chance of higher? | Southwest one seventy-one, level ten thousand, any chance of higher?
+1792415154 atc SWA171: SWA171 contact Washington Center 133.550, good day | 
+1792415154 pilot SWA171: Roger, 33.55, Southwest 171, thanks for the help. | Roger, thirty-three five five, Southwest one seventy-one, thanks for the help.
+1792415160 pilot JIA5683: Norfolk Clearance, good morning, Blue Streak 5683, IFR to Charlotte, with R, gate 4 | Norfolk Clearance, good morning, Blue Streak fifty-six eighty-three, IFR to Charlotte, with Romeo, gate 4
+1792415160 atc JIA5683: JIA5683 cleared to Charlotte airport, NUTIY 1 departure, then as filed, squawk 2524 | 
+1792415160 pilot JIA5683: NUTIY 1, squawk 2524, Blue Streak 5683. | NUTIY 1, squawk two five two four, Blue Streak fifty-six eighty-three.
+1792415186 pilot SWA3414: Southwest 3414, established on the localizer 05. | Southwest three four one four, established on the localizer zero five.
+1792415268 pilot JIA5283: Blue Streak 5283, runway vacated, thanks, see you next time. | Blue Streak five two eight three, runway vacated, thanks, see you next time.
+1792415328 atc SWA3414: SWA3414 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792415328 pilot SWA3414: Southwest 3414, copy that, cleared to land, thanks. | Southwest three four one four, uh, cleared to land, thanks.
+1792415339 pilot JIA5683: Blue Streak 5683, holding point runway 05, ready for departure | Blue Streak fifty-six eighty-three, holding point runway zero five, ready for departure
+1792415340 atc JIA5683: JIA5683 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792415340 pilot JIA5683: Runway 05, cleared for take-off, Blue Streak 5683. | Runway zero five, cleared for take-off, Blue Streak fifty-six eighty-three.
+1792415343 pilot SWA1262: Southwest 1262, level 10000 ft, any chance of higher? | Southwest one two six two, level ten thousand, any chance of higher?
+1792415382 atc SWA1262: SWA1262 contact Washington Center 133.550, good day | 
+1792415382 pilot SWA1262: Roger, Washington Center 133.550, Southwest 1262, thanks for the help. | Roger, Washington Center one three three point five five, Southwest one two six two, thanks for the help.
+1792415384 pilot JIA5683: Norfolk Approach, Blue Streak 5683, passing 1000 ft for 10000 ft | Norfolk Approach, Blue Streak fifty-six eighty-three, passing one thousand for one zero thousand
+1792415410 pilot MXY158: Norfolk Approach, good morning, Moxy 158, with you descending 6000 ft, on the KOHLS 1, and we have information R. | Norfolk Approach, good morning, Moxy one five eight, with you descending six thousand, on the KOHLS 1, and we have information Romeo.
+1792415410 atc MXY158: MXY158 descend and maintain 3000 ft, altimeter 2997 | 
+1792415410 pilot MXY158: Out of 12000 for 3000, 2997, Moxy 158. | Out of twelve for three, two niner niner seven, Moxy one five eight.
+1792415410 atc MXY158: MXY158 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792415410 pilot MXY158: Cleared the ILS, Moxy 158. | Cleared the I L S, Moxy one five eight.
+1792415416 atc JIA5683: JIA5683 resume own navigation | 
+1792415416 pilot JIA5683: Resume own navigation, Blue Streak 5683. | Resume own navigation, Blue Streak fifty-six eighty-three.
+1792415509 pilot SWA3414: Southwest 3414, runway vacated, have a good one. | Southwest three four one four, runway vacated, have a good one.
+1792415521 pilot MXY265: Norfolk Clearance, Moxy 265, IFR to Tampa, with R, gate B25 | Norfolk Clearance, Moxy two six five, IFR to Tampa, with Romeo, gate B25
+1792415522 atc MXY265: MXY265 cleared to Tampa airport, SWOPE 1 departure, then as filed, squawk 2544 | 
+1792415522 pilot MXY265: Moxy 265, cleared Tampa, SWOPE 1 departure, squawk 2544. | Moxy two six five, uh, cleared Tampa, SWOPE 1 departure, squawk two five four four.
+1792415590 system : SEPARATION LOST SWA229 / JIA5683 — 3.0 NM, 752 ft (−50) | 
+1792415639 pilot AAY574: Norfolk Approach, good morning, Allegiant 574, with you descending 6000 ft, on the KOHLS 1, and we have information R. | Norfolk Approach, good morning, Allegiant five seventy-four, with you descending six thousand, on the KOHLS 1, and we have information Romeo.
+1792415640 atc AAY574: AAY574 descend and maintain 3000 ft, altimeter 2997 | 
+1792415640 pilot AAY574: Out of 11000 for 3000, 2997, Allegiant 574. | Uh, out of eleven for three, two niner niner seven, Allegiant five seventy-four.
+1792415640 atc AAY574: AAY574 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792415640 pilot AAY574: Cleared ILS 05, Allegiant 574. | Cleared I L S zero five, Allegiant five seventy-four.
+1792415666 pilot JIA5683: Blue Streak 5683, level 10000 ft, request further climb. | Blue Streak fifty-six eighty-three, level ten thousand, request further climb.
+1792415708 atc JIA5683: JIA5683 contact Washington Center 133.550, good day | 
+1792415708 pilot JIA5683: 133.550, Blue Streak 5683. | One three three point five five, Blue Streak fifty-six eighty-three.
+1792415746 pilot MXY265: Moxy 265, holding point runway 05, ready for departure | Moxy two six five, holding point runway zero five, ready for departure
+1792415746 atc MXY265: MXY265 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792415746 pilot MXY265: Cleared take-off 05, Moxy 265. | Cleared take-off zero five, Moxy two six five.
+1792415769 pilot SWA229: Southwest 229, established on the localizer 05. | Southwest two twenty-nine, established on the localizer zero five.
+1792415788 pilot MXY265: Norfolk Approach, Moxy 265, passing 1000 ft for 10000 ft | Norfolk Approach, Moxy two six five, passing one thousand for one zero thousand
+1792415820 atc MXY265: MXY265 resume own navigation | 
+1792415820 pilot MXY265: Moxy 265, own nav. | Moxy two six five, own nav.
+1792415863 pilot MXY158: Moxy 158, established on the localizer 05. | Moxy one five eight, established on the localizer zero five.
+1792415868 pilot FFT2195: Norfolk Approach, Frontier Flight 2195, 6000 ft, R. | Norfolk Approach, Frontier Flight two one niner five, six thousand, Romeo.
+1792415868 atc FFT2195: FFT2195 descend and maintain 3000 ft, altimeter 2997 | 
+1792415868 pilot FFT2195: Down to 3000 ft, 2997, Frontier Flight 2195. | Down to three thousand, two niner niner seven, Frontier Flight two one niner five.
+1792415868 atc FFT2195: FFT2195 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792415868 pilot FFT2195: Cleared ILS approach runway 05, Frontier Flight 2195. | Cleared I L S approach runway zero five, Frontier Flight two one niner five.
+1792415882 atc SWA229: SWA229 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792415882 pilot SWA229: Cleared to land 05, Southwest 229. | Uh, cleared to land zero five, Southwest two twenty-nine.
+1792415919 pilot FFT1989: Norfolk Clearance, good morning, Frontier Flight 1989, IFR to Denver, with R, gate A3 | Norfolk Clearance, good morning, Frontier Flight one niner eight niner, IFR to Denver, with Romeo, gate A3
+1792415920 atc FFT1989: FFT1989 cleared to Denver airport, NUTIY 1 departure, then as filed, squawk 2520 | 
+1792415920 pilot FFT1989: Cleared Denver, NUTIY 1 departure, squawk 2520, Frontier Flight 1989, thanks. | Cleared Denver, NUTIY 1 departure, squawk two five two zero, Frontier Flight one niner eight niner, thanks.
+1792416006 atc MXY158: MXY158 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792416006 pilot MXY158: Cleared to land 05, Moxy 158. | Cleared to land zero five, Moxy one five eight.
+1792416052 pilot AAY574: Allegiant 574, established on the localizer 05. | Allegiant five seventy-four, established on the localizer zero five.
+1792416062 pilot SWA229: Southwest 229, runway vacated, have a good one. | Southwest two twenty-nine, runway vacated, have a good one.
+1792416070 pilot MXY265: Moxy 265, level 10000 ft, request further climb. | Moxy two six five, level ten thousand, request further climb.
+1792416085 pilot EDV5479: Norfolk Approach, good morning, Endeavor 5479, passing 10900 ft, descending 6000 ft, OUTLA 1 arrival, information R. | Norfolk Approach, good morning, Endeavor five four seven niner, passing ten thousand nine hundred, descending six thousand, OUTLA 1 arrival, information Romeo.
+1792416086 atc EDV5479: EDV5479 descend and maintain 3000 ft, altimeter 2997 | 
+1792416086 pilot EDV5479: Descending 3000 ft, 2997, Endeavor 5479. | Descending three thousand, two niner niner seven, Endeavor five four seven niner.
+1792416086 atc EDV5479: EDV5479 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792416086 pilot EDV5479: Cleared ILS 05, Endeavor 5479. | Cleared I L S zero five, Endeavor five four seven niner.
+1792416130 atc MXY265: MXY265 contact Washington Center 133.550, good day | 
+1792416130 pilot MXY265: Moxy 265, 133.550, have a nice day. | Moxy two six five, uh, one three three point five five, have a nice day.
+1792416193 pilot MXY158: Moxy 158, runway vacated. | Moxy one five eight, runway vacated.
+1792416194 atc AAY574: AAY574 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792416194 pilot AAY574: Runway 05, cleared to land, Allegiant 574. | Runway zero five, cleared to land, Allegiant five seventy-four.
+1792416226 pilot FFT1989: Frontier Flight 1989, holding point runway 05, ready for departure | Frontier Flight one niner eight niner, holding point runway zero five, ready for departure
+1792416226 atc FFT1989: FFT1989 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792416226 pilot FFT1989: Cleared take-off 05, Frontier Flight 1989. | Cleared take-off zero five, Frontier Flight one niner eight niner.
+1792416271 pilot FFT1989: Norfolk Approach, Frontier Flight 1989, passing 1000 ft for 10000 ft | Norfolk Approach, Frontier Flight one niner eight niner, passing one thousand for one zero thousand
+1792416272 pilot DAL1959: Norfolk Clearance, Delta 1959, IFR to Minneapolis, with R, gate B29 | Norfolk Clearance, Delta nineteen fifty-nine, IFR to Minneapolis, with Romeo, gate B29
+1792416272 atc DAL1959: DAL1959 cleared to Minneapolis–St Paul airport, NUTIY 1 departure, then as filed, squawk 2536 | 
+1792416272 pilot DAL1959: NUTIY 1, squawk 2536, Delta 1959, thanks. | NUTIY 1, squawk two five three six, Delta nineteen fifty-nine, thanks.
+1792416304 atc FFT1989: FFT1989 resume own navigation | 
+1792416304 pilot FFT1989: Alright, resume own navigation, Frontier Flight 1989. | Uh, resume own navigation, Frontier Flight one niner eight niner.
+1792416382 pilot AAY574: Allegiant 574, runway vacated, have a nice day. | Allegiant five seventy-four, runway vacated, have a nice day.
+1792416386 pilot UAL2698: Norfolk Approach, United 2698, 6000 ft, R. | Norfolk Approach, United twenty-six ninety-eight, six thousand, Romeo.
+1792416386 atc UAL2698: UAL2698 descend and maintain 3000 ft, altimeter 2997 | 
+1792416386 pilot UAL2698: Out of 12000 for 3000, 2997, United 2698. | Out of twelve for three, two niner niner seven, United twenty-six ninety-eight.
+1792416386 atc UAL2698: UAL2698 maintain 3000 ft until established, cleared ILS runway 05 approach | 
+1792416386 pilot UAL2698: Cleared the ILS, United 2698. | Cleared the I L S, United twenty-six ninety-eight.
+1792416441 pilot DAL1959: Delta 1959, holding point runway 05, ready for departure | Delta nineteen fifty-nine, holding point runway zero five, ready for departure
+1792416442 atc DAL1959: DAL1959 wind 047 degrees 12 kt, runway 05 cleared for take-off | 
+1792416442 pilot DAL1959: Runway 05, cleared for take-off, Delta 1959. | Runway zero five, cleared for take-off, Delta nineteen fifty-nine.
+1792416474 system : SEPARATION LOST FFT1989 / EDV5479 — 3.0 NM, 171 ft (−50) | 
+1792416475 pilot FFT2195: Frontier Flight 2195, established 05. | Frontier Flight two one niner five, established zero five.
+1792416492 pilot DAL1959: Norfolk Approach, Delta 1959, passing 1000 ft for 10000 ft | Norfolk Approach, Delta nineteen fifty-nine, passing one thousand for one zero thousand
+1792416530 atc DAL1959: DAL1959 resume own navigation | 
+1792416530 pilot DAL1959: Resume own navigation, Delta 1959. | Resume own navigation, Delta nineteen fifty-nine.
+1792416562 pilot FFT1989: Frontier Flight 1989, level 10000 ft, any chance of higher? | Frontier Flight one niner eight niner, level ten thousand, any chance of higher?
+1792416588 atc FFT1989: FFT1989 contact Washington Center 133.550, good day | 
+1792416588 pilot FFT1989: Washington Center 133.550, Frontier Flight 1989, good day. | Washington Center one three three point five five, Frontier Flight one niner eight niner, good day.
+1792416590 atc FFT2195: FFT2195 wind 047 degrees 12 kt, runway 05 cleared to land | 
+1792416590 pilot FFT2195: 05, cleared to land, Frontier Flight 2195. | Zero five, cleared to land, Frontier Flight two one niner five.
+FFT2195 airborne -3.709 -4.818 1823
+FFT1989 airborne -20.678 3.750 9995
+EDV5479 airborne -8.921 -2.508 5622
+DAL1959 airborne -1.692 3.621 4145
+UAL2698 airborne 10.090 25.405 11911
+EDV5332 stand -0.415 -0.407 21

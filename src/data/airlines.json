@@ -1,0 +1,623 @@
+[
+ {
+  "icao": "AAL",
+  "iata": "AA",
+  "name": "American Airlines",
+  "telephony": "AMERICAN",
+  "accent": "US",
+  "color": "#0078d2"
+ },
+ {
+  "icao": "AAY",
+  "iata": "G4",
+  "name": "Allegiant",
+  "telephony": "ALLEGIANT",
+  "accent": "US",
+  "color": "#e86f00"
+ },
+ {
+  "icao": "ACA",
+  "iata": "AC",
+  "name": "Air Canada",
+  "telephony": "AIR CANADA",
+  "accent": "US",
+  "color": "#f01428"
+ },
+ {
+  "icao": "AEA",
+  "telephony": "EUROPA",
+  "accent": "ES",
+  "name": "Air Europa",
+  "iata": "UX"
+ },
+ {
+  "icao": "AEE",
+  "telephony": "AEGEAN",
+  "name": "Aegean",
+  "iata": "A3"
+ },
+ {
+  "icao": "AFR",
+  "iata": "AF",
+  "name": "Air France",
+  "telephony": "AIRFRANS",
+  "accent": "FR",
+  "color": "#051039"
+ },
+ {
+  "icao": "AHO",
+  "telephony": "AIR HAMBURG",
+  "accent": "DE",
+  "name": "Air Hamburg"
+ },
+ {
+  "icao": "AIC",
+  "accent": "IN",
+  "name": "Air India",
+  "iata": "AI",
+  "telephony": "AIRINDIA"
+ },
+ {
+  "icao": "ASA",
+  "iata": "AS",
+  "name": "Alaska Airlines",
+  "telephony": "ALASKA",
+  "accent": "US",
+  "color": "#01426a"
+ },
+ {
+  "icao": "ASH",
+  "telephony": "AIR SHUTTLE",
+  "name": "Mesa Airlines",
+  "iata": "YV"
+ },
+ {
+  "icao": "AUA",
+  "telephony": "AUSTRIAN",
+  "name": "Austrian",
+  "iata": "OS"
+ },
+ {
+  "icao": "BAW",
+  "iata": "BA",
+  "name": "British Airways",
+  "telephony": "SPEEDBIRD",
+  "accent": "GB",
+  "color": "#2e5c99"
+ },
+ {
+  "icao": "BCS",
+  "telephony": "EUROTRANS",
+  "name": "European Air Transport (DHL)",
+  "iata": "QY"
+ },
+ {
+  "icao": "BEL",
+  "telephony": "BEELINE",
+  "name": "Brussels Airlines",
+  "iata": "SN"
+ },
+ {
+  "icao": "BTI",
+  "iata": "BT",
+  "name": "airBaltic",
+  "telephony": "AIRBALTIC",
+  "accent": "PL",
+  "color": "#152649"
+ },
+ {
+  "icao": "CAI",
+  "telephony": "CORENDON",
+  "name": "Corendon Airlines",
+  "iata": "XC"
+ },
+ {
+  "icao": "CFE",
+  "iata": "BA",
+  "name": "BA CityFlyer",
+  "telephony": "FLYER",
+  "accent": "GB",
+  "color": "#2a6ebb"
+ },
+ {
+  "icao": "CFG",
+  "accent": "DE",
+  "name": "Condor",
+  "iata": "DE",
+  "telephony": "CONDOR"
+ },
+ {
+  "icao": "CLX",
+  "telephony": "CARGOLUX",
+  "name": "Cargolux",
+  "iata": "CV"
+ },
+ {
+  "icao": "CND",
+  "iata": "CD",
+  "name": "Corendon Dutch Airlines",
+  "telephony": "DUTCH CORENDON",
+  "accent": "NL",
+  "color": "#e30613"
+ },
+ {
+  "icao": "DAL",
+  "iata": "DL",
+  "name": "Delta",
+  "telephony": "DELTA",
+  "accent": "US",
+  "color": "#E31837"
+ },
+ {
+  "icao": "DHK",
+  "telephony": "WORLD EXPRESS",
+  "name": "DHL Air",
+  "iata": "D0"
+ },
+ {
+  "icao": "DLH",
+  "iata": "LH",
+  "name": "Lufthansa",
+  "telephony": "LUFTHANSA",
+  "accent": "DE",
+  "color": "#05164d"
+ },
+ {
+  "icao": "EDV",
+  "iata": "9E",
+  "name": "Endeavor Air",
+  "telephony": "ENDEAVOR",
+  "accent": "US",
+  "color": "#c8102e"
+ },
+ {
+  "icao": "EIN",
+  "iata": "EI",
+  "name": "Aer Lingus Regional",
+  "telephony": "SHAMROCK",
+  "accent": "IE",
+  "color": "#006472"
+ },
+ {
+  "icao": "EJA",
+  "name": "NetJets",
+  "telephony": "EXECJET",
+  "accent": "US",
+  "color": "#b89b5e"
+ },
+ {
+  "icao": "EJU",
+  "telephony": "ALPINE",
+  "name": "easyJet Europe",
+  "iata": "EC"
+ },
+ {
+  "icao": "ENY",
+  "iata": "MQ",
+  "name": "Envoy",
+  "telephony": "ENVOY",
+  "accent": "US"
+ },
+ {
+  "icao": "EWG",
+  "telephony": "EUROWINGS",
+  "accent": "DE",
+  "name": "Eurowings",
+  "iata": "EW"
+ },
+ {
+  "icao": "EXS",
+  "telephony": "CHANNEX",
+  "accent": "GB",
+  "name": "Jet2",
+  "iata": "LS"
+ },
+ {
+  "icao": "EZS",
+  "telephony": "TOPSWISS",
+  "name": "easyJet Switzerland",
+  "iata": "DS"
+ },
+ {
+  "icao": "EZY",
+  "iata": "U2",
+  "name": "easyJet",
+  "telephony": "EASY",
+  "accent": "GB",
+  "color": "#ff6600"
+ },
+ {
+  "icao": "FDX",
+  "iata": "FX",
+  "name": "FedEx",
+  "telephony": "FEDEX",
+  "accent": "US",
+  "color": "#4d148c"
+ },
+ {
+  "icao": "FFT",
+  "iata": "F9",
+  "name": "Frontier",
+  "telephony": "FRONTIER FLIGHT",
+  "accent": "US",
+  "color": "#248168"
+ },
+ {
+  "icao": "FIN",
+  "telephony": "FINNAIR",
+  "accent": "NORDIC",
+  "name": "Finnair",
+  "iata": "AY"
+ },
+ {
+  "icao": "HAL",
+  "iata": "HA",
+  "name": "Hawaiian",
+  "telephony": "HAWAIIAN",
+  "accent": "US",
+  "color": "#5a2d82"
+ },
+ {
+  "icao": "IBE",
+  "telephony": "IBERIA",
+  "accent": "ES",
+  "name": "Iberia",
+  "iata": "IB"
+ },
+ {
+  "icao": "ICE",
+  "telephony": "ICEAIR",
+  "accent": "NORDIC",
+  "name": "Icelandair",
+  "iata": "FI"
+ },
+ {
+  "icao": "ITY",
+  "accent": "IT",
+  "name": "ITA Airways",
+  "iata": "AZ",
+  "telephony": "ITARROW"
+ },
+ {
+  "icao": "JAL",
+  "iata": "JL",
+  "name": "Japan Airlines",
+  "telephony": "JAPANAIR",
+  "color": "#e50012"
+ },
+ {
+  "icao": "JBU",
+  "iata": "B6",
+  "name": "JetBlue",
+  "telephony": "JETBLUE",
+  "accent": "US",
+  "color": "#003876"
+ },
+ {
+  "icao": "JIA",
+  "iata": "OH",
+  "name": "PSA Airlines",
+  "telephony": "BLUE STREAK",
+  "accent": "US",
+  "color": "#0078d2"
+ },
+ {
+  "icao": "JME",
+  "telephony": "JETMAGIC",
+  "name": "Jetmagic"
+ },
+ {
+  "icao": "JZA",
+  "iata": "QK",
+  "name": "Jazz (Air Canada Express)",
+  "telephony": "JAZZ",
+  "accent": "US",
+  "color": "#f01428"
+ },
+ {
+  "icao": "KLC",
+  "iata": "WA",
+  "name": "KLM Cityhopper",
+  "telephony": "CITY",
+  "accent": "NL",
+  "color": "#00a1de"
+ },
+ {
+  "icao": "KLM",
+  "iata": "KL",
+  "name": "KLM",
+  "telephony": "KLM",
+  "accent": "NL",
+  "color": "#009fd9"
+ },
+ {
+  "icao": "LGL",
+  "iata": "LG",
+  "name": "Luxair",
+  "telephony": "LUXAIR",
+  "accent": "FR",
+  "color": "#0092d0"
+ },
+ {
+  "icao": "LIFE",
+  "telephony": "LIFELINER",
+  "name": "ANWB Medical Air Assistance"
+ },
+ {
+  "icao": "LOG",
+  "iata": "LM",
+  "name": "Loganair",
+  "telephony": "LOGAN",
+  "accent": "GB",
+  "color": "#1c3f94"
+ },
+ {
+  "icao": "LOT",
+  "accent": "PL",
+  "name": "LOT Polish Airlines",
+  "iata": "LO",
+  "telephony": "POLLOT"
+ },
+ {
+  "icao": "MAC",
+  "telephony": "ARABIA MAROC",
+  "name": "Air Arabia Maroc",
+  "iata": "3O"
+ },
+ {
+  "icao": "MPH",
+  "accent": "NL",
+  "name": "Martinair",
+  "iata": "MP",
+  "telephony": "MARTINAIR"
+ },
+ {
+  "icao": "MXY",
+  "iata": "MX",
+  "name": "Breeze Airways",
+  "telephony": "MOXY",
+  "accent": "US",
+  "color": "#0e7aa8"
+ },
+ {
+  "icao": "NAX",
+  "telephony": "NOR SHUTTLE",
+  "accent": "NORDIC",
+  "name": "Norwegian",
+  "iata": "DY"
+ },
+ {
+  "icao": "NJE",
+  "name": "NetJets Europe",
+  "telephony": "FRACTION",
+  "accent": "US",
+  "color": "#b89b5e"
+ },
+ {
+  "icao": "NKS",
+  "iata": "NK",
+  "name": "Spirit Airlines",
+  "telephony": "SPIRIT WINGS",
+  "accent": "US",
+  "color": "#a89a00"
+ },
+ {
+  "icao": "PDT",
+  "iata": "PT",
+  "name": "Piedmont Airlines",
+  "telephony": "PIEDMONT",
+  "accent": "US",
+  "color": "#0078d2"
+ },
+ {
+  "icao": "PGT",
+  "telephony": "SUNTURK",
+  "accent": "TR",
+  "name": "Pegasus",
+  "iata": "PC"
+ },
+ {
+  "icao": "QFA",
+  "accent": "AU",
+  "name": "Qantas",
+  "iata": "QF",
+  "telephony": "QANTAS"
+ },
+ {
+  "icao": "QTR",
+  "telephony": "QATARI",
+  "accent": "GB",
+  "name": "Qatar Airways",
+  "iata": "QR"
+ },
+ {
+  "icao": "QXE",
+  "iata": "QX",
+  "name": "Horizon Air",
+  "telephony": "HORIZON",
+  "accent": "US",
+  "color": "#01426a"
+ },
+ {
+  "icao": "RAM",
+  "telephony": "ROYALAIR MAROC",
+  "name": "Royal Air Maroc",
+  "iata": "AT"
+ },
+ {
+  "icao": "RPA",
+  "iata": "YX",
+  "name": "Republic Airways",
+  "telephony": "BRICKYARD",
+  "accent": "US",
+  "color": "#1a3c7a"
+ },
+ {
+  "icao": "RUK",
+  "telephony": "BLUE MAX",
+  "name": "Ryanair UK",
+  "iata": "RK"
+ },
+ {
+  "icao": "RYR",
+  "telephony": "RYANAIR",
+  "accent": "IE",
+  "name": "Ryanair",
+  "iata": "FR"
+ },
+ {
+  "icao": "SAS",
+  "iata": "SK",
+  "name": "SAS",
+  "telephony": "SCANDINAVIAN",
+  "accent": "NORDIC",
+  "color": "#000099"
+ },
+ {
+  "icao": "SCX",
+  "iata": "SY",
+  "name": "Sun Country",
+  "telephony": "SUN COUNTRY",
+  "accent": "US",
+  "color": "#c98a12"
+ },
+ {
+  "icao": "SHT",
+  "telephony": "SHUTTLE",
+  "accent": "GB",
+  "name": "BA Shuttle",
+  "iata": "BA"
+ },
+ {
+  "icao": "SIA",
+  "accent": "SG",
+  "name": "Singapore Airlines",
+  "iata": "SQ",
+  "telephony": "SINGAPORE"
+ },
+ {
+  "icao": "SKW",
+  "iata": "OO",
+  "name": "SkyWest",
+  "telephony": "SKYWEST",
+  "accent": "US",
+  "color": "#2b4b7c"
+ },
+ {
+  "icao": "SWA",
+  "iata": "WN",
+  "name": "Southwest",
+  "telephony": "SOUTHWEST",
+  "accent": "US",
+  "color": "#304cb2"
+ },
+ {
+  "icao": "SWR",
+  "iata": "LX",
+  "name": "Swiss",
+  "telephony": "SWISS",
+  "accent": "DE",
+  "color": "#cf0a2c"
+ },
+ {
+  "icao": "TAP",
+  "telephony": "AIR PORTUGAL",
+  "name": "TAP Air Portugal",
+  "iata": "TP"
+ },
+ {
+  "icao": "TFL",
+  "telephony": "ORANGE",
+  "accent": "NL",
+  "name": "TUI fly Netherlands",
+  "iata": "OR"
+ },
+ {
+  "icao": "THY",
+  "iata": "TK",
+  "name": "Turkish Airlines",
+  "telephony": "TURKISH",
+  "accent": "TR",
+  "color": "#c90019"
+ },
+ {
+  "icao": "TRA",
+  "iata": "HV",
+  "name": "Transavia",
+  "telephony": "TRANSAVIA",
+  "accent": "NL",
+  "color": "#00d66c"
+ },
+ {
+  "icao": "TUI",
+  "telephony": "TUI",
+  "name": "TUI Airways",
+  "iata": "BY"
+ },
+ {
+  "icao": "TVF",
+  "telephony": "FRANCE SOLEIL",
+  "accent": "FR",
+  "name": "Transavia France",
+  "iata": "TO"
+ },
+ {
+  "icao": "UAE",
+  "iata": "EK",
+  "name": "Emirates",
+  "telephony": "EMIRATES",
+  "accent": "GB",
+  "color": "#d71921"
+ },
+ {
+  "icao": "UAL",
+  "iata": "UA",
+  "name": "United Airlines",
+  "telephony": "UNITED",
+  "accent": "US",
+  "color": "#1414d2"
+ },
+ {
+  "icao": "UPS",
+  "iata": "5X",
+  "name": "UPS",
+  "telephony": "UPS",
+  "accent": "US",
+  "color": "#6b4a1f"
+ },
+ {
+  "icao": "VJT",
+  "name": "VistaJet",
+  "telephony": "VISTA MALTA",
+  "accent": "GB",
+  "color": "#b5121b"
+ },
+ {
+  "icao": "VLG",
+  "telephony": "VUELING",
+  "accent": "ES",
+  "name": "Vueling",
+  "iata": "VY"
+ },
+ {
+  "icao": "VOE",
+  "telephony": "VOLOTEA",
+  "accent": "ES",
+  "name": "Volotea",
+  "iata": "V7"
+ },
+ {
+  "icao": "WJA",
+  "iata": "WS",
+  "name": "WestJet",
+  "telephony": "WESTJET",
+  "accent": "US",
+  "color": "#00aaa6"
+ },
+ {
+  "icao": "WZZ",
+  "telephony": "WIZZ AIR",
+  "name": "Wizz Air",
+  "iata": "W6"
+ }
+]

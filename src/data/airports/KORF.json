@@ -1,0 +1,3262 @@
+{
+ "icao": "KORF",
+ "name": "NORFOLK INTL",
+ "arp": [
+  36.895631,
+  -76.198867
+ ],
+ "elevation": 26,
+ "magVar": -9.0,
+ "transitionAltitude": 18000,
+ "runways": {
+  "05": {
+   "id": "05",
+   "trueHdg": 37.67,
+   "length": 2744,
+   "thr": [
+    36.888033,
+    -76.2062
+   ],
+   "end": [
+    36.905397,
+    -76.189433
+   ],
+   "elevation": 21,
+   "displaced": 1000,
+   "ils": {
+    "ident": "IORF",
+    "freq": "109.10"
+   },
+   "locOnly": false,
+   "gpAngle": 3.0,
+   "approach": {
+    "ident": "I05",
+    "transitions": {
+     "DRONE": [
+      {
+       "t": "FIX",
+       "fix": "DRONE"
+      },
+      {
+       "t": "FIX",
+       "fix": "CALEY",
+       "alt": {
+        "above": 2100
+       }
+      }
+     ],
+     "ECG": [
+      {
+       "t": "FIX",
+       "fix": "ECG"
+      },
+      {
+       "t": "FIX",
+       "fix": "ARDEB",
+       "alt": {
+        "above": 3500
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "CALEY",
+       "alt": {
+        "above": 2100
+       }
+      }
+     ],
+     "WAIKS": [
+      {
+       "t": "FIX",
+       "fix": "WAIKS"
+      },
+      {
+       "t": "FIX",
+       "fix": "FRAAN",
+       "alt": {
+        "above": 2300
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "CALEY",
+       "alt": {
+        "above": 2100
+       }
+      }
+     ],
+     "CALEY": [
+      {
+       "t": "FIX",
+       "fix": "CALEY"
+      },
+      {
+       "t": "FIX",
+       "fix": "PEAAY",
+       "alt": {
+        "above": 1600
+       }
+      }
+     ],
+     "OMRIE": [
+      {
+       "t": "FIX",
+       "fix": "OMRIE"
+      },
+      {
+       "t": "FIX",
+       "fix": "RILLO",
+       "alt": {
+        "above": 5000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "MERFE",
+       "alt": {
+        "above": 5000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "CEGLI",
+       "alt": {
+        "above": 4100
+       },
+       "spd": 210
+      },
+      {
+       "t": "FIX",
+       "fix": "PEAAY",
+       "alt": {
+        "above": 1600
+       },
+       "spd": 200
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "CALEY",
+      "alt": {
+       "at": 2100
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "PEAAY",
+      "alt": {
+       "at": 1600
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR05"
+     }
+    ],
+    "missed": [
+     {
+      "t": "FIX",
+      "fix": "JHALL",
+      "alt": {
+       "above": 2000
+      },
+      "flyover": true
+     }
+    ],
+    "ifix": "CALEY",
+    "faf": "PEAAY"
+   }
+  },
+  "23": {
+   "id": "23",
+   "trueHdg": 217.68,
+   "length": 2744,
+   "thr": [
+    36.905397,
+    -76.189433
+   ],
+   "end": [
+    36.888033,
+    -76.2062
+   ],
+   "elevation": 15,
+   "displaced": 0,
+   "ils": {
+    "ident": "IJZQ",
+    "freq": "109.10"
+   },
+   "locOnly": false,
+   "gpAngle": 3.0,
+   "approach": {
+    "ident": "I23",
+    "transitions": {
+     "OUTLA": [
+      {
+       "t": "FIX",
+       "fix": "OUTLA"
+      },
+      {
+       "t": "FIX",
+       "fix": "OMRIE",
+       "alt": {
+        "above": 5000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "JHALL",
+       "alt": {
+        "above": 3000
+       }
+      }
+     ],
+     "TERKS": [
+      {
+       "t": "FIX",
+       "fix": "TERKS"
+      },
+      {
+       "t": "FIX",
+       "fix": "OMRIE",
+       "alt": {
+        "above": 5000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "JHALL",
+       "alt": {
+        "above": 3000
+       }
+      }
+     ],
+     "HCM": [
+      {
+       "t": "FIX",
+       "fix": "HCM",
+       "alt": {
+        "above": 2000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "JHALL",
+       "alt": {
+        "above": 2000
+       }
+      }
+     ],
+     "ORF": [
+      {
+       "t": "FIX",
+       "fix": "ORF"
+      },
+      {
+       "t": "FIX",
+       "fix": "JHALL",
+       "alt": {
+        "above": 2000
+       },
+       "flyover": true
+      }
+     ],
+     "GUMPP": [
+      {
+       "t": "FIX",
+       "fix": "GUMPP",
+       "alt": {
+        "above": 5000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "DULTS",
+       "alt": {
+        "at": 5000
+       },
+       "spd": 210
+      },
+      {
+       "t": "FIX",
+       "fix": "GUTLE",
+       "alt": {
+        "above": 3200
+       },
+       "spd": 190
+      },
+      {
+       "t": "FIX",
+       "fix": "HUXOL",
+       "alt": {
+        "above": 1900
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "BAAGN",
+       "alt": {
+        "above": 1200
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "LUFSY",
+       "alt": {
+        "at": 1600
+       }
+      }
+     ],
+     "OMRIE": [
+      {
+       "t": "FIX",
+       "fix": "OMRIE"
+      },
+      {
+       "t": "FIX",
+       "fix": "JHALL",
+       "alt": {
+        "above": 3000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "BAAGN",
+       "alt": {
+        "above": 1200
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "LUFSY",
+       "alt": {
+        "at": 1600
+       }
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "JHALL",
+      "alt": {
+       "at": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "LUFSY",
+      "alt": {
+       "at": 1600
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR23"
+     }
+    ],
+    "missed": [
+     {
+      "t": "FIX",
+      "fix": "CALEY",
+      "alt": {
+       "above": 2000
+      },
+      "flyover": true
+     }
+    ],
+    "ifix": "JHALL",
+    "faf": "LUFSY"
+   }
+  }
+ },
+ "sids": [
+  {
+   "name": "HOLND 1",
+   "ident": "HOLND1",
+   "runway": "05",
+   "transition": "ATLIC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "VABCH",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HOLND"
+    },
+    {
+     "t": "FIX",
+     "fix": "ATLIC"
+    }
+   ]
+  },
+  {
+   "name": "HOLND 1",
+   "ident": "HOLND1",
+   "runway": "05",
+   "transition": "KALDA",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "VABCH",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HOLND"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCHOL"
+    },
+    {
+     "t": "FIX",
+     "fix": "KALDA"
+    }
+   ]
+  },
+  {
+   "name": "HOLND 1",
+   "ident": "HOLND1",
+   "runway": "05",
+   "transition": "OUTLA",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "VABCH",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HOLND"
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    }
+   ]
+  },
+  {
+   "name": "HOLND 1",
+   "ident": "HOLND1",
+   "runway": "23",
+   "transition": "ATLIC",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "VABCH",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HOLND"
+    },
+    {
+     "t": "FIX",
+     "fix": "ATLIC"
+    }
+   ]
+  },
+  {
+   "name": "HOLND 1",
+   "ident": "HOLND1",
+   "runway": "23",
+   "transition": "KALDA",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "VABCH",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HOLND"
+    },
+    {
+     "t": "FIX",
+     "fix": "SCHOL"
+    },
+    {
+     "t": "FIX",
+     "fix": "KALDA"
+    }
+   ]
+  },
+  {
+   "name": "HOLND 1",
+   "ident": "HOLND1",
+   "runway": "23",
+   "transition": "OUTLA",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "VABCH",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HOLND"
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "EYOBI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "COUPN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BEETN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JIMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "EYOBI"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "HCM",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HCM"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "HYTRA",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOUKY"
+    },
+    {
+     "t": "FIX",
+     "fix": "TAPPA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HYTRA"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "KELLE",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "MIDRE"
+    },
+    {
+     "t": "FIX",
+     "fix": "WAIKS"
+    },
+    {
+     "t": "FIX",
+     "fix": "KELLE"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "PBCUP",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "COUPN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BEETN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JIMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "DEEEZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "PBCUP"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "RDU",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "COUPN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BEETN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JIMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "RDU"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "SHLBK",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOUKY"
+    },
+    {
+     "t": "FIX",
+     "fix": "TAPPA"
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHLBK"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "05",
+   "transition": "THHMP",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOUKY"
+    },
+    {
+     "t": "FIX",
+     "fix": "THHMP"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "EYOBI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "COUPN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BEETN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JIMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "EYOBI"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "HCM",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HCM"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "HYTRA",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOUKY"
+    },
+    {
+     "t": "FIX",
+     "fix": "TAPPA"
+    },
+    {
+     "t": "FIX",
+     "fix": "HYTRA"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "KELLE",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "MIDRE"
+    },
+    {
+     "t": "FIX",
+     "fix": "WAIKS"
+    },
+    {
+     "t": "FIX",
+     "fix": "KELLE"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "PBCUP",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "COUPN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BEETN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JIMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "DEEEZ"
+    },
+    {
+     "t": "FIX",
+     "fix": "PBCUP"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "RDU",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "COUPN"
+    },
+    {
+     "t": "FIX",
+     "fix": "BEETN"
+    },
+    {
+     "t": "FIX",
+     "fix": "JIMAR"
+    },
+    {
+     "t": "FIX",
+     "fix": "RDU"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "SHLBK",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOUKY"
+    },
+    {
+     "t": "FIX",
+     "fix": "TAPPA"
+    },
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "SHLBK"
+    }
+   ]
+  },
+  {
+   "name": "NUTIY 1",
+   "ident": "NUTIY1",
+   "runway": "23",
+   "transition": "THHMP",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "SCTYP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "NUTIY"
+    },
+    {
+     "t": "FIX",
+     "fix": "HOUKY"
+    },
+    {
+     "t": "FIX",
+     "fix": "THHMP"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "05",
+   "transition": "CHIEZ",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "CHIEZ"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "05",
+   "transition": "ECG",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECG"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "05",
+   "transition": "ELLDE",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "ELLDE"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "05",
+   "transition": "JOHAR",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "JOHAR"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "05",
+   "transition": "KOOKI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "05",
+   "transition": "PRONI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "PRONI"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "05",
+   "transition": "SKARP",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 47,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 47
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "SKARP"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "23",
+   "transition": "CHIEZ",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "CHIEZ"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "23",
+   "transition": "ECG",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "ECG"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "23",
+   "transition": "ELLDE",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "ELLDE"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "23",
+   "transition": "JOHAR",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "JOHAR"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "23",
+   "transition": "KOOKI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "23",
+   "transition": "PRONI",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "PRONI"
+    }
+   ]
+  },
+  {
+   "name": "SWOPE 1",
+   "ident": "SWOPE1",
+   "runway": "23",
+   "transition": "SKARP",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 227,
+     "alt": 526
+    },
+    {
+     "t": "VM",
+     "crs": 227
+    },
+    {
+     "t": "FIX",
+     "fix": "GUMPP",
+     "alt": {
+      "above": 2000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SWOPE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOOKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "SKARP"
+    }
+   ]
+  }
+ ],
+ "stars": [
+  {
+   "name": "KOHLS 1",
+   "ident": "KOHLS1",
+   "transition": "NUTZE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "NUTZE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOHLS"
+    },
+    {
+     "t": "FIX",
+     "fix": "DRONE",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "KOHLS 1",
+   "ident": "KOHLS1",
+   "transition": "RDU",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RDU"
+    },
+    {
+     "t": "FIX",
+     "fix": "TYI"
+    },
+    {
+     "t": "FIX",
+     "fix": "DEENE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOHLS"
+    },
+    {
+     "t": "FIX",
+     "fix": "DRONE",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "KOHLS 1",
+   "ident": "KOHLS1",
+   "transition": "RREGG",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RREGG"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOHLS"
+    },
+    {
+     "t": "FIX",
+     "fix": "DRONE",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "KOHLS 1",
+   "ident": "KOHLS1",
+   "transition": "TYI",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TYI"
+    },
+    {
+     "t": "FIX",
+     "fix": "DEENE"
+    },
+    {
+     "t": "FIX",
+     "fix": "KOHLS"
+    },
+    {
+     "t": "FIX",
+     "fix": "DRONE",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "COLIN",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "COLIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "FAGED"
+    },
+    {
+     "t": "FIX",
+     "fix": "CORET"
+    },
+    {
+     "t": "FIX",
+     "fix": "STEIN"
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "EWOOD",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "EWOOD"
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "FAK",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "FAK"
+    },
+    {
+     "t": "FIX",
+     "fix": "RUSSL"
+    },
+    {
+     "t": "FIX",
+     "fix": "HCM"
+    },
+    {
+     "t": "FIX",
+     "fix": "TERKS",
+     "alt": {
+      "at": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "HCM",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "HCM"
+    },
+    {
+     "t": "FIX",
+     "fix": "TERKS",
+     "alt": {
+      "at": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "JAMIE",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "JAMIE"
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "MAULS",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "MAULS"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDNN",
+     "alt": {
+      "at": 21000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "FAK"
+    },
+    {
+     "t": "FIX",
+     "fix": "RUSSL"
+    },
+    {
+     "t": "FIX",
+     "fix": "HCM"
+    },
+    {
+     "t": "FIX",
+     "fix": "TERKS",
+     "alt": {
+      "at": 14000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "TBONN",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TBONN"
+    },
+    {
+     "t": "FIX",
+     "fix": "CAANO"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAJET"
+    },
+    {
+     "t": "FIX",
+     "fix": "ZJAAY"
+    },
+    {
+     "t": "FIX",
+     "fix": "KALDA"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARICE"
+    },
+    {
+     "t": "FIX",
+     "fix": "EWOOD"
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  },
+  {
+   "name": "OUTLA 1",
+   "ident": "OUTLA1",
+   "transition": "TRPOD",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TRPOD"
+    },
+    {
+     "t": "FIX",
+     "fix": "JAMIE"
+    },
+    {
+     "t": "FIX",
+     "fix": "OUTLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MEEKA",
+     "flyover": true
+    }
+   ]
+  }
+ ],
+ "holdings": {
+  "OUTLA": {
+   "inbound": 29,
+   "turn": "L",
+   "minAlt": 2000
+  },
+  "CALEY": {
+   "inbound": 45,
+   "turn": "R",
+   "minAlt": 2000
+  },
+  "JHALL": {
+   "inbound": 227,
+   "turn": "L",
+   "minAlt": 2000
+  },
+  "DRONE": {
+   "inbound": 55,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  },
+  "MEEKA": {
+   "inbound": 180,
+   "turn": "R",
+   "minAlt": 6000,
+   "synthetic": true
+  }
+ },
+ "airspace": [
+  {
+   "name": "NORFOLK INTERNATIONAL AIRPORT",
+   "cls": "C",
+   "lower": "0",
+   "upper": "4000",
+   "polygon": [
+    [
+     36.97734,
+     -76.21591
+    ],
+    [
+     36.97796,
+     -76.20648
+    ],
+    [
+     36.97798,
+     -76.19703
+    ],
+    [
+     36.97733,
+     -76.18763
+    ],
+    [
+     36.97599,
+     -76.17833
+    ],
+    [
+     36.97399,
+     -76.16923
+    ],
+    [
+     36.97133,
+     -76.16039
+    ],
+    [
+     36.96805,
+     -76.15189
+    ],
+    [
+     36.96417,
+     -76.14379
+    ],
+    [
+     36.95971,
+     -76.13616
+    ],
+    [
+     36.95472,
+     -76.12908
+    ],
+    [
+     36.94924,
+     -76.12258
+    ],
+    [
+     36.94331,
+     -76.11673
+    ],
+    [
+     36.93698,
+     -76.11158
+    ],
+    [
+     36.93031,
+     -76.10717
+    ],
+    [
+     36.92334,
+     -76.10352
+    ],
+    [
+     36.91614,
+     -76.10069
+    ],
+    [
+     36.90876,
+     -76.09868
+    ],
+    [
+     36.90126,
+     -76.09751
+    ],
+    [
+     36.89372,
+     -76.0972
+    ],
+    [
+     36.88618,
+     -76.09774
+    ],
+    [
+     36.87871,
+     -76.09913
+    ],
+    [
+     36.87137,
+     -76.10136
+    ],
+    [
+     36.86426,
+     -76.10469
+    ],
+    [
+     36.8585,
+     -76.10977
+    ],
+    [
+     36.85229,
+     -76.11405
+    ],
+    [
+     36.84569,
+     -76.11736
+    ],
+    [
+     36.83979,
+     -76.12304
+    ],
+    [
+     36.83438,
+     -76.12953
+    ],
+    [
+     36.82945,
+     -76.1366
+    ],
+    [
+     36.82506,
+     -76.1442
+    ],
+    [
+     36.82123,
+     -76.15226
+    ],
+    [
+     36.818,
+     -76.16072
+    ],
+    [
+     36.81538,
+     -76.16951
+    ],
+    [
+     36.81341,
+     -76.17856
+    ],
+    [
+     36.8121,
+     -76.18779
+    ],
+    [
+     36.81146,
+     -76.19714
+    ],
+    [
+     36.81149,
+     -76.20651
+    ],
+    [
+     36.8122,
+     -76.21585
+    ],
+    [
+     36.81357,
+     -76.22507
+    ],
+    [
+     36.8156,
+     -76.2341
+    ],
+    [
+     36.81827,
+     -76.24286
+    ],
+    [
+     36.82156,
+     -76.25128
+    ],
+    [
+     36.82545,
+     -76.25931
+    ],
+    [
+     36.82989,
+     -76.26686
+    ],
+    [
+     36.83486,
+     -76.27388
+    ],
+    [
+     36.84032,
+     -76.28032
+    ],
+    [
+     36.84621,
+     -76.28611
+    ],
+    [
+     36.8525,
+     -76.29122
+    ],
+    [
+     36.85913,
+     -76.29561
+    ],
+    [
+     36.86608,
+     -76.29894
+    ]
+   ]
+  },
+  {
+   "name": "NORFOLK INTERNATIONAL AIRPORT",
+   "cls": "C",
+   "lower": "2000",
+   "upper": "4000",
+   "polygon": [
+    [
+     36.86608,
+     -76.29894
+    ],
+    [
+     36.86705,
+     -76.30671
+    ],
+    [
+     36.86846,
+     -76.31435
+    ],
+    [
+     36.87041,
+     -76.3218
+    ],
+    [
+     36.87287,
+     -76.32901
+    ],
+    [
+     36.87582,
+     -76.33593
+    ],
+    [
+     36.87924,
+     -76.3425
+    ],
+    [
+     36.88311,
+     -76.34867
+    ],
+    [
+     36.8874,
+     -76.35439
+    ],
+    [
+     36.89207,
+     -76.35962
+    ],
+    [
+     36.89709,
+     -76.36432
+    ],
+    [
+     36.90241,
+     -76.36846
+    ],
+    [
+     36.90801,
+     -76.372
+    ],
+    [
+     36.91383,
+     -76.37491
+    ],
+    [
+     36.91983,
+     -76.37717
+    ],
+    [
+     36.92596,
+     -76.37877
+    ],
+    [
+     36.93219,
+     -76.37969
+    ],
+    [
+     36.93845,
+     -76.37993
+    ],
+    [
+     36.94471,
+     -76.37949
+    ],
+    [
+     36.95092,
+     -76.37836
+    ],
+    [
+     36.95702,
+     -76.37655
+    ],
+    [
+     36.96297,
+     -76.37409
+    ],
+    [
+     36.96872,
+     -76.37098
+    ],
+    [
+     36.97424,
+     -76.36726
+    ],
+    [
+     36.97948,
+     -76.36295
+    ],
+    [
+     36.98439,
+     -76.35808
+    ],
+    [
+     36.98895,
+     -76.3527
+    ],
+    [
+     36.99311,
+     -76.34684
+    ],
+    [
+     36.99685,
+     -76.34054
+    ],
+    [
+     37.00013,
+     -76.33386
+    ],
+    [
+     37.00294,
+     -76.32685
+    ],
+    [
+     37.00524,
+     -76.31955
+    ],
+    [
+     37.00702,
+     -76.31204
+    ],
+    [
+     37.00828,
+     -76.30435
+    ],
+    [
+     37.00899,
+     -76.29656
+    ],
+    [
+     37.00916,
+     -76.28872
+    ],
+    [
+     37.00877,
+     -76.28089
+    ],
+    [
+     37.00785,
+     -76.27314
+    ],
+    [
+     37.00638,
+     -76.26551
+    ],
+    [
+     37.00439,
+     -76.25808
+    ],
+    [
+     37.00188,
+     -76.25089
+    ],
+    [
+     36.99888,
+     -76.244
+    ],
+    [
+     36.99542,
+     -76.23747
+    ],
+    [
+     36.99151,
+     -76.23134
+    ],
+    [
+     36.98718,
+     -76.22566
+    ],
+    [
+     36.98248,
+     -76.22048
+    ],
+    [
+     36.97734,
+     -76.21591
+    ]
+   ]
+  },
+  {
+   "name": "NORFOLK INTERNATIONAL AIRPORT",
+   "cls": "C",
+   "lower": "1200",
+   "upper": "4000",
+   "polygon": [
+    [
+     36.73022,
+     -76.16533
+    ],
+    [
+     36.72864,
+     -76.18396
+    ],
+    [
+     36.72806,
+     -76.20274
+    ],
+    [
+     36.72883,
+     -76.2215
+    ],
+    [
+     36.73096,
+     -76.2401
+    ],
+    [
+     36.73441,
+     -76.25839
+    ],
+    [
+     36.73917,
+     -76.27621
+    ],
+    [
+     36.74519,
+     -76.29342
+    ],
+    [
+     36.75242,
+     -76.30989
+    ],
+    [
+     36.76082,
+     -76.32547
+    ],
+    [
+     36.7703,
+     -76.34005
+    ],
+    [
+     36.78079,
+     -76.35349
+    ],
+    [
+     36.79221,
+     -76.36571
+    ],
+    [
+     36.80446,
+     -76.37658
+    ],
+    [
+     36.81745,
+     -76.38604
+    ],
+    [
+     36.83106,
+     -76.39399
+    ],
+    [
+     36.84519,
+     -76.40037
+    ],
+    [
+     36.85972,
+     -76.40514
+    ],
+    [
+     36.87454,
+     -76.40826
+    ],
+    [
+     36.88952,
+     -76.40969
+    ],
+    [
+     36.90455,
+     -76.40943
+    ],
+    [
+     36.91949,
+     -76.40748
+    ],
+    [
+     36.93424,
+     -76.40385
+    ],
+    [
+     36.94866,
+     -76.39858
+    ],
+    [
+     36.96264,
+     -76.3917
+    ],
+    [
+     36.97607,
+     -76.38328
+    ],
+    [
+     36.98884,
+     -76.37338
+    ],
+    [
+     37.00085,
+     -76.36208
+    ],
+    [
+     37.01169,
+     -76.34944
+    ],
+    [
+     37.01309,
+     -76.34113
+    ],
+    [
+     37.01485,
+     -76.33296
+    ],
+    [
+     37.01723,
+     -76.32504
+    ],
+    [
+     37.02019,
+     -76.31743
+    ],
+    [
+     37.02371,
+     -76.3102
+    ],
+    [
+     37.02775,
+     -76.30342
+    ],
+    [
+     37.03229,
+     -76.29715
+    ],
+    [
+     37.03727,
+     -76.29144
+    ],
+    [
+     37.04267,
+     -76.28635
+    ],
+    [
+     37.04842,
+     -76.282
+    ],
+    [
+     37.05366,
+     -76.26411
+    ],
+    [
+     37.05755,
+     -76.24586
+    ],
+    [
+     37.0601,
+     -76.22724
+    ],
+    [
+     37.06129,
+     -76.20841
+    ],
+    [
+     37.06112,
+     -76.18952
+    ],
+    [
+     37.05958,
+     -76.17073
+    ],
+    [
+     37.05668,
+     -76.15219
+    ],
+    [
+     37.05245,
+     -76.13406
+    ],
+    [
+     37.04693,
+     -76.11648
+    ],
+    [
+     37.04015,
+     -76.0996
+    ],
+    [
+     37.03219,
+     -76.08355
+    ],
+    [
+     37.02309,
+     -76.06847
+    ],
+    [
+     37.01294,
+     -76.05448
+    ],
+    [
+     37.00181,
+     -76.0417
+    ],
+    [
+     36.98981,
+     -76.03023
+    ],
+    [
+     36.97702,
+     -76.02017
+    ],
+    [
+     36.96356,
+     -76.0116
+    ],
+    [
+     36.94954,
+     -76.00458
+    ],
+    [
+     36.93478,
+     -75.99964
+    ],
+    [
+     36.89003,
+     -76.05669
+    ],
+    [
+     36.88806,
+     -76.06464
+    ],
+    [
+     36.88546,
+     -76.07232
+    ],
+    [
+     36.88229,
+     -76.07966
+    ],
+    [
+     36.8786,
+     -76.0866
+    ],
+    [
+     36.8744,
+     -76.09308
+    ],
+    [
+     36.86974,
+     -76.09905
+    ],
+    [
+     36.86465,
+     -76.10445
+    ],
+    [
+     36.85919,
+     -76.10924
+    ],
+    [
+     36.85339,
+     -76.11337
+    ],
+    [
+     36.84731,
+     -76.11681
+    ],
+    [
+     36.84089,
+     -76.11922
+    ],
+    [
+     36.81678,
+     -76.14989
+    ]
+   ]
+  }
+ ],
+ "restricted": [
+  {
+   "name": "R-6606A",
+   "cls": "R",
+   "lower": "GND",
+   "upper": "22999",
+   "polygon": [
+    [
+     36.85022,
+     -75.90948
+    ],
+    [
+     36.83984,
+     -75.90562
+    ],
+    [
+     36.83205,
+     -75.90435
+    ],
+    [
+     36.8241,
+     -75.90462
+    ],
+    [
+     36.80719,
+     -75.90013
+    ],
+    [
+     36.77262,
+     -75.88829
+    ],
+    [
+     36.71272,
+     -75.86386
+    ],
+    [
+     36.68448,
+     -75.84845
+    ],
+    [
+     36.67393,
+     -75.84501
+    ],
+    [
+     36.64607,
+     -75.83142
+    ],
+    [
+     36.61125,
+     -75.81846
+    ],
+    [
+     36.59198,
+     -75.81329
+    ],
+    [
+     36.58163,
+     -75.81109
+    ],
+    [
+     36.75111,
+     -75.93639
+    ],
+    [
+     36.74611,
+     -75.95111
+    ],
+    [
+     36.74444,
+     -75.96639
+    ],
+    [
+     36.78361,
+     -75.97889
+    ],
+    [
+     36.78861,
+     -75.94806
+    ]
+   ]
+  },
+  {
+   "name": "R-6606B",
+   "cls": "R",
+   "lower": "23000",
+   "upper": "51000",
+   "polygon": [
+    [
+     36.85022,
+     -75.90948
+    ],
+    [
+     36.83984,
+     -75.90562
+    ],
+    [
+     36.83205,
+     -75.90435
+    ],
+    [
+     36.8241,
+     -75.90462
+    ],
+    [
+     36.80719,
+     -75.90013
+    ],
+    [
+     36.77262,
+     -75.88829
+    ],
+    [
+     36.71272,
+     -75.86386
+    ],
+    [
+     36.68448,
+     -75.84845
+    ],
+    [
+     36.67393,
+     -75.84501
+    ],
+    [
+     36.64607,
+     -75.83142
+    ],
+    [
+     36.61125,
+     -75.81846
+    ],
+    [
+     36.59198,
+     -75.81329
+    ],
+    [
+     36.58163,
+     -75.81109
+    ],
+    [
+     36.75111,
+     -75.93639
+    ],
+    [
+     36.74611,
+     -75.95111
+    ],
+    [
+     36.74444,
+     -75.96639
+    ],
+    [
+     36.78361,
+     -75.97889
+    ],
+    [
+     36.78861,
+     -75.94806
+    ]
+   ]
+  }
+ ],
+ "fixes": {
+  "NUTZE": [
+   35.844564,
+   -77.682422
+  ],
+  "KOHLS": [
+   36.3716,
+   -76.872633
+  ],
+  "RDU": [
+   35.872522,
+   -78.783342
+  ],
+  "TYI": [
+   35.976725,
+   -77.703731
+  ],
+  "DEENE": [
+   36.075794,
+   -77.497617
+  ],
+  "RREGG": [
+   35.138744,
+   -77.543394
+  ],
+  "DRONE": [
+   36.529231,
+   -76.670847
+  ],
+  "COLIN": [
+   38.099786,
+   -76.664125
+  ],
+  "FAGED": [
+   37.852136,
+   -76.682197
+  ],
+  "CORET": [
+   37.730233,
+   -76.515328
+  ],
+  "STEIN": [
+   37.586639,
+   -76.320122
+  ],
+  "OUTLA": [
+   37.345967,
+   -75.998356
+  ],
+  "EWOOD": [
+   37.519597,
+   -75.869239
+  ],
+  "FAK": [
+   37.528508,
+   -77.828219
+  ],
+  "RUSSL": [
+   37.496986,
+   -77.369069
+  ],
+  "HCM": [
+   37.448661,
+   -76.711353
+  ],
+  "TERKS": [
+   37.414144,
+   -76.464036
+  ],
+  "JAMIE": [
+   37.605717,
+   -75.963558
+  ],
+  "MAULS": [
+   37.880378,
+   -79.330331
+  ],
+  "ANDNN": [
+   37.624764,
+   -78.229714
+  ],
+  "TBONN": [
+   38.750786,
+   -74.751047
+  ],
+  "CAANO": [
+   38.529547,
+   -74.9812
+  ],
+  "PAJET": [
+   38.467814,
+   -75.050153
+  ],
+  "ZJAAY": [
+   38.052764,
+   -75.442853
+  ],
+  "KALDA": [
+   37.841961,
+   -75.626483
+  ],
+  "ARICE": [
+   37.688792,
+   -75.742325
+  ],
+  "TRPOD": [
+   38.338981,
+   -75.533847
+  ],
+  "MEEKA": [
+   37.265233,
+   -75.982583
+  ],
+  "VABCH": [
+   36.990294,
+   -76.104997
+  ],
+  "HOLND": [
+   37.106089,
+   -75.890831
+  ],
+  "ATLIC": [
+   36.917733,
+   -75.213092
+  ],
+  "SCHOL": [
+   37.183194,
+   -75.715553
+  ],
+  "SCTYP": [
+   36.946364,
+   -76.368831
+  ],
+  "NUTIY": [
+   36.945411,
+   -76.550067
+  ],
+  "COUPN": [
+   36.714119,
+   -77.012233
+  ],
+  "BEETN": [
+   36.488581,
+   -77.496119
+  ],
+  "JIMAR": [
+   36.295019,
+   -77.90605
+  ],
+  "EYOBI": [
+   34.786361,
+   -78.849172
+  ],
+  "HOUKY": [
+   37.332217,
+   -77.132675
+  ],
+  "TAPPA": [
+   37.970183,
+   -76.844617
+  ],
+  "HYTRA": [
+   38.292197,
+   -76.413833
+  ],
+  "MIDRE": [
+   36.982386,
+   -76.783014
+  ],
+  "WAIKS": [
+   37.050478,
+   -77.0688
+  ],
+  "KELLE": [
+   37.179525,
+   -77.8052
+  ],
+  "DEEEZ": [
+   35.2822,
+   -78.240078
+  ],
+  "PBCUP": [
+   34.991569,
+   -78.330853
+  ],
+  "SHLBK": [
+   38.337836,
+   -76.436253
+  ],
+  "THHMP": [
+   37.491519,
+   -77.319097
+  ],
+  "GUMPP": [
+   36.746928,
+   -76.26455
+  ],
+  "SWOPE": [
+   36.518569,
+   -76.315633
+  ],
+  "KOOKI": [
+   35.906031,
+   -76.69895
+  ],
+  "CHIEZ": [
+   34.518314,
+   -77.540483
+  ],
+  "ECG": [
+   36.257572,
+   -76.175597
+  ],
+  "ELLDE": [
+   34.404047,
+   -78.697389
+  ],
+  "JOHAR": [
+   34.328153,
+   -78.593656
+  ],
+  "PRONI": [
+   34.561286,
+   -77.674414
+  ],
+  "SKARP": [
+   34.486194,
+   -77.410428
+  ],
+  "PEAAY": [
+   36.824942,
+   -76.267031
+  ],
+  "TECHI": [
+   36.982872,
+   -76.114503
+  ],
+  "CALEY": [
+   36.7409,
+   -76.347878
+  ],
+  "OMRIE": [
+   37.186539,
+   -76.026519
+  ],
+  "RILLO": [
+   37.017811,
+   -76.1655
+  ],
+  "MERFE": [
+   36.934175,
+   -76.234114
+  ],
+  "CEGLI": [
+   36.880047,
+   -76.331908
+  ],
+  "BAAGN": [
+   36.952161,
+   -76.144231
+  ],
+  "DULTS": [
+   36.838081,
+   -76.159061
+  ],
+  "GUTLE": [
+   36.909253,
+   -76.080056
+  ],
+  "HUXOL": [
+   36.964531,
+   -76.103381
+  ],
+  "JHALL": [
+   37.048125,
+   -76.051239
+  ],
+  "LUFSY": [
+   36.968717,
+   -76.128211
+  ],
+  "ORF": [
+   36.891906,
+   -76.200328
+  ],
+  "ACUNO": [
+   36.856378,
+   -76.236742
+  ],
+  "ARDEB": [
+   36.592831,
+   -76.388428
+  ],
+  "FRAAN": [
+   36.764656,
+   -76.402811
+  ],
+  "THR05": [
+   36.888033,
+   -76.2062
+  ],
+  "THR23": [
+   36.905397,
+   -76.189433
+  ]
+ },
+ "source": "FAA CIFP cycle 2610"
+}

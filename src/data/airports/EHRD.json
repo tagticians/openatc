@@ -1,0 +1,1656 @@
+{
+ "icao": "EHRD",
+ "arp": [
+  51.956944,
+  4.437222
+ ],
+ "elevation": -14,
+ "magVar": 2.0,
+ "transitionAltitude": 3000,
+ "frequencies": {
+  "approach": "122.990",
+  "tower": "118.205",
+  "delivery": "122.180",
+  "atis": "128.565"
+ },
+ "ctr": {
+  "points": [
+   [
+    51.847778,
+    4.313889
+   ],
+   [
+    51.806111,
+    4.210833
+   ],
+   [
+    51.889722,
+    4.1225
+   ],
+   [
+    51.931389,
+    4.225833
+   ],
+   [
+    51.956944,
+    4.437222
+   ],
+   [
+    51.847778,
+    4.313889
+   ]
+  ],
+  "arc": {
+   "radius": 8.0,
+   "centre": [
+    51.956944,
+    4.437222
+   ]
+  }
+ },
+ "runways": {
+  "06": {
+   "id": "06",
+   "trueHdg": 57.1,
+   "length": 2198,
+   "width": 45,
+   "thr": [
+    51.953064,
+    4.430681
+   ],
+   "end": [
+    51.962825,
+    4.455117
+   ],
+   "elevation": -14,
+   "ils": {
+    "ident": "ROS",
+    "freq": "109.100"
+   },
+   "approach": {
+    "transitions": {
+     "RD182": [
+      {
+       "t": "FIX",
+       "fix": "RD182"
+      },
+      {
+       "t": "FIX",
+       "fix": "RD183"
+      },
+      {
+       "t": "FIX",
+       "fix": "RD184",
+       "spd": 210
+      },
+      {
+       "t": "FIX",
+       "fix": "RD185",
+       "spd": 210
+      },
+      {
+       "t": "FIX",
+       "fix": "RD186"
+      },
+      {
+       "t": "FIX",
+       "fix": "SOMEL"
+      },
+      {
+       "t": "FIX",
+       "fix": "ABNED"
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "MASOS"
+     },
+     {
+      "t": "FIX",
+      "fix": "RD254"
+     },
+     {
+      "t": "FIX",
+      "fix": "HELHO",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "DOFMU",
+      "spd": 220
+     },
+     {
+      "t": "FIX",
+      "fix": "RD201"
+     },
+     {
+      "t": "FIX",
+      "fix": "HELHO",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "HELHO",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "RD250",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR06",
+      "flyover": true
+     }
+    ],
+    "missed": [
+     {
+      "t": "FIX",
+      "fix": "RD212",
+      "alt": {
+       "at": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "RD213",
+      "spd": 210
+     },
+     {
+      "t": "FIX",
+      "fix": "KAKKO"
+     },
+     {
+      "t": "FIX",
+      "fix": "DOFMU",
+      "alt": {
+       "at": 2000
+      }
+     }
+    ]
+   }
+  },
+  "24": {
+   "id": "24",
+   "trueHdg": 237.12,
+   "length": 2198,
+   "width": 45,
+   "thr": [
+    51.961858,
+    4.452692
+   ],
+   "end": [
+    51.9521,
+    4.428267
+   ],
+   "elevation": -15,
+   "ils": {
+    "ident": "RSV",
+    "freq": "110.900"
+   },
+   "approach": {
+    "transitions": {
+     "RD159": [
+      {
+       "t": "FIX",
+       "fix": "RD159",
+       "flyover": true
+      },
+      {
+       "t": "CA",
+       "crs": 235,
+       "alt": 500
+      },
+      {
+       "t": "FIX",
+       "fix": "RD207",
+       "spd": 230
+      },
+      {
+       "t": "FIX",
+       "fix": "RD163"
+      },
+      {
+       "t": "FIX",
+       "fix": "RD150"
+      },
+      {
+       "t": "FIX",
+       "fix": "PAM"
+      },
+      {
+       "t": "FIX",
+       "fix": "ANDIK"
+      }
+     ],
+     "RD166": [
+      {
+       "t": "FIX",
+       "fix": "RD166",
+       "flyover": true
+      },
+      {
+       "t": "CA",
+       "crs": 235,
+       "alt": 400
+      },
+      {
+       "t": "FIX",
+       "fix": "RD158",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "RD156"
+      },
+      {
+       "t": "FIX",
+       "fix": "COA",
+       "alt": {
+        "below": 5000
+       }
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "DOFMU"
+     },
+     {
+      "t": "FIX",
+      "fix": "KAKKO",
+      "alt": {
+       "at": 3000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "ROVOX",
+      "alt": {
+       "below": 3000,
+       "above": 2500
+      },
+      "spd": 190
+     },
+     {
+      "t": "FIX",
+      "fix": "RD241",
+      "alt": {
+       "above": 1500
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "RD242",
+      "alt": {
+       "above": 1500
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR24"
+     }
+    ],
+    "missed": [
+     {
+      "t": "FIX",
+      "fix": "RD214",
+      "alt": {
+       "at": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "DOFMU",
+      "alt": {
+       "at": 2000
+      }
+     }
+    ]
+   }
+  }
+ },
+ "sids": [
+  {
+   "name": "ANDIK 2A",
+   "ident": "ANDI2A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD153"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD151"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD150"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 3A",
+   "ident": "ARNE3A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD153"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD151"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD150"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "COA 2A",
+   "ident": "COA2A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD157"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD161"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD154"
+    },
+    {
+     "t": "FIX",
+     "fix": "COA",
+     "alt": {
+      "below": 5000
+     }
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "INKET 2A",
+   "ident": "INKE2A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD157"
+    },
+    {
+     "t": "FIX",
+     "fix": "INKET"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "LUNIX 2A",
+   "ident": "LUNI2A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD153"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD151"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD150"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "NEPTU 2A",
+   "ident": "NEPT2A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD157"
+    },
+    {
+     "t": "FIX",
+     "fix": "INKET"
+    },
+    {
+     "t": "FIX",
+     "fix": "PELUB"
+    },
+    {
+     "t": "FIX",
+     "fix": "NEPTU"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "SOMEL 2A",
+   "ident": "SOME2A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD181",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "RD186",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SOMEL"
+    },
+    {
+     "t": "FIX",
+     "fix": "ABNED"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "TULIP 4A",
+   "ident": "TULI4A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD181",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "RD186",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SOMEL"
+    },
+    {
+     "t": "FIX",
+     "fix": "OBAGU"
+    },
+    {
+     "t": "FIX",
+     "fix": "TULIP"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "WOODY 2A",
+   "ident": "WOOD2A",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 55,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD157"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD161"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD154"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "ANDIK 2B",
+   "ident": "ANDI2B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD159",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD207",
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "RD163"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD150"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 3B",
+   "ident": "ARNE3B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD159",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD207",
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "RD163"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD150"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "COA 2B",
+   "ident": "COA2B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD166",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 400
+    },
+    {
+     "t": "FIX",
+     "fix": "RD158",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "RD156"
+    },
+    {
+     "t": "FIX",
+     "fix": "COA",
+     "alt": {
+      "below": 5000
+     }
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "INKET 2B",
+   "ident": "INKE2B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD166",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 400
+    },
+    {
+     "t": "FIX",
+     "fix": "RD158",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "RD164"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD165"
+    },
+    {
+     "t": "FIX",
+     "fix": "INKET"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "LUNIX 2B",
+   "ident": "LUNI2B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD159",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RD207",
+     "spd": 230
+    },
+    {
+     "t": "FIX",
+     "fix": "RD163"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD150"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "NEPTU 2B",
+   "ident": "NEPT2B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD166",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 400
+    },
+    {
+     "t": "FIX",
+     "fix": "RD158",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "RD164"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD165"
+    },
+    {
+     "t": "FIX",
+     "fix": "INKET"
+    },
+    {
+     "t": "FIX",
+     "fix": "PELUB"
+    },
+    {
+     "t": "FIX",
+     "fix": "NEPTU"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "SOMEL 2B",
+   "ident": "SOME2B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD166",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 400
+    },
+    {
+     "t": "FIX",
+     "fix": "RD158",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SOMEL"
+    },
+    {
+     "t": "FIX",
+     "fix": "ABNED"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "TULIP 3B",
+   "ident": "TULI3B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD166",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 400
+    },
+    {
+     "t": "FIX",
+     "fix": "RD158",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SOMEL"
+    },
+    {
+     "t": "FIX",
+     "fix": "OBAGU"
+    },
+    {
+     "t": "FIX",
+     "fix": "TULIP"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  },
+  {
+   "name": "WOODY 2B",
+   "ident": "WOOD2B",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RD166",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 235,
+     "alt": 400
+    },
+    {
+     "t": "FIX",
+     "fix": "RD158",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "RD164"
+    },
+    {
+     "t": "FIX",
+     "fix": "HELHO"
+    },
+    {
+     "t": "FIX",
+     "fix": "RD162"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 3000,
+   "supplementary": false
+  }
+ ],
+ "stars": [
+  {
+   "name": "BLUFA 1R",
+   "ident": "BLUF1R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "BLUFA"
+    },
+    {
+     "t": "FIX",
+     "fix": "FLEVO",
+     "alt": {
+      "at": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "KAKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU",
+     "alt": {
+      "below": 6000,
+      "above": 5000
+     }
+    }
+   ]
+  },
+  {
+   "name": "COA 2R",
+   "ident": "COA2R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "COA",
+     "alt": {
+      "below": 5000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU"
+    }
+   ]
+  },
+  {
+   "name": "DENUT 2R",
+   "ident": "DENU2R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "DENUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIMBU"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU",
+     "alt": {
+      "below": 6000
+     }
+    }
+   ]
+  },
+  {
+   "name": "ENKOS 3R",
+   "ident": "ENKO3R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "ENKOS",
+     "alt": {
+      "at": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "KAKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU",
+     "alt": {
+      "below": 6000,
+      "above": 5000
+     }
+    }
+   ]
+  },
+  {
+   "name": "HELEN 4R",
+   "ident": "HELE4R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "HELEN"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIMBU"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU",
+     "alt": {
+      "below": 6000
+     }
+    }
+   ]
+  },
+  {
+   "name": "INKET 2R",
+   "ident": "INKE2R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "INKET"
+    },
+    {
+     "t": "FIX",
+     "fix": "KAKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU",
+     "alt": {
+      "below": 6000,
+      "above": 5000
+     }
+    }
+   ]
+  },
+  {
+   "name": "LAMSO 3R",
+   "ident": "LAMS3R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LAMSO"
+    },
+    {
+     "t": "FIX",
+     "fix": "MASOS",
+     "alt": {
+      "below": 6000
+     }
+    }
+   ]
+  },
+  {
+   "name": "MOLIX 3R",
+   "ident": "MOLI3R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "MOLIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "MASOS",
+     "alt": {
+      "below": 6000
+     }
+    }
+   ]
+  },
+  {
+   "name": "REDFA 3R",
+   "ident": "REDF3R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "REDFA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MASOS",
+     "alt": {
+      "below": 6000
+     }
+    }
+   ]
+  },
+  {
+   "name": "RKN 3R",
+   "ident": "RKN3R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RKN"
+    },
+    {
+     "t": "FIX",
+     "fix": "TENLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "FLEVO",
+     "alt": {
+      "at": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "KAKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU",
+     "alt": {
+      "below": 6000,
+      "above": 5000
+     }
+    }
+   ]
+  },
+  {
+   "name": "SONEB 3R",
+   "ident": "SONE3R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "SONEB"
+    },
+    {
+     "t": "FIX",
+     "fix": "TENLI"
+    },
+    {
+     "t": "FIX",
+     "fix": "FLEVO",
+     "alt": {
+      "at": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "KAKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU",
+     "alt": {
+      "below": 6000,
+      "above": 5000
+     }
+    }
+   ]
+  },
+  {
+   "name": "TOPPA 3R",
+   "ident": "TOPP3R",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TOPPA"
+    },
+    {
+     "t": "FIX",
+     "fix": "MASOS",
+     "alt": {
+      "below": 6000
+     }
+    }
+   ]
+  }
+ ],
+ "holdings": {},
+ "tmas": [
+  {
+   "name": "ROTTERDAM TMA 1",
+   "upper": "FL 055",
+   "lower": "1500 FT AMSL",
+   "cls": "E",
+   "polygon": [
+    [
+     52.285,
+     3.986389
+    ],
+    [
+     51.988889,
+     4.111111
+    ],
+    [
+     51.936111,
+     4.354167
+    ],
+    [
+     51.886389,
+     4.828056
+    ],
+    [
+     51.6,
+     4.604167
+    ],
+    [
+     51.6,
+     4.1925
+    ],
+    [
+     51.616944,
+     4.178333
+    ],
+    [
+     51.613333,
+     4.125833
+    ],
+    [
+     51.633333,
+     4.098611
+    ],
+    [
+     51.633333,
+     4.071944
+    ],
+    [
+     51.615,
+     3.986111
+    ],
+    [
+     51.629167,
+     3.914444
+    ],
+    [
+     51.940556,
+     3.750556
+    ],
+    [
+     52.285,
+     3.986389
+    ]
+   ]
+  },
+  {
+   "name": "ROTTERDAM TMA 2",
+   "upper": "FL 055",
+   "lower": "2500 FT AMSL",
+   "cls": "E",
+   "polygon": [
+    [
+     51.940556,
+     3.750556
+    ],
+    [
+     51.629167,
+     3.914444
+    ],
+    [
+     51.595556,
+     3.868611
+    ],
+    [
+     51.604722,
+     3.838333
+    ],
+    [
+     51.605278,
+     3.799167
+    ],
+    [
+     51.597222,
+     3.746667
+    ],
+    [
+     51.599722,
+     3.681389
+    ],
+    [
+     51.585278,
+     3.627222
+    ],
+    [
+     51.594167,
+     3.583333
+    ],
+    [
+     51.597222,
+     3.519444
+    ],
+    [
+     51.940556,
+     3.750556
+    ]
+   ]
+  },
+  {
+   "name": "ROTTERDAM TMA 3",
+   "upper": "FL 055",
+   "lower": "3500 FT AMSL",
+   "cls": "E",
+   "polygon": [
+    [
+     52.291667,
+     3.696389
+    ],
+    [
+     52.285,
+     3.986389
+    ],
+    [
+     51.597222,
+     3.519444
+    ],
+    [
+     51.597222,
+     3.230556
+    ],
+    [
+     52.291667,
+     3.696389
+    ]
+   ]
+  }
+ ],
+ "fixes": {
+  "THR06": [
+   51.953064,
+   4.430681
+  ],
+  "THR24": [
+   51.961858,
+   4.452692
+  ],
+  "ABNED": [
+   51.849167,
+   3.171833
+  ],
+  "ANDIK": [
+   52.739417,
+   5.2705
+  ],
+  "ARNEM": [
+   52.096444,
+   6.076611
+  ],
+  "BLUFA": [
+   52.83625,
+   6.333333
+  ],
+  "COA": [
+   51.348056,
+   3.355278
+  ],
+  "DENUT": [
+   51.236111,
+   3.657611
+  ],
+  "DOFMU": [
+   51.741333,
+   4.243472
+  ],
+  "ENKOS": [
+   52.678139,
+   5.243278
+  ],
+  "FLEVO": [
+   52.385361,
+   5.602167
+  ],
+  "HELEN": [
+   51.235306,
+   3.869722
+  ],
+  "HELHO": [
+   51.864556,
+   4.210222
+  ],
+  "INKET": [
+   51.814639,
+   4.771972
+  ],
+  "IVLUT": [
+   52.244111,
+   5.256972
+  ],
+  "KAKKO": [
+   51.897583,
+   4.554361
+  ],
+  "LAMSO": [
+   52.732889,
+   2.994361
+  ],
+  "LUNIX": [
+   52.109833,
+   5.565417
+  ],
+  "MASOS": [
+   51.799333,
+   3.596472
+  ],
+  "MOLIX": [
+   52.822,
+   3.068667
+  ],
+  "NEPTU": [
+   51.904833,
+   5.379194
+  ],
+  "NYKER": [
+   52.230389,
+   5.528806
+  ],
+  "OBAGU": [
+   52.152556,
+   3.749389
+  ],
+  "PAM": [
+   52.334722,
+   5.092222
+  ],
+  "PELUB": [
+   51.848056,
+   5.136944
+  ],
+  "RD150": [
+   52.155639,
+   4.787028
+  ],
+  "RD151": [
+   52.05,
+   4.608861
+  ],
+  "RD153": [
+   52.002306,
+   4.574167
+  ],
+  "RD154": [
+   51.871083,
+   4.557056
+  ],
+  "RD156": [
+   51.949111,
+   4.187278
+  ],
+  "RD157": [
+   52.013306,
+   4.610083
+  ],
+  "RD158": [
+   51.9615,
+   4.334083
+  ],
+  "RD159": [
+   51.948,
+   4.418028
+  ],
+  "RD161": [
+   51.924389,
+   4.682722
+  ],
+  "RD162": [
+   51.619444,
+   4.409222
+  ],
+  "RD163": [
+   52.016667,
+   4.552917
+  ],
+  "RD164": [
+   51.945417,
+   4.144111
+  ],
+  "RD165": [
+   51.767056,
+   4.289694
+  ],
+  "RD166": [
+   51.948889,
+   4.420278
+  ],
+  "RD181": [
+   51.977556,
+   4.496528
+  ],
+  "RD182": [
+   51.972167,
+   4.4785
+  ],
+  "RD183": [
+   51.979667,
+   4.5025
+  ],
+  "RD184": [
+   51.989917,
+   4.523194
+  ],
+  "RD185": [
+   52.026417,
+   4.440917
+  ],
+  "RD186": [
+   51.963778,
+   4.361528
+  ],
+  "RD201": [
+   51.801778,
+   4.198472
+  ],
+  "RD207": [
+   52.000083,
+   4.422472
+  ],
+  "RD212": [
+   52.034222,
+   4.634639
+  ],
+  "RD213": [
+   51.960111,
+   4.711722
+  ],
+  "RD214": [
+   51.837278,
+   4.142667
+  ],
+  "RD241": [
+   52.023222,
+   4.606778
+  ],
+  "RD242": [
+   52.003389,
+   4.556889
+  ],
+  "RD250": [
+   51.897222,
+   4.291333
+  ],
+  "RD254": [
+   51.860778,
+   3.903528
+  ],
+  "REDFA": [
+   52.114583,
+   2.487944
+  ],
+  "RIMBU": [
+   51.416972,
+   3.865444
+  ],
+  "RKN": [
+   52.133333,
+   6.763889
+  ],
+  "ROVOX": [
+   51.959417,
+   4.678444
+  ],
+  "SOMEL": [
+   51.940722,
+   4.089111
+  ],
+  "SONEB": [
+   52.023611,
+   6.764167
+  ],
+  "TENLI": [
+   52.246472,
+   6.250139
+  ],
+  "TOPPA": [
+   53.402583,
+   3.561472
+  ],
+  "TULIP": [
+   52.36775,
+   3.857306
+  ],
+  "WOODY": [
+   51.405667,
+   4.366472
+  ]
+ },
+ "source": "AIRAC AMDT 10-2026_2026_10_01"
+}

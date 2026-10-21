@@ -1,0 +1,5657 @@
+{
+ "icao": "EHAM",
+ "arp": [
+  52.308056,
+  4.764167
+ ],
+ "elevation": -11,
+ "magVar": 2.4,
+ "transitionAltitude": 3000,
+ "frequencies": {
+  "approach": "119.055",
+  "arrival": "118.405",
+  "tower": "119.230",
+  "delivery": "121.980",
+  "atis": "131.355",
+  "ground": "121.560"
+ },
+ "ctr": {
+  "points": [
+   [
+    52.415,
+    4.634722
+   ],
+   [
+    52.4725,
+    4.64
+   ],
+   [
+    52.466944,
+    4.803333
+   ],
+   [
+    52.439167,
+    4.800833
+   ],
+   [
+    52.308056,
+    4.764167
+   ],
+   [
+    52.415,
+    4.634722
+   ]
+  ],
+  "arc": {
+   "radius": 8.0,
+   "centre": [
+    52.308056,
+    4.764167
+   ]
+  }
+ },
+ "runways": {
+  "04": {
+   "id": "04",
+   "trueHdg": 41.25,
+   "length": 2020,
+   "width": 45,
+   "thr": [
+    52.300375,
+    4.783486
+   ],
+   "end": [
+    52.314031,
+    4.803028
+   ],
+   "elevation": -13,
+   "approach": {
+    "transitions": {
+     "AM019": [
+      {
+       "t": "FIX",
+       "fix": "AM019"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM020"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM043"
+      },
+      {
+       "t": "FIX",
+       "fix": "ANDIK"
+      }
+     ],
+     "AM059": [
+      {
+       "t": "FIX",
+       "fix": "AM059",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM094"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM090"
+      },
+      {
+       "t": "FIX",
+       "fix": "BAHSI"
+      },
+      {
+       "t": "FIX",
+       "fix": "VOLLA"
+      },
+      {
+       "t": "FIX",
+       "fix": "IDRID"
+      }
+     ]
+    },
+    "final": null,
+    "missed": null
+   }
+  },
+  "22": {
+   "id": "22",
+   "trueHdg": 221.27,
+   "length": 2020,
+   "width": 45,
+   "thr": [
+    52.314031,
+    4.803025
+   ],
+   "end": [
+    52.300383,
+    4.7835
+   ],
+   "elevation": -14,
+   "ils": {
+    "ident": "SCH",
+    "freq": "109.150"
+   },
+   "approach": {
+    "transitions": {
+     "AM063": [
+      {
+       "t": "FIX",
+       "fix": "AM063",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM041"
+      },
+      {
+       "t": "FIX",
+       "fix": "BERGI"
+      }
+     ],
+     "AM062": [
+      {
+       "t": "FIX",
+       "fix": "AM062"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM009",
+       "alt": {
+        "above": 2500
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "VALKO"
+      },
+      {
+       "t": "FIX",
+       "fix": "IDRID"
+      }
+     ],
+     "SPL": [
+      {
+       "t": "FIX",
+       "fix": "SPL",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "PAM"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM180"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM181"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM649",
+       "alt": {
+        "above": 3000
+       },
+       "spd": 220
+      }
+     ],
+     "AM649": [
+      {
+       "t": "FIX",
+       "fix": "AM649",
+       "alt": {
+        "above": 3000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM650",
+       "alt": {
+        "above": 3000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM651"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM652",
+       "flyover": true
+      },
+      {
+       "t": "CA",
+       "crs": 219,
+       "alt": 400
+      },
+      {
+       "t": "CA",
+       "crs": 158,
+       "alt": 2000
+      }
+     ],
+     "HDR": [
+      {
+       "t": "FIX",
+       "fix": "HDR",
+       "alt": {
+        "at": 2000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "NIDOP",
+       "alt": {
+        "at": 2000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM409",
+       "alt": {
+        "at": 2000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM410",
+       "alt": {
+        "at": 2000
+       }
+      }
+     ],
+     "AM410": [
+      {
+       "t": "FIX",
+       "fix": "AM410",
+       "alt": {
+        "at": 2000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM661",
+       "alt": {
+        "at": 2000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM651"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM652",
+       "flyover": true
+      },
+      {
+       "t": "CA",
+       "crs": 219,
+       "alt": 400
+      },
+      {
+       "t": "CA",
+       "crs": 158,
+       "alt": 2000
+      }
+     ]
+    },
+    "final": null,
+    "missed": null
+   }
+  },
+  "06": {
+   "id": "06",
+   "trueHdg": 57.92,
+   "length": 3439,
+   "width": 45,
+   "thr": [
+    52.289106,
+    4.737225
+   ],
+   "end": [
+    52.30435,
+    4.776925
+   ],
+   "elevation": -11,
+   "ils": {
+    "ident": "KAG",
+    "freq": "110.550"
+   },
+   "approach": {
+    "transitions": {
+     "AM014": [
+      {
+       "t": "FIX",
+       "fix": "AM014"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM020"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM043"
+      },
+      {
+       "t": "FIX",
+       "fix": "ANDIK"
+      }
+     ],
+     "SPL": [
+      {
+       "t": "FIX",
+       "fix": "SPL",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM101"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM102"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM103"
+      },
+      {
+       "t": "FIX",
+       "fix": "OSRON",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "OSRON",
+      "alt": {
+       "above": 2000
+      },
+      "spd": 220
+     },
+     {
+      "t": "FIX",
+      "fix": "AM110"
+     },
+     {
+      "t": "FIX",
+      "fix": "AM609",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR06",
+      "flyover": true
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 55,
+      "alt": 2000
+     }
+    ]
+   }
+  },
+  "24": {
+   "id": "24",
+   "trueHdg": 237.95,
+   "length": 3439,
+   "width": 45,
+   "thr": [
+    52.30435,
+    4.776925
+   ],
+   "end": [
+    52.287936,
+    4.734186
+   ],
+   "elevation": -12,
+   "approach": {
+    "transitions": {
+     "AM005": [
+      {
+       "t": "FIX",
+       "fix": "AM005",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "AM008",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM026"
+      },
+      {
+       "t": "FIX",
+       "fix": "PAM"
+      },
+      {
+       "t": "FIX",
+       "fix": "ANDIK"
+      }
+     ],
+     "AM095": [
+      {
+       "t": "FIX",
+       "fix": "AM095"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM125"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM157",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM008"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM026"
+      },
+      {
+       "t": "FIX",
+       "fix": "PAM"
+      },
+      {
+       "t": "FIX",
+       "fix": "ANDIK"
+      }
+     ],
+     "AM001": [
+      {
+       "t": "FIX",
+       "fix": "AM001"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM051"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM009",
+       "alt": {
+        "above": 2500
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM028"
+      },
+      {
+       "t": "FIX",
+       "fix": "BERGI"
+      }
+     ]
+    },
+    "final": null,
+    "missed": null
+   }
+  },
+  "09": {
+   "id": "09",
+   "trueHdg": 86.78,
+   "length": 3453,
+   "width": 45,
+   "thr": [
+    52.316692,
+    4.747658
+   ],
+   "end": [
+    52.318378,
+    4.796897
+   ],
+   "elevation": -12,
+   "approach": {
+    "transitions": {
+     "AM055": [
+      {
+       "t": "FIX",
+       "fix": "AM055"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM042"
+      },
+      {
+       "t": "FIX",
+       "fix": "IVLUT"
+      },
+      {
+       "t": "FIX",
+       "fix": "NYKER"
+      },
+      {
+       "t": "FIX",
+       "fix": "ARNEM"
+      }
+     ]
+    },
+    "final": null,
+    "missed": null
+   }
+  },
+  "27": {
+   "id": "27",
+   "trueHdg": 266.82,
+   "length": 3453,
+   "width": 45,
+   "thr": [
+    52.318378,
+    4.796911
+   ],
+   "end": [
+    52.316644,
+    4.746342
+   ],
+   "elevation": -12,
+   "ils": {
+    "ident": "BVB",
+    "freq": "111.550"
+   },
+   "approach": {
+    "transitions": {
+     "SPL": [
+      {
+       "t": "FIX",
+       "fix": "SPL",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM260"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM261"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM262"
+      },
+      {
+       "t": "FIX",
+       "fix": "TIDVO",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "TIDVO",
+      "alt": {
+       "above": 2000
+      },
+      "spd": 220
+     },
+     {
+      "t": "FIX",
+      "fix": "AM639",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR27",
+      "flyover": true
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 265,
+      "alt": 3000
+     }
+    ]
+   }
+  },
+  "18C": {
+   "id": "18C",
+   "trueHdg": 183.22,
+   "length": 3300,
+   "width": 45,
+   "thr": [
+    52.3314,
+    4.740031
+   ],
+   "end": [
+    52.301783,
+    4.737311
+   ],
+   "elevation": -12,
+   "ils": {
+    "ident": "ZWA",
+    "freq": "109.500"
+   },
+   "approach": {
+    "transitions": {
+     "LISOH": [
+      {
+       "t": "FIX",
+       "fix": "LISOH",
+       "flyover": true
+      },
+      {
+       "t": "CA",
+       "crs": 181,
+       "alt": 500
+      },
+      {
+       "t": "FIX",
+       "fix": "AM049",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "SPY"
+      },
+      {
+       "t": "FIX",
+       "fix": "BETUS"
+      },
+      {
+       "t": "FIX",
+       "fix": "ANDIK"
+      }
+     ],
+     "AM046": [
+      {
+       "t": "FIX",
+       "fix": "AM046"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM026"
+      },
+      {
+       "t": "FIX",
+       "fix": "IVLUT"
+      },
+      {
+       "t": "FIX",
+       "fix": "LUNIX"
+      },
+      {
+       "t": "FIX",
+       "fix": "RENDI"
+      },
+      {
+       "t": "FIX",
+       "fix": "EDUPO"
+      }
+     ],
+     "SPL": [
+      {
+       "t": "FIX",
+       "fix": "SPL",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM120"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM121"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM122"
+      },
+      {
+       "t": "FIX",
+       "fix": "SIDNI",
+       "alt": {
+        "above": 3000
+       },
+       "spd": 220
+      }
+     ],
+     "ALINA": [
+      {
+       "t": "FIX",
+       "fix": "ALINA",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "SIDNI",
+       "alt": {
+        "above": 3000
+       },
+       "spd": 220
+      }
+     ],
+     "ARTIP": [
+      {
+       "t": "FIX",
+       "fix": "ARTIP",
+       "alt": {
+        "below": 14000,
+        "above": 10000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "WINJA",
+       "alt": {
+        "above": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "AM602",
+       "alt": {
+        "above": 7000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM603"
+      },
+      {
+       "t": "FIX",
+       "fix": "NIRSI",
+       "alt": {
+        "above": 5500
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM607"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM608",
+       "alt": {
+        "above": 3400
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "SIDNI"
+      }
+     ],
+     "RIVER": [
+      {
+       "t": "FIX",
+       "fix": "RIVER",
+       "alt": {
+        "below": 14000,
+        "above": 10000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "PORWA"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM627",
+       "alt": {
+        "above": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "NETOM",
+       "alt": {
+        "above": 7000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "NIRSI",
+       "alt": {
+        "above": 5500
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM607"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM608",
+       "alt": {
+        "above": 3400
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "SIDNI"
+      }
+     ],
+     "SUGOL": [
+      {
+       "t": "FIX",
+       "fix": "SUGOL",
+       "alt": {
+        "below": 14000,
+        "above": 10000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "NETOM",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "NIRSI",
+       "alt": {
+        "above": 5500
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM607"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM608",
+       "alt": {
+        "above": 3400
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "SIDNI"
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "SIDNI",
+      "alt": {
+       "above": 3000
+      },
+      "spd": 220
+     },
+     {
+      "t": "FIX",
+      "fix": "AM630",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR18C",
+      "flyover": true
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 181,
+      "alt": 2000
+     }
+    ]
+   }
+  },
+  "36C": {
+   "id": "36C",
+   "trueHdg": 3.22,
+   "length": 3300,
+   "width": 45,
+   "thr": [
+    52.305831,
+    4.737692
+   ],
+   "end": [
+    52.3314,
+    4.740031
+   ],
+   "elevation": -12,
+   "ils": {
+    "ident": "MSA",
+    "freq": "108.750"
+   },
+   "approach": {
+    "transitions": {
+     "SPL": [
+      {
+       "t": "FIX",
+       "fix": "SPL",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM280"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM281"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM282"
+      },
+      {
+       "t": "FIX",
+       "fix": "OLGAX",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ],
+     "BOVCO": [
+      {
+       "t": "FIX",
+       "fix": "BOVCO",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "OLGAX",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "OLGAX",
+      "alt": {
+       "above": 2000
+      },
+      "spd": 220
+     },
+     {
+      "t": "FIX",
+      "fix": "AM632",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR36C",
+      "flyover": true
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 1,
+      "alt": 2000
+     }
+    ]
+   }
+  },
+  "18L": {
+   "id": "18L",
+   "trueHdg": 183.25,
+   "length": 3400,
+   "width": 45,
+   "thr": [
+    52.316164,
+    4.779692
+   ],
+   "end": [
+    52.290822,
+    4.777347
+   ],
+   "elevation": -12,
+   "approach": {
+    "transitions": {
+     "OTNES": [
+      {
+       "t": "FIX",
+       "fix": "OTNES"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM047",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM024"
+      },
+      {
+       "t": "FIX",
+       "fix": "PAM"
+      },
+      {
+       "t": "FIX",
+       "fix": "ANDIK"
+      }
+     ]
+    },
+    "final": null,
+    "missed": null
+   }
+  },
+  "36R": {
+   "id": "36R",
+   "trueHdg": 3.25,
+   "length": 3400,
+   "width": 45,
+   "thr": [
+    52.290825,
+    4.777347
+   ],
+   "end": [
+    52.316164,
+    4.779692
+   ],
+   "elevation": -11,
+   "ils": {
+    "ident": "ABA",
+    "freq": "111.950"
+   },
+   "approach": {
+    "transitions": {
+     "SPL": [
+      {
+       "t": "FIX",
+       "fix": "SPL",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM160"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM161"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM162"
+      },
+      {
+       "t": "FIX",
+       "fix": "NEWCO",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ],
+     "KAROF": [
+      {
+       "t": "FIX",
+       "fix": "KAROF"
+      },
+      {
+       "t": "FIX",
+       "fix": "NEWCO",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ],
+     "ARTIP": [
+      {
+       "t": "FIX",
+       "fix": "ARTIP",
+       "alt": {
+        "below": 10000
+       },
+       "spd": 250
+      },
+      {
+       "t": "FIX",
+       "fix": "INBAM"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM665",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM667"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM668",
+       "spd": 180
+      },
+      {
+       "t": "FIX",
+       "fix": "AM669",
+       "alt": {
+        "above": 2000
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM636",
+       "alt": {
+        "above": 2000
+       },
+       "flyover": true
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "NEWCO",
+      "alt": {
+       "above": 2000
+      },
+      "spd": 220
+     },
+     {
+      "t": "FIX",
+      "fix": "AM636",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR36R",
+      "flyover": true
+     }
+    ],
+    "missed": [
+     {
+      "t": "FIX",
+      "fix": "AM637",
+      "alt": {
+       "below": 1500
+      },
+      "flyover": true
+     },
+     {
+      "t": "FIX",
+      "fix": "AM163",
+      "alt": {
+       "at": 2000
+      },
+      "spd": 220
+     }
+    ]
+   }
+  },
+  "18R": {
+   "id": "18R",
+   "trueHdg": 183.2,
+   "length": 3800,
+   "width": 60,
+   "thr": [
+    52.360258,
+    4.711725
+   ],
+   "end": [
+    52.328581,
+    4.708836
+   ],
+   "elevation": -13,
+   "ils": {
+    "ident": "VPB",
+    "freq": "110.100"
+   },
+   "approach": {
+    "transitions": {
+     "SPL": [
+      {
+       "t": "FIX",
+       "fix": "SPL",
+       "alt": {
+        "above": 7000
+       },
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM240"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM241"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM242"
+      },
+      {
+       "t": "FIX",
+       "fix": "PEVOS",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ],
+     "DIBRU": [
+      {
+       "t": "FIX",
+       "fix": "DIBRU",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "PEVOS",
+       "alt": {
+        "above": 2000
+       },
+       "spd": 220
+      }
+     ]
+    },
+    "final": [
+     {
+      "t": "FIX",
+      "fix": "PEVOS",
+      "alt": {
+       "above": 2000
+      },
+      "spd": 220
+     },
+     {
+      "t": "FIX",
+      "fix": "AM621",
+      "alt": {
+       "above": 2000
+      }
+     },
+     {
+      "t": "FIX",
+      "fix": "THR18R"
+     }
+    ],
+    "missed": [
+     {
+      "t": "CA",
+      "crs": 181,
+      "alt": 500
+     },
+     {
+      "t": "FIX",
+      "fix": "AM624",
+      "alt": {
+       "at": 2000
+      },
+      "spd": 220
+     },
+     {
+      "t": "CA",
+      "crs": 299,
+      "alt": 2000
+     }
+    ]
+   }
+  },
+  "36L": {
+   "id": "36L",
+   "trueHdg": 3.2,
+   "length": 3800,
+   "width": 60,
+   "thr": [
+    52.328578,
+    4.708836
+   ],
+   "end": [
+    52.362681,
+    4.711947
+   ],
+   "elevation": -12,
+   "approach": {
+    "transitions": {
+     "AM012": [
+      {
+       "t": "FIX",
+       "fix": "AM012"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM087"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM088"
+      },
+      {
+       "t": "FIX",
+       "fix": "PAM"
+      },
+      {
+       "t": "FIX",
+       "fix": "ARNEM"
+      }
+     ],
+     "LEVKI": [
+      {
+       "t": "FIX",
+       "fix": "LEVKI"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM094",
+       "alt": {
+        "above": 2500
+       }
+      },
+      {
+       "t": "FIX",
+       "fix": "AM034"
+      },
+      {
+       "t": "FIX",
+       "fix": "BERGI"
+      }
+     ],
+     "AM084": [
+      {
+       "t": "FIX",
+       "fix": "AM084",
+       "flyover": true
+      },
+      {
+       "t": "FIX",
+       "fix": "AM045",
+       "spd": 220
+      },
+      {
+       "t": "FIX",
+       "fix": "AM036"
+      },
+      {
+       "t": "FIX",
+       "fix": "AM072"
+      },
+      {
+       "t": "FIX",
+       "fix": "LEKKO"
+      },
+      {
+       "t": "FIX",
+       "fix": "KUDAD"
+      },
+      {
+       "t": "FIX",
+       "fix": "WOODY"
+      }
+     ]
+    },
+    "final": null,
+    "missed": null
+   }
+  }
+ },
+ "sids": [
+  {
+   "name": "ANDIK 3F",
+   "ident": "ANDI3F",
+   "runway": "04",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM019"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM020"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM043"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 3F",
+   "ident": "ARNE3F",
+   "runway": "04",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 39,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM060",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BERGI 2F",
+   "ident": "BERG2F",
+   "runway": "04",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM019"
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 2F",
+   "ident": "KUDA2F",
+   "runway": "04",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 39,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM072"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 2F",
+   "ident": "LOPI2F",
+   "runway": "04",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 39,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM061",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "OGINA"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 2F",
+   "ident": "REND2F",
+   "runway": "04",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 39,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM060",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VOLLA 2F",
+   "ident": "VOLL2F",
+   "runway": "04",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM059",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM094"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM090"
+    },
+    {
+     "t": "FIX",
+     "fix": "BAHSI"
+    },
+    {
+     "t": "FIX",
+     "fix": "VOLLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ANDIK 3R",
+   "ident": "ANDI3R",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM014"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM020"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM043"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 3R",
+   "ident": "ARNE3R",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 56,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM018"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 2R",
+   "ident": "KUDA2R",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 56,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM072"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 2R",
+   "ident": "LOPI2R",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 56,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "OGINA"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 2R",
+   "ident": "REND2R",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 56,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM018"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VOLLA 2R",
+   "ident": "VOLL2R",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM014",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM094"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM090"
+    },
+    {
+     "t": "FIX",
+     "fix": "BAHSI"
+    },
+    {
+     "t": "FIX",
+     "fix": "VOLLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ANDIK 2T",
+   "ident": "ANDI2T",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM014",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM021"
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "ARNEM 3T",
+   "ident": "ARNE3T",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 56,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM017"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "KUDAD 2T",
+   "ident": "KUDA2T",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 56,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM038"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "RENDI 2T",
+   "ident": "REND2T",
+   "runway": "06",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 56,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM017"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "ANDIK 2N",
+   "ident": "ANDI2N",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 84,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM052"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM043"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 3N",
+   "ident": "ARNE3N",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM055"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM042"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BERGI 3N",
+   "ident": "BERG3N",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 84,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM053",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM094",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AM022"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "IDRID 2N",
+   "ident": "IDRI2N",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 84,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM053",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM094"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM090"
+    },
+    {
+     "t": "FIX",
+     "fix": "BAHSI"
+    },
+    {
+     "t": "FIX",
+     "fix": "VOLLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 2N",
+   "ident": "KUDA2N",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 84,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM072"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 2N",
+   "ident": "LOPI2N",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 84,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "OGINA"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 2N",
+   "ident": "REND2N",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM055"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM042"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VALKO 5M",
+   "ident": "VALK5M",
+   "runway": "09",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 84,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM030",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM025"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM040"
+    },
+    {
+     "t": "FIX",
+     "fix": "VALKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BETUS 6Y",
+   "ident": "BETU6Y",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LISOH",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 181,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM049",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "BETUS"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "DENAG 7X",
+   "ident": "DENA7X",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LISOH",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 181,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM051"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM009",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DENAG"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "EDUPO 3X",
+   "ident": "EDUP3X",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM046"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ELPAT 3X",
+   "ident": "ELPA3X",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM046"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ELPAT"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LARAS 2X",
+   "ident": "LARA2X",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM046"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM074"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "LARAS"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ROVEN 3X",
+   "ident": "ROVE3X",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM046"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM069"
+    },
+    {
+     "t": "FIX",
+     "fix": "ROVEN"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "TORGA 2X",
+   "ident": "TORG2X",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM046"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "TORGA"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "WISPA 4X",
+   "ident": "WISP4X",
+   "runway": "18C",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LISOH",
+     "flyover": true
+    },
+    {
+     "t": "CA",
+     "crs": 181,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM051"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM009",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AM028"
+    },
+    {
+     "t": "FIX",
+     "fix": "WISPA"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ANDIK 4E",
+   "ident": "ANDI4E",
+   "runway": "18L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "OTNES"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM047",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM024"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 5E",
+   "ident": "ARNE5E",
+   "runway": "18L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "OTNES"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM047",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BERGI 4E",
+   "ident": "BERG4E",
+   "runway": "18L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 181,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM029",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM009",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AM028"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 3E",
+   "ident": "KUDA3E",
+   "runway": "18L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 181,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "OKUDO"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 5E",
+   "ident": "LOPI5E",
+   "runway": "18L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 181,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "OGOSU"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM050"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 3E",
+   "ident": "REND3E",
+   "runway": "18L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "OTNES"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM047",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VALKO 5E",
+   "ident": "VALK5E",
+   "runway": "18L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 181,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM029",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM009",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "VALKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ANDIK 3G",
+   "ident": "ANDI3G",
+   "runway": "22",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 219,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM023",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM027"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 4G",
+   "ident": "ARNE4G",
+   "runway": "22",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 219,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM023",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BERGI 2G",
+   "ident": "BERG2G",
+   "runway": "22",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM063",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM041"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 2G",
+   "ident": "KUDA2G",
+   "runway": "22",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 219,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM064",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM073"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 2G",
+   "ident": "LOPI2G",
+   "runway": "22",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 219,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM064",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM029"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM050"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 2G",
+   "ident": "REND2G",
+   "runway": "22",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 219,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM023",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VALKO 3G",
+   "ident": "VALK3G",
+   "runway": "22",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM062"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM009",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "VALKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ANDIK 1Q",
+   "ident": "ANDI1Q",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM005",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ANDIK 3S",
+   "ident": "ANDI3S",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM095"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM125"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM157",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 1Q",
+   "ident": "ARNE1Q",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM005",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 4S",
+   "ident": "ARNE4S",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM095"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM125"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM157",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BERGI 2S",
+   "ident": "BERG2S",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM001"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM051"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM009",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AM028"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 1Q",
+   "ident": "KUDA1Q",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM005",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM003",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM004"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 4S",
+   "ident": "KUDA4S",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM095"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM125"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM156",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM003"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM004"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 1Q",
+   "ident": "LOPI1Q",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM005",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM050"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 4S",
+   "ident": "LOPI4S",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM095"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM125"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM157",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM050"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 1Q",
+   "ident": "REND1Q",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM005",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 3S",
+   "ident": "REND3S",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM095"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM125"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM157",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM008"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM026"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "SPY 1J",
+   "ident": "SPY1J",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM001",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM049",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "SPY 5K",
+   "ident": "SPY5K",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM095"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM096"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM097",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VALKO 3S",
+   "ident": "VALK3S",
+   "runway": "24",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM001"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM051"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM009",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "VALKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 3P",
+   "ident": "ARNE3P",
+   "runway": "27",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 264,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM056"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM032",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM075"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BERGI 2P",
+   "ident": "BERG2P",
+   "runway": "27",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 264,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM058"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM041"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 2P",
+   "ident": "KUDA2P",
+   "runway": "27",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 264,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM056"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM032",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM075"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 2P",
+   "ident": "LOPI2P",
+   "runway": "27",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 264,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM056"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM032",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM075"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 2P",
+   "ident": "REND2P",
+   "runway": "27",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 264,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM056"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM032",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM075"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "SPY 2P",
+   "ident": "SPY2P",
+   "runway": "27",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 264,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM057",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VOLLA 2P",
+   "ident": "VOLL2P",
+   "runway": "27",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 264,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM058"
+    },
+    {
+     "t": "FIX",
+     "fix": "VOLLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "IVLUT 4W",
+   "ident": "IVLU4W",
+   "runway": "36C",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RIKOR"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM081"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM082"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "NOPSU 3W",
+   "ident": "NOPS3W",
+   "runway": "36C",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RIKOR"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM044"
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "NOPSU"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "NYKER 5W",
+   "ident": "NYKE5W",
+   "runway": "36C",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RIKOR"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM081"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM082"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "NYKER"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "OGINA 4W",
+   "ident": "OGIN4W",
+   "runway": "36C",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RIKOR"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM070",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036"
+    },
+    {
+     "t": "FIX",
+     "fix": "OGINA"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "WOODY 3W",
+   "ident": "WOOD3W",
+   "runway": "36C",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "RIKOR"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM070",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM072"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 2V",
+   "ident": "ARNE2V",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM012"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM087"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM088"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "BERGI 5V",
+   "ident": "BERG5V",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LEVKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM094",
+     "alt": {
+      "above": 2500
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "AM034"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "KUDAD 2V",
+   "ident": "KUDA2V",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM084",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM045",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM072"
+    },
+    {
+     "t": "FIX",
+     "fix": "LEKKO"
+    },
+    {
+     "t": "FIX",
+     "fix": "KUDAD"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "LOPIK 4V",
+   "ident": "LOPI4V",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM084",
+     "flyover": true
+    },
+    {
+     "t": "FIX",
+     "fix": "AM045",
+     "spd": 220
+    },
+    {
+     "t": "FIX",
+     "fix": "AM036"
+    },
+    {
+     "t": "FIX",
+     "fix": "OGINA"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "RENDI 2V",
+   "ident": "REND2V",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "AM012"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM087"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM088"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "SPY 4V",
+   "ident": "SPY4V",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LEVKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM013"
+    },
+    {
+     "t": "FIX",
+     "fix": "NOPSU"
+    },
+    {
+     "t": "FIX",
+     "fix": "ANDIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "VOLLA 3V",
+   "ident": "VOLL3V",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LEVKI"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM094"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM090"
+    },
+    {
+     "t": "FIX",
+     "fix": "BAHSI"
+    },
+    {
+     "t": "FIX",
+     "fix": "VOLLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": false
+  },
+  {
+   "name": "ARNEM 2Z",
+   "ident": "ARNE2Z",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM013"
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARNEM"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "BERGI 2Z",
+   "ident": "BERG2Z",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM015"
+    },
+    {
+     "t": "FIX",
+     "fix": "BERGI"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "LOPIK 2Z",
+   "ident": "LOPI2Z",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM013"
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "LOPIK"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "RENDI 2Z",
+   "ident": "REND2Z",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM013"
+    },
+    {
+     "t": "FIX",
+     "fix": "SPY"
+    },
+    {
+     "t": "FIX",
+     "fix": "PAM"
+    },
+    {
+     "t": "FIX",
+     "fix": "IVLUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "LUNIX"
+    },
+    {
+     "t": "FIX",
+     "fix": "RENDI"
+    },
+    {
+     "t": "FIX",
+     "fix": "EDUPO"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "RONSA 1Z",
+   "ident": "RONS1Z",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM015"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM006"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM016"
+    },
+    {
+     "t": "FIX",
+     "fix": "RONSA"
+    },
+    {
+     "t": "FIX",
+     "fix": "WOODY"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  },
+  {
+   "name": "VOLLA 2Z",
+   "ident": "VOLL2Z",
+   "runway": "36L",
+   "legs": [
+    {
+     "t": "CA",
+     "crs": 1,
+     "alt": 500
+    },
+    {
+     "t": "FIX",
+     "fix": "AM015"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM006"
+    },
+    {
+     "t": "FIX",
+     "fix": "AM016"
+    },
+    {
+     "t": "FIX",
+     "fix": "VOLLA"
+    },
+    {
+     "t": "FIX",
+     "fix": "IDRID"
+    }
+   ],
+   "initialAlt": 6000,
+   "supplementary": true
+  }
+ ],
+ "stars": [
+  {
+   "name": "BLUFA 1A",
+   "ident": "BLUF1A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "BLUFA",
+     "alt": {
+      "below": 26000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ARTIP",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "DENUT 3A",
+   "ident": "DENU3A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "DENUT",
+     "alt": {
+      "below": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "YENZO"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIVER",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "HELEN 2A",
+   "ident": "HELE2A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "HELEN",
+     "alt": {
+      "below": 24000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "HAMZA"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIVER",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "LAMSO 2A",
+   "ident": "LAMS2A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "LAMSO",
+     "alt": {
+      "below": 23000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "ETPOS"
+    },
+    {
+     "t": "FIX",
+     "fix": "SUGOL",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "MOLIX 2A",
+   "ident": "MOLI2A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "MOLIX",
+     "alt": {
+      "below": 23000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "LUTEX"
+    },
+    {
+     "t": "FIX",
+     "fix": "ROBVI"
+    },
+    {
+     "t": "FIX",
+     "fix": "SUGOL",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "NORKU 2A",
+   "ident": "NORK2A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "NORKU",
+     "alt": {
+      "below": 28000,
+      "above": 20000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SONSA"
+    },
+    {
+     "t": "FIX",
+     "fix": "ROBIS"
+    },
+    {
+     "t": "FIX",
+     "fix": "OSKUR"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARTIP",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "PESER 3A",
+   "ident": "PESE3A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "PESER",
+     "alt": {
+      "below": 7000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "DOFMU"
+    },
+    {
+     "t": "FIX",
+     "fix": "RIVER",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "REDFA 1A",
+   "ident": "REDF1A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "REDFA",
+     "alt": {
+      "below": 23000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "SULUT"
+    },
+    {
+     "t": "FIX",
+     "fix": "SUGOL",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "RKN 2A",
+   "ident": "RKN2A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "RKN",
+     "alt": {
+      "below": 18000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "OSKUR"
+    },
+    {
+     "t": "FIX",
+     "fix": "ARTIP",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  },
+  {
+   "name": "TOPPA 2A",
+   "ident": "TOPP2A",
+   "legs": [
+    {
+     "t": "FIX",
+     "fix": "TOPPA",
+     "alt": {
+      "below": 25000
+     }
+    },
+    {
+     "t": "FIX",
+     "fix": "MONIL"
+    },
+    {
+     "t": "FIX",
+     "fix": "ROBVI"
+    },
+    {
+     "t": "FIX",
+     "fix": "SUGOL",
+     "alt": {
+      "below": 10000,
+      "above": 7000
+     },
+     "spd": 250
+    }
+   ]
+  }
+ ],
+ "holdings": {
+  "ARTIP": {
+   "inbound": 251,
+   "turn": "R",
+   "minAlt": 7000,
+   "maxSpd": 250
+  },
+  "NARSO": {
+   "inbound": 354,
+   "turn": "L",
+   "minAlt": 20000,
+   "maxSpd": 220
+  },
+  "RIVER": {
+   "inbound": 40,
+   "turn": "R",
+   "minAlt": 7000,
+   "maxSpd": 250
+  },
+  "SUGOL": {
+   "inbound": 109,
+   "turn": "R",
+   "minAlt": 7000,
+   "maxSpd": 250
+  }
+ },
+ "tmas": [
+  {
+   "name": "SCHIPHOL TMA 1",
+   "upper": "FL 095",
+   "lower": "1500 FT AMSL",
+   "cls": "A",
+   "polygon": [
+    [
+     52.805556,
+     5.333333
+    ],
+    [
+     52.5075,
+     5.609444
+    ],
+    [
+     52.303056,
+     5.609444
+    ],
+    [
+     52.265556,
+     5.419722
+    ],
+    [
+     52.205278,
+     5.119444
+    ],
+    [
+     52.195833,
+     5.073333
+    ],
+    [
+     51.886389,
+     4.828056
+    ],
+    [
+     51.936111,
+     4.354167
+    ],
+    [
+     51.988889,
+     4.111111
+    ],
+    [
+     52.285,
+     3.986389
+    ],
+    [
+     52.693333,
+     4.270833
+    ],
+    [
+     52.725,
+     4.561111
+    ],
+    [
+     52.805556,
+     5.333333
+    ]
+   ]
+  },
+  {
+   "name": "SCHIPHOL TMA 2",
+   "upper": "FL 055",
+   "lower": "3500 FT AMSL",
+   "cls": "A",
+   "polygon": [
+    [
+     52.900278,
+     4.118056
+    ],
+    [
+     52.805278,
+     4.35
+    ],
+    [
+     52.693333,
+     4.270833
+    ],
+    [
+     52.285,
+     3.986389
+    ],
+    [
+     52.291667,
+     3.696389
+    ],
+    [
+     52.900278,
+     4.118056
+    ]
+   ]
+  },
+  {
+   "name": "SCHIPHOL TMA 3",
+   "upper": "FL 095",
+   "lower": "2500 FT AMSL",
+   "cls": "A",
+   "polygon": [
+    [
+     52.195833,
+     5.073333
+    ],
+    [
+     52.205278,
+     5.119444
+    ],
+    [
+     52.047778,
+     5.108056
+    ],
+    [
+     51.886389,
+     5.096389
+    ],
+    [
+     51.886389,
+     4.828056
+    ],
+    [
+     52.195833,
+     5.073333
+    ]
+   ]
+  },
+  {
+   "name": "SCHIPHOL TMA 4",
+   "upper": "FL 095",
+   "lower": "3500 FT AMSL",
+   "cls": "A",
+   "polygon": [
+    [
+     52.205278,
+     5.119444
+    ],
+    [
+     52.265556,
+     5.419722
+    ],
+    [
+     52.047778,
+     5.108056
+    ],
+    [
+     52.205278,
+     5.119444
+    ]
+   ]
+  },
+  {
+   "name": "SCHIPHOL TMA 5",
+   "upper": "FL 095",
+   "lower": "FL 055",
+   "cls": "A",
+   "polygon": [
+    [
+     52.265556,
+     5.419722
+    ],
+    [
+     52.303056,
+     5.609444
+    ],
+    [
+     52.031389,
+     5.398056
+    ],
+    [
+     51.886389,
+     5.096389
+    ],
+    [
+     52.047778,
+     5.108056
+    ],
+    [
+     52.265556,
+     5.419722
+    ]
+   ]
+  },
+  {
+   "name": "SCHIPHOL TMA 6",
+   "upper": "FL 095",
+   "lower": "3500 FT AMSL",
+   "cls": "A",
+   "polygon": [
+    [
+     52.805278,
+     4.35
+    ],
+    [
+     52.756944,
+     4.4675
+    ],
+    [
+     52.725,
+     4.561111
+    ],
+    [
+     52.693333,
+     4.270833
+    ],
+    [
+     52.805278,
+     4.35
+    ]
+   ]
+  },
+  {
+   "name": "SCHIPHOL TMA 7",
+   "upper": "1500 FT AMSL",
+   "lower": "1300 FT AMSL",
+   "cls": "D",
+   "polygon": [
+    [
+     52.633889,
+     4.576667
+    ],
+    [
+     52.625833,
+     4.818056
+    ],
+    [
+     52.466944,
+     4.803333
+    ],
+    [
+     52.4725,
+     4.64
+    ],
+    [
+     52.415,
+     4.634722
+    ],
+    [
+     52.308056,
+     4.764167
+    ],
+    [
+     52.315278,
+     4.547222
+    ],
+    [
+     52.633889,
+     4.576667
+    ]
+   ]
+  },
+  {
+   "name": "SCHIPHOL TMA 8",
+   "upper": "1500 FT AMSL",
+   "lower": "1300 FT AMSL",
+   "cls": "D",
+   "polygon": [
+    [
+     52.266944,
+     4.5575
+    ],
+    [
+     52.308056,
+     4.764167
+    ],
+    [
+     52.179444,
+     4.821111
+    ],
+    [
+     52.0675,
+     4.810833
+    ],
+    [
+     52.0675,
+     4.5575
+    ],
+    [
+     52.266944,
+     4.5575
+    ]
+   ]
+  }
+ ],
+ "fixes": {
+  "THR04": [
+   52.300375,
+   4.783486
+  ],
+  "THR22": [
+   52.314031,
+   4.803025
+  ],
+  "THR06": [
+   52.289106,
+   4.737225
+  ],
+  "THR24": [
+   52.30435,
+   4.776925
+  ],
+  "THR09": [
+   52.316692,
+   4.747658
+  ],
+  "THR27": [
+   52.318378,
+   4.796911
+  ],
+  "THR18C": [
+   52.3314,
+   4.740031
+  ],
+  "THR36C": [
+   52.305831,
+   4.737692
+  ],
+  "THR18L": [
+   52.316164,
+   4.779692
+  ],
+  "THR36R": [
+   52.290825,
+   4.777347
+  ],
+  "THR18R": [
+   52.360258,
+   4.711725
+  ],
+  "THR36L": [
+   52.328578,
+   4.708836
+  ],
+  "ALINA": [
+   52.564028,
+   4.7615
+  ],
+  "AM001": [
+   52.275194,
+   4.701111
+  ],
+  "AM003": [
+   52.173472,
+   4.746167
+  ],
+  "AM004": [
+   51.988528,
+   4.817806
+  ],
+  "AM005": [
+   52.273833,
+   4.6975
+  ],
+  "AM006": [
+   52.59075,
+   4.546222
+  ],
+  "AM008": [
+   52.208333,
+   4.766667
+  ],
+  "AM009": [
+   52.223694,
+   4.554556
+  ],
+  "AM012": [
+   52.420361,
+   4.717639
+  ],
+  "AM013": [
+   52.544722,
+   4.729333
+  ],
+  "AM014": [
+   52.337639,
+   4.863833
+  ],
+  "AM015": [
+   52.590889,
+   4.734528
+  ],
+  "AM016": [
+   52.398667,
+   4.414556
+  ],
+  "AM017": [
+   52.184972,
+   4.941528
+  ],
+  "AM018": [
+   52.320361,
+   4.818639
+  ],
+  "AM019": [
+   52.337972,
+   4.837333
+  ],
+  "AM020": [
+   52.336889,
+   4.928778
+  ],
+  "AM021": [
+   52.47675,
+   4.655722
+  ],
+  "AM022": [
+   52.6805,
+   4.521944
+  ],
+  "AM023": [
+   52.255889,
+   4.848083
+  ],
+  "AM024": [
+   52.253,
+   4.980611
+  ],
+  "AM025": [
+   52.206833,
+   4.74
+  ],
+  "AM026": [
+   52.171361,
+   4.869778
+  ],
+  "AM027": [
+   52.250944,
+   5.026056
+  ],
+  "AM028": [
+   52.357778,
+   4.421028
+  ],
+  "AM029": [
+   52.187694,
+   4.820667
+  ],
+  "AM030": [
+   52.261583,
+   4.801306
+  ],
+  "AM032": [
+   52.264139,
+   4.5885
+  ],
+  "AM034": [
+   52.517833,
+   4.576694
+  ],
+  "AM036": [
+   52.257056,
+   4.847889
+  ],
+  "AM038": [
+   52.169944,
+   4.960972
+  ],
+  "AM040": [
+   52.106639,
+   4.467583
+  ],
+  "AM041": [
+   52.322722,
+   4.426556
+  ],
+  "AM042": [
+   52.295611,
+   4.962111
+  ],
+  "AM043": [
+   52.425389,
+   5.131806
+  ],
+  "AM044": [
+   52.435056,
+   4.863694
+  ],
+  "AM045": [
+   52.339,
+   4.824278
+  ],
+  "AM046": [
+   52.217889,
+   4.729639
+  ],
+  "AM047": [
+   52.255833,
+   4.850306
+  ],
+  "AM049": [
+   52.289167,
+   4.612361
+  ],
+  "AM050": [
+   52.155333,
+   4.917972
+  ],
+  "AM051": [
+   52.243833,
+   4.651028
+  ],
+  "AM052": [
+   52.324167,
+   4.899778
+  ],
+  "AM053": [
+   52.387222,
+   4.789722
+  ],
+  "AM055": [
+   52.32075,
+   4.866528
+  ],
+  "AM056": [
+   52.329361,
+   4.650778
+  ],
+  "AM057": [
+   52.371194,
+   4.690861
+  ],
+  "AM058": [
+   52.330056,
+   4.675694
+  ],
+  "AM059": [
+   52.346861,
+   4.850111
+  ],
+  "AM060": [
+   52.305194,
+   4.907028
+  ],
+  "AM061": [
+   52.225056,
+   4.889472
+  ],
+  "AM062": [
+   52.259139,
+   4.724583
+  ],
+  "AM063": [
+   52.275278,
+   4.747611
+  ],
+  "AM064": [
+   52.251167,
+   4.789639
+  ],
+  "AM069": [
+   52.151556,
+   4.929306
+  ],
+  "AM070": [
+   52.33475,
+   5.092194
+  ],
+  "AM072": [
+   52.020583,
+   4.843
+  ],
+  "AM073": [
+   52.214194,
+   4.807722
+  ],
+  "AM074": [
+   52.166167,
+   4.757028
+  ],
+  "AM075": [
+   52.156139,
+   4.757444
+  ],
+  "AM081": [
+   52.423556,
+   4.845694
+  ],
+  "AM082": [
+   52.424139,
+   4.988833
+  ],
+  "AM084": [
+   52.395194,
+   4.715139
+  ],
+  "AM087": [
+   52.479944,
+   4.772167
+  ],
+  "AM088": [
+   52.487444,
+   4.915333
+  ],
+  "AM090": [
+   52.467222,
+   4.534361
+  ],
+  "AM094": [
+   52.466083,
+   4.661333
+  ],
+  "AM095": [
+   52.276972,
+   4.705667
+  ],
+  "AM096": [
+   52.274083,
+   4.672806
+  ],
+  "AM097": [
+   52.320778,
+   4.642111
+  ],
+  "AM101": [
+   52.347861,
+   4.637806
+  ],
+  "AM102": [
+   52.262833,
+   4.417917
+  ],
+  "AM103": [
+   52.217528,
+   4.464583
+  ],
+  "AM110": [
+   52.221278,
+   4.561333
+  ],
+  "AM120": [
+   52.403556,
+   4.881194
+  ],
+  "AM121": [
+   52.506167,
+   4.891278
+  ],
+  "AM122": [
+   52.50925,
+   4.803306
+  ],
+  "AM125": [
+   52.27675,
+   4.687111
+  ],
+  "AM156": [
+   52.241028,
+   4.691611
+  ],
+  "AM157": [
+   52.228278,
+   4.711111
+  ],
+  "AM160": [
+   52.225,
+   4.905
+  ],
+  "AM161": [
+   52.106667,
+   4.894028
+  ],
+  "AM162": [
+   52.109778,
+   4.807139
+  ],
+  "AM163": [
+   52.505,
+   4.797361
+  ],
+  "AM180": [
+   52.442361,
+   5.169833
+  ],
+  "AM181": [
+   52.483417,
+   5.107889
+  ],
+  "AM240": [
+   52.445306,
+   4.584306
+  ],
+  "AM241": [
+   52.544361,
+   4.593111
+  ],
+  "AM242": [
+   52.541389,
+   4.681417
+  ],
+  "AM260": [
+   52.402889,
+   4.853306
+  ],
+  "AM261": [
+   52.410361,
+   5.082917
+  ],
+  "AM262": [
+   52.3565,
+   5.087472
+  ],
+  "AM280": [
+   52.24775,
+   4.59625
+  ],
+  "AM281": [
+   52.130972,
+   4.585583
+  ],
+  "AM282": [
+   52.127861,
+   4.674694
+  ],
+  "AM409": [
+   52.590694,
+   5.017583
+  ],
+  "AM410": [
+   52.468111,
+   5.02475
+  ],
+  "AM602": [
+   52.688278,
+   4.680083
+  ],
+  "AM603": [
+   52.688139,
+   4.513361
+  ],
+  "AM607": [
+   52.583889,
+   4.646889
+  ],
+  "AM608": [
+   52.539417,
+   4.728139
+  ],
+  "AM609": [
+   52.234583,
+   4.59575
+  ],
+  "AM621": [
+   52.462694,
+   4.721111
+  ],
+  "AM624": [
+   52.352667,
+   4.548694
+  ],
+  "AM627": [
+   52.293389,
+   4.289056
+  ],
+  "AM630": [
+   52.433806,
+   4.749444
+  ],
+  "AM632": [
+   52.203444,
+   4.728306
+  ],
+  "AM636": [
+   52.188472,
+   4.767889
+  ],
+  "AM637": [
+   52.373389,
+   4.785
+  ],
+  "AM639": [
+   52.323944,
+   4.964
+  ],
+  "AM649": [
+   52.467778,
+   5.02425
+  ],
+  "AM650": [
+   52.430333,
+   4.970167
+  ],
+  "AM651": [
+   52.364028,
+   4.87475
+  ],
+  "AM652": [
+   52.329028,
+   4.824528
+  ],
+  "AM661": [
+   52.391111,
+   4.913667
+  ],
+  "AM665": [
+   52.24625,
+   5.041583
+  ],
+  "AM667": [
+   52.110583,
+   4.9095
+  ],
+  "AM668": [
+   52.110639,
+   4.801361
+  ],
+  "AM669": [
+   52.155222,
+   4.764833
+  ],
+  "ANDIK": [
+   52.739417,
+   5.2705
+  ],
+  "ARNEM": [
+   52.096444,
+   6.076611
+  ],
+  "ARTIP": [
+   52.511222,
+   5.569083
+  ],
+  "BAHSI": [
+   52.422833,
+   4.488972
+  ],
+  "BERGI": [
+   52.74875,
+   4.358917
+  ],
+  "BETUS": [
+   52.688139,
+   5.162556
+  ],
+  "BLUFA": [
+   52.83625,
+   6.333333
+  ],
+  "BOVCO": [
+   52.023333,
+   4.711917
+  ],
+  "DENAG": [
+   52.082389,
+   3.890806
+  ],
+  "DENUT": [
+   51.236111,
+   3.657611
+  ],
+  "DIBRU": [
+   52.576278,
+   4.731528
+  ],
+  "DOFMU": [
+   51.741333,
+   4.243472
+  ],
+  "EDUPO": [
+   51.975528,
+   5.835944
+  ],
+  "ELPAT": [
+   52.127417,
+   5.951139
+  ],
+  "ETPOS": [
+   52.585111,
+   3.414167
+  ],
+  "HAMZA": [
+   51.722722,
+   3.858167
+  ],
+  "HDR": [
+   52.906944,
+   4.765833
+  ],
+  "HELEN": [
+   51.235306,
+   3.869722
+  ],
+  "IDRID": [
+   51.996194,
+   3.49625
+  ],
+  "INBAM": [
+   52.353111,
+   5.252972
+  ],
+  "IVLUT": [
+   52.244111,
+   5.256972
+  ],
+  "KAROF": [
+   52.008333,
+   4.751361
+  ],
+  "KUDAD": [
+   51.6675,
+   4.5675
+  ],
+  "LAMSO": [
+   52.732889,
+   2.994361
+  ],
+  "LARAS": [
+   51.834583,
+   4.697333
+  ],
+  "LEKKO": [
+   51.924167,
+   4.767333
+  ],
+  "LEVKI": [
+   52.431056,
+   4.718472
+  ],
+  "LISOH": [
+   52.291361,
+   4.736361
+  ],
+  "LOPIK": [
+   51.930833,
+   5.129167
+  ],
+  "LUNIX": [
+   52.109833,
+   5.565417
+  ],
+  "LUTEX": [
+   52.681444,
+   3.468556
+  ],
+  "MOLIX": [
+   52.822,
+   3.068667
+  ],
+  "MONIL": [
+   52.76075,
+   3.746639
+  ],
+  "NARSO": [
+   52.715306,
+   6.709556
+  ],
+  "NETOM": [
+   52.422444,
+   4.387917
+  ],
+  "NEWCO": [
+   52.135306,
+   4.763
+  ],
+  "NIDOP": [
+   52.759306,
+   4.883778
+  ],
+  "NIRSI": [
+   52.583889,
+   4.513361
+  ],
+  "NOPSU": [
+   52.586944,
+   4.950806
+  ],
+  "NORKU": [
+   52.215556,
+   6.976389
+  ],
+  "NYKER": [
+   52.230389,
+   5.528806
+  ],
+  "OGINA": [
+   52.097472,
+   5.054639
+  ],
+  "OGOSU": [
+   52.187694,
+   4.820667
+  ],
+  "OKUDO": [
+   52.214194,
+   4.807722
+  ],
+  "OLGAX": [
+   52.150278,
+   4.723444
+  ],
+  "OSKUR": [
+   52.490444,
+   6.024028
+  ],
+  "OSRON": [
+   52.206167,
+   4.522389
+  ],
+  "OTNES": [
+   52.257861,
+   4.774417
+  ],
+  "PAM": [
+   52.334722,
+   5.092222
+  ],
+  "PESER": [
+   51.614639,
+   4.526806
+  ],
+  "PEVOS": [
+   52.515889,
+   4.725972
+  ],
+  "PORWA": [
+   52.066361,
+   4.116056
+  ],
+  "REDFA": [
+   52.114583,
+   2.487944
+  ],
+  "RENDI": [
+   52.061556,
+   5.675417
+  ],
+  "RIKOR": [
+   52.378,
+   4.769278
+  ],
+  "RIVER": [
+   51.912778,
+   4.132583
+  ],
+  "RKN": [
+   52.133333,
+   6.763889
+  ],
+  "ROBIS": [
+   52.468611,
+   6.467222
+  ],
+  "ROBVI": [
+   52.571639,
+   3.776444
+  ],
+  "RONSA": [
+   51.504083,
+   4.441778
+  ],
+  "ROVEN": [
+   51.962917,
+   5.114861
+  ],
+  "SIDNI": [
+   52.486944,
+   4.754361
+  ],
+  "SONSA": [
+   52.330889,
+   6.745583
+  ],
+  "SPL": [
+   52.332222,
+   4.75
+  ],
+  "SPY": [
+   52.540278,
+   4.853889
+  ],
+  "SUGOL": [
+   52.5255,
+   3.967361
+  ],
+  "SULUT": [
+   52.447917,
+   3.421056
+  ],
+  "TIDVO": [
+   52.32675,
+   5.050806
+  ],
+  "TOPPA": [
+   53.402583,
+   3.561472
+  ],
+  "TORGA": [
+   52.598556,
+   5.203194
+  ],
+  "VALKO": [
+   52.071333,
+   3.839833
+  ],
+  "VOLLA": [
+   52.314167,
+   4.156194
+  ],
+  "WINJA": [
+   52.688167,
+   4.849139
+  ],
+  "WISPA": [
+   52.665917,
+   4.372167
+  ],
+  "WOODY": [
+   51.405667,
+   4.366472
+  ],
+  "YENZO": [
+   51.720528,
+   3.642889
+  ]
+ },
+ "source": "AIRAC AMDT 10-2026_2026_10_01"
+}

@@ -1,0 +1,264 @@
+SCORE {"landed":19,"departed":3,"goArounds":1,"separationLosses":3,"stcaSeconds":328,"runwayIncursions":1,"points":400}
+REMAINING NJE880 dep ready route alt-14 d0.3 hdg145 appfalse locfalse leg0/5
+LIFE2 dep ready route alt-14 d0.4 hdg358 appfalse locfalse leg0/1
+TRA5152 dep ready route alt-14 d0.3 hdg145 appfalse locfalse leg0/3
+TRA6350 dep ready route alt-14 d0.3 hdg145 appfalse locfalse leg0/5
+CFE8409 dep ready route alt-14 d0.3 hdg145 appfalse locfalse leg0/5
+CFE8494 arr airborne loc alt474 d1.7 hdg55 apptrue loctrue leg2/3
+TRA5214 arr airborne route alt5078 d14.5 hdg340 apptrue locfalse leg1/3
+TRA6533 arr airborne route alt10926 d30.1 hdg282 apptrue locfalse leg0/3
+---FULL
+1792411202 pilot TRA5589: Transavia 5589, holding point runway 06, ready for departure | Transavia five five eight niner, holding point runway zero six, ready for departure
+1792411202 atc TRA5589: TRA5589 wind 055 degrees 12 kt, runway 06 cleared for take-off | 
+1792411202 pilot TRA5589: Cleared for take-off 06, Transavia 5589, rolling. | Cleared for take-off zero six, Transavia five five eight niner, rolling.
+1792411203 pilot NJE650: Rotterdam Approach, good afternoon, Fraction 650, passing FL109, descending FL060, REDFA 3R arrival, information R. | Rotterdam Approach, good afternoon, Fraction six fifty, passing flight level one zero niner, descending flight level six zero, REDFA three Romeo arrival, information Romeo.
+1792411203 pilot TRA5807: Rotterdam Approach, Transavia 5807, FL060, R. | Rotterdam Approach, Transavia fifty-eight zero seven, flight level six zero, Romeo.
+1792411203 pilot TRA5571: Rotterdam Approach, good afternoon, Transavia 5571, with you descending FL070, on the INKET 2R, and we have information R. | Rotterdam Approach, good afternoon, Transavia five five seven one, with you descending flight level seven zero, on the INKET two Romeo, and we have information Romeo.
+1792411204 atc NJE650: NJE650 descend 3000 ft, QNH 1015 | 
+1792411204 pilot NJE650: Descending 3000 ft, 1015, Fraction 650. | Descending three thousand, one zero one five, Fraction six fifty.
+1792411204 atc NJE650: NJE650 cleared ILS approach runway 06 | 
+1792411204 pilot NJE650: Cleared ILS approach runway 06, Fraction 650. | Cleared I L S approach runway zero six, Fraction six fifty.
+1792411204 atc TRA5807: TRA5807 descend 3000 ft, QNH 1015 | 
+1792411204 pilot TRA5807: Transavia 5807, descending 3000 ft, 1015. | Transavia fifty-eight zero seven, descending three thousand, one zero one five.
+1792411204 atc TRA5807: TRA5807 cleared ILS approach runway 06 | 
+1792411204 pilot TRA5807: Transavia 5807, cleared the ILS. | Transavia fifty-eight zero seven, cleared the I L S.
+1792411204 atc TRA5571: TRA5571 descend 3000 ft, QNH 1015 | 
+1792411204 pilot TRA5571: Transavia 5571, down to 3000 ft, 1015. | Transavia five five seven one, down to three thousand, one zero one five.
+1792411204 atc TRA5571: TRA5571 cleared ILS approach runway 06 | 
+1792411204 pilot TRA5571: Transavia 5571, cleared the ILS. | Transavia five five seven one, cleared the I L S.
+1792411223 pilot TRA5385: Rotterdam Delivery, good morning, Transavia 5385, stand A1, information R, IFR to Bodrum, request start-up | Rotterdam Delivery, good afternoon, Transavia fifty-three eighty-five, stand Alpha one, information Romeo, IFR to Bodrum, request start-up
+1792411224 atc TRA5385: TRA5385 cleared to Bodrum, INKET 2A departure, squawk 2546, start-up approved | 
+1792411224 pilot TRA5385: Cleared Bodrum, INKET 2A departure, squawk 2546, Transavia 5385. | Cleared Bodrum, INKET two Alpha departure, squawk two five four six, Transavia fifty-three eighty-five.
+1792411245 pilot TRA5589: Rotterdam, Transavia 5589, airborne, climbing 3000 ft, INKET 2A | Rotterdam, Transavia five five eight niner, airborne, climbing three thousand, INKET 2 Alpha
+1792411300 atc TRA5589: TRA5589 climb FL070 | 
+1792411300 pilot TRA5589: Up to FL070, Transavia 5589. | Up to level seven zero, Transavia five five eight niner.
+1792411350 pilot TRA5385: Transavia 5385, holding point runway 06, ready for departure | Transavia fifty-three eighty-five, holding point runway zero six, ready for departure
+1792411350 atc TRA5385: TRA5385 wind 055 degrees 12 kt, runway 06 cleared for take-off | 
+1792411350 pilot TRA5385: Transavia 5385, cleared to go 06. | Transavia fifty-three eighty-five, cleared to go zero six.
+1792411393 pilot TRA5385: Rotterdam, Transavia 5385, airborne, climbing 3000 ft, INKET 2A | Rotterdam, Transavia fifty-three eighty-five, airborne, climbing three thousand, INKET 2 Alpha
+1792411448 atc TRA5385: TRA5385 climb FL070 | 
+1792411448 pilot TRA5385: Up to FL070, Transavia 5385. | Up to level seven zero, Transavia fifty-three eighty-five.
+1792411493 pilot TRA5807: Transavia 5807, established 06. | Transavia fifty-eight zero seven, established zero six.
+1792411503 pilot TRA5498: Rotterdam Approach, Transavia 5498, passing FL119, descending FL060, INKET 2R arrival, information R. | Rotterdam Approach, Transavia fifty-four ninety-eight, passing flight level one one niner, descending flight level six zero, INKET two Romeo arrival, information Romeo.
+1792411504 atc TRA5498: TRA5498 descend 3000 ft, QNH 1015 | 
+1792411504 pilot TRA5498: Transavia 5498, descending 3000 ft, 1015. | Transavia fifty-four ninety-eight, descending three thousand, one zero one five.
+1792411504 atc TRA5498: TRA5498 cleared ILS approach runway 06 | 
+1792411504 pilot TRA5498: Transavia 5498, ILS 06, cleared. | Transavia fifty-four ninety-eight, I L S zero six, cleared.
+1792411575 pilot TRA6243: Rotterdam Delivery, good morning, Transavia 6243, stand B3, information R, IFR to Málaga, request start-up | Rotterdam Delivery, good afternoon, Transavia sixty-two forty-three, stand Bravo three, information Romeo, IFR to Málaga, request start-up
+1792411576 atc TRA6243: TRA6243 cleared to Málaga, WOODY 2A departure, squawk 2555, start-up approved | 
+1792411576 pilot TRA6243: Cleared Málaga, WOODY 2A departure, squawk 2555, Transavia 6243. | Cleared Málaga, WOODY two Alpha departure, squawk two five five five, Transavia sixty-two forty-three.
+1792411590 atc TRA5589: TRA5589 contact Amsterdam Radar 123.855, good day | 
+1792411590 pilot TRA5589: Amsterdam Radar 123.855, Transavia 5589, see you next time. | Amsterdam Radar one two three decimal eight five five, Transavia five five eight niner, see you next time.
+1792411600 atc TRA5807: TRA5807 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792411600 pilot TRA5807: Cleared to land 06, Transavia 5807. | Cleared to land zero six, Transavia fifty-eight zero seven.
+1792411697 pilot NJE650: Fraction 650, established localizer 06. | Fraction six fifty, established localizer zero six.
+1792411709 pilot TRA6243: Transavia 6243, holding point runway 06, ready for departure | Transavia sixty-two forty-three, holding point runway zero six, ready for departure
+1792411738 atc TRA5385: TRA5385 contact Amsterdam Radar 123.855, good day | 
+1792411738 pilot TRA5385: Transavia 5385, 23.855. | Transavia fifty-three eighty-five, two three eight five five.
+1792411777 pilot TRA5807: Transavia 5807, runway vacated. | Transavia fifty-eight zero seven, runway vacated.
+1792411778 atc TRA6243: TRA6243 wind 055 degrees 12 kt, runway 06 cleared for take-off | 
+1792411778 pilot TRA6243: Runway 06, cleared for take-off, Transavia 6243. | Runway zero six, cleared for take-off, Transavia sixty-two forty-three.
+1792411804 pilot TRA6845: Rotterdam Approach, good afternoon, Transavia 6845, with you descending FL060, on the INKET 2R, and we have information R. | Rotterdam Approach, good afternoon, Transavia six eight four five, with you uh, descending flight level six zero, on the INKET two Romeo, and we have information Romeo.
+1792411804 atc TRA6845: TRA6845 descend 3000 ft, QNH 1015 | 
+1792411804 pilot TRA6845: Transavia 6845, descending 3000 ft, 1015. | Transavia six eight four five, descending three thousand, one zero one five.
+1792411804 atc TRA6845: TRA6845 cleared ILS approach runway 06 | 
+1792411804 pilot TRA6845: Transavia 6845, cleared ILS approach runway 06. | Transavia six eight four five, cleared I L S approach runway zero six.
+1792411810 atc NJE650: NJE650 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792411810 pilot NJE650: Cleared to land 06, Fraction 650. | Cleared to land zero six, Fraction six fifty.
+1792411824 pilot TRA6243: Rotterdam, Transavia 6243, airborne, climbing 3000 ft, WOODY 2A | Rotterdam, Transavia sixty-two forty-three, airborne, climbing three thousand, WOODY 2 Alpha
+1792411826 pilot TRA5571: Transavia 5571, established on the localizer 06. | Transavia five five seven one, established on the localizer zero six.
+1792411884 atc TRA6243: TRA6243 climb FL070 | 
+1792411884 pilot TRA6243: Okay, up to FL070, Transavia 6243. | Okay, up to level seven zero, Transavia sixty-two forty-three.
+1792411932 atc TRA5571: TRA5571 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792411932 pilot TRA5571: Transavia 5571, roger, cleared to land 06, thank you. | Transavia five five seven one, uh, cleared to land zero six, thank you.
+1792411961 pilot NJE880: Rotterdam Delivery, good morning, Fraction 880, stand C3, information R, IFR to Paris, request start-up | Rotterdam Delivery, good afternoon, Fraction eight eight zero, stand Charlie three, information Romeo, IFR to Paris, request start-up
+1792411962 atc NJE880: NJE880 cleared to Paris, WOODY 2A departure, squawk 2517, start-up approved | 
+1792411962 pilot NJE880: Copy, cleared to Paris, WOODY 2A departure, squawk 2517, Fraction 880. | Uh, cleared to Paris, WOODY two Alpha departure, squawk two five one seven, Fraction eight eight zero.
+1792412007 pilot NJE650: Fraction 650, runway vacated. | Fraction six fifty, runway vacated.
+1792412104 pilot TRA5263: Rotterdam Approach, good afternoon, Transavia 5263, with you descending FL060, on the HELEN 4R, and we have information R. | Rotterdam Approach, good afternoon, Transavia fifty-two sixty-three, with you uh, descending flight level six zero, on the HELEN four Romeo, and we have information Romeo.
+1792412104 atc TRA5263: TRA5263 descend 3000 ft, QNH 1015 | 
+1792412104 pilot TRA5263: Descend 3000 ft, QNH 1015, Transavia 5263. | Descend three thousand, Q N H one zero one five, Transavia fifty-two sixty-three.
+1792412104 atc TRA5263: TRA5263 cleared ILS approach runway 06 | 
+1792412104 pilot TRA5263: Cleared the ILS, Transavia 5263. | Uh, cleared the I L S, Transavia fifty-two sixty-three.
+1792412108 pilot LIFE2: Rotterdam Tower, Lifeliner 2, HEMS flight, lifting from the base, for an incident near Capelle aan den IJssel, request direct, request priority | Rotterdam Tower, Lifeliner two, hems flight, ready to lift from the base, for an incident near Capelle aan den IJssel, request direct, request priority
+1792412110 pilot TRA5571: Transavia 5571, runway vacated. | Transavia five five seven one, runway vacated.
+1792412198 pilot TRA5498: Transavia 5498, established localizer 06. | Transavia fifty-four ninety-eight, established localizer zero six.
+1792412250 atc TRA6243: TRA6243 contact Amsterdam Radar 123.855, good day | 
+1792412250 pilot TRA6243: Amsterdam Radar 123.855, Transavia 6243. | Amsterdam Radar one two three decimal eight five five, Transavia sixty-two forty-three.
+1792412304 atc TRA5498: TRA5498 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792412304 pilot TRA5498: Transavia 5498, cleared to land 06. | Transavia fifty-four ninety-eight, uh, cleared to land zero six.
+1792412320 pilot TRA5152: Rotterdam Delivery, Transavia 5152, stand B1, information R, IFR to Rhodes, request start-up | Rotterdam Delivery, Transavia fifty-one fifty-two, stand Bravo one, information Romeo, IFR to Rhodes, request start-up
+1792412320 atc TRA5152: TRA5152 cleared to Rhodes, INKET 2A departure, squawk 2551, start-up approved | 
+1792412320 pilot TRA5152: Transavia 5152, INKET 2A, squawk 2551. | Transavia fifty-one fifty-two, uh, INKET two Alpha, squawk two five five one.
+1792412377 pilot CND764: Rotterdam Approach, Dutch Corendon 764, FL060, R. | Rotterdam Approach, Dutch Corendon seven sixty-four, flight level six zero, Romeo.
+1792412378 atc CND764: CND764 descend 3000 ft, QNH 1015 | 
+1792412378 pilot CND764: Down to 3000 ft, 1015, Dutch Corendon 764. | Down to three thousand, one zero one five, Dutch Corendon seven sixty-four.
+1792412378 atc CND764: CND764 cleared ILS approach runway 06 | 
+1792412378 pilot CND764: Cleared the ILS, Dutch Corendon 764. | Cleared the I L S, Dutch Corendon seven sixty-four.
+1792412471 pilot TRA6845: Transavia 6845, established on the localizer 06. | Transavia six eight four five, established on the localizer zero six.
+1792412482 pilot TRA5498: Transavia 5498, runway vacated, cheers. | Transavia fifty-four ninety-eight, runway vacated, cheers.
+1792412578 atc TRA6845: TRA6845 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792412578 pilot TRA6845: Cleared to land 06, Transavia 6845. | Cleared to land zero six, Transavia six eight four five.
+1792412585 pilot TRA6350: Rotterdam Delivery, good morning, Transavia 6350, stand A2, information R, IFR to Tenerife, request start-up | Rotterdam Delivery, good afternoon, Transavia sixty-three fifty, stand Alpha two, information Romeo, IFR to Tenerife, request start-up
+1792412586 pilot TRA6982: Rotterdam Approach, Transavia 6982, FL060, R. | Rotterdam Approach, Transavia sixty-nine eighty-two, flight level six zero, Romeo.
+1792412586 atc TRA6350: TRA6350 cleared to Tenerife, COA 2A departure, squawk 2541, start-up approved | 
+1792412586 pilot TRA6350: Transavia 6350, COA 2A, squawk 2541, thank you. | Transavia sixty-three fifty, C O A two Alpha, squawk two five four one, thank you.
+1792412586 atc TRA6982: TRA6982 descend 3000 ft, QNH 1015 | 
+1792412586 pilot TRA6982: Down to 3000 ft, 1015, Transavia 6982. | Down to three thousand, one zero one five, Transavia sixty-nine eighty-two.
+1792412586 atc TRA6982: TRA6982 cleared ILS approach runway 06 | 
+1792412586 pilot TRA6982: Cleared ILS 06, Transavia 6982. | Cleared I L S zero six, Transavia sixty-nine eighty-two.
+1792412605 pilot TRA5263: Transavia 5263, established on the localizer 06. | Transavia fifty-two sixty-three, established on the localizer zero six.
+1792412712 atc TRA5263: TRA5263 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792412712 pilot TRA5263: 06, cleared to land, Transavia 5263. | Zero six, cleared to land, Transavia fifty-two sixty-three.
+1792412759 pilot TRA6845: Transavia 6845, runway vacated, cheers. | Transavia six eight four five, runway vacated, cheers.
+1792412767 pilot NJE878: Rotterdam Approach, Fraction 878, FL060, R. | Rotterdam Approach, Fraction eight seven eight, flight level six zero, Romeo.
+1792412768 atc NJE878: NJE878 descend 3000 ft, QNH 1015 | 
+1792412768 pilot NJE878: Descending 3000 ft, 1015, Fraction 878. | Descending three thousand, one zero one five, Fraction eight seven eight.
+1792412768 atc NJE878: NJE878 cleared ILS approach runway 06 | 
+1792412768 pilot NJE878: Cleared the ILS, Fraction 878. | Cleared the I L S, Fraction eight seven eight.
+1792412893 pilot TRA5263: Transavia 5263, runway vacated, thanks, see you next time. | Transavia fifty-two sixty-three, runway vacated, thanks, see you next time.
+1792412942 system : SEPARATION LOST CND764 / TRA6982 — 2.9 NM, 531 ft (−50) | 
+1792412957 pilot CFE8409: Rotterdam Delivery, Flyer 8409, stand B3, information R, IFR to London, request start-up | Rotterdam Delivery, Flyer eighty-four zero niner, stand Bravo three, information Romeo, IFR to London, request start-up
+1792412958 atc CFE8409: CFE8409 cleared to London, SOMEL 2A departure, squawk 2507, start-up approved | 
+1792412958 pilot CFE8409: Cleared to London, SOMEL 2A departure, squawk 2507, Flyer 8409. | Uh, cleared to London, SOMEL two Alpha departure, squawk two five zero seven, Flyer eighty-four zero niner.
+1792413047 pilot CND764: Dutch Corendon 764, established 06. | Dutch Corendon seven sixty-four, established zero six.
+1792413067 pilot TRA6265: Rotterdam Approach, good afternoon, Transavia 6265, passing FL109, descending FL060, INKET 2R arrival, information R. | Rotterdam Approach, good afternoon, Transavia six two six five, passing flight level one zero niner, descending flight level six zero, INKET two Romeo arrival, information Romeo.
+1792413068 atc TRA6265: TRA6265 descend 3000 ft, QNH 1015 | 
+1792413068 pilot TRA6265: Descend altitude 3000 ft, QNH 1015, Transavia 6265. | Descend altitude three thousand, Q N H one zero one five, Transavia six two six five.
+1792413068 atc TRA6265: TRA6265 cleared ILS approach runway 06 | 
+1792413068 pilot TRA6265: Copy, cleared ILS 06, Transavia 6265. | Uh, cleared I L S zero six, Transavia six two six five.
+1792413070 pilot TRA6982: Transavia 6982, established 06. | Transavia sixty-nine eighty-two, established zero six.
+1792413154 atc CND764: CND764 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792413154 pilot CND764: 06, cleared to land, Dutch Corendon 764. | Zero six, cleared to land, Dutch Corendon seven sixty-four.
+1792413176 atc TRA6982: TRA6982 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792413176 pilot TRA6982: Cleared to land, Transavia 6982. | Cleared to land, Transavia sixty-nine eighty-two.
+1792413330 pilot TRA6982: Transavia 6982, going around. | Transavia sixty-nine eighty-two, going around.
+1792413330 system TRA6982: TRA6982 go-around: runway occupied: CND764 still rolling out (−15) | 
+1792413331 pilot CND764: Dutch Corendon 764, runway vacated. | Dutch Corendon seven sixty-four, runway vacated.
+1792413340 pilot TRA5319: Rotterdam Approach, good afternoon, Transavia 5319, with you descending FL060, on the INKET 2R, and we have information R. | Rotterdam Approach, good afternoon, Transavia fifty-three nineteen, with you descending flight level six zero, on the INKET two Romeo, and we have information Romeo.
+1792413340 atc TRA5319: TRA5319 descend 3000 ft, QNH 1015 | 
+1792413340 pilot TRA5319: Transavia 5319, down to 3000 ft, 1015. | Transavia fifty-three nineteen, down to three thousand, one zero one five.
+1792413340 atc TRA5319: TRA5319 cleared ILS approach runway 06 | 
+1792413340 pilot TRA5319: Transavia 5319, cleared ILS approach runway 06. | Transavia fifty-three nineteen, cleared I L S approach runway zero six.
+1792413416 pilot NJE878: Fraction 878, established 06. | Fraction eight seven eight, established zero six.
+1792413522 atc NJE878: NJE878 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792413522 pilot NJE878: 06, cleared to land, Fraction 878. | Zero six, cleared to land, Fraction eight seven eight.
+1792413529 pilot TRA6641: Rotterdam Approach, good afternoon, Transavia 6641, with you descending FL060, on the HELEN 4R, and we have information R. | Rotterdam Approach, good afternoon, Transavia six six four one, with you uh, descending flight level six zero, on the HELEN four Romeo, and we have information Romeo.
+1792413530 atc TRA6641: TRA6641 descend 3000 ft, QNH 1015 | 
+1792413530 pilot TRA6641: Transavia 6641, down to 3000 ft, 1015. | Transavia six six four one, down to three thousand, one zero one five.
+1792413530 atc TRA6641: TRA6641 cleared ILS approach runway 06 | 
+1792413530 pilot TRA6641: Transavia 6641, ILS 06, cleared. | Transavia six six four one, uh, I L S zero six, cleared.
+1792413724 pilot NJE878: Fraction 878, runway vacated. | Fraction eight seven eight, runway vacated.
+1792413777 pilot TRA6265: Transavia 6265, established localizer 06. | Transavia six two six five, established localizer zero six.
+1792413819 pilot TRA6982: Transavia 6982, entering the hold at DOFMU, 2000 ft. | Transavia sixty-nine eighty-two, entering the hold at DOFMU, two thousand.
+1792413829 pilot TRA6524: Rotterdam Approach, good afternoon, Transavia 6524, with you descending FL060, on the INKET 2R, and we have information R. | Rotterdam Approach, good afternoon, Transavia sixty-five twenty-four, with you descending flight level six zero, on the INKET two Romeo, and we have information Romeo.
+1792413830 atc TRA6524: TRA6524 descend 3000 ft, QNH 1015 | 
+1792413830 pilot TRA6524: Transavia 6524, descending 3000 ft, 1015. | Transavia sixty-five twenty-four, descending three thousand, one zero one five.
+1792413830 atc TRA6524: TRA6524 cleared ILS approach runway 06 | 
+1792413830 pilot TRA6524: Transavia 6524, cleared ILS approach runway 06. | Transavia sixty-five twenty-four, cleared I L S approach runway zero six.
+1792413882 atc TRA6265: TRA6265 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792413882 pilot TRA6265: Cleared to land 06, Transavia 6265. | Uh, cleared to land zero six, Transavia six two six five.
+1792413902 system : SEPARATION LOST TRA5319 / TRA6641 — 3.0 NM, 708 ft (−50) | 
+1792414002 pilot TRA5319: Transavia 5319, established on the localizer 06. | Transavia fifty-three nineteen, established on the localizer zero six.
+1792414035 pilot TRA6641: Transavia 6641, established on the localizer 06. | Transavia six six four one, established on the localizer zero six.
+1792414059 pilot TRA6742: Rotterdam Approach, good afternoon, Transavia 6742, passing FL109, descending FL060, INKET 2R arrival, information R. | Rotterdam Approach, good afternoon, Transavia six seven four two, passing flight level one zero niner, descending flight level six zero, INKET two Romeo arrival, information Romeo.
+1792414060 atc TRA6742: TRA6742 descend 3000 ft, QNH 1015 | 
+1792414060 pilot TRA6742: Descend altitude 3000 ft, QNH 1015, Transavia 6742. | Descend altitude three thousand, Q N H one zero one five, Transavia six seven four two.
+1792414060 atc TRA6742: TRA6742 cleared ILS approach runway 06 | 
+1792414060 pilot TRA6742: Cleared ILS 06, Transavia 6742. | Cleared I L S zero six, Transavia six seven four two.
+1792414063 pilot TRA6265: Transavia 6265, runway vacated, appreciate it. | Transavia six two six five, runway vacated, appreciate it.
+1792414108 atc TRA5319: TRA5319 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792414108 pilot TRA5319: Transavia 5319, cleared to land 06. | Transavia fifty-three nineteen, cleared to land zero six.
+1792414142 atc TRA6641: TRA6641 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792414142 pilot TRA6641: 06, cleared to land, Transavia 6641. | Zero six, cleared to land, Transavia six six four one.
+1792414288 pilot TRA5319: Transavia 5319, runway vacated, thanks for the help. | Transavia fifty-three nineteen, runway vacated, thanks for the help.
+1792414319 pilot TRA6641: Transavia 6641, runway vacated. | Transavia six six four one, runway vacated.
+1792414324 pilot NJE677: Rotterdam Approach, Fraction 677, FL060, R. | Rotterdam Approach, Fraction six seventy-seven, flight level six zero, Romeo.
+1792414324 atc NJE677: NJE677 descend 3000 ft, QNH 1015 | 
+1792414324 pilot NJE677: Down to 3000 ft, 1015, Fraction 677. | Down to three thousand, one zero one five, Fraction six seventy-seven.
+1792414324 atc NJE677: NJE677 cleared ILS approach runway 06 | 
+1792414324 pilot NJE677: ILS 06, cleared, Fraction 677. | I L S zero six, cleared, Fraction six seventy-seven.
+1792414523 pilot TRA6524: Transavia 6524, established on the localizer 06. | Transavia sixty-five twenty-four, established on the localizer zero six.
+1792414625 pilot CFE8429: Rotterdam Approach, good afternoon, Flyer 8429, with you descending FL060, on the REDFA 3R, and we have information R. | Rotterdam Approach, good afternoon, Flyer eighty-four twenty-nine, with you descending flight level six zero, on the REDFA three Romeo, and we have information Romeo.
+1792414626 atc CFE8429: CFE8429 descend 3000 ft, QNH 1015 | 
+1792414626 pilot CFE8429: Descending 3000 ft, 1015, Flyer 8429. | Descending three thousand, one zero one five, Flyer eighty-four twenty-nine.
+1792414626 atc CFE8429: CFE8429 cleared ILS approach runway 06 | 
+1792414626 pilot CFE8429: ILS 06, cleared, Flyer 8429. | I L S zero six, cleared, Flyer eighty-four twenty-nine.
+1792414628 atc TRA6524: TRA6524 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792414628 pilot TRA6524: Cleared to land, Transavia 6524. | Cleared to land, Transavia sixty-five twenty-four.
+1792414642 system : SEPARATION LOST TRA6742 / NJE677 — 2.9 NM, 442 ft (−50) | 
+1792414750 pilot TRA6742: Transavia 6742, established localizer 06. | Transavia six seven four two, established localizer zero six.
+1792414767 pilot NJE677: Fraction 677, established 06. | Fraction six seventy-seven, established zero six.
+1792414807 pilot TRA6524: Transavia 6524, runway vacated. | Transavia sixty-five twenty-four, runway vacated.
+1792414822 pilot TRA5759: Rotterdam Approach, Transavia 5759, passing FL099, descending FL060, INKET 2R arrival, information R. | Rotterdam Approach, Transavia fifty-seven fifty-nine, passing flight level niner niner, descending flight level six zero, INKET two Romeo arrival, information Romeo.
+1792414822 atc TRA5759: TRA5759 descend 3000 ft, QNH 1015 | 
+1792414822 pilot TRA5759: Descending 3000 ft, 1015, Transavia 5759. | Uh, descending three thousand, one zero one five, Transavia fifty-seven fifty-nine.
+1792414822 atc TRA5759: TRA5759 cleared ILS approach runway 06 | 
+1792414822 pilot TRA5759: Cleared ILS approach runway 06, Transavia 5759. | Cleared I L S approach runway zero six, Transavia fifty-seven fifty-nine.
+1792414856 atc TRA6742: TRA6742 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792414856 pilot TRA6742: Cleared to land 06, Transavia 6742. | Cleared to land zero six, Transavia six seven four two.
+1792414874 atc NJE677: NJE677 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792414874 pilot NJE677: Cleared to land, Fraction 677. | Cleared to land, Fraction six seventy-seven.
+1792415022 pilot TRA5782: Rotterdam Approach, Transavia 5782, FL060, R. | Rotterdam Approach, Transavia five seven eight two, flight level six zero, Romeo.
+1792415022 atc TRA5782: TRA5782 descend 3000 ft, QNH 1015 | 
+1792415022 pilot TRA5782: Down to 3000 ft, 1015, Transavia 5782. | Down to three thousand, one zero one five, Transavia five seven eight two.
+1792415022 atc TRA5782: TRA5782 cleared ILS approach runway 06 | 
+1792415022 pilot TRA5782: Transavia 5782, ILS 06, cleared. | Transavia five seven eight two, I L S zero six, cleared.
+1792415034 pilot TRA6742: Transavia 6742, runway vacated. | Transavia six seven four two, runway vacated.
+1792415067 pilot CFE8429: Flyer 8429, established on the localizer 06. | Flyer eighty-four twenty-nine, established on the localizer zero six.
+1792415071 pilot NJE677: Fraction 677, runway vacated. | Fraction six seventy-seven, runway vacated.
+1792415180 atc CFE8429: CFE8429 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792415180 pilot CFE8429: Flyer 8429, cleared to land. | Flyer eighty-four twenty-nine, cleared to land.
+1792415295 pilot TRA6081: Rotterdam Approach, good afternoon, Transavia 6081, with you descending FL060, on the HELEN 4R, and we have information R. | Rotterdam Approach, good afternoon, Transavia six zero eight one, with you descending flight level six zero, on the HELEN four Romeo, and we have information Romeo.
+1792415296 atc TRA6081: TRA6081 descend 3000 ft, QNH 1015 | 
+1792415296 pilot TRA6081: Descending 3000 ft, 1015, Transavia 6081. | Descending three thousand, one zero one five, Transavia six zero eight one.
+1792415296 atc TRA6081: TRA6081 cleared ILS approach runway 06 | 
+1792415296 pilot TRA6081: Transavia 6081, cleared ILS 06, we'll call you established. | Transavia six zero eight one, cleared I L S zero six, we'll call you established.
+1792415366 pilot CFE8429: Flyer 8429, runway vacated, appreciate it. | Flyer eighty-four twenty-nine, runway vacated, appreciate it.
+1792415482 pilot TRA5759: Transavia 5759, established localizer 06. | Transavia fifty-seven fifty-nine, established localizer zero six.
+1792415545 pilot TRA5782: Transavia 5782, established 06. | Transavia five seven eight two, established zero six.
+1792415588 atc TRA5759: TRA5759 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792415588 pilot TRA5759: Cleared to land 06, Transavia 5759. | Cleared to land zero six, Transavia fifty-seven fifty-nine.
+1792415595 pilot TRA5038: Rotterdam Approach, good afternoon, Transavia 5038, with you descending FL060, on the HELEN 4R, and we have information R. | Rotterdam Approach, good afternoon, Transavia five zero three eight, with you descending flight level six zero, on the HELEN four Romeo, and we have information Romeo.
+1792415596 atc TRA5038: TRA5038 descend 3000 ft, QNH 1015 | 
+1792415596 pilot TRA5038: Descend altitude 3000 ft, QNH 1015, Transavia 5038. | Uh, descend altitude three thousand, Q N H one zero one five, Transavia five zero three eight.
+1792415596 atc TRA5038: TRA5038 cleared ILS approach runway 06 | 
+1792415596 pilot TRA5038: Cleared the ILS, Transavia 5038. | Uh, cleared the I L S, Transavia five zero three eight.
+1792415652 atc TRA5782: TRA5782 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792415652 pilot TRA5782: Cleared to land 06, Transavia 5782. | Cleared to land zero six, Transavia five seven eight two.
+1792415750 pilot TRA6081: Transavia 6081, established on the localizer 06. | Transavia six zero eight one, established on the localizer zero six.
+1792415766 pilot TRA5759: Transavia 5759, runway vacated. | Transavia fifty-seven fifty-nine, runway vacated.
+1792415832 pilot TRA5782: Transavia 5782, runway vacated. | Transavia five seven eight two, runway vacated.
+1792415856 atc TRA6081: TRA6081 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792415856 pilot TRA6081: Transavia 6081, 06, cleared to land. | Transavia six zero eight one, zero six, cleared to land.
+1792415872 pilot CFE8494: Rotterdam Approach, Flyer 8494, passing FL119, descending FL060, REDFA 3R arrival, information R. | Rotterdam Approach, Flyer eighty-four ninety-four, passing flight level one one niner, descending flight level six zero, REDFA three Romeo arrival, information Romeo.
+1792415872 atc CFE8494: CFE8494 descend 3000 ft, QNH 1015 | 
+1792415872 pilot CFE8494: Descend altitude 3000 ft, QNH 1015, Flyer 8494. | Descend altitude three thousand, Q N H one zero one five, Flyer eighty-four ninety-four.
+1792415872 atc CFE8494: CFE8494 cleared ILS approach runway 06 | 
+1792415872 pilot CFE8494: Cleared ILS 06, Flyer 8494. | Cleared I L S zero six, Flyer eighty-four ninety-four.
+1792416037 pilot TRA6081: Transavia 6081, runway vacated. | Transavia six zero eight one, runway vacated.
+1792416059 pilot TRA5038: Transavia 5038, established on the localizer 06. | Transavia five zero three eight, established on the localizer zero six.
+1792416166 atc TRA5038: TRA5038 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792416166 pilot TRA5038: Cleared to land 06, Transavia 5038, thank you. | Uh, cleared to land zero six, Transavia five zero three eight, thank you.
+1792416172 pilot TRA5214: Rotterdam Approach, Transavia 5214, passing FL119, descending FL060, HELEN 4R arrival, information R. | Rotterdam Approach, Transavia fifty-two fourteen, passing flight level one one niner, descending flight level six zero, HELEN four Romeo arrival, information Romeo.
+1792416172 atc TRA5214: TRA5214 descend 3000 ft, QNH 1015 | 
+1792416172 pilot TRA5214: Transavia 5214, down to 3000 ft, 1015. | Transavia fifty-two fourteen, down to three thousand, one zero one five.
+1792416172 atc TRA5214: TRA5214 cleared ILS approach runway 06 | 
+1792416172 pilot TRA5214: ILS 06, cleared, Transavia 5214. | I L S zero six, cleared, Transavia fifty-two fourteen.
+1792416347 pilot TRA5038: Transavia 5038, runway vacated. | Transavia five zero three eight, runway vacated.
+1792416366 pilot CFE8494: Flyer 8494, established localizer 06. | Flyer eighty-four ninety-four, established localizer zero six.
+1792416442 pilot TRA6533: Rotterdam Approach, Transavia 6533, passing FL109, descending FL060, INKET 2R arrival, information R. | Rotterdam Approach, Transavia sixty-five thirty-three, passing flight level one zero niner, descending flight level six zero, INKET two Romeo arrival, information Romeo.
+1792416442 atc TRA6533: TRA6533 descend 3000 ft, QNH 1015 | 
+1792416442 pilot TRA6533: Down to 3000 ft, 1015, Transavia 6533. | Uh, down to three thousand, one zero one five, Transavia sixty-five thirty-three.
+1792416442 atc TRA6533: TRA6533 cleared ILS approach runway 06 | 
+1792416442 pilot TRA6533: Transavia 6533, okay, cleared ILS 06. | Transavia sixty-five thirty-three, okay, cleared I L S zero six.
+1792416478 atc CFE8494: CFE8494 wind 055 degrees 12 kt, runway 06 cleared to land | 
+1792416478 pilot CFE8494: Cleared to land 06, Flyer 8494. | Cleared to land zero six, Flyer eighty-four ninety-four.
+NJE880 ready -0.285 -0.166 -14
+LIFE2 ready 0.171 -0.347 -14
+TRA5152 ready -0.285 -0.166 -14
+TRA6350 ready -0.285 -0.166 -14
+CFE8409 ready -0.285 -0.166 -14
+CFE8494 airborne -1.397 -0.980 474
+TRA5214 airborne -7.594 -12.324 5078
+TRA6533 airborne 22.956 -19.522 10926
